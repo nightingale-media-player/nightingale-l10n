@@ -85,7 +85,7 @@
 <!ENTITY menu.tools.exportmedia "Export Library Changes">
 
 <!ENTITY menu.help          "Help" >
-<!ENTITY menu.help.homepage "Songbird Website" >
+<!ENTITY menu.help.homepage "&brandShortName; Website" >
 <!ENTITY menu.help.bugz     "Report a Bug" >
 <!ENTITY menu.help.topics   "Help Topics" >
 <!ENTITY menu.help.keyboard "Keyboard Shortcuts">
@@ -851,6 +851,6 @@
 <!ENTITY playqueue.inprogress "Adding tracks">
 
 <!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from Songbird as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
 <!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >
 
