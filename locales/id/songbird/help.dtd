@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Shortcut Papan Ketik &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Shortcut Papan Ketik" >
+<!ENTITY help.keyboard.description        "Shortcut papan ketik dapat mempermudah menjalankan &brandShortName;. Daftar berikut berisi daftar perintah yang tersedia beserta shortcutnya masing-masing.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Command" >
+<!ENTITY help.keyboard.heading.shortcut   "Shortcut" >
+<!ENTITY help.keyboard.section.playback   "Kendali Lagu" >
+<!ENTITY help.keyboard.section.library    "Pustaka dan Senarai Putar" >
+<!ENTITY help.keyboard.section.editing    "Pengeditan" >
+<!ENTITY help.keyboard.section.navigation "Navigasi" >
+<!ENTITY help.keyboard.section.browser    "Peramban" >
+<!ENTITY help.keyboard.section.windows    "Jendela dan Tab" >
+<!ENTITY help.keyboard.section.search     "Cari" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Lainnya" >
+
+<!ENTITY help.keyboard.key.left           "Panah Kiri" >
+<!ENTITY help.keyboard.key.right          "Panah Kanan" >
+<!ENTITY help.keyboard.key.up             "Panah Atas" >
+<!ENTITY help.keyboard.key.down           "Panah Bawah" >
+<!ENTITY help.keyboard.key.pgup           "Panah Atas" >
+<!ENTITY help.keyboard.key.pgdn           "Panah Bawah" >
+<!ENTITY help.keyboard.key.home           "Griya" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Klik" >
+<!ENTITY help.keyboard.mouse.click.middle "Klik-Tengah" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Putar/Jeda Item Media Terpilih" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Putar Item Media Sebelumnya dalam Daftar" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Putar Item Media Berikutnya dalam Daftar" >
+<!ENTITY help.keyboard.name.volume.down         "Perkecil Volume" >
+<!ENTITY help.keyboard.name.volume.up           "Perbesar Volume" >
+<!ENTITY help.keyboard.name.volume.mute         "Senyap" >
+<!ENTITY help.keyboard.name.volume.max          "Volume Maks" >
+<!ENTITY help.keyboard.name.jumpto              "Pindah ke Jendela" >
+<!ENTITY help.keyboard.name.equalizer           "Buka Equalizer" >
+<!ENTITY help.keyboard.name.new.playlist        "Senarai Putar Baru" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Senarai Putar Pintar Baru" >
+<!ENTITY help.keyboard.name.import              "Impor Media" >
+<!ENTITY help.keyboard.name.currenttrack        "Tunjukkan Item Media yang Sedang Diputar" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Pindah ke Tampilan Media" >
+<!ENTITY help.keyboard.name.feather.switch      "Ganti Tata Letak Feather" >
+<!ENTITY help.keyboard.name.trackeditor         "Editor Info" >
+<!ENTITY help.keyboard.name.edit.undo           "Batal" >
+<!ENTITY help.keyboard.name.edit.redo           "Ulangi" >
+<!ENTITY help.keyboard.name.edit.selectall      "Pilih Semua" >
+<!ENTITY help.keyboard.name.edit.cut            "Potong" >
+<!ENTITY help.keyboard.name.edit.copy           "Salin" >
+<!ENTITY help.keyboard.name.edit.paste          "Tempel" >
+<!ENTITY help.keyboard.name.edit.delete         "Hapus" >
+<!ENTITY help.keyboard.name.browser.back        "Mundur" >
+<!ENTITY help.keyboard.name.browser.forward     "Maju" >
+<!ENTITY help.keyboard.name.browser.reload      "Muat Ulang" >
+<!ENTITY help.keyboard.name.browser.stop        "Berhenti Memuat" >
+<!ENTITY help.keyboard.name.open.file           "Buka Berkas" >
+<!ENTITY help.keyboard.name.open.url            "Buka Alamat URL" >
+<!ENTITY help.keyboard.name.tab.open.link       "Buka Tautan di Tab Baru" >
+<!ENTITY help.keyboard.name.save.link           "Simpan Tautan" >
+<!ENTITY help.keyboard.name.file.print          "Cetak" >
+<!ENTITY help.keyboard.name.view.source         "Tampilkan Kode Sumber" >
+<!ENTITY help.keyboard.name.view.zoomin         "Perbesar" >
+<!ENTITY help.keyboard.name.view.zoomout        "Perkecil" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Normal" >
+<!ENTITY help.keyboard.name.subscribe           "Berlangganan" >
+<!ENTITY help.keyboard.name.locationbar         "Fokus ke Bar Lokasi" >
+<!ENTITY help.keyboard.name.tab.new             "Tab Baru" >
+<!ENTITY help.keyboard.name.tab.close           "Tutup Tab" >
+<!ENTITY help.keyboard.name.tab.next            "Tab Selanjutnya" >
+<!ENTITY help.keyboard.name.tab.previous        "Tab Sebelumnya" >
+<!ENTITY help.keyboard.name.tab.1               "Pindah ke Tab 1" >
+<!ENTITY help.keyboard.name.tab.2               "Pindah ke Tab 2" >
+<!ENTITY help.keyboard.name.tab.3               "Pindah ke Tab 3" >
+<!ENTITY help.keyboard.name.tab.4               "Pindah ke Tab 4" >
+<!ENTITY help.keyboard.name.tab.5               "Pindah ke Tab 5" >
+<!ENTITY help.keyboard.name.tab.6               "Pindah ke Tab 6" >
+<!ENTITY help.keyboard.name.tab.7               "Pindah ke Tab 7" >
+<!ENTITY help.keyboard.name.tab.8               "Pindah ke Tab 8" >
+<!ENTITY help.keyboard.name.tab.9               "Pindah ke Tab 9" >
+<!ENTITY help.keyboard.name.page.top            "Pindahkan ke Bagian Atas Halaman" >
+<!ENTITY help.keyboard.name.page.bottom         "Pindahkan ke Bagian Bawah Halaman" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Layar Penuh" >
+<!ENTITY help.keyboard.name.mac.minimize        "Perkecil ke Dock" >
+<!ENTITY help.keyboard.name.mac.hide            "Sembunyikan Jendela" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Sembunyikan Aplikasi Lain" >
+<!ENTITY help.keyboard.name.downloads           "Unduhan" >
+<!ENTITY help.keyboard.name.find                "Cari" >
+<!ENTITY help.keyboard.name.find.again          "Cari Lagi" >
+<!ENTITY help.keyboard.name.find.text           "Cari Teks Saat Mengetik" >
+<!ENTITY help.keyboard.name.find.link           "Cari Taut Saat Mengetik" >
+<!ENTITY help.keyboard.name.search.focus        "Fokus ke Kotak Cari" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Layar Penuh" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video di atas" >
+<!ENTITY help.keyboard.name.video.escape        "Lepas dari Layar Penuh" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Berhenti Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Keluarkan CD" >
+<!ENTITY help.keyboard.name.quit                "Keluar" >
+<!ENTITY help.keyboard.name.preferences         "Pengaturan" >
+<!ENTITY help.keyboard.name.help                "Daftar Isi Bantuan" >
+<!ENTITY help.keyboard.name.sanitize            "Bersihkan Data Pribadi" >

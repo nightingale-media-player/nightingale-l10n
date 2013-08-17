@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName; Klavye Kısayolları" >
+<!ENTITY help.keyboard.subtitle           "Klavye Kısayolları" >
+<!ENTITY help.keyboard.description        "Klavye kısayolları &brandShortName;&apos;deki işlemleri daha kolay hale getirir. Aşağıda komutları kısayollarıyla görebilirsiniz.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Komut" >
+<!ENTITY help.keyboard.heading.shortcut   "Kısayol" >
+<!ENTITY help.keyboard.section.playback   "Yürütme Denetimleri" >
+<!ENTITY help.keyboard.section.library    "Kütüphane ve Çalma Listeleri" >
+<!ENTITY help.keyboard.section.editing    "Düzenleme" >
+<!ENTITY help.keyboard.section.navigation "Dolaşma" >
+<!ENTITY help.keyboard.section.browser    "Tarayıcı" >
+<!ENTITY help.keyboard.section.windows    "Pencereler ve Sekmeler" >
+<!ENTITY help.keyboard.section.search     "Ara" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD Kaydet" >
+<!ENTITY help.keyboard.section.misc       "Çeşitli" >
+
+<!ENTITY help.keyboard.key.left           "Sol Ok" >
+<!ENTITY help.keyboard.key.right          "Sağ Ok" >
+<!ENTITY help.keyboard.key.up             "Yukarı Ok" >
+<!ENTITY help.keyboard.key.down           "Aşağı Ok" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Sol Tık" >
+<!ENTITY help.keyboard.mouse.click.middle "Orta Tık" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Seçili Ortam Öğesini Çal/Duraklat" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Bir Listedeki Önceki Ortam Öğesini Çal" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Bir Listedeki Sonraki Ortam Öğesini Çal" >
+<!ENTITY help.keyboard.name.volume.down         "Sesi Azalt" >
+<!ENTITY help.keyboard.name.volume.up           "Sesi Artır" >
+<!ENTITY help.keyboard.name.volume.mute         "Sesi Kapat" >
+<!ENTITY help.keyboard.name.volume.max          "En Yüksek Ses" >
+<!ENTITY help.keyboard.name.jumpto              "Pencereye Atla" >
+<!ENTITY help.keyboard.name.equalizer           "Ekolayzırı Aç" >
+<!ENTITY help.keyboard.name.new.playlist        "Yeni Çalma Listesi" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Yeni Akıllı Çalma Listesi" >
+<!ENTITY help.keyboard.name.import              "Ortamı İçe Aktar" >
+<!ENTITY help.keyboard.name.currenttrack        "Şu Anda Çalan Ortam Öğesini Bul" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Ortam Görünümünü Değiştir" >
+<!ENTITY help.keyboard.name.feather.switch      "Dış Görünüm Düzenlemesini Değiştir" >
+<!ENTITY help.keyboard.name.trackeditor         "Meta Bilgisi Düzenleyici" >
+<!ENTITY help.keyboard.name.edit.undo           "Geri Al" >
+<!ENTITY help.keyboard.name.edit.redo           "Yeniden Yap" >
+<!ENTITY help.keyboard.name.edit.selectall      "Tümünü Seç" >
+<!ENTITY help.keyboard.name.edit.cut            "Kes" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopyala" >
+<!ENTITY help.keyboard.name.edit.paste          "Yapıştır" >
+<!ENTITY help.keyboard.name.edit.delete         "Sil" >
+<!ENTITY help.keyboard.name.browser.back        "Geri" >
+<!ENTITY help.keyboard.name.browser.forward     "İleri" >
+<!ENTITY help.keyboard.name.browser.reload      "Yeniden Yükle" >
+<!ENTITY help.keyboard.name.browser.stop        "Yüklemeyi Durdur" >
+<!ENTITY help.keyboard.name.open.file           "Dosya Aç" >
+<!ENTITY help.keyboard.name.open.url            "URL Konumu Aç" >
+<!ENTITY help.keyboard.name.tab.open.link       "Bağlantıyı yeni sekmede aç" >
+<!ENTITY help.keyboard.name.save.link           "Bağlantıyı Kaydet" >
+<!ENTITY help.keyboard.name.file.print          "Yazdır" >
+<!ENTITY help.keyboard.name.view.source         "Kaynağı Göster" >
+<!ENTITY help.keyboard.name.view.zoomin         "Yakınlaştır" >
+<!ENTITY help.keyboard.name.view.zoomout        "Uzaklaştır" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Büyütmeyi Sıfırla" >
+<!ENTITY help.keyboard.name.subscribe           "Abone Ol" >
+<!ENTITY help.keyboard.name.locationbar         "Konum Çubuğuna Odaklan" >
+<!ENTITY help.keyboard.name.tab.new             "Yeni Sekme" >
+<!ENTITY help.keyboard.name.tab.close           "Sekmeyi Kapat" >
+<!ENTITY help.keyboard.name.tab.next            "Sonraki Sekme" >
+<!ENTITY help.keyboard.name.tab.previous        "Önceki Sekme" >
+<!ENTITY help.keyboard.name.tab.1               "Sekme 1&apos;e Geç" >
+<!ENTITY help.keyboard.name.tab.2               "Sekme 2&apos;ye Geç" >
+<!ENTITY help.keyboard.name.tab.3               "Sekme 3&apos;e Geç" >
+<!ENTITY help.keyboard.name.tab.4               "Sekme 4&apos;e Geç" >
+<!ENTITY help.keyboard.name.tab.5               "Sekme 5&apos;e Geç" >
+<!ENTITY help.keyboard.name.tab.6               "Sekme 6&apos;ya Geç" >
+<!ENTITY help.keyboard.name.tab.7               "Sekme 7&apos;ye Geç" >
+<!ENTITY help.keyboard.name.tab.8               "Sekme 8&apos;e Geç" >
+<!ENTITY help.keyboard.name.tab.9               "Son Sekmeye Geç" >
+<!ENTITY help.keyboard.name.page.top            "Sayfanın Üstüne Git" >
+<!ENTITY help.keyboard.name.page.bottom         "Sayfanın Altına Git" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Tam Ekran" >
+<!ENTITY help.keyboard.name.mac.minimize        "Simge Durumuna Küçült" >
+<!ENTITY help.keyboard.name.mac.hide            "Pencereyi Gizle" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Diğer Uygulamaları Gizle" >
+<!ENTITY help.keyboard.name.downloads           "İndirilenler" >
+<!ENTITY help.keyboard.name.find                "Bul" >
+<!ENTITY help.keyboard.name.find.again          "Tekrar Bul" >
+<!ENTITY help.keyboard.name.find.text           "Metni Yazdıkça Bul" >
+<!ENTITY help.keyboard.name.find.link           "Bağlantıyı Yazdıkça Bul" >
+<!ENTITY help.keyboard.name.search.focus        "Arama Kutusuna Odaklan" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Tam Ekran" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video En Başta" >
+<!ENTITY help.keyboard.name.video.escape        "Tam Ekrandan Çıkış" >
+<!ENTITY help.keyboard.name.cdrip.start         "CD Kayıt" >
+<!ENTITY help.keyboard.name.cdrip.stop          "CD Kaydını Durdur" >
+<!ENTITY help.keyboard.name.cdrip.eject         "CD Çıkart" >
+<!ENTITY help.keyboard.name.quit                "Çık" >
+<!ENTITY help.keyboard.name.preferences         "Tercihler" >
+<!ENTITY help.keyboard.name.help                "Yardım Konuları" >
+<!ENTITY help.keyboard.name.sanitize            "Kişisel Veriyi Sil" >

@@ -1,0 +1,221 @@
+<!ENTITY window.ok "OK">
+<!ENTITY window.cancel "Ikkanċella">
+<!ENTITY window.save "Save">
+<!ENTITY window.yes "Iva">
+<!ENTITY window.no "Le">
+<!ENTITY menu.mac.exit "Oħrog minn &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services "Servizzi">
+<!ENTITY menu.mac.hide "Aħbi &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Aħbi ohrajn">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel, alt">
+<!ENTITY menu.mac.showall "Uri kollox">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "File">
+<!ENTITY menu.file.new "Playlist Ġdida…">
+<!ENTITY menu.file.smart "Playlist Dinamika Ġdida…">
+<!ENTITY menu.file.open "Iftaħ file…">
+<!ENTITY menu.file.playlist "Daħħal playlist…">
+<!ENTITY menu.file.library "Daħħal kollezzjoni">
+<!ENTITY menu.file.newtab "Tab ġdida">
+<!ENTITY menu.file.closetab "Għalaq it-Tab">
+<!ENTITY menu.file.exit "Oħrog">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.control.play "Ibda">
+<!ENTITY menu.control.pause "Issospendi">
+<!ENTITY menu.control.next "Track li jmiss">
+<!ENTITY menu.control.prev "Track ta&apos; qabel">
+<!ENTITY menu.control.shuf "Hawwad">
+<!ENTITY menu.control.repa "Irrepeti Kollox">
+<!ENTITY menu.control.rep1 "Irrepeti l-istess">
+<!ENTITY menu.control.repx "Tirrepetix">
+<!ENTITY menu.control.jumpto "Aqbeż għal…">
+<!ENTITY menu.control.play.button "Ibda">
+<!ENTITY menu.control.pause.button "Issospendi">
+<!ENTITY menu.control.stop.button "Waqqaf">
+<!ENTITY displaypane.name.servicepane "Panell tas-servizzi ta&apos; isfel">
+<!ENTITY displaypane.name.browser "Panell tal-kontenut ta&apos; isfel">
+<!ENTITY menu.tools "Għodda">
+<!ENTITY menu.help "Għajnuna">
+<!ENTITY menu.help.topics "Għajnuna">
+<!ENTITY menu.help.about "Dwar &brandShortName;">
+<!ENTITY menu.extensions "Add-ons">
+<!ENTITY menu.clearprivatedata "Ħassar l-informazzjoni privata">
+<!ENTITY menu.downloadmgr "Dawnlowds">
+<!ENTITY device.dialog.wait_for_completion.title "Qed nistenna ghat-tagħmir">
+<!ENTITY device.dialog.wait_for_completion.msg "Qed nistenna l-azzjonijiet kollha ta fuq it-tagħmir ilestu. Għafas &quot;Ohrog&quot; biex tieqaf tistenna u tagħlaq il-programm.">
+<!ENTITY device.dialog.wait_for_completion.quit "Ohrog">
+<!ENTITY tooltip.hide "Aħbi">
+<!ENTITY tooltip.control.play "Ibda">
+<!ENTITY tooltip.control.pause "Issospendi">
+<!ENTITY tooltip.control.stop "Waqqaf">
+<!ENTITY tooltip.control.volume "Volum">
+<!ENTITY tooltip.search "Tfittix">
+<!ENTITY tooltip.servicepane.newnode "Playlist Ġdida">
+<!ENTITY smart.playlistcondition.library "Kollezzjoni">
+<!ENTITY smart.contenttypecondition.audio "Mużika">
+<!ENTITY locale.language "Lingwa">
+<!ENTITY about.version "Verżjoni">
+<!ENTITY about.buttons.credits "Ħajr">
+<!ENTITY setupprogress.pleasewait "Jekk jogħgbok stenna ftit…">
+<!ENTITY setupprogress.cancel "Ikkanċella">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.reveal "Uri File">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY jumptofile.title "Aqbeż għal">
+<!ENTITY jumptofile.search "Fittex:">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Azzjoni">
+<!ENTITY hotkeys.add "Żid">
+<!ENTITY hotkeys.remove "Neħħi">
+<!ENTITY prefpane.addons.label "Add-ons">
+<!ENTITY umsd.music.tab "Mużika">
+<!ENTITY jobprogress.details "Detttalji">
+<!ENTITY menu.updateCmd.label "Iċċekkja għal aġġornamenti tal-programm">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY command.device.cancel "Ikkanċella">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Ikkanċella l-ikkupjar">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Ikkanċella t-Tħassir">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Ikkanċella s-Sinkronizzazjoni">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Ikkanċella l-Update">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Eject">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.getdeviceinfo "Ara l-Informazzjoni">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Biddel l-Isem">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Issinkronizza">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY device.info.model.label "Mudell">
+<!ENTITY device.info.capacity.label "Kapaċita">
+<!ENTITY device.info.friendly_name.label "Isem">
+<!ENTITY device.info.vendor.label "Manifattur">
+<!ENTITY device.info.playback_formats.label "Formats li jistgħu jindaqqu">
+<!ENTITY device.info.battery.label "Batterija">
+<!ENTITY device.progress.sync "Sinkronizzazjoni">
+<!ENTITY device.capacity.music.label "Mużika">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.other.label "Oħrajn">
+<!ENTITY device.capacity.free.label "Vojt">
+<!ENTITY device.unsupported_media.dialog.title "Ġew misjuba files ma jaqblux">
+<!ENTITY device.unsupported_media.dialog.enable "Għidli meta jinstabu files ma jaqblux">
+<!ENTITY device.sync.auto_sync.label "Sinkronizzazjoni">
+<!ENTITY device.sync.sync_all.label "Il-mużika, videos u playlists kollha">
+<!ENTITY device.sync.sync_selected.label "Playlists magħzula:">
+<!ENTITY device.management.tabs.music.label "Mużika">
+<!ENTITY device.management.tabs.tools.label "Għodda">
+<!ENTITY copySelectionCmd.label "Ikkopje t-text magħżul">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Ibda">
+<!ENTITY downloadMediaCmd.label "Niżżel għall-kollezzjoni">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Iddawnlowdja għall-playlist">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "<Bla playlists>">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Playlist Ġdida">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY feedback.dialog.title "Għinna nagħmlu &brandShortName; ahjar!">
+<!ENTITY feedback.dialog.yes "Iva">
+<!ENTITY feedback.dialog.no "Le">
+<!ENTITY feedback.dialog.sentence1 "Tgħinna ngħamlu &brandShortName; aħjar billi tgħamel survey qasir u anonimu?">
+<!ENTITY feedback.dialog.sentence2 "Jekk ma intix interessat, ma nergħux insaqsuk darba oħra. Grazzi tal-konsiderazzjoni u napprezzaw li tuża &brandShortName;!">
+<!ENTITY feedback.dialog.sentence4 "It-Tim ta&apos; &brandShortName;">
+<!ENTITY first_run.add_ons.header.label "Add-ons rakkomandati">
+<!ENTITY first_run.add_ons.loading.label "Qed titniżżel il-lista ta&apos; Add-ons rakkomandati">
+<!ENTITY first_run.add_ons.load_failed.label "Ma setgħetx titniżżel il-lista ta&apos; Add-ons rakkomandati">
+<!ENTITY first_run.connection.header.label "&brandShortName; ma jistax jikkonnettja mal-Internet">
+<!ENTITY first_run.eula.language.label "Lingwa:">
+<!ENTITY first_run.feedback.header.label "Għinna ngħamlu &brandShortName; ahjar">
+<!ENTITY first_run.feedback.description "Tgħinna ngħamlu &brandShortName; aħjar billi tibghatilna feedback fil-forma ta&apos; statistika anonima fuq kif tuża dan il-programm?">
+<!ENTITY first_run.feedback.metrics.label "Iġbor u ibgħat l-istatistiċi tiegħi u ibgħathom lit-tim ta&apos; &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "L-istatistika hija kompletament anonima u ma tinġabar l-ebda informazzjoni personali dwarek">
+<!ENTITY first_run.feedback.email.textbox.emptytext "Daħħal l-email tiegħek biex tibqa aġġornat">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Skenja folders fuq dan il-kompjuter">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Iċċekkja dan il-folder għal bidliet">
+<!ENTITY first_run.install_add_ons.title "Qed jiġu ddawnlowdjati l-Add-ons">
+<!ENTITY first_run.welcome.header.label "Merħba għal &brandShortName;">
+<!ENTITY import_library.dialog.title "Daħħal kollezzjoni">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Għidli meta xi tracks jew playlists li ma jaqblux ma&apos; &brandShortName; ma jiġux imdahhla">
+<!ENTITY import_library.import_command "Daħħal kollezzjoni">
+<!ENTITY import_library.dirty_playlist_dialog.title "Playlist mibdula">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Għaqqad il-kollezzjonijiet ta &brandShortName; u iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Applika l-għazla tiegħek fuq il-playlists kollha">
+<!ENTITY enable_recommended_addons_update.label "Add-ons rakkomandati">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY add_on_bundle_installer.error_box.label "Dettalji">
+<!ENTITY albumart.displaypane.not_playing_message "Ma hemm xejn jindaqq">
+<!ENTITY albumart.displaypane.not_selected_message "Ma hemm xejn magħżul">
+<!ENTITY albumart.displaypane.drag_and_drop "Mexxi l-Album Art hawn">
+<!ENTITY albumart.displaypane.selected.menu.cut "Cut">
+<!ENTITY albumart.displaypane.selected.menu.copy "Copy">
+<!ENTITY albumart.displaypane.selected.menu.paste "Paste">
+<!ENTITY albumart.displaypane.selected.menu.clear "Clear">
+<!ENTITY albumart.coverpreview.title "Album Art">
+<!ENTITY albumartpreferences.prefpane.label "Album Art">
+<!ENTITY wizard.button.back.label "Lura">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Ikkanċella">
+<!ENTITY wizard.button.next.label "Kompli">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Ikkonkludi">
+<!ENTITY mediacore.error.continue "Kompli">
+<!ENTITY about.credits.footer.beforeLink "Bla dubju, xejn minn dan ma kien ikun possibbli mingħajr ix-xogħol iebes u l-istinkar ta’">
+<!ENTITY about.credits.heading.translators "Tradutturi">

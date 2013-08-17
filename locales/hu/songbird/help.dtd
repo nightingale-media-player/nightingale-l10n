@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName; gyorsbillentyűk" >
+<!ENTITY help.keyboard.subtitle           "Gyorsbillentyűk" >
+<!ENTITY help.keyboard.description        "A gyorsbillentyűk egyszerűbbé teszik az egyes műveletek végrehajtását. Az alábbiakban látható az elérhető parancsok listája, a hozzájuk tartozó gyorsbillentyűvel.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Parancs" >
+<!ENTITY help.keyboard.heading.shortcut   "Gyorsbillentyű" >
+<!ENTITY help.keyboard.section.playback   "Lejátszógombok" >
+<!ENTITY help.keyboard.section.library    "Médiatár és lejátszólisták" >
+<!ENTITY help.keyboard.section.editing    "Szerkesztés" >
+<!ENTITY help.keyboard.section.navigation "Navigáció" >
+<!ENTITY help.keyboard.section.browser    "Böngésző" >
+<!ENTITY help.keyboard.section.windows    "Ablakok és lapok" >
+<!ENTITY help.keyboard.section.search     "Keresés" >
+<!ENTITY help.keyboard.section.video      "Videó" >
+<!ENTITY help.keyboard.section.cdrip      "CD beolvasása" >
+<!ENTITY help.keyboard.section.misc       "Egyéb" >
+
+<!ENTITY help.keyboard.key.left           "Balra nyíl" >
+<!ENTITY help.keyboard.key.right          "Jobbra nyíl" >
+<!ENTITY help.keyboard.key.up             "Felfele nyíl" >
+<!ENTITY help.keyboard.key.down           "Lefele nyíl" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Kattintás" >
+<!ENTITY help.keyboard.mouse.click.middle "Középső kattintás" >
+<!ENTITY help.keyboard.key.meta           "Windows gomb" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Kiválasztott elem lejátszása/szüneteltetése" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "A listában található előző elem lejátszása" >
+<!ENTITY help.keyboard.name.playcontrol.next    "A listában található következő elem lejátszása" >
+<!ENTITY help.keyboard.name.volume.down         "Halkítás" >
+<!ENTITY help.keyboard.name.volume.up           "Hangosítás" >
+<!ENTITY help.keyboard.name.volume.mute         "Elnémítás" >
+<!ENTITY help.keyboard.name.volume.max          "Teljes hangerő" >
+<!ENTITY help.keyboard.name.jumpto              "Ugrás ablak megjelenítése" >
+<!ENTITY help.keyboard.name.equalizer           "Hangszínszabályzó megnyitása" >
+<!ENTITY help.keyboard.name.new.playlist        "Új lejátszólista" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Új intelligens lejátszólista" >
+<!ENTITY help.keyboard.name.import              "Média importálása" >
+<!ENTITY help.keyboard.name.currenttrack        "Jelenleg játszott média keresése" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Átváltás médianézetre" >
+<!ENTITY help.keyboard.name.feather.switch      "Tollazat váltása" >
+<!ENTITY help.keyboard.name.trackeditor         "Metaadat-szerkesztő" >
+<!ENTITY help.keyboard.name.edit.undo           "Visszavonás" >
+<!ENTITY help.keyboard.name.edit.redo           "Újra" >
+<!ENTITY help.keyboard.name.edit.selectall      "Mindent kijelöl" >
+<!ENTITY help.keyboard.name.edit.cut            "Kivágás" >
+<!ENTITY help.keyboard.name.edit.copy           "Másolás" >
+<!ENTITY help.keyboard.name.edit.paste          "Beillesztés" >
+<!ENTITY help.keyboard.name.edit.delete         "Törlés" >
+<!ENTITY help.keyboard.name.browser.back        "Vissza" >
+<!ENTITY help.keyboard.name.browser.forward     "Előre" >
+<!ENTITY help.keyboard.name.browser.reload      "Újratöltés" >
+<!ENTITY help.keyboard.name.browser.stop        "Betöltés leállítása" >
+<!ENTITY help.keyboard.name.open.file           "Fájl megnyitása" >
+<!ENTITY help.keyboard.name.open.url            "Webcím megnyitása" >
+<!ENTITY help.keyboard.name.tab.open.link       "Megnyitás új lapon" >
+<!ENTITY help.keyboard.name.save.link           "Hivatkozás mentése" >
+<!ENTITY help.keyboard.name.file.print          "Nyomtatás" >
+<!ENTITY help.keyboard.name.view.source         "Forrás megtekintése" >
+<!ENTITY help.keyboard.name.view.zoomin         "Nagyítás" >
+<!ENTITY help.keyboard.name.view.zoomout        "Kicsinyítés" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Visszaállítás" >
+<!ENTITY help.keyboard.name.subscribe           "Feliratkozás" >
+<!ENTITY help.keyboard.name.locationbar         "Fókusz a címsorra" >
+<!ENTITY help.keyboard.name.tab.new             "Új lap" >
+<!ENTITY help.keyboard.name.tab.close           "Lap bezárása" >
+<!ENTITY help.keyboard.name.tab.next            "Következő lap" >
+<!ENTITY help.keyboard.name.tab.previous        "Előző lap" >
+<!ENTITY help.keyboard.name.tab.1               "Átváltás az 1. lapra" >
+<!ENTITY help.keyboard.name.tab.2               "Átváltás az 2. lapra" >
+<!ENTITY help.keyboard.name.tab.3               "Átváltás az 3. lapra" >
+<!ENTITY help.keyboard.name.tab.4               "Átváltás az 4. lapra" >
+<!ENTITY help.keyboard.name.tab.5               "Átváltás az 5. lapra" >
+<!ENTITY help.keyboard.name.tab.6               "Átváltás az 6. lapra" >
+<!ENTITY help.keyboard.name.tab.7               "Átváltás az 7. lapra" >
+<!ENTITY help.keyboard.name.tab.8               "Átváltás az 8. lapra" >
+<!ENTITY help.keyboard.name.tab.9               "Átváltás az utolsó lapra" >
+<!ENTITY help.keyboard.name.page.top            "Ugrás az oldal tetejére" >
+<!ENTITY help.keyboard.name.page.bottom         "Ugrás az oldal aljára" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Teljes képernyős üzemmód" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimalizálás a dockra" >
+<!ENTITY help.keyboard.name.mac.hide            "Ablak elrejtése" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Más alkalmazás elrejtése" >
+<!ENTITY help.keyboard.name.downloads           "Letöltések" >
+<!ENTITY help.keyboard.name.find                "Keresés" >
+<!ENTITY help.keyboard.name.find.again          "Következő keresése" >
+<!ENTITY help.keyboard.name.find.text           "Szöveg gyorskereső" >
+<!ENTITY help.keyboard.name.find.link           "Hivatkozás gyorskereső" >
+<!ENTITY help.keyboard.name.search.focus        "Fókusz a keresődobozra" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Teljes képernyő" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Videó felül" >
+<!ENTITY help.keyboard.name.video.escape        "Kilépés a teljes képernyős nézetből" >
+<!ENTITY help.keyboard.name.cdrip.start         "CD beolvasása" >
+<!ENTITY help.keyboard.name.cdrip.stop          "CD beolvasás leállítása" >
+<!ENTITY help.keyboard.name.cdrip.eject         "CD kiadása" >
+<!ENTITY help.keyboard.name.quit                "Kilépés" >
+<!ENTITY help.keyboard.name.preferences         "Beállítások" >
+<!ENTITY help.keyboard.name.help                "Súgótémák" >
+<!ENTITY help.keyboard.name.sanitize            "Személyes adatok törlése" >

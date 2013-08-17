@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "OK" >
+<!ENTITY window.cancel      "Anulo" >
+<!ENTITY window.apply       "Apply" >
+<!ENTITY window.browse      "Shfleto…" >
+<!ENTITY window.save        "Ruaj">
+<!ENTITY window.yes         "Po">
+<!ENTITY window.no          "Jo">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Dil nga &brandShortName;-i" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Preferencat">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Shërbimet">
+<!ENTITY menu.mac.hide                  "Fshih &brandShortName;-in">
+<!ENTITY menu.mac.hide.key              "H">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Fshih të tjerat">
+<!ENTITY menu.mac.hideothers.key        "H">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Trego Gjithçka">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Skedar" >
+<!ENTITY menu.file.new          "Listë Riprodhimi e re…" >
+<!ENTITY menu.file.smart        "Listë Riprodhimi Inteligjente e Re…" >
+<!ENTITY menu.file.remote       "Abonim i ri…" >
+<!ENTITY menu.file.podcast      "New Podcast…" >
+<!ENTITY menu.file.open         "Hap një skedar…" >
+<!ENTITY menu.file.url          "Hap një pozicion…" >
+<!ENTITY menu.file.playlist     "Importo një Listë Riprodhimi…" >
+<!ENTITY menu.file.library      "Importo një Bibliotekë…" >
+<!ENTITY menu.file.newtab       "Skedë e re" >
+<!ENTITY menu.file.closetab     "Mbylle skedën" >
+<!ENTITY menu.file.metadata     "View Metadata">
+<!ENTITY menu.file.scan         "Importo media…" >
+<!ENTITY menu.file.exit         "Dil" >
+
+<!ENTITY menu.edit          "Ndrysho" >
+<!ENTITY menu.edit.undo     "Zhbëj" >
+<!ENTITY menu.edit.redo     "Ribëj" >
+<!ENTITY menu.edit.cut      "Prit" >
+<!ENTITY menu.edit.copy     "Kopjo" >
+<!ENTITY menu.edit.paste    "Ngjit" >
+<!ENTITY menu.edit.delete   "Fshij" >
+<!ENTITY menu.edit.selall   "Selekto gjithçka" >
+<!ENTITY menu.edit.find        "Gjej" >
+<!ENTITY menu.edit.findagain   "Gjej përsëri" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Preferencat">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "Komandat" >
+<!ENTITY menu.control.play  "Riprodho" >
+<!ENTITY menu.control.pause "Pauzë" >
+<!ENTITY menu.control.next  "Kënga e Mëpasshme" >
+<!ENTITY menu.control.prev  "Kënga e Mëparshme" >
+<!ENTITY menu.control.shuf  "Riprodhim Rastësor" >
+<!ENTITY menu.control.repa  "Përsërit gjithçka" >
+<!ENTITY menu.control.rep1  "Përsërit vetëm një" >
+<!ENTITY menu.control.repx  "Mos përsërit" >
+<!ENTITY menu.control.jumpto "Shko Tek…" >
+
+<!ENTITY menu.control.play.button      "Riprodho" >
+<!ENTITY menu.control.pause.button     "Pauzë" >
+<!ENTITY menu.control.stop.button      "Ndalo" >
+
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY displaypane.name.servicepane   "Zona e poshtme e shërbimit">
+<!ENTITY displaypane.name.browser       "Zona e poshtme e përmbajtes">
+<!ENTITY displaypane.name.sidebar       "Kutia Anësore e djathtë">
+<!ENTITY servicepane.title.label        "Zona e shërbimit">
+
+<!ENTITY menu.tools            "Veglat" >
+<!ENTITY menu.tools.getartwork "Gjej kopertinën e albumit…">
+<!ENTITY menu.tools.exportmedia "Export Library Changes">
+
+<!ENTITY menu.help          "Ndihmë" >
+<!ENTITY menu.help.homepage "&brandShortName; Website" >
+<!ENTITY menu.help.bugz     "Reporto një Gabim…" >
+<!ENTITY menu.help.topics   "Temat e Ndihmës…" >
+<!ENTITY menu.help.keyboard "Shkurtoret e tastierës">
+<!ENTITY menu.help.about    "Mbi &brandShortName;-in…" >
+
+<!ENTITY menu.equalizer     "Equalizer…" >
+<!ENTITY menu.preferences   "Mundësitë" >
+<!ENTITY menu.extensions    "Shtesat" >
+<!ENTITY menu.clearprivatedata "Pastro të dhënat private…">
+<!ENTITY menu.errorconsole "Error Console">
+<!ENTITY menu.downloadmgr   "Shkarkimet e skedarëve" >
+<!ENTITY menu.switchplayercontrols  "Komandat e Riprodhuesit" >
+<!ENTITY menu.controllerontop       "Trego Lart">
+<!ENTITY menu.controlleronbottom    "Trego Poshtë">
+
+<!ENTITY menu.fullscreen            "Full Screen">
+<!ENTITY menu.videotofront          "Video to Front">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Në pritje të njësisë.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Në pritje që të gjitha operacionet të përfundojnë. Kliko &quot;Dalje&quot; për të mos pritur më dhe të mbyllësh programin.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Dalje">
+
+<!ENTITY tooltip.minimize         "Minimizo" >
+<!ENTITY tooltip.maximize         "Maksimizo/Rivendos" >
+<!ENTITY tooltip.exit             "Dil" >
+<!ENTITY tooltip.close            "Close" >
+<!ENTITY tooltip.hide             "Fshih" >
+<!ENTITY tooltip.fullscreen       "Ekran i plotë" >
+<!ENTITY tooltip.control.back     "Kënga e Mëparshme" >
+<!ENTITY tooltip.control.play     "Riprodho" >
+<!ENTITY tooltip.control.pause    "Pauzë" >
+<!ENTITY tooltip.control.resume   "Vazhdo" >
+<!ENTITY tooltip.control.stop     "Ndal" >
+<!ENTITY tooltip.control.fwd      "Kënga e Mëpasshme" >
+<!ENTITY tooltip.control.mute     "Pa zë" >
+<!ENTITY tooltip.control.volume   "Zëri" >
+<!ENTITY tooltip.control.shuffle  "Riprodhim i Rastësishëm" >
+<!ENTITY tooltip.control.shuf_off "Riprodhim normal" >
+<!ENTITY tooltip.control.curtrack "Gjej këngën e tanishme" >
+<!ENTITY tooltip.search           "Kërko" >
+<!ENTITY tooltip.browser.back     "Faqja e mëparshme" >
+<!ENTITY tooltip.browser.fwd      "Faqja e mëpasshme" >
+<!ENTITY tooltip.browser.stop     "Ndaloje Shfletuesin" >
+<!ENTITY tooltip.browser.home     "Home" >
+<!ENTITY tooltip.browser.refresh  "Fresko" >
+<!ENTITY tooltip.browser.subscription "Abonohu tek kjo faqe" >
+<!ENTITY tooltip.browser.mediapages.list "List View" >
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
+<!ENTITY tooltip.browser.mediapages "Ndrysho pamjen e listës së skedarëve" >
+<!ENTITY tooltip.servicepane.show    "Trego Zonën e Shërbimit" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "Listë Riprodhimi e re" >
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+
+<!ENTITY smart.window             "Listat e Riprodhimit Inteligjente" >
+<!ENTITY smart.limit              "Limiti është" >
+<!ENTITY smart.match              "Shoqëro" >
+<!ENTITY smart.matchsingle        "Vërteton kushtet e mëposhtme:" >
+<!ENTITY smart.any                "ndonjë" >
+<!ENTITY smart.all                "gjithçka" >
+<!ENTITY smart.following          "një nga kushtet e mëposhtëme:" >
+<!ENTITY smart.random             "rastësisht" >
+<!ENTITY smart.album              "albumi" >
+<!ENTITY smart.artist             "artisti" >
+<!ENTITY smart.genre              "zhanri" >
+<!ENTITY smart.title              "titulli" >
+<!ENTITY smart.high_rating        "vlerësim i lartë" >
+<!ENTITY smart.low_rating         "vlerësim i ulët" >
+<!ENTITY smart.most_recent        "riprodhuar së fundmi" >
+<!ENTITY smart.least_recent       "riprodhuar së hershmi" >
+<!ENTITY smart.most_often         "riprodhuar më shpesh" >
+<!ENTITY smart.least_often        "riprodhuar më rrallë" >
+<!ENTITY smart.most_added         "të shtuar së fundmi" >
+<!ENTITY smart.least_added        "të shtuar së hershmi" >
+<!ENTITY smart.minutes            "minuta" >
+<!ENTITY smart.hours              "orë" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "këngë" >
+<!ENTITY smart.selectedby         "selektuar nga" >
+<!ENTITY smart.to                 "tek" >
+<!ENTITY smart.autoupdate         "Përditëso automatikisht">
+<!ENTITY smart.playlistcondition.library "Biblioteka">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Music">
+
+<!ENTITY textbox.songbird_open_url "Shkruaj URL-in apo pozicionin e medias që dëshiron të riprodhosh:">
+
+<!ENTITY open_url.title           "Hap URL">
+<!ENTITY subscribe.title          "Abonime">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "Minutë/a">
+<!ENTITY subscribe.hours          "Orë">
+<!ENTITY subscribe.days           "Ditë">
+<!ENTITY subscribe.autocheck      "Përditëso automatikisht çdo">
+<!ENTITY subscribe.destinationfolder      "Selekto dosjen e destinacionit:">
+
+<!ENTITY feed.subscribe.label     "Abonohu">
+<!ENTITY feed.subscribe.dontask   "Don't automatically show this dialog again">
+<!ENTITY feed.subscribe.close     "Close">
+
+<!ENTITY podcast.creation_dialog.title       "New Podcast">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "Vëzhgo Dosjet">
+<!ENTITY watchfolder.folderlist   "Vëzhgo këto dosje për skedarë multimedialë të rinj:">
+
+<!ENTITY locale.language          "Gjuha" >
+<!ENTITY menu.view                "Pamja" >
+<!ENTITY about.version            "Versioni" >
+<!ENTITY about.buttons.credits    "Informacione" >
+
+<!ENTITY equalizer.title          "Equalizer" >
+<!ENTITY equalizer.on.checkbox    "On" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Custom" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rok" >
+<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
+<!ENTITY equalizer.preset.techno      "Tekno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Live" >
+<!ENTITY equalizer.preset.club        "Club" >
+<!ENTITY equalizer.preset.party       "Party" >
+<!ENTITY equalizer.preset.classical   "Klasike" >
+<!ENTITY equalizer.preset.large_hall  "Large Hall" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Soft" >
+<!ENTITY equalizer.preset.small_speakers   "Laptop/Headphones" >
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
+<!ENTITY equalizer.preset.full_treble "Full treble" >
+<!ENTITY equalizer.preset.full_bass   "Full bass" >
+
+
+<!ENTITY setupprogress.pleasewait "Të lutem prit…" >
+<!ENTITY setupprogress.cancel     "Anulo">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "U" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "C" >
+<!ENTITY menu.file.scan.accesskey         "C" >
+<!ENTITY locale.language.accesskey        "L" >
+<!ENTITY menu.view.accesskey              "V" >
+<!ENTITY menu.preferences.accesskey       "O" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "A" >
+<!ENTITY menu.clearprivatedata.accesskey  "P" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "X" >
+<!ENTITY menu.downloadmgr.accesskey       "D" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "U" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "T" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "P" >
+<!ENTITY menu.edit.delete.accesskey   "D" >
+<!ENTITY menu.edit.selall.accesskey   "A" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "R" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "J" >
+
+
+<!ENTITY menu.tools.accesskey            "T" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Trego skedarin" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Përpunuesi i Metadata-ve" >
+<!ENTITY trackeditor.tab.summary.title            "Përmbledhja" >
+<!ENTITY trackeditor.tab.edit.title               "Vetitë" >
+<!ENTITY trackeditor.tab.lyrics.title             "Teksti i këngës" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Shto Tag" >
+<!ENTITY trackeditor.addtag.tag       "Tag:" >
+
+<!ENTITY jumptofile.title             "Shko tek" >
+<!ENTITY jumptofile.search            "Kërko:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Përdor shkurtoret e përgjithshme të tastierës" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "Veprimi" >
+<!ENTITY hotkeys.hotkey               "Shkurtore" >
+<!ENTITY hotkeys.add                  "Shto" >
+<!ENTITY hotkeys.set                  "Vendos" >
+<!ENTITY hotkeys.remove               "Hiq" >
+<!ENTITY hotkeys.prefpane             "Shkurtoret" >
+<!ENTITY hotkeys.info                 "Shkurtoret e Përgjithshme japin mundësinë të komandosh &brandShortName;-in edhe nqse &brandShortName;- nuk është programi aktiv. Disa kombinacione shkurtoresh duhet të përmbajnë edhe Butonat Ndryshues në mënyrë që të ulet sa më shumë niveli i interferencës me programet e tjera." >
+
+<!ENTITY rapi.prefpane.title             "Integrimi me web" >
+<!ENTITY rapi.prefpane.access.caption    "Web Integration Permissions" >
+<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
+<!ENTITY rapi.whitelist.label            "Përjashtimet…" >
+<!ENTITY rapi.restore_defaults.label      "Kthe në gjendjen fillestare" >
+<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback" >
+<!ENTITY rapi.playback_read_disable.label    "Block websites from viewing information about playing media" >
+<!ENTITY rapi.library_read_disable.label     "Block websites from viewing information about media in my Library and devices" >
+<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Shtesa">
+<!ENTITY prefpane.content.label       "Web Content">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Nuk është lidhur asnjë njësi USB." >
+<!ENTITY umsd.music.tab                     "Muzikë" >
+<!ENTITY umsd.music.music_files_group       "Skedarët muzikorë" >
+<!ENTITY umsd.music.music_path_desc         "Kur të kopjohen skedarë muzikorë tek njësia, vendosi në këtë dosje:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Zgjidh dosjen e njësisë në të cilën do të vendosen skedarët muzikorë." >
+<!ENTITY umsd.music.music_ext_desc          "Kopjo skedarët muzikorë me këto shtesa (extension) tek njësia:" >
+<!ENTITY umsd.video.tab                     "Video" >
+<!ENTITY umsd.video.video_files_group       "Skedarët video" >
+<!ENTITY umsd.video.video_path_desc         "Kur të kopjohen skedarë video tek njësia, vendosi në këtë dosje:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Zgjidh dosjen e njësisë në të cilën do të vendosen skedarët video." >
+<!ENTITY umsd.video.video_ext_desc          "Kopjo skedarët video me këto shtesa (extension) tek njësia:" >
+
+<!ENTITY device.error.dialog.link           "View Error Details" >
+
+<!ENTITY restartbox.restartnow        "Restarto tani" >
+<!ENTITY restartbox.restartonplaybackend "Restarto kur të përfundon luajtja" >
+<!ENTITY restartbox.restartlater      "Restarto më vonë" >
+
+<!ENTITY setupprogress.installingextensions "Duke instaluar shtesat" >
+
+<!ENTITY jobprogress.details "Detajet" >
+
+<!ENTITY menu.updateCmd.label          "Kontrollo përditësimet…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Z" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Fshij" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Hapësirë" >
+
+<!ENTITY tabs.closeTab "Mbylle skedën">
+<!ENTITY tabs.listAllTabs "Lista e të gjitha skedave">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator "-" >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Filimi" >
+<!ENTITY prefs.homepage.url.label          "URL:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Instalimi i shtesave" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Anulo">
+<!ENTITY command.device.cancel.accesskey                "C">
+<!ENTITY command.device.canceldevicecopy                "Anulo kopjimin">
+<!ENTITY command.device.canceldevicecopy.accesskey      "C">
+<!ENTITY command.device.canceldevicedelete              "Anulo fshirjen">
+<!ENTITY command.device.canceldevicedelete.accesskey    "C">
+<!ENTITY command.device.canceldevicesync                "Anulo sinkronizimin">
+<!ENTITY command.device.canceldevicesync.accesskey      "C">
+<!ENTITY command.device.canceldeviceupdate              "Anulo përditësimin">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
+<!ENTITY command.device.ejectdevice                     "Shkëpute">
+<!ENTITY command.device.ejectdevice.accesskey           "E">
+<!ENTITY command.device.formatdevice                    "Format">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "I">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "Merr infot">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "Riemëro">
+<!ENTITY command.device.renamedevice.accesskey          "R">
+<!ENTITY command.device.devicesync                      "Sinkronizo">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Rip CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Stop Rip">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "Lookup CD Information">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Eject CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "E">
+
+<!ENTITY device.repair.menuitem.default                   "Repair my device">
+
+<!ENTITY device.firmware.wizard.title                     "Update Firmware">
+<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
+<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
+<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
+<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
+
+<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
+
+<!ENTITY device.info.icon.device            "Generic device icon">
+<!ENTITY device.info.icon.readonly          "Read-only lock icon">
+<!ENTITY device.info.model.label            "Modeli">
+<!ENTITY device.info.capacity.label         "Kapaciteti">
+<!ENTITY device.info.product.label          "Product">
+<!ENTITY device.info.friendly_name.label    "Emri">
+<!ENTITY device.info.serial_number.label    "Numri Serial">
+<!ENTITY device.info.vendor.label           "Prodhuesi">
+<!ENTITY device.info.access.label           "Përputhshmëria e Hyrjes">
+<!ENTITY device.info.playback_formats.label "Formatet e riprodhueshëm">
+<!ENTITY device.info.battery.label          "Bateria">
+<!ENTITY device.info.firmware_version.label "Firmware Version">
+
+<!ENTITY device.progress.sync               "Sinkronizimi">
+
+<!ENTITY device.capacity.music.label    "Muzikë">
+<!ENTITY device.capacity.video.label    "Video">
+<!ENTITY device.capacity.image.label    "Photos">
+<!ENTITY device.capacity.other.label    "Të tjera">
+<!ENTITY device.capacity.free.label     "Vend bosh">
+
+<!ENTITY device.unsupported_media.dialog.title  "U zbuluan skedarë të papërputhshëm">
+<!ENTITY device.unsupported_media.dialog.enable "Më thuaj kur zbulon skedarë të papërputhshëm">
+
+<!ENTITY device.sync.header.label "Parametrat e Sinkronizimit">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Sinkronizo">
+<!ENTITY device.sync.sync_all.label "E gjithë muzika, videot dhe listat e riprodhimit">
+<!ENTITY device.sync.sync_selected.label "Listat e riprodhimit të selektuara:">
+<!ENTITY device.sync.playlist.title "Titulli">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.sync.images.filecount "Photos">
+
+<!ENTITY device.settings.header.label "Settings">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY device.settings.music.transcoding.label "Music Conversion">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY device.settings.disk.management.filename "Song files">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Muzikë">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY device.management.tabs.tools.label "Veglat">
+<!ENTITY device.management.tabs.settings.label "Settings">
+
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY device.tools.product_registration.label "Register product">
+
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY device.tools.format_volume.button.label "Format">
+
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY device.tools.support.label "View support resources">
+
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Hape lidhjen tek Shfletuesi i Parazgjedhur i Internetit">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Hape faqen tek Shfletuesi i Parazgjedhur i Internetit">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Hape kornizën tek Shfletuesi i Parazgjedhur i Internetit">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Hape figurën tek Shfletuesi i Parazgjedhur i Internetit">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Kopjo tekstin e selektuar">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "Luaj">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Shkarko tek Biblioteka">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "Shkarko në Listë Riprodhimi">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Nuk ka Lista Riprodhimi&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Listë Riprodhimi e re">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Abonohu tek kjo faqe…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Abonohu tek kjo frame…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Ndihmo për një &brandShortName; më të mirë!">
+<!ENTITY feedback.dialog.yes        "Po">
+<!ENTITY feedback.dialog.no         "Jo">
+<!ENTITY feedback.dialog.sentence1  "Do të na ndihmosh ta bëjmë &brandShortName;-in më të mirë, duke kompletuar një anketë të shkurtër dhe anonime?">
+<!ENTITY feedback.dialog.sentence2  "Nqse nuk të intereson, nuk do të të pyesim më. Të falenderojmë për konsideracionin dhe e çmojmë faktin që po përdor &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "Tungjatjeta,">
+<!ENTITY feedback.dialog.sentence4  "Stafi i &brandShortName;-it">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Welcome to &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "Përgatitja e &brandShortName;-it">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Këshillohen këto Shtesa">
+<!ENTITY first_run.add_ons.description.line1 "Shtesat shtojnë funksionet e &brandShortName;-it, duke të të dhënë mundësinë që të përshtasësh përdorimin e riprodhuesit tënd të mediave. Parametrat e mëposhtme këshillohen.">
+<!ENTITY first_run.add_ons.description.line2 "Shtesat mund të integrohen me programe dhe shërbime të tjera, bëjnë njësitë e jashtme të përputhshme, ndryshojnë pamjen e programit dhe të tjera! Mund të shkarkosh të tjera tek faqja e Shtesave e &brandShortName;-it.">
+<!ENTITY first_run.add_ons.loading.label     "Po gjej shtesat që këshillohen">
+<!ENTITY first_run.add_ons.load_failed.label "Gjetja e shtesave që këshillohen ishte e pamundur.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName;-i nuk mund të lidhet me internetin">
+<!ENTITY first_run.connection.description          "Kontrollo parametrat e lidhjes dhe vazhdo me Asistentin e Përgatitjes">
+<!ENTITY first_run.connection.settings.button      "Parametrat e lidhjes…">
+<!ENTITY first_run.connection.settings.description "A është kompjuteri apo rrjeti yt i mbrojtur nga një firewall apo proxy? Ndreqja e parametrave të gabuara të lidhjes mund të ndihmojë të zgjidhjen e problemeve të zakonshme të rrjetit.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Licensë">
+<!ENTITY first_run.eula.accept_checkbox.label "Lexova dhe pranoj kushtet e kësaj license.">
+<!ENTITY first_run.eula.language.label        "Gjuha:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Ndihmo për një &brandShortName; më të mirë">
+<!ENTITY first_run.feedback.description             "Dëshiron të na ndihmosh ta bëjmë &brandShortName;-in më të mirë duke na dërguar vlerësime në formë statistikash anonime mbi mënyrën e përdorimit të programit?">
+<!ENTITY first_run.feedback.metrics.label           "Mblidh dhe dërgo statistikat e mia stafit të &brandShortName;-it">
+<!ENTITY first_run.feedback.metrics.description     "Statistikat janë krejtësisht anonomine dhe nuk do të mblidhet asnjë informacion personal.">
+<!ENTITY first_run.feedback.email.header.label      "Më informoni">
+<!ENTITY first_run.feedback.email.description       "Abonohu tek fletëpalosja jonë që të informohesh mbi publikimet e reja dhe përditësimet e rëndësishme.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "shkruaj adresën tënde të e-mailit">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "iTunes Importo/Eksporto">
+<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Export new music tracks and playlists to iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Importo media">
+<!ENTITY first_run.import_media.description                  "Selekto cilët skedarë multimedialë dëshiron të importosh tek &brandShortName;-i. Pasi &brandShortName;-i të hapet mund të shtosh skedarë të tjerë në shumë mënyra të ndryshme.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Lexo dosjet e kompjuterit tim">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Mos importo asgjë">
+<!ENTITY first_run.import_media.scan_directories.description "Dëshiron që &brandShortName;-i të provojë të importojë mediat nga disa dosje të kompjuterit tënd?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Vëzhgo këtë dosje për ndryshime">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Po shkarkoj Shtesat">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Mirësevjen tek &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName;-i është një alternativë shumë e përshtatshme e riprodhuesve multimedial tradicional.">
+<!ENTITY first_run.welcome.description.line2 "Ky asistent do të të japë një mënyrë të shpejtë dhe efikase për të përgatitur ekzekutimin e &brandShortName;-it.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Importuesi i Mediave">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Importo një bibliotekë">
+<!ENTITY import_library.prefs.title                       "iTunes">
+<!ENTITY import_library.library_file_label                "Skedari i Bibliotekës:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Më lajmëro kur nuk mund të importosh këngë apo lista riprodhimi të papërputhshme">
+<!ENTITY import_library.prefs.path_group_caption          "Pozicioni i Bibliotekës Muzikore të iTunes">
+<!ENTITY import_library.prefs.options_group_caption       "Mundësitë e importimit">
+<!ENTITY import_library.import_command                    "Importo një Bibliotekë">
+<!ENTITY import_tracks_itunes_checkbox                    "Import music tracks from iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Import music playlists">
+<!ENTITY export_tracks_itunes_checkbox                    "Export music tracks to iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Export music playlists">
+<!ENTITY export_subscriptions_itunes_checkbox             "Export subscriptions">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Export music smart playlists">
+<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Lista e riprodhimit u ndryshua">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Mbaj listën e riprodhimit të tanishme të &brandShortName;-it (mos e importo këtë listë riprodhimi)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Bashko listën e riprodhimit të tanishme të &brandShortName;-it me atë të iTunes-it">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Zëvendëso këtë listë riprodhimi të &brandShortName;-it me listën e riprodhimit të tanishme të iTunes-it">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Kujdes: Bashkimi dhe zëvendësimi nuk mund të zhbëhen.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Apliko selektimin tek të gjitha Listat e Riprodhimit">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Vëzhgo Dosjet">
+<!ENTITY watch_folder.prefs.settings_group_caption "Preferencat e Vëzhgo Dosjet">
+<!ENTITY watch_folder.prefs.description            "&brandShortName;-i mund të vëzhgojë përmbajtjen e një dosje dhe të shtojë apo të heqë automatikisht elementet e përmbajtur në të.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Vëzhgo automatikisht ndryshimet e kësaj dosje">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Dosja:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Këshillohen këto Shtesa">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "Instalo &brandShortName;">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Detajet">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Nuk po luhet asgjë" >
+<!ENTITY albumart.displaypane.not_selected_message  "Nuk është përzgjedhur asgjë" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Tërhiqe këtu kopertinën" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Show Now Selected" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Show Now Playing" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Prit">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopjo">
+<!ENTITY albumart.displaypane.selected.menu.paste "Ngjit">
+<!ENTITY albumart.displaypane.selected.menu.clear "Pastro">
+<!ENTITY albumart.coverpreview.title "Kopertina">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Artwork">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file's metadata">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Search file names:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Up">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Down">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Shko mbrapa">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "Anulo">
+<!ENTITY wizard.button.next.label      "Vazhdo">
+<!ENTITY wizard.button.next.accesskey  "C">
+<!ENTITY wizard.button.finish.label    "Përfundo">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Gabim i Mediacore">
+<!ENTITY mediacore.error.preface  "&brandShortName;-i hasi këtë gabim të medias:">
+<!ENTITY mediacore.error.continue "Vazhdo">
+<!ENTITY mediacore.error.stop     "Ndalo riprodhimin">
+<!ENTITY mediacore.error.dontshowme "Mos trego më gabimet e mediave">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Playback">
+
+<!ENTITY playback.prefpane.audio_output.label   "Audio Output">
+<!ENTITY playback.prefpane.audio_output.buffer  "Output Buffer:">
+
+<!ENTITY playback.prefpane.streaming.label      "Network and Streaming">
+<!ENTITY playback.prefpane.streaming.buffer     "Streaming Buffer:">
+
+<!ENTITY playback.prefpane.normalization.label  "Normalization">
+<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Albumi">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Titulli">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
+
+<!ENTITY fetch_album_art.dialog.title "Gjej kopertinën e albumit">
+<!ENTITY fetch_album_art.dialog.message "E paprogramuar. (Shiko Gabimin 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Artist">
+<!ENTITY cdrip.lookup.info_not_found.album  "Album">
+<!ENTITY cdrip.lookup.info_not_found.title  "CD Information Not Found">
+<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Titulli">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY cdrip.prefpane.quality "Quality">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Settings">
+<!ENTITY cdrip.mediaview.format_label              "Format: ">
+<!ENTITY cdrip.mediaview.quality_label             "Quality: ">
+<!ENTITY cdrip.mediaview.settings_button           "Settings">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Rip CD">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Stop Rip">
+<!ENTITY cdrip.mediaview.view_tracks_button        "View Tracks">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Eject CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY videowindow.fullscreen "Full Screen">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Duam të falenderojmë kontributuesit, puna e të cilëve e bëri Songbird-in siç është. Këta persona ndihmuan duke shkruajtur kodin dhe dokumentacionin, dhe duke bërë provat. Ata kanë krijuar dhe mirëmbajtur këtë program, paketat e zhvillimit të tij, veglat tona të zhvillimit dhe faqet tona të internetit. Emrat ndiqen nga pseudonimet IRC. Eja tek #songbird në irc.mozilla.org dhe na përshëndet!">
+<!ENTITY about.credits.footer.beforeLink "Sigurisht që kjo gjë s&apos;do të kishte qenë e mundur pa punën dhe mundimet e">
+<!ENTITY about.credits.footer.linkText "kontribuesit">
+<!ENTITY about.credits.footer.afterLink "projektit Mozilla.">
+<!ENTITY about.credits.heading.translators "Përkthyesit">
+<!ENTITY about.credits.heading.champs "Kampionët">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Multiple CD Records Found">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY cdinfo.other.label                "Add your own Artist and Album Info">
+
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Adding tracks">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

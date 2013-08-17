@@ -1,0 +1,453 @@
+<!ENTITY songbird "ލަވަ ދޫނި">
+<!ENTITY window.ok "އޯކޭ">
+<!ENTITY window.cancel "ބާތިލް">
+<!ENTITY window.browse "ބްރައުސް">
+<!ENTITY window.save "ސޭވް">
+<!ENTITY window.yes "އާނ">
+<!ENTITY window.no "ނޫން">
+<!ENTITY menu.mac.exit "ނިންމާލާ">
+<!ENTITY menu.mac.exit.key "ކިޔު">
+<!ENTITY menu.mac.preferences "އިޙްތިޔާރު ކުރާގޮތް">
+<!ENTITY menu.mac.preferences.key "،">
+<!ENTITY menu.mac.services "ހިދުމަތްތައް">
+<!ENTITY menu.mac.hide "&brandShortName; ފޮރުވާ">
+<!ENTITY menu.mac.hide.key "އެޗް">
+<!ENTITY menu.mac.hideothers "އެހެން ބައިތައް ފޮރުވާ">
+<!ENTITY menu.mac.hideothers.key "އެޗް">
+<!ENTITY menu.mac.showall "ހުރިހާ ބައިތަކެއް ދައްކާ">
+<!ENTITY menu.mac.minimize.key "އެމް">
+<!ENTITY menu.file "ފައިލް">
+<!ENTITY menu.file.new "  އާ ޕްލޭލިސްޓް">
+<!ENTITY menu.file.smart "އާ ސްމާރޓް ޕްލޭލިސްޓެއް">
+<!ENTITY menu.file.remote "އާ ސަބްސްކްރިޕްޝަނެއް">
+<!ENTITY menu.file.open "ފައިލް ހުޅުވާ">
+<!ENTITY menu.file.url "ތަން ހުޅުވާ">
+<!ENTITY menu.file.playlist "  ޕްލޭލިސްޓް އެތެރެކުރޭ">
+<!ENTITY menu.file.library "ލައިބްރަރީއެއް އިމްޕޯރޓްކުރޭ">
+<!ENTITY menu.file.newtab "އާ ޓެބެއް">
+<!ENTITY menu.file.closetab "ޓެބް ނިވާލާ">
+<!ENTITY menu.file.scan "މީޑިއާ އިމްޕޯރޓްކުރޭ">
+<!ENTITY menu.file.exit "ނިއްވާލާ">
+<!ENTITY menu.edit "އެޑިޓް">
+<!ENTITY menu.edit.undo "އަންޑޫ">
+<!ENTITY menu.edit.redo "އަލުން ހަދާ">
+<!ENTITY menu.edit.cut "ކަޓް ކުރޭ">
+<!ENTITY menu.edit.copy "ކޮޕީ ކުރޭ">
+<!ENTITY menu.edit.paste "ޕޭސްޓް ކުރޭ">
+<!ENTITY menu.edit.delete "ފޮހެލާ">
+<!ENTITY menu.edit.selall "ހުރިހާއެއްޗެއް ސެލެކްޓްކުރޭ">
+<!ENTITY menu.edit.find "ހޯދާ">
+<!ENTITY menu.edit.findagain "އަދި ހޯދާ">
+<!ENTITY menu.linux.preferences "އިޙްތިޔާރު ކުރާގޮތް">
+<!ENTITY menu.linux.preferences.accesskey "އެން">
+<!ENTITY menu.controls "ކޮންޓްރޯލްތައް">
+<!ENTITY menu.control.play "ލަވަޖަހާ">
+<!ENTITY menu.control.pause "ލަވަ މެދުކަޑާލާ">
+<!ENTITY menu.control.next "ޖެހިގެން އިން ޓްރެކް">
+<!ENTITY menu.control.prev "ކުރީގެ ޓްރެކް">
+<!ENTITY menu.control.shuf " (މައްސުނި (ޝަފަލް">
+<!ENTITY menu.control.repa "ހުރިހާލަވައެއް ތަކުރާރުކުރޭ">
+<!ENTITY menu.control.rep1 "އެއް ލަވަ ތަކުރާރުކުރޭ">
+<!ENTITY menu.control.repx "ތަކުރާރު ނުކުރޭ">
+<!ENTITY menu.control.jumpto "ފުންމާ">
+<!ENTITY menu.control.play.button "ލަވަޖަހާ">
+<!ENTITY menu.control.pause.button "ލަވަ މެދުކަޑާލާ">
+<!ENTITY menu.control.stop.button "ހުއްޓާ">
+<!ENTITY displaypane.name.servicepane "ސައވިސް ޕޭން ތިރި">
+<!ENTITY displaypane.name.browser "ކޮންޓެންޓް ޕޭން ތިރި">
+<!ENTITY displaypane.name.sidebar "ކަނާތްފަރާތުގެ ސައިޑްބަރ">
+<!ENTITY servicepane.title.label "ސަރވިސް ޕޭން">
+<!ENTITY menu.tools "ޓޫލްތައް">
+<!ENTITY menu.tools.getartwork "އަލްބަމް އާރޓް ހޯދާ">
+<!ENTITY menu.help "އެހީ ހޯއްދަވާ">
+<!ENTITY menu.help.bugz "ދިމާވާ މައްސަލަ އެންގުމަށް">
+<!ENTITY menu.help.topics "އެހީތެރިކަން ފޯރުކޮށްދޭ މައުލޫއުތައް">
+<!ENTITY menu.help.keyboard "ކީބޯރޑް ޝޯރޓްކަޓްތައް">
+<!ENTITY menu.help.about "ތައާރަފް">
+<!ENTITY menu.preferences "އޮޕްޝަންތައް">
+<!ENTITY menu.extensions "އެޑް-އޯންސް">
+<!ENTITY menu.clearprivatedata "…ކުރީގެ ޑޭޓާ ފޮހެލާ">
+<!ENTITY menu.errorconsole "ކޮންސޯލް އެރަރ">
+<!ENTITY menu.downloadmgr "ފައިލް ޑައުންލޯޑްތައް">
+<!ENTITY menu.switchplayercontrols "ޕްލެޔަރުގެ ކޮންޓްރޯލުތައް">
+<!ENTITY menu.controllerontop "މަތީގަ ދައްކާ">
+<!ENTITY menu.controlleronbottom "ތިރީގަ ދައްކާ">
+<!ENTITY device.dialog.wait_for_completion.title "ޑިވައިސް އަށް މަޑުކުރަނީ">
+<!ENTITY device.dialog.wait_for_completion.msg "ހުރިހާ ޑިވައިސް އޮޕަރޭޝަންތައް ނިމެންދެން މަޑުކުރަނީ. މަޑުކުރުމާށް ބޭނުންވެ ނުލައްވާނަމަ &quot;ކުއިޓް&quot; އަށް ފަތާލައްވާ">
+<!ENTITY device.dialog.wait_for_completion.quit "ނިންމާލާ">
+<!ENTITY tooltip.minimize "މިނިމައިޒްކުރޭ">
+<!ENTITY tooltip.maximize "މެކްސިމައިޒް / ރީސްޓޯރ ކުރޭ">
+<!ENTITY tooltip.exit "ނިވާލާ">
+<!ENTITY tooltip.hide "ފޮރުވާ">
+<!ENTITY tooltip.fullscreen "ފުލްސްކްރީން">
+<!ENTITY tooltip.control.back "ކުރިން އަޑުއެހި ލަވަ">
+<!ENTITY tooltip.control.play "ޕްލޭ">
+<!ENTITY tooltip.control.pause "ޕޯސް">
+<!ENTITY tooltip.control.resume "ކުރިއަށް ގެންދޭ">
+<!ENTITY tooltip.control.stop "ހުއްޓާ">
+<!ENTITY tooltip.control.fwd "ޖެހިގެންއިން ލަވަ">
+<!ENTITY tooltip.control.mute "އަޑު ކަނޑާލާ">
+<!ENTITY tooltip.control.volume "އަޑު ބާރުމިން">
+<!ENTITY tooltip.control.shuffle "ޝަފުލް">
+<!ENTITY tooltip.control.shuf_off "ޝަފުލް ކަނޑާލާ">
+<!ENTITY tooltip.control.curtrack "މިހާރު ޖަހަމުންދާ ލަވަ ހޯދާ">
+<!ENTITY tooltip.search "ހޯދާ">
+<!ENTITY tooltip.browser.back "ފަހަތް ބްރައުސް ކުރުމަށް">
+<!ENTITY tooltip.browser.fwd "ކުރި ބްރައުޒްކުރުމަށް">
+<!ENTITY tooltip.browser.stop "ބްރައުޒަރ ސްޓޮޕްކުރޭ">
+<!ENTITY tooltip.browser.home "ހޯމްޕޭޖް">
+<!ENTITY tooltip.browser.refresh "ރިޕްރެޝްކޮއްލާ">
+<!ENTITY tooltip.browser.subscription "މިވެބްޕޭޖަށް ސަބްސްކްރައިބްކުރޭ">
+<!ENTITY tooltip.browser.mediapages "މީޑިއާވިޔުސް ބަދަލުކުރޭ">
+<!ENTITY tooltip.servicepane.show "ސަރވިސް ޕޭން ދައްކާ">
+<!ENTITY tooltip.servicepane.newnode "އާ ޕްލޭލިސްޓް">
+<!ENTITY smart.window "ސްމާރޓް ޕްލޭލިސްޓް">
+<!ENTITY smart.limit "މިންވަރަކީ">
+<!ENTITY smart.match "ދިމާވޭ">
+<!ENTITY smart.matchsingle "އަންނަނިވި ޝަރުތުތައް ފުރިހަމަވާ">
+<!ENTITY smart.any "ކޮންމެ">
+<!ENTITY smart.all "ހުރިހާ">
+<!ENTITY smart.following "އަންނަނިވި ޝަރުތުތައް ހަމަވެފައި:">
+<!ENTITY smart.random "ތަރުތީބެއް ނެތި">
+<!ENTITY smart.album "އަލްބަމް">
+<!ENTITY smart.artist "އާޓިސްޓް">
+<!ENTITY smart.genre "މިއުޒިކްގެ ބާވަތް">
+<!ENTITY smart.title "ނަން">
+<!ENTITY smart.high_rating "އެންމެ މަތީ ރޭޓިންގް">
+<!ENTITY smart.low_rating "އެންމެ ދަށް ރޭޓިންގް">
+<!ENTITY smart.most_recent "އެންމެފަހުން ޕްލޭކުރީ">
+<!ENTITY smart.least_recent "އެންމެ ފަހުން ކުޅުނު">
+<!ENTITY smart.most_often "އެންމެ ގިނައިން ޕްލޭކުރީ">
+<!ENTITY smart.least_often "އެންމެ ގިނައިން ކުޅޭ">
+<!ENTITY smart.most_added "އެންމެފަހުން އިތުރުކުރީ">
+<!ENTITY smart.least_added "އެންމެ ފަހުން ލި">
+<!ENTITY smart.minutes "މިނެޓު">
+<!ENTITY smart.hours "ގަޑިއިރު">
+<!ENTITY smart.mb "އެމްބީ">
+<!ENTITY smart.gb "ޖީބީ">
+<!ENTITY smart.songs "އައިޓެމްތައް">
+<!ENTITY smart.selectedby "އިޙްތިޔާރު ކޮށްފައިވަނީ">
+<!ENTITY smart.to "ން">
+<!ENTITY smart.autoupdate "އޮޓޯ އަޕްޑޭޓް">
+<!ENTITY smart.playlistcondition.library "ލައިބްރަރީ">
+<!ENTITY smart.contenttypecondition.audio "ލަވަ">
+<!ENTITY textbox.songbird_open_url "އަލުން ކުޅުމަށްބޭނުންވާ މީޑިއާ ގެ ޔޫ.އާރ.އެލް ލިޔުއްވާ">
+<!ENTITY open_url.title "ޔޫ.އާރ.އެލް ހުޅުވާ">
+<!ENTITY subscribe.title "ސަބްސްކުރައިބް ">
+<!ENTITY subscribe.url "ޔޫއާރުއެލް">
+<!ENTITY subscribe.minutes "މިނެޓް">
+<!ENTITY subscribe.hours "ގަޑި">
+<!ENTITY subscribe.days "ދުވަސް">
+<!ENTITY subscribe.autocheck "އަމިއްލައަށް އަޕްޑޭޓްކުރަންވީ ކޮންމެ">
+<!ENTITY subscribe.destinationfolder "ޑެސްޓިނޭޝަން ފޯލްޑަރ ސެލެކްޓްކުރޭ">
+<!ENTITY watchfolder.title "ފޯލްޑަރ ބަލާ">
+<!ENTITY watchfolder.folderlist "މި ފޯލްޑަރ ތަކަށް އައުތަކެތި އާދޭތީ ބަލާ">
+<!ENTITY locale.language "ބަސް">
+<!ENTITY menu.view "ވިއު">
+<!ENTITY about.version "އަދަދު">
+<!ENTITY about.buttons.credits "ހާއްސަ ޝުކުރު">
+<!ENTITY equalizer.on.checkbox "ޖައްސާފަ">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY setupprogress.pleasewait "މަޑުކޮއްލައްވާ">
+<!ENTITY setupprogress.cancel "ކެންސަލް">
+<!ENTITY menu.file.accesskey "އެފް">
+<!ENTITY menu.file.new.accesskey "އެން">
+<!ENTITY menu.file.smart.accesskey "އެސް">
+<!ENTITY menu.file.remote.accesskey "އާރް">
+<!ENTITY menu.file.open.accesskey "އޯ">
+<!ENTITY menu.file.url.accesskey "އޭ">
+<!ENTITY menu.file.playlist.accesskey "އައި">
+<!ENTITY menu.file.library.accesskey "ޕީ">
+<!ENTITY menu.file.newtab.accesskey "ޓީ">
+<!ENTITY menu.file.closetab.accesskey "ސީ">
+<!ENTITY menu.file.scan.accesskey "އެމް">
+<!ENTITY locale.language.accesskey "އެލް">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "އޯ">
+<!ENTITY menu.extensions.accesskey "އޭ">
+<!ENTITY menu.clearprivatedata.accesskey "ޕީ">
+<!ENTITY menu.errorconsole.accesskey "ސީ">
+<!ENTITY menu.file.exit.accesskey "އެކްސް">
+<!ENTITY menu.downloadmgr.accesskey "ޑީ">
+<!ENTITY menu.edit.accesskey "އީ">
+<!ENTITY menu.edit.undo.accesskey "ޔޫ">
+<!ENTITY menu.edit.redo.accesskey "އާރް">
+<!ENTITY menu.edit.cut.accesskey "ޓީ">
+<!ENTITY menu.edit.copy.accesskey "ސީ">
+<!ENTITY menu.edit.paste.accesskey "ޕީ">
+<!ENTITY menu.edit.delete.accesskey "ޑީ">
+<!ENTITY menu.edit.selall.accesskey "އޭ">
+<!ENTITY menu.edit.find.accesskey "އެފް">
+<!ENTITY menu.edit.findagain.accesskey "ޖީ">
+<!ENTITY menu.controls.accesskey "ސީ">
+<!ENTITY menu.control.play.accesskey "ޕީ">
+<!ENTITY menu.control.next.accesskey "އެން">
+<!ENTITY menu.control.prev.accesskey "އާރް">
+<!ENTITY menu.control.shuf.accesskey "އެސް">
+<!ENTITY menu.control.repa.accesskey "އޭ">
+<!ENTITY menu.control.rep1.accesskey "އޯ">
+<!ENTITY menu.control.repx.accesskey "އީ">
+<!ENTITY menu.control.jumpto.accesskey "ޖޭ">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "ފައިލް ދައްކާ">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.help.accesskey "ޔޫ">
+<!ENTITY menu.help.bugz.accesskey "ބީ">
+<!ENTITY menu.help.help.accesskey "ޔޫ">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "އޭ">
+<!ENTITY trackeditor.title "މެޓަޑޭޓާ އެޑިޓަރ">
+<!ENTITY trackeditor.tab.summary.title "ކުރު ތައާރަފް">
+<!ENTITY trackeditor.tab.edit.title "ޕްރޮޕަރޓީސް">
+<!ENTITY trackeditor.tab.lyrics.title "ޅެން">
+<!ENTITY trackeditor.prev.button.label "<">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY trackeditor.addtag.title "ޓެގެއް އެޑްކުރޭ">
+<!ENTITY trackeditor.addtag.tag "ޓެގް">
+<!ENTITY jumptofile.title "ފުންމާ">
+<!ENTITY jumptofile.search "ހޯދާ">
+<!ENTITY hotkeys.useglobalhotkeys "ގްލޯބަލް ހޮޓްކީސް ބޭނުންކުރައްވާ">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "ޔޫ">
+<!ENTITY hotkeys.action "އެކްޝަން">
+<!ENTITY hotkeys.hotkey "ހޮޓް ކީ">
+<!ENTITY hotkeys.add " އެޑްކުރޭ">
+<!ENTITY hotkeys.set "ސެޓުކުރޭ">
+<!ENTITY hotkeys.remove "އުނިކުރޭ">
+<!ENTITY hotkeys.prefpane "ހޮޓް ކީ ތައް">
+<!ENTITY rapi.prefpane.title "ވެބް އިންޓެގްރޭޝަން">
+<!ENTITY rapi.prefpane.access.caption "ވެބް އިންޓެގްރޭޝަން ހުއްދަތައް">
+<!ENTITY rapi.whitelist.label "މި ފިޔަވާ">
+<!ENTITY rapi.restore_defaults.label "އެންމެކުރިން ހުރިގޮތަށް ބަހައްޓާ">
+<!ENTITY rapi.playback_control_disable.label "ވެބްސައިޓްތަކުން މީޑިއާ ޕްލޭބެކް ކޮންޓްރޯލް ކުރުން ބަންދުކޮށްލާ">
+<!ENTITY rapi.playback_read_disable.label "ވެބްސައިޓްތަކުން ޕްލޭ ކުރެވެމުންދާ މީޑިއާއާއި ބެހޭ މައުލޫމާތު ދެއްކުން ބަންދުކޮށްލާ">
+<!ENTITY rapi.library_read_disable.label "މަގޭ ލައިބްރަރީ އާއި އާލާތްތަކުގައި ހުރި މީޑިއާ އާއި ބެހޭ މައުލޫމާތު ވެބްސައިޓްތަކުން ބެލުން މަނާކުރޭ">
+<!ENTITY rapi.playback_control_disable.accesskey "ޕ">
+<!ENTITY rapi.playback_read_disable.accesskey "މ">
+<!ENTITY rapi.library_read_disable.accesskey "ސ">
+<!ENTITY rapi.library_write_disable.accesskey " ަ">
+<!ENTITY prefpane.addons.label "އެޑް-އޯންސް">
+<!ENTITY umsd.prefpane "ޔޫ.އެސް.ބީ">
+<!ENTITY umsd.no_devices_present "ޔޫއެސްބީ ޑިވައިސްއެއް ކޮމްޕިއުޓަރަށް ގުޅާފައެއް ނެތް">
+<!ENTITY umsd.music.tab "ލަވަ">
+<!ENTITY umsd.music.music_files_group "ލަވަ ފައިލްތައް">
+<!ENTITY umsd.music.music_path_desc "ޑިވައިސް އަށް ލަވަ ކޮޕީކުރާއިރު ތިރީގައިވާ ޑިރެކްޓަރީއަށް ލައްވާ">
+<!ENTITY umsd.music.music_path_browse_msg "ލަވަތައް ލާނެ ޑިރެކްޓަރީއެއް ޚިޔާރުކުރައްވާ">
+<!ENTITY umsd.music.music_ext_desc "ތިރީގައިވާ ވައްތަރުތަކުގެ ފައިލްތައް ޑިވައިސް އަށް ކޮޕީކުރޭ">
+<!ENTITY umsd.video.tab "ވީޑިޔޯ">
+<!ENTITY umsd.video.video_files_group "ވީޑިއޯ ތައް">
+<!ENTITY umsd.video.video_path_desc "ޑިވައިސް އަށް ވީޑިއޯ ފައިލް ތައް ކޮޕީކުރާއިރު، މިފޯލްޑަރ އަށް އެތަކެތި ލާ">
+<!ENTITY umsd.video.video_path_browse_msg "ވީޑިއޯ ފައިލްތައް ބަހައްޓަންވީ ޑައިރެކްޓްރީ ސެލެކްޓްކުރޭ">
+<!ENTITY umsd.video.video_ext_desc "އަންނަނިވި އެކްސްޓެންޝަންތައް އެކުލެވިގެންވާ ވީޑިއޯފައިލްތައް  ކޮޕީކުރޭ">
+<!ENTITY restartbox.restartnow "މިހާރު ރީސްޓާރޓްކުރޭ">
+<!ENTITY restartbox.restartonplaybackend "ލަވަޖަހާ ނިމުނީމަ ރީސްޓާރޓްކުރޭ">
+<!ENTITY restartbox.restartlater "ރީސްޓާރޓްކުރާނީ ފަހުން">
+<!ENTITY setupprogress.installingextensions "އެޑް-އޮންތައް އިންސްޓޯލްކުރަނީ">
+<!ENTITY jobprogress.details "އިތުރު ތަފްސީލް">
+<!ENTITY menu.updateCmd.label "އަޕްޑޭޓް ހުރިތޯ ބައްލަވާ">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "އެން">
+<!ENTITY menu.file.smart.key "އެން">
+<!ENTITY menu.file.open.key "އޯ">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "ޓީ">
+<!ENTITY menu.file.closetab.key "ޑަބްލިޔު">
+<!ENTITY menu.file.mini.key "އެމް">
+<!ENTITY menu.file.filescan.key "އޯ">
+<!ENTITY menu.edit.undo.key "ޒެޑް">
+<!ENTITY menu.edit.redo.key "ވައި">
+<!ENTITY menu.edit.cut.key "އެކްސް">
+<!ENTITY menu.edit.copy.key "ސީ">
+<!ENTITY menu.edit.paste.key "ވީ">
+<!ENTITY menu.edit.selall.key "އޭ">
+<!ENTITY menu.edit.find.key "އެފް">
+<!ENTITY menu.edit.findagain.key "ޖީ">
+<!ENTITY bookmarkPage.key "ޑ">
+<!ENTITY jumpto.key "J">
+<!ENTITY switchfeathers.key "ޟ">
+<!ENTITY search.key "ﷲ">
+<!ENTITY searchFocus.key "ޚ">
+<!ENTITY locationbar.key "އެލް">
+<!ENTITY locationbar.key2 "ޑީ">
+<!ENTITY currentTrackCmd.commandKey "ލ">
+<!ENTITY mediapage.next.key "އެސް">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode " VK_DELETE">
+<!ENTITY sanitize.key "ޑިލީޓް">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "ޖީ">
+<!ENTITY menu.control.playpause.spacebar "ސްޕޭސްބާ">
+<!ENTITY tabs.closeTab "މިޓެބް ނިވާލާ">
+<!ENTITY tabs.listAllTabs "ހުރިހާ ޓެބްތައް ލިސްޓްކުރޭ">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY prefs.homepage.label "ހޯމްޕޭޖް">
+<!ENTITY prefs.homepage.url.label "ޔޫއާރުއެލް">
+<!ENTITY prefs.security.addons.label "އެޑްއޮން އެޅުން">
+<!ENTITY command.device.cancel "ކެންސަލް">
+<!ENTITY command.device.cancel.accesskey "ޝ">
+<!ENTITY command.device.canceldevicecopy "ކޮޕީކުރުން ކެންސަލްކުރައްވާ">
+<!ENTITY command.device.canceldevicecopy.accesskey "ޝ">
+<!ENTITY command.device.canceldevicedelete "ނައްތާލުން ކެންސަލްކުރައްވާ">
+<!ENTITY command.device.canceldevicedelete.accesskey "ޝ">
+<!ENTITY command.device.canceldevicesync "ސިންކް ކެންސަލް ކުރައްވާ">
+<!ENTITY command.device.canceldevicesync.accesskey "ޝ">
+<!ENTITY command.device.canceldeviceupdate "އަޕްޑޭޓް ކެންސަލްކުރައްވާ">
+<!ENTITY command.device.canceldeviceupdate.accesskey "ޝ">
+<!ENTITY command.device.ejectdevice "ކޮމްޕިއުޓަރަށް ގުޅާފައިވާ ޑިވައިސް އިޖެކްޓްކުރޭ">
+<!ENTITY command.device.ejectdevice.accesskey "ޭ">
+<!ENTITY command.device.getdeviceinfo "މިޑިވައިސްއާބެހޭ މައުލޫމާތު ހޯދާ">
+<!ENTITY command.device.getdeviceinfo.accesskey "ީ">
+<!ENTITY command.device.renamedevice "ނަން ބަދަލުކުރައްވާ">
+<!ENTITY command.device.renamedevice.accesskey "ޜ">
+<!ENTITY command.device.devicesync "ސިންކްރޮނައިޒް ކުރައްވާ ">
+<!ENTITY command.device.devicesync.accesskey "ށ">
+<!ENTITY device.info.model.label "މޮޑެލް">
+<!ENTITY device.info.capacity.label "ޖާގަ">
+<!ENTITY device.info.friendly_name.label "ނަން">
+<!ENTITY device.info.serial_number.label "ސީރިއަލް ނަމްބަރ">
+<!ENTITY device.info.vendor.label "އުފެއްދި ފަރާތް">
+<!ENTITY device.info.access.label "އެކްސެސް ކޮންޕެޓިބިލިޓީ">
+<!ENTITY device.info.playback_formats.label "ޕްލޭބެކް ފޯމެޓްތައް">
+<!ENTITY device.info.battery.label "ބެޓެރީ">
+<!ENTITY device.info.firmware_version.label "ފަރމްވެއާ ނަންބަރު">
+<!ENTITY device.progress.sync "ސިންކް">
+<!ENTITY device.capacity.music.label "މިއުޒިކް">
+<!ENTITY device.capacity.video.label "ވީޑިއޯ">
+<!ENTITY device.capacity.other.label "އެހެނިހެން">
+<!ENTITY device.capacity.free.label "ހިލޭ">
+<!ENTITY device.unsupported_media.dialog.title "ކޮމްޕެޓިބްލް ނޫން ފައިލްތަކެއް ފެނިއްޖެ">
+<!ENTITY device.unsupported_media.dialog.enable "ބޭނުންނުކުރެވޭ ކަހަލަ ފައިލްތަކެއް ފެނިއްޖެނަމަ އަހަންނަށް އަންގާ">
+<!ENTITY device.sync.header.label "ސިންކުކުރުމުގެ ސެޓިންތައް">
+<!ENTITY device.sync.auto_sync.label "ސިންކު">
+<!ENTITY device.sync.sync_all.label "ހުރިހާ މިއުޒިކާއި ވީޑިއޯ ޕްލޭލިސްޓްތައް">
+<!ENTITY device.sync.sync_selected.label "ސެލެކްޓްކުރެވިފައިވާ ޕްލޭލިސްޓްތައް">
+<!ENTITY device.sync.playlist.title "ލަވައިގެ ނަން">
+<!ENTITY device.management.tabs.music.label "މިއުޒިކު">
+<!ENTITY device.management.tabs.tools.label "އާލާތްތައް">
+<!ENTITY openLinkCmdInDefaultBrowser.label "ލިންކް ހުޅުވޭނީ އާއްމުކޮށް ބޭނުންކުރާ ވެބް ބްރައުސާގަ">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "ސަފްހާ ހުޅުވޭނީ އާއްމުކޮށް ބޭނުންކުރާ ވެބް ބްރައުސާގަ">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "ފްރޭމް ހުޅުވޭނީ އާއްމުކޮށް ބޭނުންކުރާ ވެބް  ބްރައުސާގަ">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "ފޮޓޯ ހުޅުވޭނީ އާއްމުކޮށް ބޭނުންކުރާ ވެބް ބްރައުސާގަ">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "ސެލެކްޓް ކޮއްފަ އިން ޓެކްސްޓު ކޮޕީ ކުރޭ ">
+<!ENTITY copySelectionCmd.accesskey "ޗ">
+<!ENTITY playMediaCmd.label "ލަވަޖަހާ">
+<!ENTITY playMediaCmd.accesskey "ޕ">
+<!ENTITY downloadMediaCmd.label "ލައިބްރަރީ އަށް ޑައުންލޯޑުކުރޭ">
+<!ENTITY downloadMediaCmd.accesskey "ޑީ">
+<!ENTITY addMediaToPlaylistCmd.label "ޕްލޭލިސްޓަށް ޑައުންލޯޑް ކުރައްވާ">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "<ޕްލޭލިސްޓެއް ނެތް>">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "އައު ޕްލޭލިސްޓް">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "ނ">
+<!ENTITY subscribeMediaPageCmd.label "މިވެބްޕޭޖަށް ސަބްސްކްރައިބް ކުރޭ">
+<!ENTITY subscribeMediaPageCmd.accesskey "ު">
+<!ENTITY subscribeMediaFrameCmd.label "މި ފުރޭމްއަށް ސަބްސްކުރައިބް ކުރޭ">
+<!ENTITY subscribeMediaFrameCmd.accesskey "ު">
+<!ENTITY feedback.dialog.title "ލަވަ ދޫނި އިތުރައް ތަރައްގީ ކުރުމައް އެހީވެދީ">
+<!ENTITY feedback.dialog.yes "ރަގަޅު">
+<!ENTITY feedback.dialog.no "ނޫން">
+<!ENTITY feedback.dialog.sentence1 "ލަވަ ދޫނި އިތުރައް ތަރައްގީ ކުރުމައް ޓަކާކުރާ ސައވޭއްގަ ބައިވެރިވެ ދާނަންތޯ؟">
+<!ENTITY feedback.dialog.sentence2 "މިކަމަށް ޝައުގުވެރިކަމެއް ނެތްނަމަ ދެންނާހާނަން. އަޅުގަނޑުމެންގެ އުފެއްދުން ހިޔާރުކުރެއްވީތީ ޝުކުރިއްޔާ. ތިޔަބޭފުޅާ  &brandShortName;ބޭނުން ކުރެއްވުމަކީ އަޅުގަނޑުމެން އުފަލާއެކު ފާހަގަކުރާކަމެއް..">
+<!ENTITY feedback.dialog.sentence3 "ސަލާމް">
+<!ENTITY feedback.dialog.sentence4 "ލަވަދޫނި އުފެއްދި ޓީމް">
+<!ENTITY mediapages.firstrun.title "މަރުހަބާ އަދި ބޭންޑުގެ ކުރުނަން">
+<!ENTITY first_run.title "ލަވަދޫނި">
+<!ENTITY first_run.add_ons.header.label "ރިކޮމެންޑެޑް އެޑް-އޯންސްތައް">
+<!ENTITY first_run.add_ons.description.line1 "loabi">
+<!ENTITY first_run.add_ons.description.line2 "އެޑް - އޮންސް ބޭނުންކޮށްގެން އިތުރު ކަންތައްތައް ސޯންގް ބަރޑް އަށް ކުރެވޭނެ ، އަދި އިތުރު ޕްރޮގްރާމްތަކާއި އައު އާލާތްތަކާއި ސޯންގް ބަރޑް ގުޅުވައި ލެވޭނެ. އެޑް-އޮން ބޭނުން ކޮށްގެން މީގެ އިތުރަށް ސޯންގް ބަރޑްގެ ސޫރަ އަދި މިފަދަ އެތަށްކަމެށް ކުރެވޭނެ. އިތުރު އެޑް-އޮން ހޯދުމަށް &brandShortName; އަށްވަޑައިންނަވާ.">
+<!ENTITY first_run.add_ons.loading.label "ރިކޮމެންޑެޑް އެޑް-އޯންސްތައް ޑައުންލޯޑްކުރަނީ">
+<!ENTITY first_run.add_ons.load_failed.label "ރިކޮމެންޑެޑް އެޑް-އޯންސްތައް ޑައުންލޯޑްކުރެވޭ ގޮތެއްނުވި">
+<!ENTITY first_run.connection.header.label "ލަވަދޫންޏަށް އިންޓަރނެޓާ ގުޅާލެވޭގޮތެއްނުވި">
+<!ENTITY first_run.connection.description "ތިބޭފުޅާގެ ކަނެކްޝަން ސެޓިންގްސް ރަނގަޅުތޯ ބައްލަވާ. ނޫނީ ސެޓްއަޕް އެސިސްޓެންޓާއެކު ކުރިއަށް ވަޑައިގަންނަވާ">
+<!ENTITY first_run.connection.settings.button "ކަނެކްޝަން ސެޓިންތައް">
+<!ENTITY first_run.connection.settings.description "ތިޔަ ކޮމްޕިއުޓަރ ވަނީ ފަޔަރ ވޯލެއް ނުވަތަ ޕްރޮކްސީއެއްގެ ފަހަތުގަތޯ؟ ބައެއްފަހަރު ކަނެކްޝަން ސެޓިންގ ރަގަޅުކޮށްލުމުން އާދައިގެ މިފަދަ ނެޓްވާރކް މައްސަލަތައް ރަގަޅުވޭ">
+<!ENTITY first_run.eula.header.label "ލައިސަންސްގެ އެއްބަސްވުން">
+<!ENTITY first_run.eula.accept_checkbox.label "އަހަރެން މިލައިސަންސްގަިއވާ ނުކުތާތައް ކިޔައި އޭގައިވާ ކަންތައްތަކަށް އެއްބަސްވަމެވެ.">
+<!ENTITY first_run.eula.language.label "ބަސް">
+<!ENTITY first_run.feedback.header.label "ލަވަދޫނި އިތުރަށް ތަރައްގީކުރުމަށް އެހީވެލައްވާ">
+<!ENTITY first_run.feedback.metrics.description "މެޓްރިކް ތަކުން އެއްވެސް މީހެއްގެ އަމިއްލަ/ޕާރސަނަލް މައުލޫމާތެއް އެއްނުކުރާނެ">
+<!ENTITY first_run.feedback.email.header.label "މަށަށް މެއިލް ފޮނުވުންއެދެން">
+<!ENTITY first_run.feedback.email.description "އަޅުގަނޑުމެންގެ އެއްމެފަހުގެ ޚަބަރުތައް ހޯއްދެވުމަށް ނިއުސްލެޓާއަށް އެދިލައްވާ">
+<!ENTITY first_run.feedback.email.textbox.emptytext "އީމެއިލް އެޑްރެސް ލިޔޭ">
+<!ENTITY first_run.itunes.header.label "އައިޓިއުންސް އިން ލަވަ ނެގުން/ދިނުން">
+<!ENTITY first_run.itunes.checkbox.import.label "ލަވައާއި ލަވަ ލިސްޓް އައިޓިއުންސް އިން ސޯންގް ބަރޑް އަށް އެތެރެކުރޭ">
+<!ENTITY first_run.itunes.checkbox.export.label "އައު ލަވަތަކާއި ލަވަ ލިސްޓްތަށް އައިޓިއުންސްއަށް ފޮނުވާ">
+<!ENTITY first_run.itunes.checkbox.export.description "ސޯންގް ބަރޑް މެދުވެރިކޮށް ހޯދާ ލަވަ މިހާރު އައިޓިއުންސް އަށް ފޮނުވާލެވޭ، އޭރުން އައިޕޮޑް ނުވަތަ އައިފޯނަށްވެސް އެލަވަތަށް އެޅޭނެ">
+<!ENTITY first_run.import_media.header.label "މީޑިޔާ އިންޕޯޓު ކުރައްވާ">
+<!ENTITY first_run.import_media.radio.scan_directories.label "ކޮންޕިއުޓަރ ގެ ޑިރެކްޓަރީތައް ސްކޭންކުރޭ">
+<!ENTITY first_run.import_media.radio.dont_import.label "މީޑިއާ އިމްޕޯރޓް ނުކުރޭ">
+<!ENTITY first_run.import_media.scan_directories.watch.label "މިފޯލްޑަރަށް އަންނަ ބަދަލުތައް ބަލާ">
+<!ENTITY first_run.install_add_ons.title "އެޑްއޮންތައް ޑައުންލޯޑުވަނީ">
+<!ENTITY first_run.welcome.header.label "ލަވަދޫނި (ސޯންގްބަރޑް) އަށް މަރުހަބާ">
+<!ENTITY import_media.prefs.title "މީޑިޔާ އިންޕޯޓަރ">
+<!ENTITY import_library.dialog.title "ލައިބުރަރީ އިންޕޯޓު ކުރުން">
+<!ENTITY import_library.prefs.title "އައިޓިއުންސް އިމްޕޯރޓަރ">
+<!ENTITY import_library.library_file_label "ލައިބްރަރީ ފައިލް">
+<!ENTITY import_library.unsupported_media_alert_checkbox "މީގެން ޕްލޭނުކުރެވޭގޮތައް ހުންނަ ލަވަލަވައާއި ޕްލޭލިސްޓް އިމްޕޯޓް  ނުކުރެވިއްޖެ ހާލަތެއްގައި މަށަށް އަންގާލާތި">
+<!ENTITY import_library.prefs.path_group_caption "އައިޓިއުންސް ލަވަ ލައިބްރަރީ އިންތަން">
+<!ENTITY import_library.prefs.options_group_caption "އޮޕްޝަންޝްތައް އިންޕޯޓު ކުރޭ">
+<!ENTITY import_library.import_command "ލައިބުރަރީ އިންޕޯޓު ކުރޭ">
+<!ENTITY export_playlists_itunes_checkbox "ލަވަ ލިސްޓު ބޭރުކުރޭ">
+<!ENTITY export_smartplaylists_itunes_checkbox "ސްމާޓް ލަވަ ލިސްޓ ބޭރުކުރޭ">
+<!ENTITY import_library.dirty_playlist_dialog.title "ޕްލޭލިސްޓަށް ބަދަލުގެނެވިފައި">
+<!ENTITY import_library.dirty_playlist_dialog.keep "މިހާރުވެ ބޭނުންކުރާ &brandShortName; ޕްލޭލިސްޓް ބައިންދާ. (މިޕްލޭލިސްޓް އިމްޕޯޓް ނުކުރާތި) ">
+<!ENTITY import_library.dirty_playlist_dialog.merge "އައިޓިޔުންސް ޕްލޭލިސްޓާއި &brandShortName; ގުޅުވާލާ">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "މި ސެލެކްސަން ހުރިހާ ޕްލޭލިސްޓެއްގައި ބޭނުންކުރޭ">
+<!ENTITY watch_folder.prefs.title "ފޯލްޑަރ ބަލާ">
+<!ENTITY watch_folder.prefs.settings_group_caption "ފޯލްޑަރގެ ސެޓިންގް ބަލާ">
+<!ENTITY watch_folder.prefs.description "&brandShortName; އަށް ފޯލްޑަރ ގައިވާ ތަކެތި އޮޓޮމެޓިކަލީ އިތުރުކުރުމާއި ކެނޑޭނެ">
+<!ENTITY watch_folder.prefs.enable_checkbox "ފޯލްޑަރ އަށް އަންނަ ބަދަލުތައް އޯޓޮމެޓިކަލީ ބަލަމުން ގެންދިއުން">
+<!ENTITY watch_folder.prefs.watch_folder_label "ފޯލްޑަރ: ">
+<!ENTITY enable_recommended_addons_update.label "އަޅުގަނޑުމެން ރަނގަޅުކަމަށް ލަފާދޭ އެޑްއޮންސް">
+<!ENTITY enable_recommended_addons_update.accesskey "އާރް">
+<!ENTITY recommended_add_ons.title "ލަވަދޫނި ސެޓްއަޕް">
+<!ENTITY add_on_bundle_installer.error_box.label "އިތުރު ތަފްސީލް">
+<!ENTITY albumart.displaypane.not_playing_message "އެއްވެސް އެއްޗެއް ނެތް">
+<!ENTITY albumart.displaypane.not_selected_message "އެއްވެސް އެއްޗެއް އިޙުތިޔާރު ކުރެވިފައެއް ނެތް">
+<!ENTITY albumart.displaypane.drag_and_drop "މިތަނަށް އަލްބަމް އާރޓް ދަމާލާފަ ލާ">
+<!ENTITY albumart.displaypane.selected.menu.cut "ކަޓް">
+<!ENTITY albumart.displaypane.selected.menu.copy "ކޮޕީ">
+<!ENTITY albumart.displaypane.selected.menu.paste "ޕޭސްޓް">
+<!ENTITY albumart.displaypane.selected.menu.clear "ކްލިއަރ">
+<!ENTITY albumart.coverpreview.title "އަލްބަމް އާރޓް">
+<!ENTITY albumartpreferences.prefpane.priorities.down "ތިރި">
+<!ENTITY wizard.button.back.label "ފަހަތަށް ދިއުމަށް">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "ކެންސަލް">
+<!ENTITY wizard.button.next.label "ކުރިއަށް ގެންދަވާ">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "ނިމުނީ">
+<!ENTITY mediacore.error.title "މީޑިޔާކޯގެ މައްސަލައެއް">
+<!ENTITY mediacore.error.continue "ކުރިއަށް ގެންދަވާ">
+<!ENTITY mediacore.error.stop "ޕްލޭކުރުން ހުއްޓާލާ">
+<!ENTITY mediacore.error.dontshowme "މީޑިޔާގެ އެތެރޭގައި ޖެހޭ މައްސަލަތައް ނުދައްކާ">
+<!ENTITY playback.prefpane.label "ޕްލޭބެކް">
+<!ENTITY playback.prefpane.audio_output.label "އަޑު ބޭރުކުރާ">
+<!ENTITY playback.prefpane.audio_output.buffer "އައުޓްޕުޓް ބަފަރ:">
+<!ENTITY playback.prefpane.streaming.label "ވިއުގަ(ނެޓޮވޯކް)  އަދި ސްޓްރީމިން">
+<!ENTITY playback.prefpane.streaming.buffer ":ސްޓްރީމިން ބަފަރ  ">
+<!ENTITY playback.prefpane.normalization.label "ނޯމަލައިޒޭސަން">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "އަލްބަމް">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "ޓްރެކް">
+<!ENTITY playback.prefpane.units.kilobytes "ކޭބީ">
+<!ENTITY playback.prefpane.units.ms "މިލި ސިކުންތު">
+<!ENTITY fetch_album_art.dialog.title "އަލްބަމް އާޓެއް ނަގާ">
+<!ENTITY fetch_album_art.dialog.message "މިވަގުތު ނެހެދޭ … (14281 ނަންބަރު މައްސަލަ)  ">
+<!ENTITY cdrip.lookup.info_not_found.artist "އާޓިސްޓް">
+<!ENTITY cdrip.lookup.track_name "ލަވައިގެ ނަން">
+<!ENTITY about.credits.intro "ސޯންގް ބާރޑް އޭގެ ގޮތުގައި ވުޖޫދަށް އައުމަށް އެހީތެރިވެދެއްވި އެންމެހާ ފަރާތްތަކަށް އަޅުގަންޑުމެން ޝުކުރު އަދާކުރަމެވެ. ކޯޑް ލިޔުމުގަޔާއި، ލިޔެކިއުންތައް ތައްޔާރުކުރުމުގައި އަދި ޓެސްޓް ކުރުމުގައި އެފަރާތް ތަކުގެ އެހީތެރިކަން ފޯރުކޮށްދީފައި ވެއެވެ. މީގެ އިތުރުން ޕްރޮގްރާމް ދެމެހެއްޓުމަށާއި، މިއާއި ގުޅިގެންވާ ޑެވެލޮޕްމަންޓް ކިޓް ތަކާއި، ބިލްޑިންގް ޓޫލްސް އަދި ވެބްސައިޓް ގެ އެކި އެކި މަސައްކަތް ތަކުގައި އެހީތެރިކަން ފޯރުކޮށްދީފައި ވެއެވެ. ނަންތައް ލިޔެވިފައި އެވަނީ އައި.އާރ.ސީ ގައި ބޭނުން ކުރާ ގޮތަށެވެ.  އަހަރަމެންގެ އައި.އާރ.ސީ ޗެނަލް ގައި ވަގުތު ކޮޅެއް ހެދަކޮށްލައްވަން ހަންދުމަފުޅު ބަހައްޓަވައްޗެވެ. ">
+<!ENTITY about.credits.footer.beforeLink "ހަމަ ޔަގީނުންވެސް މިމަސައްކަތުގެ ކާމިޔާބީގެ ފަހަތުގައި މިފަރާތްތަކުގެ މިންނެތް މަސައްކަތް ފާހަގަ ކުރެވެއެވެ.">
+<!ENTITY about.credits.footer.linkText "އެހީވެދިން ފަރާތްތައް">
+<!ENTITY about.credits.footer.afterLink "މޮޒިއްލާ މަޝްރޫއު އަށް">
+<!ENTITY about.credits.heading.translators "ދިވެހިބަހަށް ތަރުޖަމާކުރީ">

@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName; Comenzi rapide de la tastatură" >
+<!ENTITY help.keyboard.subtitle           "Comenzi rapide de la tastatură" >
+<!ENTITY help.keyboard.description        "Comenzile rapide de la tastatură pot face acțiunile &brandShortName; mult mai uşoare. Mai jos găsiţi o listă de comenzi disponibile, urmate de comenzile lor rapide de la tastatură.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Comanda" >
+<!ENTITY help.keyboard.heading.shortcut   "Scurtătura" >
+<!ENTITY help.keyboard.section.playback   "Butoane pentru controlul redării" >
+<!ENTITY help.keyboard.section.library    "Bibliotecă și liste de redare" >
+<!ENTITY help.keyboard.section.editing    "Editare" >
+<!ENTITY help.keyboard.section.navigation "Navigare" >
+<!ENTITY help.keyboard.section.browser    "Navigator" >
+<!ENTITY help.keyboard.section.windows    "Ferestre și file" >
+<!ENTITY help.keyboard.section.search     "Caută" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "Extragere de pe CD" >
+<!ENTITY help.keyboard.section.misc       "Diverse" >
+
+<!ENTITY help.keyboard.key.left           "Săgeată stânga" >
+<!ENTITY help.keyboard.key.right          "Săgeată dreapta" >
+<!ENTITY help.keyboard.key.up             "Săgeată în sus" >
+<!ENTITY help.keyboard.key.down           "Săgeată în jos" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Acasă" >
+<!ENTITY help.keyboard.key.end            "Sfârșit" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Clic" >
+<!ENTITY help.keyboard.mouse.click.middle "Clic-mijloc" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Schimbare" >
+<!ENTITY help.keyboard.key.delete         "Șterge" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Redă/Pune pe pauză elementul selectat" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Redă elementul precedent dintr-o listă" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Redă elementul următor dintr-o listă" >
+<!ENTITY help.keyboard.name.volume.down         "Scade volumul" >
+<!ENTITY help.keyboard.name.volume.up           "Crește volumul" >
+<!ENTITY help.keyboard.name.volume.mute         "Fară sunet" >
+<!ENTITY help.keyboard.name.volume.max          "Volum maxim" >
+<!ENTITY help.keyboard.name.jumpto              "Salt la fereastră" >
+<!ENTITY help.keyboard.name.equalizer           "Deschide egalizatorul" >
+<!ENTITY help.keyboard.name.new.playlist        "Listă de redare nouă" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Listă de redare inteligentă nouă" >
+<!ENTITY help.keyboard.name.import              "Importă fișiere" >
+<!ENTITY help.keyboard.name.currenttrack        "Localizează elementul care se redă în acest moment" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Schimbă vizualizarea de fișiere" >
+<!ENTITY help.keyboard.name.feather.switch      "Schimbă aspectul penei" >
+<!ENTITY help.keyboard.name.trackeditor         "Editor de metadate" >
+<!ENTITY help.keyboard.name.edit.undo           "Refă" >
+<!ENTITY help.keyboard.name.edit.redo           "Repetă" >
+<!ENTITY help.keyboard.name.edit.selectall      "Selectează tot" >
+<!ENTITY help.keyboard.name.edit.cut            "Taie" >
+<!ENTITY help.keyboard.name.edit.copy           "Copiază" >
+<!ENTITY help.keyboard.name.edit.paste          "Lipește" >
+<!ENTITY help.keyboard.name.edit.delete         "Șterge" >
+<!ENTITY help.keyboard.name.browser.back        "Înapoi" >
+<!ENTITY help.keyboard.name.browser.forward     "Înainte" >
+<!ENTITY help.keyboard.name.browser.reload      "Reîncarcă" >
+<!ENTITY help.keyboard.name.browser.stop        "Oprește încărcarea" >
+<!ENTITY help.keyboard.name.open.file           "Deschide fișier" >
+<!ENTITY help.keyboard.name.open.url            "Deschide o adresă URL" >
+<!ENTITY help.keyboard.name.tab.open.link       "Deschide legătura într-o filă nouă" >
+<!ENTITY help.keyboard.name.save.link           "Salvează legătura" >
+<!ENTITY help.keyboard.name.file.print          "Tipărește" >
+<!ENTITY help.keyboard.name.view.source         "Vizualizează sursa" >
+<!ENTITY help.keyboard.name.view.zoomin         "Apropie" >
+<!ENTITY help.keyboard.name.view.zoomout        "Depărtează" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Resetează apropierea" >
+<!ENTITY help.keyboard.name.subscribe           "Abonare" >
+<!ENTITY help.keyboard.name.locationbar         "Focalizare pe bara de locație" >
+<!ENTITY help.keyboard.name.tab.new             "Filă nouă" >
+<!ENTITY help.keyboard.name.tab.close           "Închide fila" >
+<!ENTITY help.keyboard.name.tab.next            "Fila următoare" >
+<!ENTITY help.keyboard.name.tab.previous        "Fila precedentă" >
+<!ENTITY help.keyboard.name.tab.1               "Schimbă la fila 1" >
+<!ENTITY help.keyboard.name.tab.2               "Schimbă la fila 2" >
+<!ENTITY help.keyboard.name.tab.3               "Schimbă la fila 3" >
+<!ENTITY help.keyboard.name.tab.4               "Schimbă la fila 4" >
+<!ENTITY help.keyboard.name.tab.5               "Schimbă la fila 5" >
+<!ENTITY help.keyboard.name.tab.6               "Schimbă la fila 6" >
+<!ENTITY help.keyboard.name.tab.7               "Schimbă la fila 7" >
+<!ENTITY help.keyboard.name.tab.8               "Schimbă la fila 8" >
+<!ENTITY help.keyboard.name.tab.9               "Schimbă la ultima filă" >
+<!ENTITY help.keyboard.name.page.top            "Mută către antetul paginii" >
+<!ENTITY help.keyboard.name.page.bottom         "Mută către subsolul paginii" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Vizualizează pe tot ecranul" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimizează pe bară" >
+<!ENTITY help.keyboard.name.mac.hide            "Ascunde fereastra" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Ascunde alte aplicații" >
+<!ENTITY help.keyboard.name.downloads           "Descărcări" >
+<!ENTITY help.keyboard.name.find                "Caută" >
+<!ENTITY help.keyboard.name.find.again          "Caută din nou" >
+<!ENTITY help.keyboard.name.find.text           "Găsește în timp ce scrii textul" >
+<!ENTITY help.keyboard.name.find.link           "Găsește în timp ce scrii adresa" >
+<!ENTITY help.keyboard.name.search.focus        "Focalizare pe bara de căutare" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Pe tot ecranul" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video în partea de sus" >
+<!ENTITY help.keyboard.name.video.escape        "Ieșire din modul pe tot ecranul" >
+<!ENTITY help.keyboard.name.cdrip.start         "Extragere de pe CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Oprește extragerea de pe CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Scoate CD-ul" >
+<!ENTITY help.keyboard.name.quit                "Părăsește aplicația" >
+<!ENTITY help.keyboard.name.preferences         "Preferințe" >
+<!ENTITY help.keyboard.name.help                "Asistență" >
+<!ENTITY help.keyboard.name.sanitize            "Șterge datele private" >

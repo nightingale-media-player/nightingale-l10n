@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Dreceres de teclat del &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Dreceres de teclat" >
+<!ENTITY help.keyboard.description        "Les dreceres de teclat poden fer més senzilles tasques en el &brandShortName;. A continuació hi ha una llista de les ordres disponibles amb les seves respectives dreceres de teclat.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Ordre" >
+<!ENTITY help.keyboard.heading.shortcut   "Drecera de teclat" >
+<!ENTITY help.keyboard.section.playback   "Controls de la reproducció" >
+<!ENTITY help.keyboard.section.library    "Biblioteca i llistes de reproducció" >
+<!ENTITY help.keyboard.section.editing    "S&apos;està editant" >
+<!ENTITY help.keyboard.section.navigation "Navegació" >
+<!ENTITY help.keyboard.section.browser    "Navegador" >
+<!ENTITY help.keyboard.section.windows    "Finestres i pestanyes" >
+<!ENTITY help.keyboard.section.search     "Cerca" >
+<!ENTITY help.keyboard.section.video      "Vídeo" >
+<!ENTITY help.keyboard.section.cdrip      "Gravació de CD" >
+<!ENTITY help.keyboard.section.misc       "Misceŀlània" >
+
+<!ENTITY help.keyboard.key.left           "Fletxa esquerra" >
+<!ENTITY help.keyboard.key.right          "Fletxa dreta" >
+<!ENTITY help.keyboard.key.up             "Fletxa amunt" >
+<!ENTITY help.keyboard.key.down           "Fletxa avall" >
+<!ENTITY help.keyboard.key.pgup           "Re Pàg" >
+<!ENTITY help.keyboard.key.pgdn           "Av Pàg" >
+<!ENTITY help.keyboard.key.home           "Inici" >
+<!ENTITY help.keyboard.key.end            "Fi" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Clic" >
+<!ENTITY help.keyboard.mouse.click.middle "Clic amb el botó del mig" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Maj" >
+<!ENTITY help.keyboard.key.delete         "Supressió" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Reprodueix/atura l&apos;element seleccionat" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Reprodueix l&apos;anterior element de la llista" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Reprodueix el següent element de la llista" >
+<!ENTITY help.keyboard.name.volume.down         "Redueix el volum" >
+<!ENTITY help.keyboard.name.volume.up           "Augmenta el volum" >
+<!ENTITY help.keyboard.name.volume.mute         "Sense volum" >
+<!ENTITY help.keyboard.name.volume.max          "Volum màxim" >
+<!ENTITY help.keyboard.name.jumpto              "Vés a la finestra" >
+<!ENTITY help.keyboard.name.equalizer           "Obre l&apos;equalitzador" >
+<!ENTITY help.keyboard.name.new.playlist        "Nova llista de reproducció" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nova llista de reproducció inteŀligent" >
+<!ENTITY help.keyboard.name.import              "Importa elements multimèdia" >
+<!ENTITY help.keyboard.name.currenttrack        "Localitza el tema que s&apos;està reproduint" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Canvia a la vista multimèdia" >
+<!ENTITY help.keyboard.name.feather.switch      "Canvia el plomatge" >
+<!ENTITY help.keyboard.name.trackeditor         "Editor de metadades" >
+<!ENTITY help.keyboard.name.edit.undo           "Desfés" >
+<!ENTITY help.keyboard.name.edit.redo           "Refés" >
+<!ENTITY help.keyboard.name.edit.selectall      "Selecciona-ho tot" >
+<!ENTITY help.keyboard.name.edit.cut            "Retalla" >
+<!ENTITY help.keyboard.name.edit.copy           "Copia" >
+<!ENTITY help.keyboard.name.edit.paste          "Enganxa" >
+<!ENTITY help.keyboard.name.edit.delete         "Suprimeix" >
+<!ENTITY help.keyboard.name.browser.back        "Enrere" >
+<!ENTITY help.keyboard.name.browser.forward     "Endavant" >
+<!ENTITY help.keyboard.name.browser.reload      "Actualitza" >
+<!ENTITY help.keyboard.name.browser.stop        "Atura la càrrega" >
+<!ENTITY help.keyboard.name.open.file           "Obre un fitxer" >
+<!ENTITY help.keyboard.name.open.url            "Obre una adreça" >
+<!ENTITY help.keyboard.name.tab.open.link       "Obre l&apos;enllaç en una nova pestanya" >
+<!ENTITY help.keyboard.name.save.link           "Desa l&apos;enllaç" >
+<!ENTITY help.keyboard.name.file.print          "Imprimeix" >
+<!ENTITY help.keyboard.name.view.source         "Mostra el codi font" >
+<!ENTITY help.keyboard.name.view.zoomin         "Amplia" >
+<!ENTITY help.keyboard.name.view.zoomout        "Redueix" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Reinicia l&apos;escala" >
+<!ENTITY help.keyboard.name.subscribe           "Subscriu-m&apos;hi" >
+<!ENTITY help.keyboard.name.locationbar         "Vés a la barra de localització" >
+<!ENTITY help.keyboard.name.tab.new             "Nova pestanya" >
+<!ENTITY help.keyboard.name.tab.close           "Tanca la pestanya" >
+<!ENTITY help.keyboard.name.tab.next            "Pestanya següent" >
+<!ENTITY help.keyboard.name.tab.previous        "Pestanya anterior" >
+<!ENTITY help.keyboard.name.tab.1               "Canvia a la pestanya 1" >
+<!ENTITY help.keyboard.name.tab.2               "Canvia a la pestanya 2" >
+<!ENTITY help.keyboard.name.tab.3               "Canvia a la pestanya 3" >
+<!ENTITY help.keyboard.name.tab.4               "Canvia a la pestanya 4" >
+<!ENTITY help.keyboard.name.tab.5               "Canvia a la pestanya 5" >
+<!ENTITY help.keyboard.name.tab.6               "Canvia a la pestanya 6" >
+<!ENTITY help.keyboard.name.tab.7               "Canvia a la pestanya 7" >
+<!ENTITY help.keyboard.name.tab.8               "Canvia a la pestanya 8" >
+<!ENTITY help.keyboard.name.tab.9               "Canvia a la pestanya 9" >
+<!ENTITY help.keyboard.name.page.top            "Mou-ho a la part superior de la pàgina" >
+<!ENTITY help.keyboard.name.page.bottom         "Mou-ho a la part inferior de la pàgina" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Pantalla completa" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimitza a l&apos;acoblador" >
+<!ENTITY help.keyboard.name.mac.hide            "Amaga la finestra" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Amaga les altres aplicacions" >
+<!ENTITY help.keyboard.name.downloads           "Baixades" >
+<!ENTITY help.keyboard.name.find                "Cerca" >
+<!ENTITY help.keyboard.name.find.again          "Cerca de nou" >
+<!ENTITY help.keyboard.name.find.text           "Cerca mentre escric text" >
+<!ENTITY help.keyboard.name.find.link           "Cerca mentre escric un enllaç" >
+<!ENTITY help.keyboard.name.search.focus        "Situa&apos;t a la caixa de cerca" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Pantalla completa" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Vídeo per damunt" >
+<!ENTITY help.keyboard.name.video.escape        "Escapa de la Pantalla completa" >
+<!ENTITY help.keyboard.name.cdrip.start         "Grava el CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Atura la gravació del CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Expulsa el CD" >
+<!ENTITY help.keyboard.name.quit                "Surt" >
+<!ENTITY help.keyboard.name.preferences         "Preferències" >
+<!ENTITY help.keyboard.name.help                "Continguts de l&apos;ajuda" >
+<!ENTITY help.keyboard.name.sanitize            "Esborra les meves dades privades" >

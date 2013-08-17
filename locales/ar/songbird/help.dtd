@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "اختصارات لوحة المفاتيح ل&brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "اختصارات لوحة المفاتيح" >
+<!ENTITY help.keyboard.description        "اختصارات لوحة المفاتيح تسّهل المهام في &brandShortName;. القائمة في الأسفل تبين مجموعة من الأوامر المتوفرة والاختصارات المقابلة لها.">
+<!ENTITY help.platform.windows            "ويندوز" >
+<!ENTITY help.platform.macosx             "ماكينتوش" >
+<!ENTITY help.platform.linux              "لينكس" >
+<!ENTITY help.keyboard.heading.command    "الأمر" >
+<!ENTITY help.keyboard.heading.shortcut   "اختصار" >
+<!ENTITY help.keyboard.section.playback   "أدوات التحكم بالتشغيل" >
+<!ENTITY help.keyboard.section.library    "المكتبة وقوائم التشغيل" >
+<!ENTITY help.keyboard.section.editing    "تحرير" >
+<!ENTITY help.keyboard.section.navigation "تصفّح" >
+<!ENTITY help.keyboard.section.browser    "المتصفح" >
+<!ENTITY help.keyboard.section.windows    "النوافذ والألسنة" >
+<!ENTITY help.keyboard.section.search     "بحث" >
+<!ENTITY help.keyboard.section.video      "فيديو" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "متفرقات" >
+
+<!ENTITY help.keyboard.key.left           "سهم لليسار" >
+<!ENTITY help.keyboard.key.right          "سهم لليمين" >
+<!ENTITY help.keyboard.key.up             "سهم للأعلى" >
+<!ENTITY help.keyboard.key.down           "سهم للأسفل" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "اكبس زر الفأرة" >
+<!ENTITY help.keyboard.mouse.click.middle "زر الفأرة الأوسط" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "شغّل/أوقف العنصر المختار" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "شغّل العنصر السابق في القائمة" >
+<!ENTITY help.keyboard.name.playcontrol.next    "شغّل العنصر التالي في القائمة" >
+<!ENTITY help.keyboard.name.volume.down         "خفّض الصوت" >
+<!ENTITY help.keyboard.name.volume.up           "علّ الصوت" >
+<!ENTITY help.keyboard.name.volume.mute         "أصمت" >
+<!ENTITY help.keyboard.name.volume.max          "أعلى صوت" >
+<!ENTITY help.keyboard.name.jumpto              "انتقل للنافذة" >
+<!ENTITY help.keyboard.name.equalizer           "Open the Equalizer" >
+<!ENTITY help.keyboard.name.new.playlist        "قائمة تشغيل جديدة" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "قائمة تشغيل ذكية جديدة" >
+<!ENTITY help.keyboard.name.import              "استورد الوسائط" >
+<!ENTITY help.keyboard.name.currenttrack        "اعثر على الأغاني التي تُشغّل الآن" >
+<!ENTITY help.keyboard.name.mediapage.switch    "بدّل طريقة عرض الأغاني" >
+<!ENTITY help.keyboard.name.feather.switch      "غيّر شكل الريش" >
+<!ENTITY help.keyboard.name.trackeditor         "محرر البيانات الفوقية" >
+<!ENTITY help.keyboard.name.edit.undo           "تراجع" >
+<!ENTITY help.keyboard.name.edit.redo           "أعِد" >
+<!ENTITY help.keyboard.name.edit.selectall      "اختر الكل" >
+<!ENTITY help.keyboard.name.edit.cut            "قص" >
+<!ENTITY help.keyboard.name.edit.copy           "انسخ" >
+<!ENTITY help.keyboard.name.edit.paste          "الصق" >
+<!ENTITY help.keyboard.name.edit.delete         "احذف" >
+<!ENTITY help.keyboard.name.browser.back        "تراجع" >
+<!ENTITY help.keyboard.name.browser.forward     "للأمام" >
+<!ENTITY help.keyboard.name.browser.reload      "أعد التحميل" >
+<!ENTITY help.keyboard.name.browser.stop        "أوقف التحميل" >
+<!ENTITY help.keyboard.name.open.file           "افتح ملف" >
+<!ENTITY help.keyboard.name.open.url            "افتح مسار" >
+<!ENTITY help.keyboard.name.tab.open.link       "افتح الوصلة في تبويب جديد" >
+<!ENTITY help.keyboard.name.save.link           "احفظ الوصلة" >
+<!ENTITY help.keyboard.name.file.print          "اطبع" >
+<!ENTITY help.keyboard.name.view.source         "اعرض المصدر" >
+<!ENTITY help.keyboard.name.view.zoomin         "قرّب" >
+<!ENTITY help.keyboard.name.view.zoomout        "بعّد" >
+<!ENTITY help.keyboard.name.view.zoomreset      "صفّر التقريب" >
+<!ENTITY help.keyboard.name.subscribe           "سجّل" >
+<!ENTITY help.keyboard.name.locationbar         "شريط المكان" >
+<!ENTITY help.keyboard.name.tab.new             "لسان جديد" >
+<!ENTITY help.keyboard.name.tab.close           "أغلق اللسان" >
+<!ENTITY help.keyboard.name.tab.next            "اللسان التالي" >
+<!ENTITY help.keyboard.name.tab.previous        "اللسان السابق" >
+<!ENTITY help.keyboard.name.tab.1               "انتقل إلى لسان 1" >
+<!ENTITY help.keyboard.name.tab.2               "انتقل إلى لسان 2" >
+<!ENTITY help.keyboard.name.tab.3               "انتقل إلى لسان 3" >
+<!ENTITY help.keyboard.name.tab.4               "انتقل إلى لسان 4" >
+<!ENTITY help.keyboard.name.tab.5               "انتقل إلى لسان 5" >
+<!ENTITY help.keyboard.name.tab.6               "انتقل إلى لسان 6" >
+<!ENTITY help.keyboard.name.tab.7               "انتقل إلى لسان 7" >
+<!ENTITY help.keyboard.name.tab.8               "انتقل إلى لسان 8" >
+<!ENTITY help.keyboard.name.tab.9               "انتقل الي اخر لسان" >
+<!ENTITY help.keyboard.name.page.top            "نقل إلى أعلى الصفحة" >
+<!ENTITY help.keyboard.name.page.bottom         "نقل إلى أسفل الصفحة" >
+<!ENTITY help.keyboard.name.view.fullscreen     "ملء الشاشة" >
+<!ENTITY help.keyboard.name.mac.minimize        "صغّر" >
+<!ENTITY help.keyboard.name.mac.hide            "أخفِ النافذة" >
+<!ENTITY help.keyboard.name.mac.hideothers      "أخفِ التطبيقات الأُخرى" >
+<!ENTITY help.keyboard.name.downloads           "التنزيلات" >
+<!ENTITY help.keyboard.name.find                "ابحث" >
+<!ENTITY help.keyboard.name.find.again          "ابحث مرة أخرى" >
+<!ENTITY help.keyboard.name.find.text           "ابحث أثناء كتابة النص" >
+<!ENTITY help.keyboard.name.find.link           "ابحث أثناء كتابة الرابط" >
+<!ENTITY help.keyboard.name.search.focus        "صندوق البحث المحدد" >
+<!ENTITY help.keyboard.name.video.fullscreen    "الشاشه الكامله" >
+<!ENTITY help.keyboard.name.video.bringtofront  "الفيديو الي الاعلي" >
+<!ENTITY help.keyboard.name.video.escape        "الخروج من الشاشه الكامله" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "اخرج السي دي" >
+<!ENTITY help.keyboard.name.quit                "أغلق" >
+<!ENTITY help.keyboard.name.preferences         "تفضيلات" >
+<!ENTITY help.keyboard.name.help                "مواضيع مساعدة" >
+<!ENTITY help.keyboard.name.sanitize            "امسح معلوماتك الشخصية" >

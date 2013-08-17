@@ -1,0 +1,74 @@
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Befehl">
+<!ENTITY help.keyboard.heading.shortcut "Schnellbefehl">
+<!ENTITY help.keyboard.section.editing "Editeiren">
+<!ENTITY help.keyboard.section.browser "Browser">
+<!ENTITY help.keyboard.section.search "Sichen">
+<!ENTITY help.keyboard.key.left "Lenks Pfeiltast">
+<!ENTITY help.keyboard.key.right "Riets Pfeiltast">
+<!ENTITY help.keyboard.key.up "Ierwesch Pfeiltast">
+<!ENTITY help.keyboard.key.down "Pfeiltast eroof">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Klick">
+<!ENTITY help.keyboard.mouse.click.middle "Mettel-Klick">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Läschen">
+<!ENTITY help.keyboard.name.volume.down "Mei lues">
+<!ENTITY help.keyboard.name.volume.up "Mei haard">
+<!ENTITY help.keyboard.name.volume.mute "Stomm schalten">
+<!ENTITY help.keyboard.name.volume.max "Maximal Lautstärk">
+<!ENTITY help.keyboard.name.import "Media importeiren">
+<!ENTITY help.keyboard.name.edit.undo "Reckgaengeg maen">
+<!ENTITY help.keyboard.name.edit.redo "Reckgaengeg maen">
+<!ENTITY help.keyboard.name.edit.selectall "Alles auswielen">
+<!ENTITY help.keyboard.name.edit.cut "Ausschneiden">
+<!ENTITY help.keyboard.name.edit.copy "Kopéieren">
+<!ENTITY help.keyboard.name.edit.paste "Hipeschen">
+<!ENTITY help.keyboard.name.edit.delete "Läschen">
+<!ENTITY help.keyboard.name.browser.back "Zereck">
+<!ENTITY help.keyboard.name.browser.forward "Nofier">
+<!ENTITY help.keyboard.name.browser.reload "Nei lueden">
+<!ENTITY help.keyboard.name.browser.stop "Lueden ennerbrieschen">
+<!ENTITY help.keyboard.name.open.file "Datei Opmaen">
+<!ENTITY help.keyboard.name.file.print "Printen">
+<!ENTITY help.keyboard.name.view.zoomin "Eranzoomen">
+<!ENTITY help.keyboard.name.view.zoomout "Erouszoomen">
+<!ENTITY help.keyboard.name.view.zoomreset "Zoom zereckstellen">
+<!ENTITY help.keyboard.name.tab.new "Neien Tap">
+<!ENTITY help.keyboard.name.tab.close "Tap zoumaen">
+<!ENTITY help.keyboard.name.tab.next "Nechsten Tap">
+<!ENTITY help.keyboard.name.tab.previous "Leschten Tap">
+<!ENTITY help.keyboard.name.view.fullscreen "Vollbild">
+<!ENTITY help.keyboard.name.mac.hide "Fenster verstoppen">
+<!ENTITY help.keyboard.name.mac.hideothers "Aaner Programmer verstoppen">
+<!ENTITY help.keyboard.name.downloads "Downloads">
+<!ENTITY help.keyboard.name.find "Fannen">
+<!ENTITY help.keyboard.name.find.again "Nachengkeier fannen">
+<!ENTITY help.keyboard.name.help "Hellef Themen">

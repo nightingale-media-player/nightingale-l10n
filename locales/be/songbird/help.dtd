@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Клавіятурныя скарачэнні &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Клавіятурныя скарачэнні" >
+<!ENTITY help.keyboard.description        "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Command" >
+<!ENTITY help.keyboard.heading.shortcut   "Скарачэнне" >
+<!ENTITY help.keyboard.section.playback   "Панэль кантролю прайгравання" >
+<!ENTITY help.keyboard.section.library    "Бібліятэка й сьпісы" >
+<!ENTITY help.keyboard.section.editing    "Рэдагаванне" >
+<!ENTITY help.keyboard.section.navigation "Навігацыя" >
+<!ENTITY help.keyboard.section.browser    "Агляднік" >
+<!ENTITY help.keyboard.section.windows    "Вокны і ўстаўкі" >
+<!ENTITY help.keyboard.section.search     "Пошук" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Рознае" >
+
+<!ENTITY help.keyboard.key.left           "Left Arrow" >
+<!ENTITY help.keyboard.key.right          "Right Arrow" >
+<!ENTITY help.keyboard.key.up             "Up Arrow" >
+<!ENTITY help.keyboard.key.down           "Down Arrow" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Click" >
+<!ENTITY help.keyboard.mouse.click.middle "Middle-Click" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Выдаліць" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Play/Pause the Selected Media Item" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Play the Previous Media Item in a List" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Play the Next Media Item in a List" >
+<!ENTITY help.keyboard.name.volume.down         "Зменшыць гучнасць" >
+<!ENTITY help.keyboard.name.volume.up           "Павялічыць гучнасьць" >
+<!ENTITY help.keyboard.name.volume.mute         "Адключыць гук" >
+<!ENTITY help.keyboard.name.volume.max          "Максімальны гук" >
+<!ENTITY help.keyboard.name.jumpto              "Перайсці да вакна" >
+<!ENTITY help.keyboard.name.equalizer           "Open the Equalizer" >
+<!ENTITY help.keyboard.name.new.playlist        "Новы спіс" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Новы &quot;разумны&quot; сьпіс" >
+<!ENTITY help.keyboard.name.import              "Імпартаваць мэдыя" >
+<!ENTITY help.keyboard.name.currenttrack        "Адлюстраваць месцазнаходжанне мэдыя элемента, які цяпер прайграецца" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Switch Media View" >
+<!ENTITY help.keyboard.name.feather.switch      "Switch Feather Layouts" >
+<!ENTITY help.keyboard.name.trackeditor         "Рэдактар meta-дадзеных" >
+<!ENTITY help.keyboard.name.edit.undo           "Адмяніць" >
+<!ENTITY help.keyboard.name.edit.redo           "Вярнуць" >
+<!ENTITY help.keyboard.name.edit.selectall      "Вылучыць усё" >
+<!ENTITY help.keyboard.name.edit.cut            "Выразаць" >
+<!ENTITY help.keyboard.name.edit.copy           "Скапіяваць" >
+<!ENTITY help.keyboard.name.edit.paste          "Уставіць" >
+<!ENTITY help.keyboard.name.edit.delete         "Выдаліць" >
+<!ENTITY help.keyboard.name.browser.back        "Назад" >
+<!ENTITY help.keyboard.name.browser.forward     "Наперад" >
+<!ENTITY help.keyboard.name.browser.reload      "Перазагрузіць" >
+<!ENTITY help.keyboard.name.browser.stop        "Спыніць загрузку" >
+<!ENTITY help.keyboard.name.open.file           "Адчыніць файл" >
+<!ENTITY help.keyboard.name.open.url            "Адчыніць спасылку" >
+<!ENTITY help.keyboard.name.tab.open.link       "Адчыніць спасылку ў новай ўстаўцы" >
+<!ENTITY help.keyboard.name.save.link           "Захаваць спасылку" >
+<!ENTITY help.keyboard.name.file.print          "Друкаваць" >
+<!ENTITY help.keyboard.name.view.source         "Праглядзець зыходнік" >
+<!ENTITY help.keyboard.name.view.zoomin         "Павялічыць маштаб" >
+<!ENTITY help.keyboard.name.view.zoomout        "Паменшыць маштаб" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Маштаб па змаўчанні" >
+<!ENTITY help.keyboard.name.subscribe           "Падпіска" >
+<!ENTITY help.keyboard.name.locationbar         "Focus Location Bar" >
+<!ENTITY help.keyboard.name.tab.new             "Новая ўстаўка" >
+<!ENTITY help.keyboard.name.tab.close           "Зачыніць ўстаўку" >
+<!ENTITY help.keyboard.name.tab.next            "Наступная ўстаўка" >
+<!ENTITY help.keyboard.name.tab.previous        "Папярэдняя ўстаўка" >
+<!ENTITY help.keyboard.name.tab.1               "Пераключыцца на ўстаўку #1" >
+<!ENTITY help.keyboard.name.tab.2               "Пераключыцца на ўстаўку #2" >
+<!ENTITY help.keyboard.name.tab.3               "Пераключыцца на ўстаўку #3" >
+<!ENTITY help.keyboard.name.tab.4               "Пераключыцца на ўстаўку #4" >
+<!ENTITY help.keyboard.name.tab.5               "Пераключыцца на ўстаўку #5" >
+<!ENTITY help.keyboard.name.tab.6               "Пераключыцца на ўстаўку #6" >
+<!ENTITY help.keyboard.name.tab.7               "Пераключыцца на ўстаўку #7" >
+<!ENTITY help.keyboard.name.tab.8               "Пераключыцца на ўстаўку #8" >
+<!ENTITY help.keyboard.name.tab.9               "Пераключыцца на апошнюю ўстаўку" >
+<!ENTITY help.keyboard.name.page.top            "Move to Top of Page" >
+<!ENTITY help.keyboard.name.page.bottom         "Move to Bottom of Page" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Ва ўвесь экран" >
+<!ENTITY help.keyboard.name.mac.minimize        "Згарнуць у Dock" >
+<!ENTITY help.keyboard.name.mac.hide            "Схаваць вакенца" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Схаваць іншыя аплікацыі" >
+<!ENTITY help.keyboard.name.downloads           "Сьцягваньні" >
+<!ENTITY help.keyboard.name.find                "Знайсьці" >
+<!ENTITY help.keyboard.name.find.again          "Шукаць зноў" >
+<!ENTITY help.keyboard.name.find.text           "Find As You Type Text" >
+<!ENTITY help.keyboard.name.find.link           "Find As You Type Link" >
+<!ENTITY help.keyboard.name.search.focus        "Focus Search Box" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Full Screen" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
+<!ENTITY help.keyboard.name.video.escape        "Escape from Full Screen" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Выняць CD" >
+<!ENTITY help.keyboard.name.quit                "Выйсці" >
+<!ENTITY help.keyboard.name.preferences         "Наладкі" >
+<!ENTITY help.keyboard.name.help                "Змест даведкі" >
+<!ENTITY help.keyboard.name.sanitize            "Ачысціць Вашыя прыватныя дадзеныя" >

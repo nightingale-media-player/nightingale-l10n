@@ -1,0 +1,856 @@
+<!ENTITY songbird           " &brandShortName;" >
+<!ENTITY window.ok          "确定" >
+<!ENTITY window.cancel      "取消" >
+<!ENTITY window.apply       "应用" >
+<!ENTITY window.browse      "浏览…" >
+<!ENTITY window.save        "保存">
+<!ENTITY window.yes         "是">
+<!ENTITY window.no          "否">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "退出 &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "首选项">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "服务">
+<!ENTITY menu.mac.hide                  "隐藏 &brandShortName;">
+<!ENTITY menu.mac.hide.key              "H">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "隐藏其他">
+<!ENTITY menu.mac.hideothers.key        "H">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "显示全部">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "文件" >
+<!ENTITY menu.file.new          "新建播放列表…" >
+<!ENTITY menu.file.smart        "新建智能播放列表…" >
+<!ENTITY menu.file.remote       "新订阅…" >
+<!ENTITY menu.file.podcast      "新Podcast…" >
+<!ENTITY menu.file.open         "打开文件…" >
+<!ENTITY menu.file.url          "按网址打开…" >
+<!ENTITY menu.file.playlist     "导入播放列表…" >
+<!ENTITY menu.file.library      "导入媒体库…" >
+<!ENTITY menu.file.newtab       "新建标签页" >
+<!ENTITY menu.file.closetab     "关闭标签" >
+<!ENTITY menu.file.metadata     "查看元数据">
+<!ENTITY menu.file.scan         "导入媒体…" >
+<!ENTITY menu.file.exit         "退出" >
+
+<!ENTITY menu.edit          "编辑" >
+<!ENTITY menu.edit.undo     "撤消" >
+<!ENTITY menu.edit.redo     "重做" >
+<!ENTITY menu.edit.cut      "剪切" >
+<!ENTITY menu.edit.copy     "复制" >
+<!ENTITY menu.edit.paste    "粘贴" >
+<!ENTITY menu.edit.delete   "删除" >
+<!ENTITY menu.edit.selall   "全选" >
+<!ENTITY menu.edit.find        "查找" >
+<!ENTITY menu.edit.findagain   "再次查找" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "首选项">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "控制" >
+<!ENTITY menu.control.play  "播放" >
+<!ENTITY menu.control.pause "暂停" >
+<!ENTITY menu.control.next  "下一首音乐" >
+<!ENTITY menu.control.prev  "上一首音乐" >
+<!ENTITY menu.control.shuf  "随机顺序" >
+<!ENTITY menu.control.repa  "列表循环" >
+<!ENTITY menu.control.rep1  "单曲循环" >
+<!ENTITY menu.control.repx  "不重复播放" >
+<!ENTITY menu.control.jumpto "跳转到…" >
+
+<!ENTITY menu.control.play.button      "播放" >
+<!ENTITY menu.control.pause.button     "暂停" >
+<!ENTITY menu.control.stop.button      "停止" >
+
+<!ENTITY displaypane.default.image.pre "从菜单中选择一个扩展">
+<!ENTITY displaypane.default.image.tooltip "扩展固定图标">
+<!ENTITY displaypane.default.image.post "或访问">
+<!ENTITY displaypane.default.link.pre "从">
+<!ENTITY displaypane.default.link.text "扩展下载网站">
+<!ENTITY displaypane.default.link.post "浏览扩展">
+<!ENTITY displaypane.name.servicepane   "服务面板底部">
+<!ENTITY displaypane.name.browser       "内容面板底部">
+<!ENTITY displaypane.name.sidebar       "右侧边栏">
+<!ENTITY servicepane.title.label        "服务面板">
+
+<!ENTITY menu.tools            "工具" >
+<!ENTITY menu.tools.getartwork "获取专辑封面">
+<!ENTITY menu.tools.exportmedia "导出库的改变">
+
+<!ENTITY menu.help          "帮助" >
+<!ENTITY menu.help.homepage "&brandShortName; 网站" >
+<!ENTITY menu.help.bugz     "报告软件缺陷…" >
+<!ENTITY menu.help.topics   "帮助话题" >
+<!ENTITY menu.help.keyboard "键盘快捷键">
+<!ENTITY menu.help.about    "关于 &brandShortName;" >
+
+<!ENTITY menu.equalizer     "均衡器…" >
+<!ENTITY menu.preferences   "选项" >
+<!ENTITY menu.extensions    "扩展" >
+<!ENTITY menu.clearprivatedata "清除隐私数据…">
+<!ENTITY menu.errorconsole "错误控制台">
+<!ENTITY menu.downloadmgr   "文件下载" >
+<!ENTITY menu.switchplayercontrols  "播放控制" >
+<!ENTITY menu.controllerontop       "在顶部显示">
+<!ENTITY menu.controlleronbottom    "在底部显示">
+
+<!ENTITY menu.fullscreen            "全屏">
+<!ENTITY menu.videotofront          "视频在前面">
+
+<!ENTITY device.dialog.wait_for_completion.title  "等待设备.">
+<!ENTITY device.dialog.wait_for_completion.msg    "正在等待设备操作结束. 点击&quot;退出&quot;结束等待并退出程序.">
+<!ENTITY device.dialog.wait_for_completion.quit   "退出">
+
+<!ENTITY tooltip.minimize         "最小化" >
+<!ENTITY tooltip.maximize         "最大化/恢复" >
+<!ENTITY tooltip.exit             "退出" >
+<!ENTITY tooltip.close            "关闭" >
+<!ENTITY tooltip.hide             "隐藏" >
+<!ENTITY tooltip.fullscreen       "全屏" >
+<!ENTITY tooltip.control.back     "上一首音乐" >
+<!ENTITY tooltip.control.play     "播放" >
+<!ENTITY tooltip.control.pause    "暂停" >
+<!ENTITY tooltip.control.resume   "恢复" >
+<!ENTITY tooltip.control.stop     "停止" >
+<!ENTITY tooltip.control.fwd      "下一首音乐" >
+<!ENTITY tooltip.control.mute     "静音" >
+<!ENTITY tooltip.control.volume   "音量" >
+<!ENTITY tooltip.control.shuffle  "随机顺序" >
+<!ENTITY tooltip.control.shuf_off "正常顺序" >
+<!ENTITY tooltip.control.curtrack "查找当前音乐" >
+<!ENTITY tooltip.search           "查找" >
+<!ENTITY tooltip.browser.back     "后退" >
+<!ENTITY tooltip.browser.fwd      "前进" >
+<!ENTITY tooltip.browser.stop     "停止浏览器" >
+<!ENTITY tooltip.browser.home     "主页" >
+<!ENTITY tooltip.browser.refresh  "刷新" >
+<!ENTITY tooltip.browser.subscription "订阅此页" >
+<!ENTITY tooltip.browser.mediapages.list "列表视图" >
+<!ENTITY tooltip.browser.mediapages.filter "过滤器面板视图" >
+<!ENTITY tooltip.browser.mediapages "切换媒体视图…" >
+<!ENTITY tooltip.servicepane.show    "显示服务面板" >
+<!ENTITY tooltip.servicepane.collapse    "收起服务面板" >
+<!ENTITY tooltip.servicepane.newnode "新建播放列表" >
+<!ENTITY tooltip.displaypane.options "内容面板选项">
+
+<!ENTITY smart.window             "智能播放列表" >
+<!ENTITY smart.limit              "限于" >
+<!ENTITY smart.match              "匹配" >
+<!ENTITY smart.matchsingle        "与以下条件匹配:" >
+<!ENTITY smart.any                "任何" >
+<!ENTITY smart.all                "全部" >
+<!ENTITY smart.following          "在下列情况下：" >
+<!ENTITY smart.random             "随机" >
+<!ENTITY smart.album              "专辑" >
+<!ENTITY smart.artist             "艺术家" >
+<!ENTITY smart.genre              "风格" >
+<!ENTITY smart.title              "标题" >
+<!ENTITY smart.high_rating        "最高评分" >
+<!ENTITY smart.low_rating         "最低评分" >
+<!ENTITY smart.most_recent        "最近播放" >
+<!ENTITY smart.least_recent       "近期最少播放的" >
+<!ENTITY smart.most_often         "最常播放" >
+<!ENTITY smart.least_often        "最不经常播放的" >
+<!ENTITY smart.most_added         "最近被添加" >
+<!ENTITY smart.least_added        "最少最近添加的" >
+<!ENTITY smart.minutes            "分钟" >
+<!ENTITY smart.hours              "小时" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "项目" >
+<!ENTITY smart.selectedby         "选择方式" >
+<!ENTITY smart.to                 "至" >
+<!ENTITY smart.autoupdate         "自动更新">
+<!ENTITY smart.playlistcondition.library "媒体库">
+<!ENTITY smart.contenttypecondition.video "视频">
+<!ENTITY smart.contenttypecondition.audio "音乐">
+
+<!ENTITY textbox.songbird_open_url "输入要重放媒体的地址或路径:">
+
+<!ENTITY open_url.title           "打开地址">
+<!ENTITY subscribe.title          "订阅">
+<!ENTITY subscribe.url            "网址:">
+<!ENTITY subscribe.minutes        "分钟">
+<!ENTITY subscribe.hours          "小时">
+<!ENTITY subscribe.days           "天">
+<!ENTITY subscribe.autocheck      "每日自动更新">
+<!ENTITY subscribe.destinationfolder      "选择目标文件夹：">
+
+<!ENTITY feed.subscribe.label     "订阅">
+<!ENTITY feed.subscribe.dontask   "不再自动选择此对话框">
+<!ENTITY feed.subscribe.close     "关闭">
+
+<!ENTITY podcast.creation_dialog.title       "新Podcast">
+<!ENTITY podcast.creation_dialog.url.heading "URL：">
+
+
+<!ENTITY watchfolder.title        "监视文件夹">
+<!ENTITY watchfolder.folderlist   "监视这些文件夹以便发现新媒体">
+
+<!ENTITY locale.language          "语言" >
+<!ENTITY menu.view                "显示" >
+<!ENTITY about.version            "版本" >
+<!ENTITY about.buttons.credits    "鸣谢" >
+
+<!ENTITY equalizer.title          "均衡器" >
+<!ENTITY equalizer.on.checkbox    "开启" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "自定义" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rock(摇滚)" >
+<!ENTITY equalizer.preset.soft_rock   "轻柔摇滚" >
+<!ENTITY equalizer.preset.techno      "电子乐" >
+<!ENTITY equalizer.preset.ska         "斯卡" >
+<!ENTITY equalizer.preset.reggae      "瑞格舞" >
+<!ENTITY equalizer.preset.live        "直播" >
+<!ENTITY equalizer.preset.club        "Club(俱乐部)" >
+<!ENTITY equalizer.preset.party       "派对" >
+<!ENTITY equalizer.preset.classical   "Classical(古典)" >
+<!ENTITY equalizer.preset.large_hall  "大厅" >
+<!ENTITY equalizer.preset.dance       "Dance(舞曲)" >
+<!ENTITY equalizer.preset.pop         "Pop(流行)" >
+<!ENTITY equalizer.preset.soft        "轻柔" >
+<!ENTITY equalizer.preset.small_speakers   "笔记本／耳机" >
+<!ENTITY equalizer.preset.full_bass_treble "重低音重高音" >
+<!ENTITY equalizer.preset.full_treble "全高音" >
+<!ENTITY equalizer.preset.full_bass   "全低音" >
+
+
+<!ENTITY setupprogress.pleasewait "请稍候…" >
+<!ENTITY setupprogress.cancel     "取消">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "U" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "W" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "L" >
+<!ENTITY menu.view.accesskey              "V" >
+<!ENTITY menu.preferences.accesskey       "O" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "A" >
+<!ENTITY menu.clearprivatedata.accesskey  "P" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "X" >
+<!ENTITY menu.downloadmgr.accesskey       "D" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "U" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "T" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "P" >
+<!ENTITY menu.edit.delete.accesskey   "D" >
+<!ENTITY menu.edit.selall.accesskey   "A" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "R" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "J" >
+
+
+<!ENTITY menu.tools.accesskey            "T" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "显示文件" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "元数据编辑器" >
+<!ENTITY trackeditor.tab.summary.title            "摘要信息" >
+<!ENTITY trackeditor.tab.edit.title               "属性" >
+<!ENTITY trackeditor.tab.lyrics.title             "歌词" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "添加标签：" >
+<!ENTITY trackeditor.addtag.tag       "标签：" >
+
+<!ENTITY jumptofile.title             "跳转至" >
+<!ENTITY jumptofile.search            "查找：" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "使用全局快捷键" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "动作" >
+<!ENTITY hotkeys.hotkey               "快捷键" >
+<!ENTITY hotkeys.add                  "添加" >
+<!ENTITY hotkeys.set                  "设置" >
+<!ENTITY hotkeys.remove               "删除" >
+<!ENTITY hotkeys.prefpane             "快捷键" >
+<!ENTITY hotkeys.info                 "使用全局快捷键，就能在 &brandShortName;窗口未激活时使用 &brandShortName; 的功能。  一些快捷键必须使用组合键以减少与其它应用程序的冲突。" >
+
+<!ENTITY rapi.prefpane.title             "网络整合" >
+<!ENTITY rapi.prefpane.access.caption    "网络整合许可" >
+<!ENTITY rapi.prefpane.access.text       "你可以让网站与&brandShortName;整合来促成网络和你的媒体间更紧密的耦合。请设定&brandShortName;以允许或阻止网站的下列整合行为。" >
+<!ENTITY rapi.whitelist.label            "例外…" >
+<!ENTITY rapi.restore_defaults.label      "重置" >
+<!ENTITY rapi.playback_control_disable.label "阻止网站控制媒体的播放" >
+<!ENTITY rapi.playback_read_disable.label    "阻止网站查看正在播放的媒体信息" >
+<!ENTITY rapi.library_read_disable.label     "阻止网站查看我的媒体信息。" >
+<!ENTITY rapi.library_write_disable.label    "阻止添加/删除我的媒体库和设备中的媒体。" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "插件">
+<!ENTITY prefpane.content.label       "内容">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "未找到 USB 大规模存储设备" >
+<!ENTITY umsd.music.tab                     "音乐" >
+<!ENTITY umsd.music.music_files_group       "音乐文件" >
+<!ENTITY umsd.music.music_path_desc         "复制音乐文件到设备的时候，把它们放入如下文件夹：" >
+<!ENTITY umsd.music.music_path_browse_msg   "选择放置音乐文件的设备目录" >
+<!ENTITY umsd.music.music_ext_desc          "将带有如下扩展名的音乐文件复制到设备：" >
+<!ENTITY umsd.video.tab                     "视频" >
+<!ENTITY umsd.video.video_files_group       "视频文件" >
+<!ENTITY umsd.video.video_path_desc         "复制视频文件到设备的时候，把它们放入如下文件夹：" >
+<!ENTITY umsd.video.video_path_browse_msg   "选择放置音乐文件的设备目录" >
+<!ENTITY umsd.video.video_ext_desc          "用下列扩展将视频文件复制到设备：" >
+
+<!ENTITY device.error.dialog.link           "查看详细出错信息" >
+
+<!ENTITY restartbox.restartnow        "立即重新启动" >
+<!ENTITY restartbox.restartonplaybackend "播放结束时重新启动" >
+<!ENTITY restartbox.restartlater      "稍后重新启动" >
+
+<!ENTITY setupprogress.installingextensions "安装扩展" >
+
+<!ENTITY jobprogress.details "详细信息" >
+
+<!ENTITY menu.updateCmd.label          "检查更新…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "空格键" >
+
+<!ENTITY tabs.closeTab "关闭标签页">
+<!ENTITY tabs.listAllTabs "列出全部标签页">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator " - " >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "主页" >
+<!ENTITY prefs.homepage.url.label          "地址:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "安装插件" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "停止">
+<!ENTITY command.device.cancel.accesskey                "C">
+<!ENTITY command.device.canceldevicecopy                "停止复制">
+<!ENTITY command.device.canceldevicecopy.accesskey      "C">
+<!ENTITY command.device.canceldevicedelete              "停止删除">
+<!ENTITY command.device.canceldevicedelete.accesskey    "C">
+<!ENTITY command.device.canceldevicesync                "停止同步">
+<!ENTITY command.device.canceldevicesync.accesskey      "C">
+<!ENTITY command.device.canceldeviceupdate              "停止更新">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
+<!ENTITY command.device.ejectdevice                     "弹出">
+<!ENTITY command.device.ejectdevice.accesskey           "E">
+<!ENTITY command.device.formatdevice                    "格式化">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "忽略">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "获取信息">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "重命名">
+<!ENTITY command.device.renamedevice.accesskey          "R">
+<!ENTITY command.device.devicesync                      "同步">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "CD抓轨">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "停止抓轨">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "查询CD信息">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "弹出CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "E">
+
+<!ENTITY device.repair.menuitem.default                   "修复我的设备">
+
+<!ENTITY device.firmware.wizard.title                     "更新固件">
+<!ENTITY device.firmware.wizard.check.page.title          "检查固件更新">
+<!ENTITY device.firmware.wizard.check.progress.title      "正在检查固件更新…">
+<!ENTITY device.firmware.wizard.check.install.description "安装固件将使用不超过10分钟的时间。您可以在以后任何时间执行更新。">
+<!ENTITY device.firmware.wizard.check.already.description "设备固件已经是最新版本.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "发行注记">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "设备必须以固件模式链接才可继续. 请遵照下列提示将您的设备设定为固件模式.">
+<!ENTITY device.firmware.wizard.download.title            "正在下载新固件…">
+<!ENTITY device.firmware.wizard.repair.time.description   "恢复设备至多需要5分钟">
+<!ENTITY device.firmware.wizard.repair.warning            "恢复设备到出厂设置&lt;strong class=&quot;loss-of-data-text&quot;&gt;将会删除设备上的所有音乐及数据&lt;/strong&gt;，请在执行前备份所有文件">
+<!ENTITY device.firmware.wizard.install.title             "正在安装固件…">
+
+<!ENTITY device.firmware.wizard.busy.description  "您的设备正忙。固件只能在设备空闲时安装。">
+<!ENTITY device.firmware.wizard.retry.description "请在设备完成当前操作后重试。">
+
+<!ENTITY device.firmware.wizard.check.error.description    "检查固件更新时出错，请检查您的网络连接">
+<!ENTITY device.firmware.wizard.download.error.description "下载固件时出错，请检查您的网络连接">
+<!ENTITY device.firmware.wizard.support.description        "常见问题及解决方案可以在如下位置找到">
+
+<!ENTITY device.info.icon.device            "普通设备图标">
+<!ENTITY device.info.icon.readonly          "只读设备图标">
+<!ENTITY device.info.model.label            "型号">
+<!ENTITY device.info.capacity.label         "容量">
+<!ENTITY device.info.product.label          "设备">
+<!ENTITY device.info.friendly_name.label    "名称">
+<!ENTITY device.info.serial_number.label    "序列号">
+<!ENTITY device.info.vendor.label           "制造厂商">
+<!ENTITY device.info.access.label           "访问兼容性">
+<!ENTITY device.info.playback_formats.label "文件格式">
+<!ENTITY device.info.battery.label          "电池">
+<!ENTITY device.info.firmware_version.label "Firmware版本">
+
+<!ENTITY device.progress.sync               "同步">
+
+<!ENTITY device.capacity.music.label    "音乐">
+<!ENTITY device.capacity.video.label    "视频">
+<!ENTITY device.capacity.image.label    "照片">
+<!ENTITY device.capacity.other.label    "其它">
+<!ENTITY device.capacity.free.label     "剩余空间">
+
+<!ENTITY device.unsupported_media.dialog.title  "检测到不兼容的文件">
+<!ENTITY device.unsupported_media.dialog.enable "检测到不兼容文件时通知我">
+
+<!ENTITY device.sync.header.label "同步设置">
+<!ENTITY device.import.header.label "导入">
+<!ENTITY device.sync.auto_sync.label "同步">
+<!ENTITY device.sync.sync_all.label "全部音乐、视频和播放列表">
+<!ENTITY device.sync.sync_selected.label "选择的播放列表:">
+<!ENTITY device.sync.playlist.title "标题">
+<!ENTITY device.sync.playlist.video.duration "视频时间">
+<!ENTITY device.sync.images.from.label "同步照片:">
+<!ENTITY device.sync.images.browse "选择文件夹….">
+<!ENTITY device.sync.images.all.label "所有照片">
+<!ENTITY device.sync.images.all.template "所有照片 (&#37;S)">
+<!ENTITY device.sync.images.selected.label "已选择子文件夹">
+<!ENTITY device.sync.images.foldername "文件夹名称">
+<!ENTITY device.sync.images.filecount "照片">
+
+<!ENTITY device.settings.header.label "设置">
+<!ENTITY device.settings.general.label "一般">
+<!ENTITY device.settings.auto_launch.checkbox.label "当侦测到这个设备，运行&brandShortName;">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "自动检查是否有新的固件">
+<!ENTITY device.settings.music.transcoding.label "音乐正在转码">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "没有合适此装置的编码器">
+<!ENTITY device.settings.disk.label "磁盘管理">
+<!ENTITY device.settings.disk.management.label "自定义目录结构">
+<!ENTITY device.settings.disk.management.filename "歌曲文件">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "自动配置转码">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "手工指定比特率和格式">
+<!ENTITY device.settings.music.transcoding.format.label "编码格式">
+<!ENTITY device.settings.music.transcoding.bitrate.label "比特率">
+<!ENTITY device.settings.music.transcoding.bitrate.units "千位/秒">
+
+<!ENTITY device.management.tabs.music.label "音乐">
+<!ENTITY device.management.tabs.video.label "视频">
+<!ENTITY device.management.tabs.image.label "照片">
+<!ENTITY device.management.tabs.tools.label "工具">
+<!ENTITY device.management.tabs.settings.label "设置">
+
+<!ENTITY device.tools.product_registration.title "产品登记">
+<!ENTITY device.tools.product_registration.description "需要购买凭证，增值利益，或者安全提示？">
+<!ENTITY device.tools.product_registration.label "注册产品">
+
+<!ENTITY device.tools.update_firmware.title "升级固件">
+<!ENTITY device.tools.update_firmware.description "您的设备由内置软件即固件控制。自从您的设备上次连接到计算机上，固件的新版本可能已经释出。">
+<!ENTITY device.tools.update_firmware.label "检查固件更新">
+<!ENTITY device.tools.update_firmware.current_firmware.title "当前固件版本：">
+
+<!ENTITY device.tools.restore_device.title "还原设备">
+<!ENTITY device.tools.restore_device.description "还原设备到出厂设置将清除所有的媒体文件,同时也将还原出厂时的固件及设置.">
+<!ENTITY device.tools.restore_device.label "还原设备到出厂设置">
+
+<!ENTITY device.tools.format_device.title "格式化设备">
+<!ENTITY device.tools.format_device.description "格式化设备将删除设备上的所有音乐和数据。">
+<!ENTITY device.tools.format_device.label "格式化设备">
+<!ENTITY device.tools.format_volume.button.label "格式化">
+
+<!ENTITY device.tools.support.title "支持">
+<!ENTITY device.tools.support.description "查看最新的支持新闻，用户手册，文档，常见问题以及产品信息。对于已注册产品的用户，支持设备可用。">
+<!ENTITY device.tools.support.label "查看支持资源">
+
+<!ENTITY device.tools.reset_warnings.title "重置警告">
+<!ENTITY device.tools.reset_warnings.description "重设警告对话框会导致您要执行某些任务时出现提示确认的对话框。">
+<!ENTITY device.tools.reset_warnings.label "重置警告信息">
+
+<!ENTITY device.dialog.setup.title "设备配置">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "请选择你要&brandShortName;管理的储存媒体：">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "忽略此设备">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "只有你不想让&brandShortName;管理这项装置才选择">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "如果你不想&brandShortName;管理此设备，您可以">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "忽略此设备">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "在默认浏览器中打开链接">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "在默认浏览器中打开页面">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "在默认浏览器中打开帧">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "在默认浏览器中打开图片">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "复制所选文本">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "播放">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "下载到资料库">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "下载到播放列表">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;无播放列表&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "新建播放列表">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "订阅此页…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "订阅此帧…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "帮助完善&brandShortName; ！">
+<!ENTITY feedback.dialog.yes        "确定">
+<!ENTITY feedback.dialog.no         "否">
+<!ENTITY feedback.dialog.sentence1  "您愿意通过快速的匿名调查帮助我们改善&brandShortName;吗?">
+<!ENTITY feedback.dialog.sentence2  "如果您不感兴趣,我们不再詢問。  感谢您使用&brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "致意,">
+<!ENTITY feedback.dialog.sentence4  "&brandShortName; 团队">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "欢迎到 &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "&brandShortName; 设置">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "推荐的插件">
+<!ENTITY first_run.add_ons.description.line1 "插件可以扩展&brandShortName;的功能，允许您定制使用您的媒体播放器。我们强烈推荐下列选项。">
+<!ENTITY first_run.add_ons.description.line2 "插件可以与其它应用程序和服务集成，支持与外设的连接，更改程序的界面和更多功能！您可以在&brandShortName;的插件站点下载插件。">
+<!ENTITY first_run.add_ons.loading.label     "正在获取推荐的插件。">
+<!ENTITY first_run.add_ons.load_failed.label "无法获取推荐的插件。">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "已经准备好安装更新">
+<!ENTITY first_run.app_update.finished.text "更新将在 &brandShortName; 重启后安装">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; 无法连接到网络">
+<!ENTITY first_run.connection.description          "检查连接设置或继续用向导进行设置">
+<!ENTITY first_run.connection.settings.button      "连接设置…">
+<!ENTITY first_run.connection.settings.description "电脑或网络是否受防火墙或代理保护？修复不正确的连接设置将会帮助解决常见的网络问题。">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "许可协议">
+<!ENTITY first_run.eula.accept_checkbox.label "我已经阅读并且同意本协议条款">
+<!ENTITY first_run.eula.language.label        "语言：">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "协助改进 &brandShortName; 软件">
+<!ENTITY first_run.feedback.description             "您是否希望发送反馈来帮助我们使 &brandShortName; 做得更好？">
+<!ENTITY first_run.feedback.metrics.label           "收集和发送 &brandShortName; 用途度量">
+<!ENTITY first_run.feedback.metrics.description     "度量完全是匿名的并且不收集个人信息。">
+<!ENTITY first_run.feedback.email.header.label      "给我发送新闻邮件">
+<!ENTITY first_run.feedback.email.description       "订阅邮件列表，有新发行或重要升级的时候通知我。">
+<!ENTITY first_run.feedback.email.textbox.emptytext "输入您的邮箱以获得最新消息">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "iTunes 导入/导出">
+<!ENTITY first_run.itunes.description                   "你好像已经安装了iTunes。可以为&brandShortName;配置导入和/或导出音轨来实现&brandShortName;和iTunes之间媒体库的同步。">
+<!ENTITY first_run.itunes.checkbox.import.label         "从iTunes里导入音轨和播放列表">
+<!ENTITY first_run.itunes.checkbox.import.description   "从iTunes商店购买的播客和音乐可以导入到&brandShortName;里。如果&brandShortName;将是你的主要音乐播放器，这个特性能很好的工作。">
+<!ENTITY first_run.itunes.checkbox.export.label         "向iTunes导出播放列表">
+<!ENTITY first_run.itunes.checkbox.export.description   "通过&brandShortName;获取到的音乐可以导出到iTunes。因此他们能被下载到你的iPod或者iPhone里。">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "导入媒体">
+<!ENTITY first_run.import_media.description                  "本页将带领您通过尝试检测您的本地媒体来向 &brandShortName; 导入媒体文件。一旦 &brandShortName;  启动，您还可经由多种途径添加更多媒体。">
+<!ENTITY first_run.import_media.radio.scan_directories.label "扫描计算机上的目录">
+<!ENTITY first_run.import_media.radio.dont_import.label      "不导入媒体">
+<!ENTITY first_run.import_media.scan_directories.description "是否希望 &brandShortName; 尝试通过扫描您计算机上的目录来导入媒体？">
+<!ENTITY first_run.import_media.scan_directories.watch.label "监视该文件夹的改动">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "下载插件">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "&brandShortName; 欢迎您">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; 是一个内置网页浏览器功能的媒体播放器.">
+<!ENTITY first_run.welcome.description.line2 "此助手提供一个快捷有效的方式启动并运行&brandShortName;。">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "媒体导入">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "导入媒体库">
+<!ENTITY import_library.prefs.title                       "iTunes 导入器">
+<!ENTITY import_library.library_file_label                "媒体库文件:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "当不被支持的曲目或播放列表未被导入时警告我">
+<!ENTITY import_library.prefs.path_group_caption          "iTunes 媒体库路径">
+<!ENTITY import_library.prefs.options_group_caption       "导入选项">
+<!ENTITY import_library.import_command                    "导入音乐库">
+<!ENTITY import_tracks_itunes_checkbox                    "从 iTunes 导入音轨">
+<!ENTITY import_playlists_itunes_checkbox                 "导入播放列表">
+<!ENTITY export_tracks_itunes_checkbox                    "导出到iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "导出播放列表">
+<!ENTITY export_subscriptions_itunes_checkbox             "导出订阅列表">
+<!ENTITY export_smartplaylists_itunes_checkbox            "导出智能播放列表">
+<!ENTITY importexport_show_notifications_checkbox         "当导入/导出完成时显示通知">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "播放列表已经改变">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "保留当前播放列表 &brandShortName; (不导入此播放列表)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "将当前&brandShortName;与iTunes播放列表合并。">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "用当前iTunes播放列表替换 &brandShortName; ">
+<!ENTITY import_library.dirty_playlist_dialog.note         "注意：无法撤销合并和替换。">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "将选项应用到所有的播放列表">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "不要在管理文件夹上又启用监控，这样会在媒体库中产生重复的拷贝">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "监视文件夹">
+<!ENTITY watch_folder.prefs.settings_group_caption "监视文件夹的设置">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; 可以监测文件夹里的内容，自动添加或者删除里面的内容。">
+<!ENTITY watch_folder.prefs.enable_checkbox        "自动检测下面文件夹的变化">
+<!ENTITY watch_folder.prefs.watch_folder_label     "文件夹：">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "推荐的插件">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "&brandShortName; 设置">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "详情">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "当前没有播放" >
+<!ENTITY albumart.displaypane.not_selected_message  "未选中" >
+<!ENTITY albumart.displaypane.drag_and_drop  "将专辑图片拖动至此处" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "显示当前选中歌曲" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "显示当前播放歌曲" >
+<!ENTITY albumart.displaypane.selected.menu.cut "剪切">
+<!ENTITY albumart.displaypane.selected.menu.copy "复制">
+<!ENTITY albumart.displaypane.selected.menu.paste "粘贴">
+<!ENTITY albumart.displaypane.selected.menu.clear "清除">
+<!ENTITY albumart.coverpreview.title "专辑封面">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "专辑封面">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "将专辑封面写入元数据">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "这将允许&brandShortName;在媒体文件的完整标签中嵌入专辑封面.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "搜索文件名:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "输入以逗号分隔的文件名列表">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "搜索文件扩展名:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "输入逗号分隔附加列表">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "获取方式优先级">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "将你优先使用的获取方式排列在最上方.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "向上">
+<!ENTITY albumartpreferences.prefpane.priorities.down "向下">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "重置">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "自动获取专辑封面">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "当歌曲播放或被选中时，自动获取专辑封面。根据该专辑封面显示窗格模式，使用此功能可能使专辑封面显示得并不完美。">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "返回">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "取消">
+<!ENTITY wizard.button.next.label      "继续">
+<!ENTITY wizard.button.next.accesskey  "C">
+<!ENTITY wizard.button.finish.label    "完成">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "媒体核心错误">
+<!ENTITY mediacore.error.preface  "&brandShortName; 遇到如下媒体核心错误：">
+<!ENTITY mediacore.error.continue "继续">
+<!ENTITY mediacore.error.stop     "停止播放">
+<!ENTITY mediacore.error.dontshowme "不再显示媒体核心错误">
+<!ENTITY mediacore.error.codec_not_found.text.pre "关于缺失解码器的更多信息，请查看：">
+<!ENTITY mediacore.error.codec_not_found.text.post " ">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "媒体导入提示">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "关于缺失解码器的更多信息，请查看：">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "导入过程中如果还有不支持的视频，不用再提醒我了。">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "回放">
+
+<!ENTITY playback.prefpane.audio_output.label   "音频输出">
+<!ENTITY playback.prefpane.audio_output.buffer  "输出缓存：">
+
+<!ENTITY playback.prefpane.streaming.label      "网络和流数据">
+<!ENTITY playback.prefpane.streaming.buffer     "流数据缓存：">
+
+<!ENTITY playback.prefpane.normalization.label  "标准化">
+<!ENTITY playback.prefpane.normalization.enable "启用可用的音频标准化数据">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "首选增益数据：">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "专辑">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "音轨">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "源数据评级">
+<!ENTITY playback.prefpane.ratings.enablewriting "保存对源数据的评级文件">
+
+<!ENTITY fetch_album_art.dialog.title "获取专辑封面">
+<!ENTITY fetch_album_art.dialog.message "尚未实现。（查看bug 14281）">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "艺术家">
+<!ENTITY cdrip.lookup.info_not_found.album  "专辑">
+<!ENTITY cdrip.lookup.info_not_found.title  "无法找到CD信息">
+<!ENTITY cdrip.lookup.info_not_found.descr  "在这里添加艺术家和专辑名称。在CD抓轨播放列表中修改其他信息。">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "标题">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "CD抓轨">
+<!ENTITY cdrip.prefpane.format "格式">
+<!ENTITY cdrip.prefpane.quality "品质">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "抓轨完成后弹出CD盘片">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "抓取完成后播放提示音">
+<!ENTITY cdrip.prefpane.providers.title "CD信息提供商">
+<!ENTITY cdrip.prefpane.quality_desc "较高的比特率将会带来更高的质量，不过同时文件的大小将会增加">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD抓轨设置">
+<!ENTITY cdrip.mediaview.format_label              "格式：">
+<!ENTITY cdrip.mediaview.quality_label             "质量：">
+<!ENTITY cdrip.mediaview.settings_button           "设置">
+<!ENTITY cdrip.mediaview.rip_cd_button             "CD抓轨">
+<!ENTITY cdrip.mediaview.stop_rip_button           "停止抓轨">
+<!ENTITY cdrip.mediaview.view_tracks_button        "显示音轨">
+<!ENTITY cdrip.mediaview.eject_cd_button           "弹出CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "加速切换">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "加速切换">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "加速切换">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "视频窗口">
+<!ENTITY videowindow.actualsize "实际尺寸">
+<!ENTITY videowindow.fullscreen "全屏">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "我们要感谢我们的贡献者，是他们的努力才使Songbird有今天的应用。这些人帮助写出代码和文档还有测试。他们创造了并维护着这个产品和相关的开发工具包，以及我们的开发工具和我们的网站。名称后是IRC的昵称，拜访irc.mozilla.org上的Songbird并向大家问好！">
+<!ENTITY about.credits.footer.beforeLink "当然，如果没有Mozilla项目中">
+<!ENTITY about.credits.footer.linkText "贡献者">
+<!ENTITY about.credits.footer.afterLink "们的辛苦工作和付出, 这一切都不可能.">
+<!ENTITY about.credits.heading.translators "翻译者">
+<!ENTITY about.credits.heading.champs "支持者">
+<!ENTITY about.credits.description.champs.link.pre "Songbird的支持者都是Songbird的忠实用户，他们为Songbird的用户提供了超水平的支持。">
+<!ENTITY about.credits.description.champs.link.text "Songbird 客户满意支持论坛">
+<!ENTITY about.credits.description.champs.link.post "论坛中有许多活跃的支持者，他们不知疲倦的工作，尽可能让更Songbird的用户得到更好的使用体验。">
+
+<!ENTITY cdrip.lookup.multiple.title       "找到多个CD记录">
+<!ENTITY cdrip.lookup.multiple.description "选择下列之一或自己添加信息">
+<!ENTITY cdinfo.other.label                "添加艺术家和专辑名称">
+
+<!ENTITY playqueue.label "播放队列">
+<!ENTITY playqueue.instructions "拖拽音轨或者播放列表到这里来创建即时播放队列">
+<!ENTITY playqueue.inprogress "添加音乐">
+
+<!ENTITY mediamanagement.removed.dialog.title "媒体管理已被移除">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "媒体管理器已经从&brandShortName; 1.10版本中去除。" >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "其目的是为了简化我们的产品，从而让您使用起来更加简洁方便。" >

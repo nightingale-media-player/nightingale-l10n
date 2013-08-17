@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "OK" >
+<!ENTITY window.cancel      "Mégse" >
+<!ENTITY window.apply       "Alkalmaz" >
+<!ENTITY window.browse      "Tallózás…" >
+<!ENTITY window.save        "Mentés">
+<!ENTITY window.yes         "Igen">
+<!ENTITY window.no          "Nem">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Kilépés a &brandShortName; programból" >
+<!ENTITY menu.mac.exit.key              "K">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Beállítások">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Szolgáltatások">
+<!ENTITY menu.mac.hide                  "A &brandShortName; elrejtése">
+<!ENTITY menu.mac.hide.key              "E">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Többi elrejtése">
+<!ENTITY menu.mac.hideothers.key        "e">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Az összes megjelenítése">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Fájl" >
+<!ENTITY menu.file.new          "Új lejátszólista…" >
+<!ENTITY menu.file.smart        "Új intelligens lejátszólista…" >
+<!ENTITY menu.file.remote       "Új feliratkozás…" >
+<!ENTITY menu.file.podcast      "Új podcast…" >
+<!ENTITY menu.file.open         "Fájl megnyitása" >
+<!ENTITY menu.file.url          "URL megnyitása…" >
+<!ENTITY menu.file.playlist     "Lejátszólista importálása…" >
+<!ENTITY menu.file.library      "Médiatár importálása…" >
+<!ENTITY menu.file.newtab       "Új lap" >
+<!ENTITY menu.file.closetab     "Lap bezárása" >
+<!ENTITY menu.file.metadata     "Metaadatok megtekintése">
+<!ENTITY menu.file.scan         "Médiaanyagok keresése…" >
+<!ENTITY menu.file.exit         "Kilépés" >
+
+<!ENTITY menu.edit          "Szerkesztés" >
+<!ENTITY menu.edit.undo     "Visszavonás" >
+<!ENTITY menu.edit.redo     "Újra" >
+<!ENTITY menu.edit.cut      "Kivágás" >
+<!ENTITY menu.edit.copy     "Másolás" >
+<!ENTITY menu.edit.paste    "Beilleszt" >
+<!ENTITY menu.edit.delete   "Törlés" >
+<!ENTITY menu.edit.selall   "Mindent kijelöl" >
+<!ENTITY menu.edit.find        "Keresés" >
+<!ENTITY menu.edit.findagain   "Következő keresése" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Beállítások">
+<!ENTITY menu.linux.preferences.accesskey "B">
+
+<!ENTITY menu.controls      "Vezérlés" >
+<!ENTITY menu.control.play  "Lejátszás" >
+<!ENTITY menu.control.pause "Szünet" >
+<!ENTITY menu.control.next  "Következő dal" >
+<!ENTITY menu.control.prev  "Előző dal" >
+<!ENTITY menu.control.shuf  "Véletlenszerű lejátszás" >
+<!ENTITY menu.control.repa  "Az összes ismétlése" >
+<!ENTITY menu.control.rep1  "Egy dal ismétlése" >
+<!ENTITY menu.control.repx  "Ismétlés kikapcsolása" >
+<!ENTITY menu.control.jumpto "Ugrás…" >
+
+<!ENTITY menu.control.play.button      "Lejátszás" >
+<!ENTITY menu.control.pause.button     "Szünet" >
+<!ENTITY menu.control.stop.button      "Leállítás" >
+
+<!ENTITY displaypane.default.image.pre "Válasszon egy kiegészítőt a menüből">
+<!ENTITY displaypane.default.image.tooltip "Kiegészítő válogató ikon">
+<!ENTITY displaypane.default.image.post "vagy látogassa meg a(z)">
+<!ENTITY displaypane.default.link.pre " ">
+<!ENTITY displaypane.default.link.text "Kiegészítők oldala">
+<!ENTITY displaypane.default.link.post "kiegészítők kereséséhez.">
+<!ENTITY displaypane.name.servicepane   "Alsó szolgáltatásablak">
+<!ENTITY displaypane.name.browser       "Alsó tartalomablak">
+<!ENTITY displaypane.name.sidebar       "Jobb oldalsáv">
+<!ENTITY servicepane.title.label        "Szolgáltatás panel">
+
+<!ENTITY menu.tools            "Eszközök" >
+<!ENTITY menu.tools.getartwork "Album borítójának letöltése">
+<!ENTITY menu.tools.exportmedia "Médiatár változásainak exportálása">
+
+<!ENTITY menu.help          "Súgó" >
+<!ENTITY menu.help.homepage "&brandShortName; weboldal" >
+<!ENTITY menu.help.bugz     "Hibabejelentés…" >
+<!ENTITY menu.help.topics   "Súgótémák" >
+<!ENTITY menu.help.keyboard "Gyorsbillentyűk">
+<!ENTITY menu.help.about    "A &brandShortName; névjegye" >
+
+<!ENTITY menu.equalizer     "Hangszínszabályzó…" >
+<!ENTITY menu.preferences   "Beállítások" >
+<!ENTITY menu.extensions    "Kiegészítők" >
+<!ENTITY menu.clearprivatedata "Személyes adatok törlése…">
+<!ENTITY menu.errorconsole "Hibakonzol">
+<!ENTITY menu.downloadmgr   "Letöltések" >
+<!ENTITY menu.switchplayercontrols  "Lejátszásvezérlők" >
+<!ENTITY menu.controllerontop       "Felül">
+<!ENTITY menu.controlleronbottom    "Alul">
+
+<!ENTITY menu.fullscreen            "Teljes képernyő">
+<!ENTITY menu.videotofront          "Videó előre">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Várakozás az eszközökre.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Várakozás az eszközön végrehajtandó műveletek befejezésére. A futó műveletek megszakításához nyomja meg a &quot;Kilépés&quot; gombot.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Kilépés">
+
+<!ENTITY tooltip.minimize         "Lecsukás" >
+<!ENTITY tooltip.maximize         "Felnyit/Lecsuk" >
+<!ENTITY tooltip.exit             "Kilépés" >
+<!ENTITY tooltip.close            "Bezárás" >
+<!ENTITY tooltip.hide             "Elrejtés" >
+<!ENTITY tooltip.fullscreen       "Teljes képernyő" >
+<!ENTITY tooltip.control.back     "Előző dal" >
+<!ENTITY tooltip.control.play     "Lejátszás" >
+<!ENTITY tooltip.control.pause    "Szüneteltetés" >
+<!ENTITY tooltip.control.resume   "Folytatás" >
+<!ENTITY tooltip.control.stop     "Leállítás" >
+<!ENTITY tooltip.control.fwd      "Következő dal" >
+<!ENTITY tooltip.control.mute     "Elnémítás" >
+<!ENTITY tooltip.control.volume   "Hangerő" >
+<!ENTITY tooltip.control.shuffle  "Véletlenszerű lejátszás" >
+<!ENTITY tooltip.control.shuf_off "Véletlenszerű lejátszás kikapcsolása" >
+<!ENTITY tooltip.control.curtrack "Jelenlegi dal keresése" >
+<!ENTITY tooltip.search           "Keresés" >
+<!ENTITY tooltip.browser.back     "Ugrás az előző oldalra" >
+<!ENTITY tooltip.browser.fwd      "Ugrás a következő oldalra" >
+<!ENTITY tooltip.browser.stop     "Oldal letöltésének megszakítása" >
+<!ENTITY tooltip.browser.home     "Kezdőlap" >
+<!ENTITY tooltip.browser.refresh  "Aktuális oldal újratöltése" >
+<!ENTITY tooltip.browser.subscription "Feliratkozás" >
+<!ENTITY tooltip.browser.mediapages.list "Lista nézet" >
+<!ENTITY tooltip.browser.mediapages.filter "Szűrőpanel nézet" >
+<!ENTITY tooltip.browser.mediapages "Nézet…" >
+<!ENTITY tooltip.servicepane.show    "Szolgáltatáspanel megjelenítése" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "Új lejátszólista" >
+<!ENTITY tooltip.displaypane.options "Tartalomablak beállításai">
+
+<!ENTITY smart.window             "Intelligens lejátszólista szerkesztése" >
+<!ENTITY smart.limit              "Korlátozás" >
+<!ENTITY smart.match              "Egyezzen" >
+<!ENTITY smart.matchsingle        "Megfeleljen a következő feltételeknek:" >
+<!ENTITY smart.any                "bármely" >
+<!ENTITY smart.all                "összes" >
+<!ENTITY smart.following          "az alábbi feltételekkel:" >
+<!ENTITY smart.random             "véletlenszerű" >
+<!ENTITY smart.album              "album" >
+<!ENTITY smart.artist             "előadó" >
+<!ENTITY smart.genre              "műfaj" >
+<!ENTITY smart.title              "cím" >
+<!ENTITY smart.high_rating        "magas értékelés" >
+<!ENTITY smart.low_rating         "alacsony értékelés" >
+<!ENTITY smart.most_recent        "legújabb" >
+<!ENTITY smart.least_recent       "legrégebbi" >
+<!ENTITY smart.most_often         "legtöbbször" >
+<!ENTITY smart.least_often        "legkevesebbszer" >
+<!ENTITY smart.most_added         "legtöbbször hozzáadott" >
+<!ENTITY smart.least_added        "legkevesebbszer hozzáadott" >
+<!ENTITY smart.minutes            "perc" >
+<!ENTITY smart.hours              "óra" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "dal" >
+<!ENTITY smart.selectedby         "kiválasztás" >
+<!ENTITY smart.to                 "ehhez" >
+<!ENTITY smart.autoupdate         "Frissítés">
+<!ENTITY smart.playlistcondition.library "Médiatár">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Zene">
+
+<!ENTITY textbox.songbird_open_url "Add meg az URL-t vagy elérési utat a lejátszani kívánt médiához:">
+
+<!ENTITY open_url.title           "URL megnyitása">
+<!ENTITY subscribe.title          "Előfizetés">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "percenként">
+<!ENTITY subscribe.hours          "óránként">
+<!ENTITY subscribe.days           "naponta">
+<!ENTITY subscribe.autocheck      "Automatikus frissítés">
+<!ENTITY subscribe.destinationfolder      "Válassz célmappát:">
+
+<!ENTITY feed.subscribe.label     "Előfizetés">
+<!ENTITY feed.subscribe.dontask   "Ne jelenjen meg többet automatikusan ez a felirat">
+<!ENTITY feed.subscribe.close     "Bezár">
+
+<!ENTITY podcast.creation_dialog.title       "Új podcast">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "Figyelt mappák">
+<!ENTITY watchfolder.folderlist   "Figyelt mappák:">
+
+<!ENTITY locale.language          "Nyelv" >
+<!ENTITY menu.view                "Nézet" >
+<!ENTITY about.version            "Verzió" >
+<!ENTITY about.buttons.credits    "Közreműködők" >
+
+<!ENTITY equalizer.title          "Hangszínszabályzó" >
+<!ENTITY equalizer.on.checkbox    "Bekapcsolva" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1k" >
+<!ENTITY equalizer.band6.label    "2k" >
+<!ENTITY equalizer.band7.label    "4k" >
+<!ENTITY equalizer.band8.label    "8k" >
+<!ENTITY equalizer.band9.label    "16k" >
+<!ENTITY equalizer.preset.custom      "Egyéni" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rock" >
+<!ENTITY equalizer.preset.soft_rock   "Lágy rock" >
+<!ENTITY equalizer.preset.techno      "Techno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Koncert" >
+<!ENTITY equalizer.preset.club        "Klub" >
+<!ENTITY equalizer.preset.party       "Party" >
+<!ENTITY equalizer.preset.classical   "Klasszikus" >
+<!ENTITY equalizer.preset.large_hall  "Nagy csarnok" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Lágy" >
+<!ENTITY equalizer.preset.small_speakers   "Notebook/fülhallgató" >
+<!ENTITY equalizer.preset.full_bass_treble "Teljes basszus és közép" >
+<!ENTITY equalizer.preset.full_treble "Teljes közép" >
+<!ENTITY equalizer.preset.full_bass   "Teljes basszus" >
+
+
+<!ENTITY setupprogress.pleasewait "Kérlek, várj…" >
+<!ENTITY setupprogress.cancel     "Mégse">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "l" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "f" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "F" >
+<!ENTITY menu.file.url.accesskey          "U" >
+<!ENTITY menu.file.playlist.accesskey     "j" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "K" >
+<!ENTITY menu.file.newtab.accesskey       "l" >
+<!ENTITY menu.file.closetab.accesskey     "b" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "N" >
+<!ENTITY menu.view.accesskey              "N" >
+<!ENTITY menu.preferences.accesskey       "B" >
+<!ENTITY menu.equalizer.accesskey         "H" >
+<!ENTITY menu.extensions.accesskey        "t" >
+<!ENTITY menu.clearprivatedata.accesskey  "S" >
+<!ENTITY menu.errorconsole.accesskey      "H" >
+<!ENTITY menu.file.exit.accesskey         "K" >
+<!ENTITY menu.downloadmgr.accesskey       "F" >
+
+<!ENTITY menu.edit.accesskey          "z" >
+<!ENTITY menu.edit.undo.accesskey     "V" >
+<!ENTITY menu.edit.redo.accesskey     "r" >
+<!ENTITY menu.edit.cut.accesskey      "K" >
+<!ENTITY menu.edit.copy.accesskey     "M" >
+<!ENTITY menu.edit.paste.accesskey    "B" >
+<!ENTITY menu.edit.delete.accesskey   "s" >
+<!ENTITY menu.edit.selall.accesskey   "i" >
+<!ENTITY menu.edit.find.accesskey        "e" >
+<!ENTITY menu.edit.findagain.accesskey   "z" >
+
+<!ENTITY menu.controls.accesskey      "V" >
+<!ENTITY menu.control.play.accesskey  "L" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "K" >
+<!ENTITY menu.control.prev.accesskey  "E" >
+<!ENTITY menu.control.shuf.accesskey  "v" >
+<!ENTITY menu.control.repa.accesskey  "M" >
+<!ENTITY menu.control.rep1.accesskey  "i" >
+<!ENTITY menu.control.repx.accesskey  "I" >
+<!ENTITY menu.control.jumpto.accesskey "U" >
+
+
+<!ENTITY menu.tools.accesskey            "E" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Fájl megjelenítése" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "S" >
+<!ENTITY menu.help.homepage.accesskey "w" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "T" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Dalszerkesztő" >
+<!ENTITY trackeditor.tab.summary.title            "Összefoglaló" >
+<!ENTITY trackeditor.tab.edit.title               "Szerkesztés" >
+<!ENTITY trackeditor.tab.lyrics.title             "Dalszöveg" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Címke hozzáadása" >
+<!ENTITY trackeditor.addtag.tag       "Címke:" >
+
+<!ENTITY jumptofile.title             "Ugrás" >
+<!ENTITY jumptofile.search            "Keresés:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Globális gyorsbillentyűk használata" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "G" >
+<!ENTITY hotkeys.action               "Művelet" >
+<!ENTITY hotkeys.hotkey               "Gyorsbillentyű" >
+<!ENTITY hotkeys.add                  "Hozzáadás" >
+<!ENTITY hotkeys.set                  "Beállítás" >
+<!ENTITY hotkeys.remove               "Eltávolítás" >
+<!ENTITY hotkeys.prefpane             "Gyorsbillentyűk" >
+<!ENTITY hotkeys.info                 "A globális gyorsbillentyűk segítségével lehet hozzáférni az egyes &brandShortName; funkciókhoz akkor is, ha nem aktív a program ablaka. Néhány gyorsbillentyű azonban ütközhet más programokkal." >
+
+<!ENTITY rapi.prefpane.title             "Web-integráció" >
+<!ENTITY rapi.prefpane.access.caption    "Weboldal" >
+<!ENTITY rapi.prefpane.access.text       "Engedélyezheted a weboldalak számára, hogy beépüljenek a &brandShortName; és ezzel egy szorosabb kapcsolatot építsenek ki a világháló és a médiaanyagaid között. Állítsd be, hogy a &brandShortName; hogyan kezelje a különböző mértékű beépüléseket." >
+<!ENTITY rapi.whitelist.label            "Kivételek…" >
+<!ENTITY rapi.restore_defaults.label      "Alapértelmezett" >
+<!ENTITY rapi.playback_control_disable.label "A weboldalak ne irányíthassák a médiaanyagok lejátszását" >
+<!ENTITY rapi.playback_read_disable.label    "A weboldalak ne juthassanak információhoz a lejátszott médiaanyagról" >
+<!ENTITY rapi.library_read_disable.label     "A weboldalak ne juthassanak információhoz a médiatárban és az eszközökön található elemekről." >
+<!ENTITY rapi.library_write_disable.label    "A weboldalak ne adjanak hozzá, vagy szerkesszék a médiatárban és az eszközökön lévő elemeket." >
+<!ENTITY rapi.playback_control_disable.accesskey "l" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Kiegészítők">
+<!ENTITY prefpane.content.label       "Internetes tartalom">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Nincs USB adattároló csatlakoztatva." >
+<!ENTITY umsd.music.tab                     "Zene" >
+<!ENTITY umsd.music.music_files_group       "Zenefájlok" >
+<!ENTITY umsd.music.music_path_desc         "Az eszközre való másolás esetén a zenefájlok kerüljenek a következő mappába:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Válassz ki az eszközön egy mappát, ahová a zenefájlok kerüljenek." >
+<!ENTITY umsd.music.music_ext_desc          "Az alábbi kiterjesztésű zenefájlok másolása az eszközre:" >
+<!ENTITY umsd.video.tab                     "Videó" >
+<!ENTITY umsd.video.video_files_group       "Videofájlok" >
+<!ENTITY umsd.video.video_path_desc         "Az eszközre való másolás esetén, a videofájlok kerüljenek a következő mappába:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Válassz ki az eszközön egy mappát, ahová a videofájlok kerüljenek." >
+<!ENTITY umsd.video.video_ext_desc          "Az alábbi kiterjesztésű videofájlok másolása az eszközre:" >
+
+<!ENTITY device.error.dialog.link           "Hiba részleteinek megjelenítése" >
+
+<!ENTITY restartbox.restartnow        "Újraindítás most" >
+<!ENTITY restartbox.restartonplaybackend "Újraindítás lejátszás után" >
+<!ENTITY restartbox.restartlater      "Újraindítás később" >
+
+<!ENTITY setupprogress.installingextensions "Kiegészítők telepítése" >
+
+<!ENTITY jobprogress.details "Részletek" >
+
+<!ENTITY menu.updateCmd.label          "Frissítések keresése…">
+<!ENTITY menu.updateCmd.accessKey      "F">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "b" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "H" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "A" >
+<!ENTITY sanitize.keycode              "" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Szóköz" >
+
+<!ENTITY tabs.closeTab "Lap bezárása">
+<!ENTITY tabs.listAllTabs "Az összes lap listázása">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator " - " >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Honlap" >
+<!ENTITY prefs.homepage.url.label          "URL:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Kiegészítők telepítése" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Mégse">
+<!ENTITY command.device.cancel.accesskey                "C">
+<!ENTITY command.device.canceldevicecopy                "Másolás megszakítása">
+<!ENTITY command.device.canceldevicecopy.accesskey      "m">
+<!ENTITY command.device.canceldevicedelete              "Törlés megszakítása">
+<!ENTITY command.device.canceldevicedelete.accesskey    "m">
+<!ENTITY command.device.canceldevicesync                "Szinkronizálás megszakítása">
+<!ENTITY command.device.canceldevicesync.accesskey      "m">
+<!ENTITY command.device.canceldeviceupdate              "Frissítés megszakítása">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "m">
+<!ENTITY command.device.ejectdevice                     "Kiadás">
+<!ENTITY command.device.ejectdevice.accesskey           "K">
+<!ENTITY command.device.formatdevice                    "Formázás">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Kihagyás">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "Információ letöltése">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "Átnevezés">
+<!ENTITY command.device.renamedevice.accesskey          "Á">
+<!ENTITY command.device.devicesync                      "Szinkronizálás">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "CD beolvasása">
+<!ENTITY command.device.rip.accesskey                   "B">
+<!ENTITY command.device.stoprip                         "Beolvasás leállítása">
+<!ENTITY command.device.stoprip.accesskey               "L">
+<!ENTITY command.device.lookup                          "CD-információ keresése">
+<!ENTITY command.device.lookup.accesskey                "I">
+<!ENTITY command.device.ejectcddevice                   "CD kiadása">
+<!ENTITY command.device.ejectcddevice.accesskey         "K">
+
+<!ENTITY device.repair.menuitem.default                   "Saját eszköz javítása">
+
+<!ENTITY device.firmware.wizard.title                     "Firmware frissítése">
+<!ENTITY device.firmware.wizard.check.page.title          "Firmware frissítés keresése ">
+<!ENTITY device.firmware.wizard.check.progress.title      "Firmware frissítés keresése…">
+<!ENTITY device.firmware.wizard.check.install.description "A firnware telepítése 10 percnél kevesebb időt vesz igénybe. A frissítés később is elvégezhető.">
+<!ENTITY device.firmware.wizard.check.already.description "Az eszközön található firmware az elérhető legfrissebb.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Kiadási megjegyzések">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "A folytatáshoz az eszközt firmware módban kell csatlakoztatni. Kövesse az utasításokat az eszköz firmware módba állításához.">
+<!ENTITY device.firmware.wizard.download.title            "Új firmware letöltése…">
+<!ENTITY device.firmware.wizard.repair.time.description   "Az eszköz visszaállítása kevesebb, mint 5 percet vesz igénybe.">
+<!ENTITY device.firmware.wizard.repair.warning            "A gyári beállítások visszaállítása töröl minden zenét és adatot az eszközről. A művelet megkezdése előtt készítsen mentést az adatairól.">
+<!ENTITY device.firmware.wizard.install.title             "Firmware telepítése…">
+
+<!ENTITY device.firmware.wizard.busy.description  "Az eszköz jelenleg elfoglalt. Firmware telepítése csak tétlen eszközön lehetséges.">
+<!ENTITY device.firmware.wizard.retry.description "Próbálja újra, amint az eszköz befejezte a jelenlegi műveletet.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "Hiba történt az új firmware keresése közben. Ellenőrizze a hálózati kapcsolatot és próbálja újra. ">
+<!ENTITY device.firmware.wizard.download.error.description "Hiba történt az új firmware letöltése közben. Ellenőrizze a hálózati kapcsolatot és próbálja meg újra.">
+<!ENTITY device.firmware.wizard.support.description        "Támogatással kapcsolatos leírások és hibakeresési ötletek a következő helyen találhatók:">
+
+<!ENTITY device.info.icon.device            "Általános eszközikon">
+<!ENTITY device.info.icon.readonly          "Csak-olvasásra zárolás ikon">
+<!ENTITY device.info.model.label            "Modell">
+<!ENTITY device.info.capacity.label         "Kapacitás">
+<!ENTITY device.info.product.label          "Termék">
+<!ENTITY device.info.friendly_name.label    "Név">
+<!ENTITY device.info.serial_number.label    "Sorozatszám">
+<!ENTITY device.info.vendor.label           "Gyártó">
+<!ENTITY device.info.access.label           "Hozzáférési kompatibilitás">
+<!ENTITY device.info.playback_formats.label "Fájlformátumok">
+<!ENTITY device.info.battery.label          "Akkumulátor">
+<!ENTITY device.info.firmware_version.label "Firmware verziója">
+
+<!ENTITY device.progress.sync               "Szinkronizálás">
+
+<!ENTITY device.capacity.music.label    "Zene">
+<!ENTITY device.capacity.video.label    "Videó">
+<!ENTITY device.capacity.image.label    "Képek">
+<!ENTITY device.capacity.other.label    "Egyéb">
+<!ENTITY device.capacity.free.label     "Szabad">
+
+<!ENTITY device.unsupported_media.dialog.title  "Nem kompatibilis fájlok érzékelése">
+<!ENTITY device.unsupported_media.dialog.enable "Jelezze, ha nem kompatibilis fájlokat talál">
+
+<!ENTITY device.sync.header.label "Szinkronizálás beállításai">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Szinkronizálás">
+<!ENTITY device.sync.sync_all.label "Minden zene, videó és lejátszólista">
+<!ENTITY device.sync.sync_selected.label "Kiválasztott lejátszólisták:">
+<!ENTITY device.sync.playlist.title "Cím">
+<!ENTITY device.sync.playlist.video.duration "Videó hossza">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY device.sync.images.browse "Mappa kiválasztása…">
+<!ENTITY device.sync.images.all.label "Minden kép">
+<!ENTITY device.sync.images.all.template "Minden kép (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Kiválasztott alkönyvtárak">
+<!ENTITY device.sync.images.foldername "Mappanév">
+<!ENTITY device.sync.images.filecount "Képek">
+
+<!ENTITY device.settings.header.label "Beállítások">
+<!ENTITY device.settings.general.label "Általános">
+<!ENTITY device.settings.auto_launch.checkbox.label "A &brandShortName; indítása az eszköz érzékelésekor">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Új firmware automatikus keresése">
+<!ENTITY device.settings.music.transcoding.label "Zene átkódolása">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Lemezkezelés">
+<!ENTITY device.settings.disk.management.label "Könyvtárstruktúra testreszabása">
+<!ENTITY device.settings.disk.management.filename "Dalok">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Kódolás automatikus beállítása">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Mintavételezés és formátum megadása kézzel">
+<!ENTITY device.settings.music.transcoding.format.label "Kódolás formátuma">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Mintavételezés">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Zene">
+<!ENTITY device.management.tabs.video.label "Videó">
+<!ENTITY device.management.tabs.image.label "Képek">
+<!ENTITY device.management.tabs.tools.label "Eszközök">
+<!ENTITY device.management.tabs.settings.label "Beállítások">
+
+<!ENTITY device.tools.product_registration.title "Termék regisztrációja">
+<!ENTITY device.tools.product_registration.description "Szeretne vásárlást igazoló szelvényt kapni, kiegészítő tagsági előnyöket élvezni, vagy biztonsági értesítéseket kapni? ">
+<!ENTITY device.tools.product_registration.label "Termék regisztrációja">
+
+<!ENTITY device.tools.update_firmware.title "Firmware frissítése">
+<!ENTITY device.tools.update_firmware.description "Az eszközt egy belső program, a firmware vezérli. A készülék utolsó csatlakoztatása óta újabb firmware jelenhetett meg az eszközhöz.">
+<!ENTITY device.tools.update_firmware.label "Új firmware keresése">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Jelenlegi firmware verziója:">
+
+<!ENTITY device.tools.restore_device.title "Eszköz visszaállítása">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Eszköz visszaállítása a gyári beállításokra">
+
+<!ENTITY device.tools.format_device.title "Eszköz formázása">
+<!ENTITY device.tools.format_device.description "Az eszköz formázásakor minden zene és adat törlésre kerül az eszközről.">
+<!ENTITY device.tools.format_device.label "Eszköz formázása">
+<!ENTITY device.tools.format_volume.button.label "Formázás">
+
+<!ENTITY device.tools.support.title "Támogatás">
+<!ENTITY device.tools.support.description "Tekintse meg a legfrissebb támogatással kapcsolatos híreket, felhasználói leírásokat, gyakran feltett kérdéseket és termékinformációkat. A támogatás a terméküket regisztrált felhasználók számára érhetők el.">
+<!ENTITY device.tools.support.label "Támogatási anyagok megjelenítése">
+
+<!ENTITY device.tools.reset_warnings.title "Figyelmeztetések visszaállítása">
+<!ENTITY device.tools.reset_warnings.description "A figyelmeztető üzenetek visszaállításával lehetőség van bizonyos műveletek jóváhagyására, végrehajtásuk előtt.">
+<!ENTITY device.tools.reset_warnings.label "Figyelmeztető üzenetek visszaállítása">
+
+<!ENTITY device.dialog.setup.title "Eszköz beállítása">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Ha nem akarja, hogy a &brandShortName; kezelje az eszközt, akkor ">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "mellőzze az eszköz használatát">
+<!ENTITY device.dialog.setup.explainIgnore.afterText "">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Hivatkozás megnyitása az alapértelmezett böngészővel">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "a">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Oldal megnyitása az alapértelmezett böngészővel">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "a">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Keret megnyitása az alapértelmezett böngészővel">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "a">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Kép megnyitása az alapértelmezett böngészővel">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "a">
+<!ENTITY copySelectionCmd.label                         "Kijelölt szöveg másolása">
+<!ENTITY copySelectionCmd.accesskey                     "s">
+<!ENTITY playMediaCmd.label                             "Lejátszás">
+<!ENTITY playMediaCmd.accesskey                         "L">
+<!ENTITY downloadMediaCmd.label                         "Letöltés a médiatárba">
+<!ENTITY downloadMediaCmd.accesskey                     "e">
+<!ENTITY addMediaToPlaylistCmd.label                    "Letöltés a lejátszólistába">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "H">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Nincsenek lejátszólisták&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Új lejátszólista">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "Ú">
+<!ENTITY subscribeMediaPageCmd.label                    "Feliratkozás az oldalra…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "F">
+<!ENTITY subscribeMediaFrameCmd.label                   "Feliratkozás a keretre…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "F">
+
+<!ENTITY feedback.dialog.title      "Segítsen, hogy egyre jobb legyen a  &brandShortName;!">
+<!ENTITY feedback.dialog.yes        "Igen">
+<!ENTITY feedback.dialog.no         "Nem">
+<!ENTITY feedback.dialog.sentence1  "Szeretne segíteni abban, hogy a &brandShortName; még jobb legyen azzal, hogy kitölt egy személyes adatokat nem tartalmazó kérdőívet?">
+<!ENTITY feedback.dialog.sentence2  "Amennyiben nem szeretne ebben részt venni, többet nem tesszük fel ezt a kérdést.  Köszönjük, hogy a &brandShortName; médialejátszót választotta!">
+<!ENTITY feedback.dialog.sentence3  "Üdvözlettel,">
+<!ENTITY feedback.dialog.sentence4  "A &brandShortName; csapata">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Üdvözli a &brandShortName;!">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "&brandShortName; telepítése">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Ajánlott kiegészítők">
+<!ENTITY first_run.add_ons.description.line1 "A kiegészítők segítségével tovább bővíthető és testreszabható a &brandShortName;. Az alábbi lehetőségek mindenképpen javasoltak.">
+<!ENTITY first_run.add_ons.description.line2 "A kiegészítők más alkalmazásokat és szolgáltatásokat integrálnak, támogatják külső eszközök csatolását, megváltoztatják az alkalmazás megjelenését stb. A Kiegészítők a &brandShortName; erre fenntartott oldaláról tölthetők le.">
+<!ENTITY first_run.add_ons.loading.label     "Javasolt bővítések letöltése">
+<!ENTITY first_run.add_ons.load_failed.label "A javasolt bővítményeket nem lehet letölteni.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "A &brandShortName; nem tud csatlakozni az internetre">
+<!ENTITY first_run.connection.description          "Ellenőrizze a Kapcsolat beállításait vagy folytassa a varázslóval.">
+<!ENTITY first_run.connection.settings.button      "Kapcsolat beállítása…">
+<!ENTITY first_run.connection.settings.description "A számítógép vagy a hálózat tűzfal, vagy proxy védelme alatt áll? A kapcsolat helyes beállítsa segíthet kiküszöbölni az általános hálózati problémákat.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Licencszerződés">
+<!ENTITY first_run.eula.accept_checkbox.label "Elolvastam és elfogadom a felhasználás feltételeit.">
+<!ENTITY first_run.eula.language.label        "Nyelv:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Segítsen, hogy a &brandShortName; még jobb legyen">
+<!ENTITY first_run.feedback.description             "Segítene a &brandShortName; jobbá tételében azzal, hogy név és személyes adatok nélküli visszajelzést küld az alkalmazás használatával kapcsolatban?">
+<!ENTITY first_run.feedback.metrics.label           "Gyűjtse össze és küldje el a mérési adatokat a &brandShortName; csapatának">
+<!ENTITY first_run.feedback.metrics.description     "A mérések teljesen névtelenül és személyes adatok felhasználása nélkül történnek.">
+<!ENTITY first_run.feedback.email.header.label      "Értesítésküldés">
+<!ENTITY first_run.feedback.email.description       "Iratkozzon fel a hírlevelünkre, hogy értesüljön az új megjelenésekről és a fontos frissítésekről.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "adja meg az e-mail címét, ha további információkat szeretne kapni">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "iTunes import/export">
+<!ENTITY first_run.itunes.description                   "Úgy tűnik, az iTunes telepítve van. A &brandShortName; beállítható úgy, hogy importálja és/vagy exportálja a dalokat a &brandShortName; és az iTunes között, így a médiatárak szinkronban lehetnek.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Dalok és lejátszólisták importja iTunes-ból">
+<!ENTITY first_run.itunes.checkbox.import.description   "Az iTunes Store-on keresztül vásárolt zenék a &brandShortName; médialejátszóba importálhatók. Ez a funkció akkor is megfelelően működik, ha a &brandShortName; az alapértelmezett médialejátszó.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Új dalok és lejátszólisták exportja iTunes-ba">
+<!ENTITY first_run.itunes.checkbox.export.description   "A &brandShortName; médialejátszón keresztül vásárolt zene iTunes-ba exportálható, így átmásolható iPod-ra vagy iPhone-ra.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Média importálása">
+<!ENTITY first_run.import_media.description                  "Válassza ki, hogy miket szeretne a &brandShortName; médialejátszóba importálni. A &brandShortName; elindítása után számos módon lehet további médiákat beimportálni. ">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Mappák átvizsgálása a számítógépemen">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Ne importálja a médiaanyagokat">
+<!ENTITY first_run.import_media.scan_directories.description "Szeretné, hogy a &brandShortName; a megadott könyvtárban talált médiákat importálja?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Mappa változásainak figyelése">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Kiegészítők letöltése">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Üdvözöli a &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "A &brandShortName; a hagyományos asztali médialejátszók egy nagy mértékben testreszabható alternatívája.">
+<!ENTITY first_run.welcome.description.line2 "A következő néhány párbeszédablak segít könnyedén és gyorsan üzembe helyezni a &brandShortName; médialejátszót.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Médiaimportáló">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Médiatár importálása">
+<!ENTITY import_library.prefs.title                       "iTunes import/export">
+<!ENTITY import_library.library_file_label                "Médiatárfájl:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Figyelmeztessen nem támogatott dalok vagy lejátszólisták importálásakor">
+<!ENTITY import_library.prefs.path_group_caption          "iTunes médiatár helye">
+<!ENTITY import_library.prefs.options_group_caption       "Import/export beállítások">
+<!ENTITY import_library.import_command                    "Médiatár importálása">
+<!ENTITY import_tracks_itunes_checkbox                    "Dalok importálása iTunes-ból">
+<!ENTITY import_playlists_itunes_checkbox                 "Lejátszólisták importálása">
+<!ENTITY export_tracks_itunes_checkbox                    "Dalok exportálása iTunes-ba">
+<!ENTITY export_playlists_itunes_checkbox                 "Lejátszólisták exportálása">
+<!ENTITY export_subscriptions_itunes_checkbox             "Előfizetések exportálása">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Intelligens lejátszólisták exportálása">
+<!ENTITY importexport_show_notifications_checkbox         "Értesítés megjelenítése az import/export befejezésekor">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "A lejátszólista módosítva">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Jelenlegi &brandShortName; lejátszólista megtartása (ne importálja a lejátszólistát)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "A jelenlegi &brandShortName; és az iTunes lejátszólista összevonása">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "A &brandShortName; lejátszólista felülírása a jelenlegi iTunes lejátszólistával.">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Megjegyzés: az összevonás és a felülírás nem vonható vissza.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Kiválasztás alkalmazása az összes lejátszólistára">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Ne állítsa be figyelt mappának a Rendezett mappát, mert így a médiatárban kétszer jelennek az elemek.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Figyelt mappák">
+<!ENTITY watch_folder.prefs.settings_group_caption "Mappafigyelés beállításai">
+<!ENTITY watch_folder.prefs.description            "A &brandShortName; figyelemmel kíséri a mappa tartalmát és automatikusan hozzáadja vagy törli annak elemeit a médiatárból.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "A következő mappák változásait automatikusan kövesse">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Mappa:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Ajánlott kiegészítők">
+<!ENTITY enable_recommended_addons_update.accesskey "a">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "&brandShortName; Telepítés">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Részletek">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Nincs lejátszás" >
+<!ENTITY albumart.displaypane.not_selected_message  "Nincs kijelölve semmi" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Húzza ide az album borítóját" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Kijelölt megjelenítése" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Most játszott megjelenítése" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Kivágás">
+<!ENTITY albumart.displaypane.selected.menu.copy "Másolás">
+<!ENTITY albumart.displaypane.selected.menu.paste "Beillesztés">
+<!ENTITY albumart.displaypane.selected.menu.clear "Törlés">
+<!ENTITY albumart.coverpreview.title "Albumborító">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Albumborító">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Albumborító beírása a metaadatba">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Ennek segítségével a &brandShortName; a médiafájlok kompatibilis metaadataiba ágyazza az albumborítót.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Fájlnévkeresés:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Adja meg a fájlneveket vesszővel elválasztva">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Kiterjesztéskeresés:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Adja meg a kiterjesztéseket vesszővel elválasztva">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Letöltő prioritások">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Letöltők használatának sorrendje felülről lefelé.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Fel">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Le">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Visszaállítás">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Albumborító automatikus letöltése">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Az album borító panel beállításainak megfelelően automatikusan letölti a borítókat a dal lejátszásakor vagy kiválasztásakor. A funkció engedélyezése hatással lehet a teljesítményre.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Vissza">
+<!ENTITY wizard.button.back.accesskey  "V">
+<!ENTITY wizard.button.cancel.label    "Mégse">
+<!ENTITY wizard.button.next.label      "Folytatás">
+<!ENTITY wizard.button.next.accesskey  "F">
+<!ENTITY wizard.button.finish.label    "Befejezés">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Mediacore hiba">
+<!ENTITY mediacore.error.preface  "A &brandShortName; használatakor a következő Mediacore hiba történt:">
+<!ENTITY mediacore.error.continue "Folytatás">
+<!ENTITY mediacore.error.stop     "Lejátszás leállítása">
+<!ENTITY mediacore.error.dontshowme "Ne jelenjen meg további Mediacore hiba">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Lejátszás">
+
+<!ENTITY playback.prefpane.audio_output.label   "Hangkimenet">
+<!ENTITY playback.prefpane.audio_output.buffer  "Kimeneti puffer:">
+
+<!ENTITY playback.prefpane.streaming.label      "Hálózat és adás">
+<!ENTITY playback.prefpane.streaming.buffer     "Folyam betöltése:">
+
+<!ENTITY playback.prefpane.normalization.label  "Normalizálás">
+<!ENTITY playback.prefpane.normalization.enable "Amennyiben rendelkezésre áll, használja az audionormalizálási adatot">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Erősítésre javasolt adat:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Dal">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "mp">
+
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
+
+<!ENTITY fetch_album_art.dialog.title "Albumborító letöltése">
+<!ENTITY fetch_album_art.dialog.message "Jelenleg nincs megvalósítva. (Bug 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Előadó">
+<!ENTITY cdrip.lookup.info_not_found.album  "Album">
+<!ENTITY cdrip.lookup.info_not_found.title  "CD-információ nem található">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Itt adható hozzá az előadó és az album neve. A további adatokat a CD beolvasás lejátszólistában szerkesztheti">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Cím">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "CD-beolvasás">
+<!ENTITY cdrip.prefpane.format "Formátum">
+<!ENTITY cdrip.prefpane.quality "Minőség">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "A CD-bemásolás befejeztével adja ki a CD-t">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "A CD-beolvasás befejeztével adjon figyelmeztető hangjelzést">
+<!ENTITY cdrip.prefpane.providers.title "CD-információ szolgáltató">
+<!ENTITY cdrip.prefpane.quality_desc "A magasabb kbps jobb minőséget és nagyobb fájlméretet eredményez.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD-bemásolás beállításai">
+<!ENTITY cdrip.mediaview.format_label              "Formátum:">
+<!ENTITY cdrip.mediaview.quality_label             "Minőség:">
+<!ENTITY cdrip.mediaview.settings_button           "Beállítások">
+<!ENTITY cdrip.mediaview.rip_cd_button             "CD bemásolás">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Bemásolás megállítása">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Dalok megtekintése">
+<!ENTITY cdrip.mediaview.eject_cd_button           "CD kiadása">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Videó ablak">
+<!ENTITY videowindow.actualsize "Jelenlegi méret">
+<!ENTITY videowindow.fullscreen "Teljes képernyő">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Ezúton szeretnénk köszönetet mondani a közreműködőknek, akik erőfeszítésével nyerte el a Songbird a mostani formáját. Ezek az emberek segítettek kód- és dokumentációírásban, és a tesztelésben. Ők hozták létre és tartják karban a terméket és a hozzá kapcsolódó fejlesztői eszközöket, a telepítőkészletek és a weboldalt. A lista az IRC-n használt neveket tartalmazza. Köszönjön be az irc.mozilla.com #songbird csatornájára!">
+<!ENTITY about.credits.footer.beforeLink "Természetesen, mindez nem jöhetett volna létre a Mozilla projektben">
+<!ENTITY about.credits.footer.linkText "közreműködők">
+<!ENTITY about.credits.footer.afterLink "kemény munkája nélkül.">
+<!ENTITY about.credits.heading.translators "Fordítók">
+<!ENTITY about.credits.heading.champs "Bajnokok">
+<!ENTITY about.credits.description.champs.link.pre "A Songbird Bajnokok azok a kitartó Songbird felhasználók, akik sokkal többet tesznek azért, hogy más Songbird felhasználóknak segíthessenek, mint az elvárható lenne.">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction támogatói fórum.">
+<!ENTITY about.credits.description.champs.link.post "Ezek a legtermékenyebb srácok a fórumon, és fáradhatatlanul azon dolgoznak, hogy minden Songbird felhasználó boldog Songbird felhasználó legyen.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Több CD található">
+<!ENTITY cdrip.lookup.multiple.description "Válasszon a következőkből vagy adja meg az adatokat.">
+<!ENTITY cdinfo.other.label                "Az albummal és az előadóval kapcsolatos információ hozzáadása">
+
+<!ENTITY playqueue.label "Lejátszási sor indítása">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Dalok hozzáadása">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

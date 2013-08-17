@@ -1,0 +1,119 @@
+<!ENTITY help.keyboard.title "Skochfodhow Alhwedhel &brandShortName;">
+<!ENTITY help.keyboard.subtitle "Skochfordhow Alhwedhel">
+<!ENTITY help.keyboard.description "Skochfordhow alhwedhel a yll gul dhe oberennow yn &brandShortName; esya. A-woles y kevir rol a worhemynadow kavadow sewys gans aga skochfordhow gwiw.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Gorhemmyn">
+<!ENTITY help.keyboard.heading.shortcut "Skochfordh">
+<!ENTITY help.keyboard.section.playback "Kontrolyow Dasseni">
+<!ENTITY help.keyboard.section.library "Lyverva ha Kanrolyow">
+<!ENTITY help.keyboard.section.editing "Ow Chanjya">
+<!ENTITY help.keyboard.section.navigation "Gedyans">
+<!ENTITY help.keyboard.section.browser "Peurel">
+<!ENTITY help.keyboard.section.windows "Fenestri ha Tabys">
+<!ENTITY help.keyboard.section.search "Hwilas">
+<!ENTITY help.keyboard.section.video "Gwydhyow">
+<!ENTITY help.keyboard.section.misc "Kemyskys">
+<!ENTITY help.keyboard.key.left "Seth a-Gledh">
+<!ENTITY help.keyboard.key.right "Seth a-Dhyhow">
+<!ENTITY help.keyboard.key.up "Seth yn-Bann">
+<!ENTITY help.keyboard.key.down "Seth yn-Nans">
+<!ENTITY help.keyboard.key.pgup "Folen yn-Bann">
+<!ENTITY help.keyboard.key.pgdn "Folen yn-Nans">
+<!ENTITY help.keyboard.key.home "Tre">
+<!ENTITY help.keyboard.key.end "Gorfen">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Klyck">
+<!ENTITY help.keyboard.mouse.click.middle "Klyck Kres">
+<!ENTITY help.keyboard.key.meta "Fen">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Dewis">
+<!ENTITY help.keyboard.key.shift "Shyft">
+<!ENTITY help.keyboard.key.delete "Delete">
+<!ENTITY help.keyboard.name.playcontrol.pause "Seni/Powes an Daklen Vedia Dewisys">
+<!ENTITY help.keyboard.name.playcontrol.prev "Seni an Daklen Vedia Kyns yn Rol">
+<!ENTITY help.keyboard.name.playcontrol.next "Seni an Nessa Taklen Vedia yn Rol">
+<!ENTITY help.keyboard.name.volume.down "Iselhe Sonradh">
+<!ENTITY help.keyboard.name.volume.up "Uhelhe Sonradh">
+<!ENTITY help.keyboard.name.volume.mute "Sonradh Dison">
+<!ENTITY help.keyboard.name.volume.max "Sonradh an Uhella">
+<!ENTITY help.keyboard.name.jumpto "Lamma dhe Fenester">
+<!ENTITY help.keyboard.name.equalizer "Ygeri an gesposel-son">
+<!ENTITY help.keyboard.name.new.playlist "Kanrol Nowyth">
+<!ENTITY help.keyboard.name.new.smartplaylist "Kanrol Gonnyk Nowyth">
+<!ENTITY help.keyboard.name.import "Ymperthi Media">
+<!ENTITY help.keyboard.name.currenttrack "Kavos an Daklen Vedia Usi ow Seni Lemmyn">
+<!ENTITY help.keyboard.name.mediapage.switch "Skwychya Gwel Media">
+<!ENTITY help.keyboard.name.feather.switch "Skwychya Desin an Pluvennow">
+<!ENTITY help.keyboard.name.trackeditor "Chanjyel Vetadata">
+<!ENTITY help.keyboard.name.edit.undo "Diswul">
+<!ENTITY help.keyboard.name.edit.redo "Daswul">
+<!ENTITY help.keyboard.name.edit.selectall "Dewis Puptra">
+<!ENTITY help.keyboard.name.edit.cut "Trehi">
+<!ENTITY help.keyboard.name.edit.copy "Dasskrifa">
+<!ENTITY help.keyboard.name.edit.paste "Glusa">
+<!ENTITY help.keyboard.name.edit.delete "Dilea">
+<!ENTITY help.keyboard.name.browser.back "Dehweles">
+<!ENTITY help.keyboard.name.browser.forward "Yn-Rag">
+<!ENTITY help.keyboard.name.browser.reload "Daskarga">
+<!ENTITY help.keyboard.name.browser.stop "Hedhi Karga">
+<!ENTITY help.keyboard.name.open.file "Ygeri Restren">
+<!ENTITY help.keyboard.name.open.url "Ygeri URL">
+<!ENTITY help.keyboard.name.tab.open.link "Ygeri kevren yn Tab Nowyth">
+<!ENTITY help.keyboard.name.save.link "Gwitha Kevren">
+<!ENTITY help.keyboard.name.file.print "Pryntya">
+<!ENTITY help.keyboard.name.view.source "Gweles Fenten">
+<!ENTITY help.keyboard.name.view.zoomin "Zoomya Nessa">
+<!ENTITY help.keyboard.name.view.zoomout "Zoomya Pella">
+<!ENTITY help.keyboard.name.view.zoomreset "Dassettya Zoom">
+<!ENTITY help.keyboard.name.subscribe "Ragbrena">
+<!ENTITY help.keyboard.name.locationbar "Barr Tyller Fog">
+<!ENTITY help.keyboard.name.tab.new "Tab Nowyth">
+<!ENTITY help.keyboard.name.tab.close "Degea Tab">
+<!ENTITY help.keyboard.name.tab.next "Nessa Tab">
+<!ENTITY help.keyboard.name.tab.previous "Tab Kyns">
+<!ENTITY help.keyboard.name.tab.1 "Skwychya dhe Dab 1">
+<!ENTITY help.keyboard.name.tab.2 "Skwychya dhe Dab 2">
+<!ENTITY help.keyboard.name.tab.3 "Skwychya dhe Dab 3">
+<!ENTITY help.keyboard.name.tab.4 "Skwychya dhe Dab 4">
+<!ENTITY help.keyboard.name.tab.5 "Skwychya dhe Dab 5">
+<!ENTITY help.keyboard.name.tab.6 "Skwychya dhe Dab 6">
+<!ENTITY help.keyboard.name.tab.7 "Skwychya dhe Dab 7">
+<!ENTITY help.keyboard.name.tab.8 "Skwychya dhe Dab 8">
+<!ENTITY help.keyboard.name.tab.9 "Skwychya dhe Dab 9">
+<!ENTITY help.keyboard.name.page.top "Mos dhe Benn an Folen">
+<!ENTITY help.keyboard.name.page.bottom "Mos dhe Woles an Folen">
+<!ENTITY help.keyboard.name.view.fullscreen "Skrin Leun">
+<!ENTITY help.keyboard.name.mac.minimize "Lehe rag Dockya">
+<!ENTITY help.keyboard.name.mac.hide "Kudha Fenester">
+<!ENTITY help.keyboard.name.mac.hideothers "Kudha Towlennow Erel">
+<!ENTITY help.keyboard.name.downloads "Iskargansow">
+<!ENTITY help.keyboard.name.find "Kavos">
+<!ENTITY help.keyboard.name.find.again "Kavos Arta">
+<!ENTITY help.keyboard.name.find.text "Tekst Kavos yn Unn Jynnskrifa">
+<!ENTITY help.keyboard.name.find.link "Kevren Gavos yn Unn Jynnskrifa">
+<!ENTITY help.keyboard.name.search.focus "Kyst Hwilas Fog">
+<!ENTITY help.keyboard.name.video.fullscreen "Skrin leun">
+<!ENTITY help.keyboard.name.quit "Kwitya">
+<!ENTITY help.keyboard.name.preferences "Dewisyansow">
+<!ENTITY help.keyboard.name.help "Testennow Gweres">
+<!ENTITY help.keyboard.name.sanitize "Gwakhe dha Dherivadow Privedh">

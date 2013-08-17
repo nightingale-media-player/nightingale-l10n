@@ -1,0 +1,116 @@
+<!ENTITY help.keyboard.title "&brandShortName;-snarknøttur">
+<!ENTITY help.keyboard.subtitle "Snarknøttar">
+<!ENTITY help.keyboard.description "Snarknøttar kunnu gera uppgávur í &brandShortName; nógv lættari. Niðanfyri er eitt yvirlit av tøkum boðum saman við viðkomandi snarknøtti.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Boð">
+<!ENTITY help.keyboard.heading.shortcut "Snarknøttur">
+<!ENTITY help.keyboard.section.playback "Stýring av avspæling">
+<!ENTITY help.keyboard.section.library "Savn og spælilistar">
+<!ENTITY help.keyboard.section.editing "Broytir">
+<!ENTITY help.keyboard.section.navigation "Navigatión">
+<!ENTITY help.keyboard.section.browser "Kagi">
+<!ENTITY help.keyboard.section.windows "Vindeygu og spjøldur">
+<!ENTITY help.keyboard.section.search "Leita">
+<!ENTITY help.keyboard.section.video "Video">
+<!ENTITY help.keyboard.section.misc "Ymiskt">
+<!ENTITY help.keyboard.key.left "Vinstripílur">
+<!ENTITY help.keyboard.key.right "Høgripílur">
+<!ENTITY help.keyboard.key.up "Pílur upp">
+<!ENTITY help.keyboard.key.down "Pílur niður">
+<!ENTITY help.keyboard.key.pgup "Síðu upp">
+<!ENTITY help.keyboard.key.pgdn "Síðu niður">
+<!ENTITY help.keyboard.key.home "Heim">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Spjaldur">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Klikk">
+<!ENTITY help.keyboard.mouse.click.middle "Miðklikk">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.shift "Skift">
+<!ENTITY help.keyboard.key.delete "Delete">
+<!ENTITY help.keyboard.name.playcontrol.pause "Spæl/bíða við valda miðlaluti">
+<!ENTITY help.keyboard.name.playcontrol.prev "Spæl undanfarna miðlalut á lista">
+<!ENTITY help.keyboard.name.playcontrol.next "Spæl næsta miðlalut á lista">
+<!ENTITY help.keyboard.name.volume.down "Ljóðið niður">
+<!ENTITY help.keyboard.name.volume.up "Ljóð upp">
+<!ENTITY help.keyboard.name.volume.mute "Ljóð fyri">
+<!ENTITY help.keyboard.name.volume.max "Ljóð harðast">
+<!ENTITY help.keyboard.name.jumpto "Leyp til vindeyga">
+<!ENTITY help.keyboard.name.new.playlist "Nýggjan spælilista">
+<!ENTITY help.keyboard.name.new.smartplaylist "Nýggjan gløggan spælilista">
+<!ENTITY help.keyboard.name.import "Innflyt miðlafílur">
+<!ENTITY help.keyboard.name.currenttrack "Finn núspælda miðlalut">
+<!ENTITY help.keyboard.name.mediapage.switch "Skift miðlaskoðan">
+<!ENTITY help.keyboard.name.feather.switch "Skift hamsnið">
+<!ENTITY help.keyboard.name.trackeditor "Metadátuviðgerð">
+<!ENTITY help.keyboard.name.edit.undo "Angra">
+<!ENTITY help.keyboard.name.edit.redo "Ger umaftur">
+<!ENTITY help.keyboard.name.edit.selectall "Vel alt">
+<!ENTITY help.keyboard.name.edit.cut "Strika">
+<!ENTITY help.keyboard.name.edit.copy "Avrita">
+<!ENTITY help.keyboard.name.edit.paste "Set inn">
+<!ENTITY help.keyboard.name.edit.delete "Strika">
+<!ENTITY help.keyboard.name.browser.back "Aftur">
+<!ENTITY help.keyboard.name.browser.forward "Fram">
+<!ENTITY help.keyboard.name.browser.reload "Les innaftur">
+<!ENTITY help.keyboard.name.browser.stop "Steðga innlesing">
+<!ENTITY help.keyboard.name.open.file "Lat fílu upp">
+<!ENTITY help.keyboard.name.open.url "Lat url upp">
+<!ENTITY help.keyboard.name.tab.open.link "Lat slóð upp í nýggjum spjaldri">
+<!ENTITY help.keyboard.name.save.link "Goym slóð">
+<!ENTITY help.keyboard.name.file.print "Prenta">
+<!ENTITY help.keyboard.name.view.source "Vís keldu">
+<!ENTITY help.keyboard.name.view.zoomin "Suma inn">
+<!ENTITY help.keyboard.name.view.zoomout "Suma út">
+<!ENTITY help.keyboard.name.view.zoomreset "Nullstilla suming">
+<!ENTITY help.keyboard.name.subscribe "Tekna hald">
+<!ENTITY help.keyboard.name.tab.new "Nýtt spjaldur">
+<!ENTITY help.keyboard.name.tab.close "Lat spjaldur aftur">
+<!ENTITY help.keyboard.name.tab.next "Næsta spjaldur">
+<!ENTITY help.keyboard.name.tab.previous "Undanfarna spjaldur">
+<!ENTITY help.keyboard.name.tab.1 "Skift til spjaldur 1">
+<!ENTITY help.keyboard.name.tab.2 "Skift til spjaldur 2">
+<!ENTITY help.keyboard.name.tab.3 "Skift til spjaldur 3">
+<!ENTITY help.keyboard.name.tab.4 "Skift til spjaldur 4">
+<!ENTITY help.keyboard.name.tab.5 "Skift til spjaldur 5">
+<!ENTITY help.keyboard.name.tab.6 "Skift til spjaldur 6">
+<!ENTITY help.keyboard.name.tab.7 "Skift til spjaldur 7">
+<!ENTITY help.keyboard.name.tab.8 "Skift til spjaldur 8">
+<!ENTITY help.keyboard.name.tab.9 "Skift til síðsta spjaldur">
+<!ENTITY help.keyboard.name.page.top "Far ovast á síðuni">
+<!ENTITY help.keyboard.name.page.bottom "Far niðast á síðuni">
+<!ENTITY help.keyboard.name.view.fullscreen "Fullur skíggi">
+<!ENTITY help.keyboard.name.mac.minimize "Minsta við dokk">
+<!ENTITY help.keyboard.name.mac.hide "Fjal vindeyga">
+<!ENTITY help.keyboard.name.mac.hideothers "Fjal onnur forrit">
+<!ENTITY help.keyboard.name.downloads "Niðurtøkur">
+<!ENTITY help.keyboard.name.find "Finn">
+<!ENTITY help.keyboard.name.find.again "Finn aftur">
+<!ENTITY help.keyboard.name.find.text "Finn, meðan tú skrivar tekst">
+<!ENTITY help.keyboard.name.find.link "Finn, meðan tú skrivar slóð">
+<!ENTITY help.keyboard.name.video.fullscreen "Fullur skíggi">
+<!ENTITY help.keyboard.name.cdrip.eject "Trýst út CD">
+<!ENTITY help.keyboard.name.quit "Steðga">
+<!ENTITY help.keyboard.name.preferences "Stillingar">
+<!ENTITY help.keyboard.name.help "Hjálp eftir evni">
+<!ENTITY help.keyboard.name.sanitize "Rudda privatar upplýsingar">

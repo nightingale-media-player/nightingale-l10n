@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName;-sneltoetsen" >
+<!ENTITY help.keyboard.subtitle           "Sneltoetsen" >
+<!ENTITY help.keyboard.description        "Sneltoetsen kunnen het gebruik van &brandShortName; vereenvoudigen. Hieronder bevindt zich een lijst van beschikbare opdrachten, gevolgd door de bijbehorende snelkoppelingen.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Opdracht" >
+<!ENTITY help.keyboard.heading.shortcut   "Sneltoets" >
+<!ENTITY help.keyboard.section.playback   "Afspeelbediening" >
+<!ENTITY help.keyboard.section.library    "Collectie en afspeellijsten" >
+<!ENTITY help.keyboard.section.editing    "Bewerken" >
+<!ENTITY help.keyboard.section.navigation "Navigatie" >
+<!ENTITY help.keyboard.section.browser    "Browser" >
+<!ENTITY help.keyboard.section.windows    "Vensters en tabbladen" >
+<!ENTITY help.keyboard.section.search     "Zoeken" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD-import" >
+<!ENTITY help.keyboard.section.misc       "Diversen" >
+
+<!ENTITY help.keyboard.key.left           "Links" >
+<!ENTITY help.keyboard.key.right          "Rechts" >
+<!ENTITY help.keyboard.key.up             "Omhoog" >
+<!ENTITY help.keyboard.key.down           "Pijl omlaag" >
+<!ENTITY help.keyboard.key.pgup           "Page up" >
+<!ENTITY help.keyboard.key.pgdn           "Page down" >
+<!ENTITY help.keyboard.key.home           "Startpagina" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Klikken" >
+<!ENTITY help.keyboard.mouse.click.middle "Midden-klikken" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Verwijderen" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Het geselecteerde media-item afspelen/pauzeren" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Het vorige media-item in een lijst afspelen" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Het volgende media-item in een lijst afspelen" >
+<!ENTITY help.keyboard.name.volume.down         "Volume omlaag" >
+<!ENTITY help.keyboard.name.volume.up           "Volume omhoog" >
+<!ENTITY help.keyboard.name.volume.mute         "Geluid dempen" >
+<!ENTITY help.keyboard.name.volume.max          "Maximumvolume" >
+<!ENTITY help.keyboard.name.jumpto              "Naar venster gaan" >
+<!ENTITY help.keyboard.name.equalizer           "De equalizer openen" >
+<!ENTITY help.keyboard.name.new.playlist        "Nieuwe afspeellijst" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nieuwe slimme afspeellijst" >
+<!ENTITY help.keyboard.name.import              "Media importeren" >
+<!ENTITY help.keyboard.name.currenttrack        "Nu afspelend media-item opzoeken" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Mediaweergave wijzigen" >
+<!ENTITY help.keyboard.name.feather.switch      "Veerindelingen omschakelen" >
+<!ENTITY help.keyboard.name.trackeditor         "Metagegevensbewerker" >
+<!ENTITY help.keyboard.name.edit.undo           "Ongedaan maken" >
+<!ENTITY help.keyboard.name.edit.redo           "Opnieuw" >
+<!ENTITY help.keyboard.name.edit.selectall      "Alles selecteren" >
+<!ENTITY help.keyboard.name.edit.cut            "Knippen" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopiëren" >
+<!ENTITY help.keyboard.name.edit.paste          "Plakken" >
+<!ENTITY help.keyboard.name.edit.delete         "Verwijderen" >
+<!ENTITY help.keyboard.name.browser.back        "Terug" >
+<!ENTITY help.keyboard.name.browser.forward     "Verder" >
+<!ENTITY help.keyboard.name.browser.reload      "Opnieuw laden" >
+<!ENTITY help.keyboard.name.browser.stop        "Laden stoppen" >
+<!ENTITY help.keyboard.name.open.file           "Bestand openen" >
+<!ENTITY help.keyboard.name.open.url            "URL-locatie openen" >
+<!ENTITY help.keyboard.name.tab.open.link       "Koppeling openen in nieuw tabblad" >
+<!ENTITY help.keyboard.name.save.link           "Koppeling opslaan" >
+<!ENTITY help.keyboard.name.file.print          "Afdrukken" >
+<!ENTITY help.keyboard.name.view.source         "Bron bekijken" >
+<!ENTITY help.keyboard.name.view.zoomin         "Inzoomen" >
+<!ENTITY help.keyboard.name.view.zoomout        "Uitzoomen" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Herstellen" >
+<!ENTITY help.keyboard.name.subscribe           "Abonneren" >
+<!ENTITY help.keyboard.name.locationbar         "Naar de locatiebalk gaan" >
+<!ENTITY help.keyboard.name.tab.new             "Nieuw tabblad" >
+<!ENTITY help.keyboard.name.tab.close           "Tabblad sluiten" >
+<!ENTITY help.keyboard.name.tab.next            "Volgende tabblad" >
+<!ENTITY help.keyboard.name.tab.previous        "Vorige tabblad" >
+<!ENTITY help.keyboard.name.tab.1               "Naar tabblad 1 schakelen" >
+<!ENTITY help.keyboard.name.tab.2               "Naar tabblad 2 schakelen" >
+<!ENTITY help.keyboard.name.tab.3               "Naar tabblad 3 schakelen" >
+<!ENTITY help.keyboard.name.tab.4               "Naar tabblad 4 schakelen" >
+<!ENTITY help.keyboard.name.tab.5               "Naar tabblad 5 schakelen" >
+<!ENTITY help.keyboard.name.tab.6               "Naar tabblad 6 schakelen" >
+<!ENTITY help.keyboard.name.tab.7               "Naar tabblad 7 schakelen" >
+<!ENTITY help.keyboard.name.tab.8               "Naar tabblad 8 schakelen" >
+<!ENTITY help.keyboard.name.tab.9               "Naar tabblad 9 schakelen" >
+<!ENTITY help.keyboard.name.page.top            "Naar de bovenkant van de pagina gaan" >
+<!ENTITY help.keyboard.name.page.bottom         "Naar de onderkant van de pagina gaan" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Volledig scherm" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimaliseren naar dock" >
+<!ENTITY help.keyboard.name.mac.hide            "Venster verbergen" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Andere toepassingen verbergen" >
+<!ENTITY help.keyboard.name.downloads           "Downloads" >
+<!ENTITY help.keyboard.name.find                "Zoeken" >
+<!ENTITY help.keyboard.name.find.again          "Nogmaals zoeken" >
+<!ENTITY help.keyboard.name.find.text           "Zoeken terwijl u typt - tekst" >
+<!ENTITY help.keyboard.name.find.link           "Zoeken terwijl u typt - koppeling" >
+<!ENTITY help.keyboard.name.search.focus        "Naar de zoekbalk gaan" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Volledig scherm" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video bovenaan" >
+<!ENTITY help.keyboard.name.video.escape        "Volledig scherm afsluiten" >
+<!ENTITY help.keyboard.name.cdrip.start         "CD importeren" >
+<!ENTITY help.keyboard.name.cdrip.stop          "CD-import stoppen" >
+<!ENTITY help.keyboard.name.cdrip.eject         "CD uitwerpen" >
+<!ENTITY help.keyboard.name.quit                "Afsluiten" >
+<!ENTITY help.keyboard.name.preferences         "Voorkeuren" >
+<!ENTITY help.keyboard.name.help                "Help-onderwerpen" >
+<!ENTITY help.keyboard.name.sanitize            "Uw privégegevens wissen" >

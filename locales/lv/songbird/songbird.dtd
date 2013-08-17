@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "Labi" >
+<!ENTITY window.cancel      "Atcelt" >
+<!ENTITY window.apply       "Pielietot" >
+<!ENTITY window.browse      "Pārlūkot…" >
+<!ENTITY window.save        "Saglabāt">
+<!ENTITY window.yes         "Jā">
+<!ENTITY window.no          "Nē">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Iziet &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Iestatījumi">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Servisi">
+<!ENTITY menu.mac.hide                  "Paslēpt &brandShortName;">
+<!ENTITY menu.mac.hide.key              "H">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Paslēpt citus">
+<!ENTITY menu.mac.hideothers.key        "H">
+<!ENTITY menu.mac.hideothers.modifiers  "accel, alt">
+<!ENTITY menu.mac.showall               "Parādīt visu">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Datne" >
+<!ENTITY menu.file.new          "Jauns repertuārs…" >
+<!ENTITY menu.file.smart        "Jauns gudrais repertuārs…" >
+<!ENTITY menu.file.remote       "Jauns pieraksts…" >
+<!ENTITY menu.file.podcast      "New Podcast…" >
+<!ENTITY menu.file.open         "Atvērt datni…" >
+<!ENTITY menu.file.url          "Atvērt atrašanās vietu" >
+<!ENTITY menu.file.playlist     "Importēt repertuāru…" >
+<!ENTITY menu.file.library      "Importēt bibliotēku…" >
+<!ENTITY menu.file.newtab       "Jauna cilne" >
+<!ENTITY menu.file.closetab     "Aizvērt cilni" >
+<!ENTITY menu.file.metadata     "Apskatīt Metadatus">
+<!ENTITY menu.file.scan         "Skenēt multivides failus…" >
+<!ENTITY menu.file.exit         "Iziet" >
+
+<!ENTITY menu.edit          "Rediģēt" >
+<!ENTITY menu.edit.undo     "Atsaukt" >
+<!ENTITY menu.edit.redo     "Atsaukt atsaukšanu" >
+<!ENTITY menu.edit.cut      "Izgriezt" >
+<!ENTITY menu.edit.copy     "Kopēt" >
+<!ENTITY menu.edit.paste    "Ielīmēt" >
+<!ENTITY menu.edit.delete   "Dzēst" >
+<!ENTITY menu.edit.selall   "Izvēlēties visu" >
+<!ENTITY menu.edit.find        "Meklēt" >
+<!ENTITY menu.edit.findagain   "Meklēt nākamo" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Iestatījumi">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "Vadības" >
+<!ENTITY menu.control.play  "Atskaņot/Pauze" >
+<!ENTITY menu.control.pause "Pauze" >
+<!ENTITY menu.control.next  "Nākamais celiņš" >
+<!ENTITY menu.control.prev  "Iepriekšējais celiņš" >
+<!ENTITY menu.control.shuf  "Nejaušā kārtībā" >
+<!ENTITY menu.control.repa  "Atkārtot visu" >
+<!ENTITY menu.control.rep1  "Atkārtot vienu" >
+<!ENTITY menu.control.repx  "Neatkārtot" >
+<!ENTITY menu.control.jumpto "Pārlēkt uz…" >
+
+<!ENTITY menu.control.play.button      "Atskaņot" >
+<!ENTITY menu.control.pause.button     "Pauze" >
+<!ENTITY menu.control.stop.button      "Apturēt" >
+
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY displaypane.name.servicepane   "Service Pane Bottom">
+<!ENTITY displaypane.name.browser       "Content Pane Bottom">
+<!ENTITY displaypane.name.sidebar       "Right Sidebar">
+<!ENTITY servicepane.title.label        "Pakalpojumu Panelis">
+
+<!ENTITY menu.tools            "Rīki" >
+<!ENTITY menu.tools.getartwork "Iegūt Albuma attēlu">
+<!ENTITY menu.tools.exportmedia "Eksportēt Bibliotēkas Izmaiņas">
+
+<!ENTITY menu.help          "Palīdzība" >
+<!ENTITY menu.help.homepage "&brandShortName; Tīmekļa Vietne" >
+<!ENTITY menu.help.bugz     "Ziņot par kļūdu…" >
+<!ENTITY menu.help.topics   "Palīdzības tēmas" >
+<!ENTITY menu.help.keyboard "Tastatūras īsinājumtaustiņi">
+<!ENTITY menu.help.about    "Par &brandShortName;" >
+
+<!ENTITY menu.equalizer     "Ekvalaizers…" >
+<!ENTITY menu.preferences   "Iestatījumi" >
+<!ENTITY menu.extensions    "Papildinājumi" >
+<!ENTITY menu.clearprivatedata "Dzēst privātos datus…">
+<!ENTITY menu.errorconsole "Kļūdu konsole">
+<!ENTITY menu.downloadmgr   "Failu Lejuplādes" >
+<!ENTITY menu.switchplayercontrols  "Atskaņošanas kontrole" >
+<!ENTITY menu.controllerontop       "Rādīt augšā">
+<!ENTITY menu.controlleronbottom    "Rādīt apakšā">
+
+<!ENTITY menu.fullscreen            "Pilekrāna">
+<!ENTITY menu.videotofront          "Video uz Priekšplānu">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Gaida uz ierīcēm.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Gaida kamēr beidzas visas ierīces darbības. Klikšķini &quot;Iziet&quot;, lai pārtrauktu gaidīt un izietu no programmas.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Iziet">
+
+<!ENTITY tooltip.minimize         "Minimizēt" >
+<!ENTITY tooltip.maximize         "Maksimizēt/Atjaunot" >
+<!ENTITY tooltip.exit             "Iziet" >
+<!ENTITY tooltip.close            "Aizvērt" >
+<!ENTITY tooltip.hide             "Slēpt" >
+<!ENTITY tooltip.fullscreen       "Pilnekrāna" >
+<!ENTITY tooltip.control.back     "Iepriekšējais ieraksts" >
+<!ENTITY tooltip.control.play     "Atskaņot" >
+<!ENTITY tooltip.control.pause    "Pauze" >
+<!ENTITY tooltip.control.resume   "Atsākt" >
+<!ENTITY tooltip.control.stop     "Apturēt" >
+<!ENTITY tooltip.control.fwd      "Nākamais ieraksts" >
+<!ENTITY tooltip.control.mute     "Apklusināt" >
+<!ENTITY tooltip.control.volume   "Skaļums" >
+<!ENTITY tooltip.control.shuffle  "Sajaukšana" >
+<!ENTITY tooltip.control.shuf_off "Sajaukšana izslēgta" >
+<!ENTITY tooltip.control.curtrack "Atrast šobrīd atskaņoto ierakstu" >
+<!ENTITY tooltip.search           "Meklēt" >
+<!ENTITY tooltip.browser.back     "Pārlūkot atpakaļ" >
+<!ENTITY tooltip.browser.fwd      "Pārlūkot uz priekšu" >
+<!ENTITY tooltip.browser.stop     "Apturēt pārlūku" >
+<!ENTITY tooltip.browser.home     "Mājas" >
+<!ENTITY tooltip.browser.refresh  "Atsvaidzināt" >
+<!ENTITY tooltip.browser.subscription "Parakstīties uz šo lapu" >
+<!ENTITY tooltip.browser.mediapages.list "List View" >
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
+<!ENTITY tooltip.browser.mediapages "Mainīt mediju skatus…" >
+<!ENTITY tooltip.servicepane.show    "Rādīt servisa rūti" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "Jauns saraksts" >
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+
+<!ENTITY smart.window             "Gurdo Repertuāru" >
+<!ENTITY smart.limit              "Ierobežot ar" >
+<!ENTITY smart.match              "Atbilst" >
+<!ENTITY smart.matchsingle        "Match the following condition:" >
+<!ENTITY smart.any                "vismaz vienam" >
+<!ENTITY smart.all                "visiem" >
+<!ENTITY smart.following          "no šiem nosacījumiem:" >
+<!ENTITY smart.random             "nejaušs" >
+<!ENTITY smart.album              "albums" >
+<!ENTITY smart.artist             "izpildītājs" >
+<!ENTITY smart.genre              "žanrs" >
+<!ENTITY smart.title              "nosaukums" >
+<!ENTITY smart.high_rating        "augstākais vērtējums" >
+<!ENTITY smart.low_rating         "zemākais vērtējums" >
+<!ENTITY smart.most_recent        "visnesenāk atskaņotais" >
+<!ENTITY smart.least_recent       "least recently played" >
+<!ENTITY smart.most_often         "visbiežāk atskaņotais" >
+<!ENTITY smart.least_often        "least often played" >
+<!ENTITY smart.most_added         "visnesenāk pievienotais" >
+<!ENTITY smart.least_added        "least recently added" >
+<!ENTITY smart.minutes            "minūtes" >
+<!ENTITY smart.hours              "stundas" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "dziesmas" >
+<!ENTITY smart.selectedby         "selected by" >
+<!ENTITY smart.to                 "uz" >
+<!ENTITY smart.autoupdate         "Atjaunināšana">
+<!ENTITY smart.playlistcondition.library "Bibliotēka">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Mūzika">
+
+<!ENTITY textbox.songbird_open_url "Ievadiet atskaņojamā ieraksta URL vai ceļu:">
+
+<!ENTITY open_url.title           "Atvērt URL">
+<!ENTITY subscribe.title          "Pierakstīties">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "Minūte(s)">
+<!ENTITY subscribe.hours          "Stunda(s)">
+<!ENTITY subscribe.days           "Diena(s)">
+<!ENTITY subscribe.autocheck      "Automātiski atjaunināt ik pēc">
+<!ENTITY subscribe.destinationfolder      "Norādiet mērķa mapi:">
+
+<!ENTITY feed.subscribe.label     "Subscribe">
+<!ENTITY feed.subscribe.dontask   "Nerādīt šo ziņojumu automātiski">
+<!ENTITY feed.subscribe.close     "Aizvērt">
+
+<!ENTITY podcast.creation_dialog.title       "New Podcast">
+<!ENTITY podcast.creation_dialog.url.heading "URL">
+
+
+<!ENTITY watchfolder.title        "Novērot mapes">
+<!ENTITY watchfolder.folderlist   "Novērot jaunus failus šajās mapēs:">
+
+<!ENTITY locale.language          "Valoda" >
+<!ENTITY menu.view                "Skats" >
+<!ENTITY about.version            "Versija" >
+<!ENTITY about.buttons.credits    "Nopelni" >
+
+<!ENTITY equalizer.title          "Ekvalaizers" >
+<!ENTITY equalizer.on.checkbox    "On" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Custom" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Roks" >
+<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
+<!ENTITY equalizer.preset.techno      "Tehno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Regejs" >
+<!ENTITY equalizer.preset.live        "Dzīvais" >
+<!ENTITY equalizer.preset.club        "Klubu" >
+<!ENTITY equalizer.preset.party       "Ballīte" >
+<!ENTITY equalizer.preset.classical   "Klasiskais" >
+<!ENTITY equalizer.preset.large_hall  "Large Hall" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pops" >
+<!ENTITY equalizer.preset.soft        "Soft" >
+<!ENTITY equalizer.preset.small_speakers   "Laptop/Headphones" >
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
+<!ENTITY equalizer.preset.full_treble "Full treble" >
+<!ENTITY equalizer.preset.full_bass   "Full bass" >
+
+
+<!ENTITY setupprogress.pleasewait "Lūdzu uzgaidiet…" >
+<!ENTITY setupprogress.cancel     "Atcelt">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "J" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "A" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "C" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "L" >
+<!ENTITY menu.view.accesskey              "V" >
+<!ENTITY menu.preferences.accesskey       "I" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "P" >
+<!ENTITY menu.clearprivatedata.accesskey  "P" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "Z" >
+<!ENTITY menu.downloadmgr.accesskey       "D" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "A" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "G" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "L" >
+<!ENTITY menu.edit.delete.accesskey   "D" >
+<!ENTITY menu.edit.selall.accesskey   "A" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "R" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "J" >
+
+
+<!ENTITY menu.tools.accesskey            "T" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Parādīt failu" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Metadatu rediģētājs" >
+<!ENTITY trackeditor.tab.summary.title            "Kopsavilkums" >
+<!ENTITY trackeditor.tab.edit.title               "Iestatījumi" >
+<!ENTITY trackeditor.tab.lyrics.title             "Vārdi" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Pievienot birku" >
+<!ENTITY trackeditor.addtag.tag       "Birkas:" >
+
+<!ENTITY jumptofile.title             "Pārlēkt uz" >
+<!ENTITY jumptofile.search            "Meklēt:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Lietot globālos karstos taustiņus" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "Darbība" >
+<!ENTITY hotkeys.hotkey               "Taustiņš" >
+<!ENTITY hotkeys.add                  "Pievienot" >
+<!ENTITY hotkeys.set                  "Uzstādīt" >
+<!ENTITY hotkeys.remove               "Noņemt" >
+<!ENTITY hotkeys.prefpane             "Karstie taustiņi" >
+<!ENTITY hotkeys.info                 "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.&#10;&#10;Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications." >
+
+<!ENTITY rapi.prefpane.title             "Tīmekļa Integrācija" >
+<!ENTITY rapi.prefpane.access.caption    "Tīmekļa Integrācijas Atļauja" >
+<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
+<!ENTITY rapi.whitelist.label            "Izņēmumi" >
+<!ENTITY rapi.restore_defaults.label      "Atjaunot sākotnējos iestatījumus" >
+<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback" >
+<!ENTITY rapi.playback_read_disable.label    "Block websites from viewing information about playing media" >
+<!ENTITY rapi.library_read_disable.label     "Block websites from viewing information about media in my Library and devices" >
+<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Papildinājumi">
+<!ENTITY prefpane.content.label       "Tīmekļa Saturs">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Neviena USB atmiņas ierīce nav pievienota." >
+<!ENTITY umsd.music.tab                     "Mūzika" >
+<!ENTITY umsd.music.music_files_group       "Mūzikas faili" >
+<!ENTITY umsd.music.music_path_desc         "Kopējot mūzikas failus uz ierīci, novietot tos sekojošā mapē:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Izvēlies ierīces mapi, kurā ievietot mūzikas failus." >
+<!ENTITY umsd.music.music_ext_desc          "Kopēt mūzikas ierakstus ar sekojošiem paplašinājumiem uz ierīci:" >
+<!ENTITY umsd.video.tab                     "Video" >
+<!ENTITY umsd.video.video_files_group       "Video faili" >
+<!ENTITY umsd.video.video_path_desc         "Kopējot video failus uz ierīci, novietot tos sekojošā mapē:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Izvēlies ierīces mapi, kurā ievietot video failus." >
+<!ENTITY umsd.video.video_ext_desc          "Kopēt video failus ar sekojošiem paplašinājumiem uz ierīci:" >
+
+<!ENTITY device.error.dialog.link           "View Error Details" >
+
+<!ENTITY restartbox.restartnow        "Pārstartēt tūlīt" >
+<!ENTITY restartbox.restartonplaybackend "Pārstatēt pēc atskaņošanas beigām" >
+<!ENTITY restartbox.restartlater      "Pārstartēt vēlāk" >
+
+<!ENTITY setupprogress.installingextensions "Instalē papildinājumus" >
+
+<!ENTITY jobprogress.details "Detaļas" >
+
+<!ENTITY menu.updateCmd.label          "Pārbaudīt jauninājumus…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "atstarpēšanas taustiņš" >
+
+<!ENTITY tabs.closeTab "Aizvērt cilni">
+<!ENTITY tabs.listAllTabs "Parādīt visus šķirkļus">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator "-" >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Mājas lapa" >
+<!ENTITY prefs.homepage.url.label          "URL:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Spraudņu pievienošana" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Atcelt">
+<!ENTITY command.device.cancel.accesskey                "C">
+<!ENTITY command.device.canceldevicecopy                "Atcelt kopēšanu">
+<!ENTITY command.device.canceldevicecopy.accesskey      "C">
+<!ENTITY command.device.canceldevicedelete              "Atcelt dzēšanu">
+<!ENTITY command.device.canceldevicedelete.accesskey    "C">
+<!ENTITY command.device.canceldevicesync                "Atcelt saskaņošanu">
+<!ENTITY command.device.canceldevicesync.accesskey      "C">
+<!ENTITY command.device.canceldeviceupdate              "Atcelt atjaunināšanu">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
+<!ENTITY command.device.ejectdevice                     "Atvienot">
+<!ENTITY command.device.ejectdevice.accesskey           "E">
+<!ENTITY command.device.formatdevice                    "Formāts">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Ignorēt">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "Iegūt informāciju">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "Pārsaukt">
+<!ENTITY command.device.renamedevice.accesskey          "R">
+<!ENTITY command.device.devicesync                      "Saskaņot">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Rip CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Stop Rip">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "Uzmeklēt CD Informāciju">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Izņemt CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "E">
+
+<!ENTITY device.repair.menuitem.default                   "Repair my device">
+
+<!ENTITY device.firmware.wizard.title                     "Update Firmware">
+<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
+<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
+<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
+<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
+
+<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
+
+<!ENTITY device.info.icon.device            "Generic device icon">
+<!ENTITY device.info.icon.readonly          "Read-only lock icon">
+<!ENTITY device.info.model.label            "Modelis">
+<!ENTITY device.info.capacity.label         "Ietilpība">
+<!ENTITY device.info.product.label          "Product">
+<!ENTITY device.info.friendly_name.label    "Vārds">
+<!ENTITY device.info.serial_number.label    "Seriālais nummurs">
+<!ENTITY device.info.vendor.label           "Izstrādātājs">
+<!ENTITY device.info.access.label           "Access Compatibility">
+<!ENTITY device.info.playback_formats.label "Atbalstītie formāti">
+<!ENTITY device.info.battery.label          "Baterija">
+<!ENTITY device.info.firmware_version.label "Firmware Version">
+
+<!ENTITY device.progress.sync               "Sinhronizācija">
+
+<!ENTITY device.capacity.music.label    "Mūzika">
+<!ENTITY device.capacity.video.label    "Video">
+<!ENTITY device.capacity.image.label    "Photos">
+<!ENTITY device.capacity.other.label    "Citi">
+<!ENTITY device.capacity.free.label     "Brīvs">
+
+<!ENTITY device.unsupported_media.dialog.title  "Incompatible Files Detected">
+<!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
+
+<!ENTITY device.sync.header.label "Sinhronizācijas iestatījumi">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Sinhronizācija">
+<!ENTITY device.sync.sync_all.label "Sync all media and playlists">
+<!ENTITY device.sync.sync_selected.label "Sync selected playlists:">
+<!ENTITY device.sync.playlist.title "Nosaukums">
+<!ENTITY device.sync.playlist.video.duration "Video ilgums">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY device.sync.images.browse "Izvēlēties mapi…">
+<!ENTITY device.sync.images.all.label "Visi foto">
+<!ENTITY device.sync.images.all.template "Visi foto (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Izvēlētās apakš-mapes">
+<!ENTITY device.sync.images.foldername "Mapes nosaukums">
+<!ENTITY device.sync.images.filecount "Foto">
+
+<!ENTITY device.settings.header.label "Settings">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY device.settings.music.transcoding.label "Music Conversion">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY device.settings.disk.management.filename "Song files">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Mūzika">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY device.management.tabs.tools.label "Rīki">
+<!ENTITY device.management.tabs.settings.label "Settings">
+
+<!ENTITY device.tools.product_registration.title "Produkta reģistrācija">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY device.tools.product_registration.label "Reģistrēt produktu">
+
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+
+<!ENTITY device.tools.restore_device.title "Atjaunot ierīci">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+
+<!ENTITY device.tools.format_device.title "Formatēt ierīci">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY device.tools.format_device.label "Formatēt ierīci">
+<!ENTITY device.tools.format_volume.button.label "Formāts">
+
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY device.tools.support.label "View support resources">
+
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Atvērt Saiti noklusējuma Pārlūkprogrammā">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Atvērt Lapu noklusējuma Pārlūkprogrammā">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Atvērt Rāmi noklusējuma Pārlūkprogrammā">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Atvērt Attēlu noklusējuma Pārlūkprogrammā">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Kopēt iezīmēto tekstu">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "Atskaņot">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Lejuplādēt uz Bibliotēku">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "Lejupielādēt sarakstā">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Nav sarakstu&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Jauns saraksts">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Parakstīties uz šo lapu…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Parakstīties uz šo gabalu…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Palīdziet uzlabot &brandShortName;!">
+<!ENTITY feedback.dialog.yes        "Jā">
+<!ENTITY feedback.dialog.no         "Nē">
+<!ENTITY feedback.dialog.sentence1  "Vai vēlaties palūdzēt uzlabot &brandShortName;, piedaloties nelielā, anonīmā aptaujā?">
+<!ENTITY feedback.dialog.sentence2  "Ja jums tas neinteresē, mēs vairs jums to nepiedāvāsim. Paldies, ka apsvērāt, un mēs priecājamies, ka lietojat &brandShortName;.">
+<!ENTITY feedback.dialog.sentence3  "Sveicam,">
+<!ENTITY feedback.dialog.sentence4  "&brandShortName; komanda">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Esiet sveicināti &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "&brandShortName; sagatavošana">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Rekomendētie papildinājumi">
+<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;'s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application's appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY first_run.add_ons.loading.label     "Lejupielādē rekomendētos papildinājumus">
+<!ENTITY first_run.add_ons.load_failed.label "Neizdevās ielādēt rekomendētos papildinājumus">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Atjauninājums ir Gatavs Instalēšanai">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; Cannot Connect to the Internet">
+<!ENTITY first_run.connection.description          "Check your Connection Settings or Continue with the Setup assistant.">
+<!ENTITY first_run.connection.settings.button      "Savienojuma iestatījumi">
+<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Licenses noteikumi">
+<!ENTITY first_run.eula.accept_checkbox.label "Esmu izlasījis un piekrītu licences noteikumiem.">
+<!ENTITY first_run.eula.language.label        "Valoda:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Help Make &brandShortName; Better">
+<!ENTITY first_run.feedback.description             "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
+<!ENTITY first_run.feedback.metrics.label           "Collect and send my metrics to the &brandShortName; team">
+<!ENTITY first_run.feedback.metrics.description     "Metrics are completely anonymous and no personal information is collected.">
+<!ENTITY first_run.feedback.email.header.label      "Keep Me Posted">
+<!ENTITY first_run.feedback.email.description       "Subscribe to our newsletter to hear about new releases and important updates.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "iTunes Import/Export">
+<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Export new music tracks and playlists to iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Importēt failus">
+<!ENTITY first_run.import_media.description                  "Select what media you'd like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Skenēt datora mapes">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Tagad neveikt failu importēšanu">
+<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Novērot izmaiņas šajā mapē">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Lejuplādē spraudņus">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Laipni lūdzam &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
+<!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Failu importētājs">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Import a library">
+<!ENTITY import_library.prefs.title                       "iTunes">
+<!ENTITY import_library.library_file_label                "Bibliotēkas Fails:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Paziņot man, ja neatbalstītas dziesmas vai atsk. saraksti netiek importēti">
+<!ENTITY import_library.prefs.path_group_caption          "iTunes Mūzikas Bibliotēkas Atrašanās Vieta">
+<!ENTITY import_library.prefs.options_group_caption       "Importēšanas/Eksportēšanas Opcijas">
+<!ENTITY import_library.import_command                    "Import Library">
+<!ENTITY import_tracks_itunes_checkbox                    "Importēt dziesmas no iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Importēt atsk. sarakstus">
+<!ENTITY export_tracks_itunes_checkbox                    "Export music tracks to iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Export music playlists">
+<!ENTITY export_subscriptions_itunes_checkbox             "Export subscriptions">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Export music smart playlists">
+<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Saraksts izmainīts">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Keep the current &brandShortName; playlist (Do not import this playlist)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Merge the current &brandShortName; and iTunes playlists">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Replace this &brandShortName; playlist with the current iTunes playlist">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Note: Merge and replace cannot be undone.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Apply selection to all playlists">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Watch Folders">
+<!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Automātiski vērot izmaiņas šajā mapē">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Mape">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Ieteiktie spraudņi">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "&brandShortName; Iestatīt">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Detaļas">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Neko nespēlē" >
+<!ENTITY albumart.displaypane.not_selected_message  "Nekas nav iezīmēts" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Ievelc albuma attēlu šeit" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Rādīt šobrīd atlasīto" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Rādīt šobrīd atskaņoto" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Izgriezt">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopēt">
+<!ENTITY albumart.displaypane.selected.menu.paste "Ievietot">
+<!ENTITY albumart.displaypane.selected.menu.clear "Notīrīt">
+<!ENTITY albumart.coverpreview.title "Albuma attēls">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Albuma attēls">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Uzglabāt albumu vākus katra faila metadatos">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Tas ļaus &brandShortName; ievietot albumu vākus saderīgos failu tagos.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Meklēt failu nosaukumos:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Šeit ieraksti ar komatu atdalītus failu nosaukumus">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Meklēt failu paplašinājumus">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Šeit ievadi ar komatu atdalītus failu paplašinājumus">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Meklētāju prioritātes">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Augstāk novieto to meklētāju, kuru vēlies izmantot vispirms.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Uz augšu">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Uz leju">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Atiestatīt">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Automātiski Uzmeklēt Albumu Vākus">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Automātiski uzmeklē albumu vākus, kad dziesma tiek atskaņota vai atlasīta, atkarībā no izvēlētā Albumu Vāku uzrādes režīma. Var ietekmēt performanci.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Atpakaļ">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "Atcelt">
+<!ENTITY wizard.button.next.label      "Turpināt">
+<!ENTITY wizard.button.next.accesskey  "C">
+<!ENTITY wizard.button.finish.label    "Beigt">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Atskaņošanas Kļūme">
+<!ENTITY mediacore.error.preface  "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY mediacore.error.continue "Turpināt">
+<!ENTITY mediacore.error.stop     "Apturēt Atskaņošanu">
+<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Atskaņošana">
+
+<!ENTITY playback.prefpane.audio_output.label   "Audio Output">
+<!ENTITY playback.prefpane.audio_output.buffer  "Output Buffer:">
+
+<!ENTITY playback.prefpane.streaming.label      "Koptīkls un Straumēšana">
+<!ENTITY playback.prefpane.streaming.buffer     "Streaming Buffer:">
+
+<!ENTITY playback.prefpane.normalization.label  "Normalizācija">
+<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Albums">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Dziesma">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
+
+<!ENTITY fetch_album_art.dialog.title "Iegūt Albuma attēlu">
+<!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Mākslinieks">
+<!ENTITY cdrip.lookup.info_not_found.album  "Albums">
+<!ENTITY cdrip.lookup.info_not_found.title  "CD Informācija Nav Atrasta">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Šeit vari pievienot izpildītāja un albuma nosaukumu. Pārējo informāciju vari labot CD Rip atskaņošanas sarakstā.">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Nosaukums">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY cdrip.prefpane.format "Formāts">
+<!ENTITY cdrip.prefpane.quality "Kvalitāte">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY cdrip.prefpane.providers.title "CD Uzmeklēšanas Nodrošinātājs">
+<!ENTITY cdrip.prefpane.quality_desc "Lielāki kbps iestatījumi veidos augstāku audio kvalitāti un lielāku faila izmēru.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Iestatījumi">
+<!ENTITY cdrip.mediaview.format_label              "Formāts">
+<!ENTITY cdrip.mediaview.quality_label             "Kvalitāte">
+<!ENTITY cdrip.mediaview.settings_button           "Iestatījumi">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Rip CD">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Stop Rip">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Apskatīt dziesmas">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Izņemt CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "I">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Video logs">
+<!ENTITY videowindow.actualsize "Patiesais izmērs">
+<!ENTITY videowindow.fullscreen "Pa visu ekrānu">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Mēs gribam pateikties mūsu kontributoriem, kuru pūles padara Songbird par to, kas tas ir. Šie cilvēki ir palīdzējuši, rakstot kodu un dokumentāciju, un veicot testēšanu. Viņi ir radījuši un uzturējuši šo produktu, ar to saistītos izveides piederumus, mūsu veidošanas instrumentus un mūsu tīmekļa vietnes. Vārdiem seko IRC niki, nāciet caur #songbird uz irc.mozilla.org un apsveicinieties!">
+<!ENTITY about.credits.footer.beforeLink "Protams, nekas no tā nebūtu iespējams bez smagā darba un pūlēm no">
+<!ENTITY about.credits.footer.linkText "kontributoriem">
+<!ENTITY about.credits.footer.afterLink "Mozillas projektam.">
+<!ENTITY about.credits.heading.translators "Tulkotāji">
+<!ENTITY about.credits.heading.champs "Cīnītāji">
+<!ENTITY about.credits.description.champs.link.pre "Songbird Cīnītāji ir tie uzticīgie Songbird lietotāji un fani, kuri dara visu iespējamo un pat vairāk, lai palīdzētu citiem Songbird lietotājiem mūsu">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Atbalsta Forumā">
+<!ENTITY about.credits.description.champs.link.post "Viņi ir mūsu foruma visproduktīvākie cilvēki, kas bez paguruma strādā, lai katrs Songbird lietotājs būtu apmierināts Songbird lietotājs.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Atrasti Vairāki CD Ieraksti">
+<!ENTITY cdrip.lookup.multiple.description "Izvēlies vienu no sekojošajiem vai pievieno savu info.">
+<!ENTITY cdinfo.other.label                "Pievienot savu Izpildītāja un Albuma info">
+
+<!ENTITY playqueue.label "Atskaņošanas Rinda">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Dziesmas tiek pievienotas">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

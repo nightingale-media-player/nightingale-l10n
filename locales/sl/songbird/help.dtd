@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Tipke za bližnjice &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Tipke za bližnjice" >
+<!ENTITY help.keyboard.description        "Tipke za bližnjice naredijo opravila v &brandShortName; precej lažja. Spodaj je seznam razpoložljivih ukazov, z njihovimi bližnjicami.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Ukaz" >
+<!ENTITY help.keyboard.heading.shortcut   "Bližnjica" >
+<!ENTITY help.keyboard.section.playback   "Krmilnik predvajanja" >
+<!ENTITY help.keyboard.section.library    "Knjižnica in seznami predvajanja" >
+<!ENTITY help.keyboard.section.editing    "Urejanje" >
+<!ENTITY help.keyboard.section.navigation "Krmarjenje" >
+<!ENTITY help.keyboard.section.browser    "Brskalnik" >
+<!ENTITY help.keyboard.section.windows    "Okna in zavihki" >
+<!ENTITY help.keyboard.section.search     "Išči" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "Paranje zgoščenke" >
+<!ENTITY help.keyboard.section.misc       "Razno" >
+
+<!ENTITY help.keyboard.key.left           "Puščica levo" >
+<!ENTITY help.keyboard.key.right          "Puščica desno" >
+<!ENTITY help.keyboard.key.up             "Puščica navzgor" >
+<!ENTITY help.keyboard.key.down           "Puščica navzdol" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Klik" >
+<!ENTITY help.keyboard.mouse.click.middle "Srednji klik" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Predvajaj/prekini izbrani predmet" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Predvajaj prejšnji predmet na seznamu" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Predvajaj naslednji predmet na seznamu" >
+<!ENTITY help.keyboard.name.volume.down         "Tišje" >
+<!ENTITY help.keyboard.name.volume.up           "Glasneje" >
+<!ENTITY help.keyboard.name.volume.mute         "Neslišno" >
+<!ENTITY help.keyboard.name.volume.max          "Najglasneje" >
+<!ENTITY help.keyboard.name.jumpto              "Skoči na okno" >
+<!ENTITY help.keyboard.name.equalizer           "Odpri izenačevalnik" >
+<!ENTITY help.keyboard.name.new.playlist        "Nov seznam predvajanja" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nov pametni seznam predvajanja" >
+<!ENTITY help.keyboard.name.import              "Uvozi datoteke" >
+<!ENTITY help.keyboard.name.currenttrack        "Umesti trenutni predmet, ki se predvaja" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Preklopi pogled" >
+<!ENTITY help.keyboard.name.feather.switch      "Zamenjaj postavitev perja" >
+<!ENTITY help.keyboard.name.trackeditor         "Urejevalnik metapodatkov" >
+<!ENTITY help.keyboard.name.edit.undo           "Razveljavi" >
+<!ENTITY help.keyboard.name.edit.redo           "Ponovi" >
+<!ENTITY help.keyboard.name.edit.selectall      "Izberi vse" >
+<!ENTITY help.keyboard.name.edit.cut            "Izreži" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopiraj" >
+<!ENTITY help.keyboard.name.edit.paste          "Prilepi" >
+<!ENTITY help.keyboard.name.edit.delete         "Izbriši" >
+<!ENTITY help.keyboard.name.browser.back        "Nazaj" >
+<!ENTITY help.keyboard.name.browser.forward     "Naprej" >
+<!ENTITY help.keyboard.name.browser.reload      "Ponovno naloži" >
+<!ENTITY help.keyboard.name.browser.stop        "Ustavi nalaganje" >
+<!ENTITY help.keyboard.name.open.file           "Odpri datoteko" >
+<!ENTITY help.keyboard.name.open.url            "Odpri mesto URL" >
+<!ENTITY help.keyboard.name.tab.open.link       "Odpri povezavo v novem zavihku" >
+<!ENTITY help.keyboard.name.save.link           "Shrani povezavo" >
+<!ENTITY help.keyboard.name.file.print          "Natisni" >
+<!ENTITY help.keyboard.name.view.source         "Poglej vir" >
+<!ENTITY help.keyboard.name.view.zoomin         "Povečaj" >
+<!ENTITY help.keyboard.name.view.zoomout        "Pomanjšaj" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Ponastavi povečavo" >
+<!ENTITY help.keyboard.name.subscribe           "Naroči se" >
+<!ENTITY help.keyboard.name.locationbar         "Pozornost krajevne vrstice" >
+<!ENTITY help.keyboard.name.tab.new             "Nov zavihek" >
+<!ENTITY help.keyboard.name.tab.close           "Zapri zavihek" >
+<!ENTITY help.keyboard.name.tab.next            "Naslednji zavihek" >
+<!ENTITY help.keyboard.name.tab.previous        "Prejšnji zavihek" >
+<!ENTITY help.keyboard.name.tab.1               "Preklopi na zavihek 1" >
+<!ENTITY help.keyboard.name.tab.2               "Preklopi na zavihek 2" >
+<!ENTITY help.keyboard.name.tab.3               "Preklopi na zavihek 3" >
+<!ENTITY help.keyboard.name.tab.4               "Preklopi na zavihek 4" >
+<!ENTITY help.keyboard.name.tab.5               "Preklopi na zavihek 5" >
+<!ENTITY help.keyboard.name.tab.6               "Preklopi na zavihek 6" >
+<!ENTITY help.keyboard.name.tab.7               "Preklopi na zavihek 7" >
+<!ENTITY help.keyboard.name.tab.8               "Preklopi na zavihek 8" >
+<!ENTITY help.keyboard.name.tab.9               "Preklopi na zavihek 9" >
+<!ENTITY help.keyboard.name.page.top            "Premakni na vrh strani" >
+<!ENTITY help.keyboard.name.page.bottom         "Premakni na dno strani" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Cel zaslon" >
+<!ENTITY help.keyboard.name.mac.minimize        "Pomanjšaj v sidrišče" >
+<!ENTITY help.keyboard.name.mac.hide            "Skrij okno" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Skrij druge programe" >
+<!ENTITY help.keyboard.name.downloads           "Prenosi" >
+<!ENTITY help.keyboard.name.find                "Najdi" >
+<!ENTITY help.keyboard.name.find.again          "Ponovno najdi" >
+<!ENTITY help.keyboard.name.find.text           "Najdi med vnosom besedila" >
+<!ENTITY help.keyboard.name.find.link           "Najdi med vnosom povezave" >
+<!ENTITY help.keyboard.name.search.focus        "Pozornost na iskalno okence" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Celozaslonsko" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video na vrhu" >
+<!ENTITY help.keyboard.name.video.escape        "Izhod iz celozaslonskega načina" >
+<!ENTITY help.keyboard.name.cdrip.start         "Razparaj zgoščenko" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Ustavi paranje zgoščenke" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Izvrzi zgoščenko" >
+<!ENTITY help.keyboard.name.quit                "Izhod" >
+<!ENTITY help.keyboard.name.preferences         "Nastavitve" >
+<!ENTITY help.keyboard.name.help                "Teme pomoči" >
+<!ENTITY help.keyboard.name.sanitize            "Počisti svoje zasebne podatke" >

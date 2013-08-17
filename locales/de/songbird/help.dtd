@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName;-Tastenkürzel" >
+<!ENTITY help.keyboard.subtitle           "Tastenkürzel" >
+<!ENTITY help.keyboard.description        "Tastenkürzel können Aufgaben in &brandShortName; viel einfacher machen. Unten ist eine Liste der verfügbaren Befehle, gefolgt von den zugehörigen Tastenkürzeln.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Befehl" >
+<!ENTITY help.keyboard.heading.shortcut   "Tastenkürzel" >
+<!ENTITY help.keyboard.section.playback   "Wiedergaberegelung" >
+<!ENTITY help.keyboard.section.library    "Mediathek und Wiedergabelisten" >
+<!ENTITY help.keyboard.section.editing    "Bearbeitung" >
+<!ENTITY help.keyboard.section.navigation "Navigation" >
+<!ENTITY help.keyboard.section.browser    "Browser" >
+<!ENTITY help.keyboard.section.windows    "Fenster und Tabs" >
+<!ENTITY help.keyboard.section.search     "Suche" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "Musik von CD kopieren" >
+<!ENTITY help.keyboard.section.misc       "Verschiedenes" >
+
+<!ENTITY help.keyboard.key.left           "Pfeil links" >
+<!ENTITY help.keyboard.key.right          "Pfeil rechts" >
+<!ENTITY help.keyboard.key.up             "Pfeil hoch" >
+<!ENTITY help.keyboard.key.down           "Pfeil runter" >
+<!ENTITY help.keyboard.key.pgup           "Bild hoch" >
+<!ENTITY help.keyboard.key.pgdn           "Bild runter" >
+<!ENTITY help.keyboard.key.home           "Pos1" >
+<!ENTITY help.keyboard.key.end            "Ende" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Klick" >
+<!ENTITY help.keyboard.mouse.click.middle "Mittelklick" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Strg" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "⌥" >
+<!ENTITY help.keyboard.key.shift          "Umschalt" >
+<!ENTITY help.keyboard.key.delete         "Entf" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Wiedergabe/Pause des ausgewählten Titels" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Vorherigen Titel der Wiedergabeliste wiedergeben" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Den nächsten Titel einer Liste wiedergeben" >
+<!ENTITY help.keyboard.name.volume.down         "Leiser" >
+<!ENTITY help.keyboard.name.volume.up           "Lauter" >
+<!ENTITY help.keyboard.name.volume.mute         "Ton aus" >
+<!ENTITY help.keyboard.name.volume.max          "Maximale Lautstärke" >
+<!ENTITY help.keyboard.name.jumpto              "&quot;Springe zu&quot;-Fenster" >
+<!ENTITY help.keyboard.name.equalizer           "Equalizer öffnen" >
+<!ENTITY help.keyboard.name.new.playlist        "Neue Wiedergabeliste" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Neue intelligente Wiedergabeliste" >
+<!ENTITY help.keyboard.name.import              "Medien importieren" >
+<!ENTITY help.keyboard.name.currenttrack        "Gerade wiedergegebenen Titel anzeigen" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Medienansicht wechseln" >
+<!ENTITY help.keyboard.name.feather.switch      "Federkleid wechseln" >
+<!ENTITY help.keyboard.name.trackeditor         "Metadaten-Editor" >
+<!ENTITY help.keyboard.name.edit.undo           "Rückgängig" >
+<!ENTITY help.keyboard.name.edit.redo           "Wiederholen" >
+<!ENTITY help.keyboard.name.edit.selectall      "Alle auswählen" >
+<!ENTITY help.keyboard.name.edit.cut            "Ausschneiden" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopieren" >
+<!ENTITY help.keyboard.name.edit.paste          "Einfügen" >
+<!ENTITY help.keyboard.name.edit.delete         "Löschen" >
+<!ENTITY help.keyboard.name.browser.back        "Zurück" >
+<!ENTITY help.keyboard.name.browser.forward     "Vor" >
+<!ENTITY help.keyboard.name.browser.reload      "Neu laden" >
+<!ENTITY help.keyboard.name.browser.stop        "Laden abbrechen" >
+<!ENTITY help.keyboard.name.open.file           "Datei öffnen" >
+<!ENTITY help.keyboard.name.open.url            "URL öffnen" >
+<!ENTITY help.keyboard.name.tab.open.link       "Link in neuem Tab öffnen" >
+<!ENTITY help.keyboard.name.save.link           "Link speichern" >
+<!ENTITY help.keyboard.name.file.print          "Drucken" >
+<!ENTITY help.keyboard.name.view.source         "Quelltext anzeigen" >
+<!ENTITY help.keyboard.name.view.zoomin         "Vergrößern" >
+<!ENTITY help.keyboard.name.view.zoomout        "Verkleinern" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Normal" >
+<!ENTITY help.keyboard.name.subscribe           "Abonnieren" >
+<!ENTITY help.keyboard.name.locationbar         "Adressleiste fokussieren" >
+<!ENTITY help.keyboard.name.tab.new             "Neuer Tab" >
+<!ENTITY help.keyboard.name.tab.close           "Tab schließen" >
+<!ENTITY help.keyboard.name.tab.next            "Nächster Tab" >
+<!ENTITY help.keyboard.name.tab.previous        "Vorheriger Tab" >
+<!ENTITY help.keyboard.name.tab.1               "Zu Tab 1 wechseln" >
+<!ENTITY help.keyboard.name.tab.2               "Zu Tab 2 wechseln" >
+<!ENTITY help.keyboard.name.tab.3               "Zu Tab 3 wechseln" >
+<!ENTITY help.keyboard.name.tab.4               "Zu Tab 4 wechseln" >
+<!ENTITY help.keyboard.name.tab.5               "Zu Tab 5 wechseln" >
+<!ENTITY help.keyboard.name.tab.6               "Zu Tab 6 wechseln" >
+<!ENTITY help.keyboard.name.tab.7               "Zu Tab 7 wechseln" >
+<!ENTITY help.keyboard.name.tab.8               "Zu Tab 8 wechseln" >
+<!ENTITY help.keyboard.name.tab.9               "Zum letzten Tab wechseln" >
+<!ENTITY help.keyboard.name.page.top            "Zum Anfang der Seite" >
+<!ENTITY help.keyboard.name.page.bottom         "Zum Ende der Seite" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Vollbild" >
+<!ENTITY help.keyboard.name.mac.minimize        "Zu Tray minimieren" >
+<!ENTITY help.keyboard.name.mac.hide            "Fenster ausblenden" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Andere Anwendungen ausblenden" >
+<!ENTITY help.keyboard.name.downloads           "Downloads" >
+<!ENTITY help.keyboard.name.find                "Suchen" >
+<!ENTITY help.keyboard.name.find.again          "Weitersuchen" >
+<!ENTITY help.keyboard.name.find.text           "Suche bereits während der Eingabe starten" >
+<!ENTITY help.keyboard.name.find.link           "Linksuche bereits während der Eingabe starten" >
+<!ENTITY help.keyboard.name.search.focus        "Suchfeld fokussieren" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Vollbild" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video im Vordergrund" >
+<!ENTITY help.keyboard.name.video.escape        "Vollbild verlassen" >
+<!ENTITY help.keyboard.name.cdrip.start         "Musik kopieren" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Kopiervorgang abbrechen" >
+<!ENTITY help.keyboard.name.cdrip.eject         "CD auswerfen" >
+<!ENTITY help.keyboard.name.quit                "Beenden" >
+<!ENTITY help.keyboard.name.preferences         "Einstellungen" >
+<!ENTITY help.keyboard.name.help                "Hilfethemen" >
+<!ENTITY help.keyboard.name.sanitize            "Private Daten löschen" >

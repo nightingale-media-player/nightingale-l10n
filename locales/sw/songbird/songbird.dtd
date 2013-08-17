@@ -1,0 +1,218 @@
+<!ENTITY window.cancel "Futa">
+<!ENTITY window.yes "ndiyo">
+<!ENTITY window.no "siyo">
+<!ENTITY menu.mac.exit "Ondoka &brandShortName;">
+<!ENTITY menu.mac.preferences "Unavyopendelea">
+<!ENTITY menu.edit.cut "Kata">
+<!ENTITY menu.edit.copy "Nakili">
+<!ENTITY menu.linux.preferences "Unavyopendelea">
+<!ENTITY menu.control.play "Cheza">
+<!ENTITY menu.control.play.button "Cheza">
+<!ENTITY menu.tools.getartwork "Pata picha ya Albamu">
+<!ENTITY device.dialog.wait_for_completion.title "Vifaa vinasubiriwa">
+<!ENTITY device.dialog.wait_for_completion.quit "Ondoka">
+<!ENTITY tooltip.control.play "Cheza">
+<!ENTITY tooltip.search "Tafuta">
+<!ENTITY smart.playlistcondition.library "Maktaba">
+<!ENTITY smart.contenttypecondition.audio "muziki">
+<!ENTITY feed.subscribe.close "Funga">
+<!ENTITY about.version "Toleo">
+<!ENTITY about.buttons.credits "Pongezi">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY equalizer.on.checkbox "Washa">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Iliyozoeleka">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Rock Laini">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Onyesho la wazi">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Classical">
+<!ENTITY equalizer.preset.large_hall "Ukumbi Mkubwa">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Muziki Laini">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Headphones">
+<!ENTITY equalizer.preset.full_bass_treble "Sauti nzito na nyembamba kabisa">
+<!ENTITY equalizer.preset.full_treble "Sauti nyembamba kabisa">
+<!ENTITY equalizer.preset.full_bass "Sauti nzito kabisa">
+<!ENTITY setupprogress.cancel "Futa">
+<!ENTITY trackeditor.tab.summary.title "ufupisho">
+<!ENTITY jumptofile.title "Rukia kwenye">
+<!ENTITY jumptofile.search "Tafuta:">
+<!ENTITY hotkeys.add "Ongeza">
+<!ENTITY hotkeys.remove "Ondoa">
+<!ENTITY umsd.music.tab "muziki">
+<!ENTITY device.error.dialog.link "Angalia Taarifa Ya Kina Ya Makosa">
+<!ENTITY jobprogress.details "Maelezo ya kina">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY equalizer.key "E">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY getartwork.key "G">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY command.device.cancel "Ahirisha">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Ahirisha Kunakili">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Ahirisha Kufuta">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Ahirisha Sync">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Ahirisha Kuboresha">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Toa">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Acha">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Pata Taarifa">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Badili Jina">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Sync">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY command.device.rip "Vuna CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Acha Kuvuna">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Tafuta Maelezo ya CD">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Toa CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Maelezo ya Utoaji">
+<!ENTITY device.info.model.label "Modeli">
+<!ENTITY device.info.capacity.label "Ujazo">
+<!ENTITY device.info.product.label "Bidhaa">
+<!ENTITY device.info.friendly_name.label "Jina">
+<!ENTITY device.info.serial_number.label "Namba maalum ya kifaa">
+<!ENTITY device.info.vendor.label "Mtengenezaji">
+<!ENTITY device.info.battery.label "Betri">
+<!ENTITY device.progress.sync "Sync">
+<!ENTITY device.capacity.music.label "Muziki">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Picha">
+<!ENTITY device.capacity.other.label "Nyingine">
+<!ENTITY device.capacity.free.label "Huru">
+<!ENTITY device.sync.header.label "Mpangilio wa Sync">
+<!ENTITY device.sync.auto_sync.label "Sync">
+<!ENTITY device.settings.header.label "Mipangilio">
+<!ENTITY device.settings.general.label "Ujumla">
+<!ENTITY device.settings.disk.label "Usimamizi wa Diski">
+<!ENTITY device.settings.disk.management.filename "Mafaili ya Nyimbo">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.management.tabs.music.label "muziki">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Picha">
+<!ENTITY device.management.tabs.tools.label "Zana">
+<!ENTITY device.tools.product_registration.title "Usajili wa Bidhaa">
+<!ENTITY device.tools.product_registration.label "Sajili bidhaa">
+<!ENTITY device.tools.support.title "Msaada">
+<!ENTITY device.tools.support.label "Angalia rasilimali za msaada">
+<!ENTITY device.dialog.setup.title "Kuunganisha Kifaa">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "Puuza hiki Kifaa">
+<!ENTITY copySelectionCmd.label "Nakili Maneno Yaliyochaguliwa">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Cheza">
+<!ENTITY downloadMediaCmd.label "Pakulia Kwenye Maktaba">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Pakia kwenye orodha ya Nyimbo">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "<Hamna orodha ya Nyimbo>">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Orodha mpya ya Nyimbo">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY feedback.dialog.yes "Ndiyo">
+<!ENTITY feedback.dialog.no "siyo">
+<!ENTITY feedback.dialog.sentence3 "Salamu,">
+<!ENTITY first_run.add_ons.header.label "Viongezo vinavyopendekezwa">
+<!ENTITY first_run.connection.settings.button "Mpangilio wa Kuunganishwa">
+<!ENTITY first_run.eula.header.label "Mkataba wa Leseni">
+<!ENTITY first_run.eula.accept_checkbox.label "Nimesoma na kukubali masharti ya leseni hii.">
+<!ENTITY first_run.eula.language.label "Lugha:">
+<!ENTITY first_run.feedback.email.header.label "Mnipe Habari">
+<!ENTITY first_run.feedback.email.textbox.emptytext "ingiza anuani ya barua pepe upate taarifa mara kwa mara">
+<!ENTITY first_run.itunes.header.label "iTunes Leta/Peleka">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Tafuta katika kompyuta yangu">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Angalia hapa kwa mabadiliko ">
+<!ENTITY first_run.install_add_ons.title "Viongezo Vinapakuliwa">
+<!ENTITY import_library.library_file_label "Faili la Maktaba:">
+<!ENTITY import_library.prefs.options_group_caption "Chaguo za Kuleta/Kupeleka">
+<!ENTITY import_library.import_command "Leta Maktaba">
+<!ENTITY export_tracks_itunes_checkbox "Peleka nyimbo kwenye iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Peleka orodha ya nyimbo">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY add_on_bundle_installer.error_box.label "Maelezo ya kina">
+<!ENTITY albumart.displaypane.not_playing_message "Hamna kinachocheza">
+<!ENTITY albumart.displaypane.not_selected_message "Hamna kilichochaguliwa">
+<!ENTITY albumart.displaypane.drag_and_drop "Leta picha ya albamu hapa">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Onyesha Iliyochaguliwa Sasa">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Onyesha Inayocheza Sasa">
+<!ENTITY albumart.displaypane.selected.menu.cut "Kata">
+<!ENTITY albumart.displaypane.selected.menu.copy "Nakili">
+<!ENTITY albumart.displaypane.selected.menu.paste "Weka">
+<!ENTITY albumart.displaypane.selected.menu.clear "Safisha">
+<!ENTITY albumart.coverpreview.title "Picha Ya Albamu">
+<!ENTITY albumartpreferences.prefpane.label "Picha Ya Albamu">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Andika Picha Ya Albamu Kwenye Meta Data">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Hii itaruhusu &brandShortName; kuweka picha kwenye vishikizo vinavyoendana katika mafaili ya nyimbo">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Tafuta majina ya mafaili">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Tafuta maendelezo ya faili">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Umuhimu katika kutafuta">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Agiza orodha unayotaka kuitafuta kwanza hapo juu">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Juu">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Chini">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Rudisha katika hali ya awali">
+<!ENTITY wizard.button.cancel.label "Futa">
+<!ENTITY fetch_album_art.dialog.title "Pata picha ya Albamu">
+<!ENTITY cdrip.lookup.info_not_found.artist "Msanii">
+<!ENTITY cdrip.lookup.info_not_found.album "Albamu">
+<!ENTITY cdrip.lookup.info_not_found.title "Maelezo ya CD Hayajapatikana">
+<!ENTITY cdrip.prefpane.label "Vuna CD">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY cdrip.prefpane.quality "Bora">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kpbs">
+<!ENTITY cdrip.prefpane.eject_after_rip "CD ikimaliza Kuvunwa itoe">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Kuvuna CD kukiisha cheza sauti ya tahadhari">
+<!ENTITY cdrip.prefpane.providers.title "Mwezesha Utafutaji wa CD">
+<!ENTITY cdrip.prefpane.quality_desc "Vipimo vya ubora wa juu vya kbps vitapelekea kuwa sauti ya ubora wa juu na faili kubwa.">
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Vipimo vya Kuvuna CD">
+<!ENTITY cdrip.mediaview.format_label "Format">
+<!ENTITY cdrip.mediaview.quality_label "Bora:">
+<!ENTITY cdrip.mediaview.settings_button "Vipimo">
+<!ENTITY cdrip.mediaview.rip_cd_button "Vuna CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "Acha Kuvuna">
+<!ENTITY cdrip.mediaview.view_tracks_button "Tazama Orodha Ya Nyimbo">
+<!ENTITY cdrip.mediaview.eject_cd_button "Toa CD">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!ENTITY about.credits.intro "Tunapenda kuwashukuru wachangiaji, ambao wamefanya Songbird kuwa hivi. Hawa wamesaidia kuandika, kuhifadhi na kufanyia majaribio Songbird. Wameitengeneza na kuitunza. Majina yao ynafuatiwa na majina ya utani ya Mtandaoni. Njoo kwenye #songbird katika irc.mozilla.org uwasalimie!">
+<!ENTITY about.credits.footer.beforeLink "Ukweli ni kwamba, mafanikio haya yametokana na kazi ngumu iliyofanywa na">
+<!ENTITY about.credits.footer.linkText "Wachangiaji">
+<!ENTITY about.credits.footer.afterLink "kwa mradi wa Mozilla">
+<!ENTITY about.credits.heading.translators "Waliotafsiri">
+<!ENTITY about.credits.heading.champs "Mabingwa">
+<!ENTITY about.credits.description.champs.link.pre "Mabingwa wa Songbird ni watumiaji wa Songbird wasiokufa moyo na mashabiki ambao wamejitoa kusaidia watumiaji wengine katika">
+<!ENTITY about.credits.description.champs.link.text "Jukwaa la Kukupa Msaada Utakaokuridhisha la Songbird">
+<!ENTITY cdrip.lookup.multiple.title "Zimepatikana Rekodi za CD nyingi ">
+<!ENTITY cdrip.lookup.multiple.description "Chagua mojawapo au ongeza maelezo yako">
+<!ENTITY cdinfo.other.label "Weka Taarifa za Msanii wako na Albamu yake">

@@ -1,0 +1,8 @@
+<!ENTITY prefWindow.titleWin "Valmøguleikar">
+<!ENTITY prefWindow.titleGNOME "&brandShortName;-stillingar">
+<!ENTITY paneTabs.title "Spjøldur">
+<!ENTITY paneContent.title "Innihald">
+<!ENTITY paneApplications.title "Forrit">
+<!ENTITY panePrivacy.title "Privat">
+<!ENTITY paneSecurity.title "Trygd">
+<!ENTITY paneAdvanced.title "Víðkað">

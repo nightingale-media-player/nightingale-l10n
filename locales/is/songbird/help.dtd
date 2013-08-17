@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName; lyklaborðs flýtilyklar" >
+<!ENTITY help.keyboard.subtitle           "Flýtilyklar í lyklaborði" >
+<!ENTITY help.keyboard.description        "Flýtilyklar er hægt að nota til að klára hluti á einfaldari hátt í &brandShortName;. Hér fyrir neðan er listi af aðgengilegum skipunum og viðeigandi flýtilyklum.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Skipun" >
+<!ENTITY help.keyboard.heading.shortcut   "Flýtileið" >
+<!ENTITY help.keyboard.section.playback   "Afspilunar stjórntæki" >
+<!ENTITY help.keyboard.section.library    "Safn og lagalistar" >
+<!ENTITY help.keyboard.section.editing    "Ritill" >
+<!ENTITY help.keyboard.section.navigation "Leiðarstýring" >
+<!ENTITY help.keyboard.section.browser    "Vafri" >
+<!ENTITY help.keyboard.section.windows    "Gluggar og flipar" >
+<!ENTITY help.keyboard.section.search     "Leita" >
+<!ENTITY help.keyboard.section.video      "Myndband" >
+<!ENTITY help.keyboard.section.cdrip      "Afrita geisladisk" >
+<!ENTITY help.keyboard.section.misc       "Ýmislegt" >
+
+<!ENTITY help.keyboard.key.left           "Vinstri ör" >
+<!ENTITY help.keyboard.key.right          "Hægri ör" >
+<!ENTITY help.keyboard.key.up             "Ör upp" >
+<!ENTITY help.keyboard.key.down           "Ör niður" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Dálklykill" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Smella" >
+<!ENTITY help.keyboard.mouse.click.middle "Miðju smella" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Spila/stöðva spilun á valinni skrá" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Spila fyrra lag í lista" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Spila næstu skrá á lista" >
+<!ENTITY help.keyboard.name.volume.down         "Lækka hljóðstyrk" >
+<!ENTITY help.keyboard.name.volume.up           "Hækka hljóðstyrk" >
+<!ENTITY help.keyboard.name.volume.mute         "Taka hljóð af" >
+<!ENTITY help.keyboard.name.volume.max          "Hámarks hljóðstyrkur" >
+<!ENTITY help.keyboard.name.jumpto              "Hoppa í glugga" >
+<!ENTITY help.keyboard.name.equalizer           "Opna tónjafnara" >
+<!ENTITY help.keyboard.name.new.playlist        "Nýr lagalisti" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nýr snjall lagalisti" >
+<!ENTITY help.keyboard.name.import              "Flytja inn efni" >
+<!ENTITY help.keyboard.name.currenttrack        "Finna lag sem er í spilun" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Skipta um margmiðlunarsýn" >
+<!ENTITY help.keyboard.name.feather.switch      "Skipta um fjaðurhönnun" >
+<!ENTITY help.keyboard.name.trackeditor         "Lýsigagnaritill" >
+<!ENTITY help.keyboard.name.edit.undo           "Afturkalla" >
+<!ENTITY help.keyboard.name.edit.redo           "Endurgera" >
+<!ENTITY help.keyboard.name.edit.selectall      "Velja allt" >
+<!ENTITY help.keyboard.name.edit.cut            "Klippa" >
+<!ENTITY help.keyboard.name.edit.copy           "Afrita" >
+<!ENTITY help.keyboard.name.edit.paste          "Líma" >
+<!ENTITY help.keyboard.name.edit.delete         "Eyða" >
+<!ENTITY help.keyboard.name.browser.back        "Til baka" >
+<!ENTITY help.keyboard.name.browser.forward     "Áfram" >
+<!ENTITY help.keyboard.name.browser.reload      "Endurnýja" >
+<!ENTITY help.keyboard.name.browser.stop        "Stöðva lestur" >
+<!ENTITY help.keyboard.name.open.file           "Opna skrá" >
+<!ENTITY help.keyboard.name.open.url            "Opna vefslóð" >
+<!ENTITY help.keyboard.name.tab.open.link       "Opna tengil í nýjum flipa" >
+<!ENTITY help.keyboard.name.save.link           "Vista tengil" >
+<!ENTITY help.keyboard.name.file.print          "Prenta" >
+<!ENTITY help.keyboard.name.view.source         "Sýna kóða" >
+<!ENTITY help.keyboard.name.view.zoomin         "Auka aðdrátt" >
+<!ENTITY help.keyboard.name.view.zoomout        "Minnka aðdrátt" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Endurstilla aðdrátt" >
+<!ENTITY help.keyboard.name.subscribe           "Gerast áskrifandi" >
+<!ENTITY help.keyboard.name.locationbar         "Fara í staðsetningarslá" >
+<!ENTITY help.keyboard.name.tab.new             "Nýr flipi" >
+<!ENTITY help.keyboard.name.tab.close           "Loka flipa" >
+<!ENTITY help.keyboard.name.tab.next            "Næsti flipi" >
+<!ENTITY help.keyboard.name.tab.previous        "Fyrri flipi" >
+<!ENTITY help.keyboard.name.tab.1               "Skipta yfir í flipa 1" >
+<!ENTITY help.keyboard.name.tab.2               "Skipta yfir í flipa 2" >
+<!ENTITY help.keyboard.name.tab.3               "Skipta yfir í flipa 3" >
+<!ENTITY help.keyboard.name.tab.4               "Skipta yfir í flipa 4" >
+<!ENTITY help.keyboard.name.tab.5               "Skipta yfir í flipa 5" >
+<!ENTITY help.keyboard.name.tab.6               "Skipta yfir í flipa 6" >
+<!ENTITY help.keyboard.name.tab.7               "Skipta yfir í flipa 7" >
+<!ENTITY help.keyboard.name.tab.8               "Skipta yfir í flipa 8" >
+<!ENTITY help.keyboard.name.tab.9               "Skipta yfir á síðasta flipa" >
+<!ENTITY help.keyboard.name.page.top            "Færa efst á síðu" >
+<!ENTITY help.keyboard.name.page.bottom         "Færa neðst á síðu" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Allur skjárinn" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minnka í kví" >
+<!ENTITY help.keyboard.name.mac.hide            "Fela glugga" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Fela önnur forrit" >
+<!ENTITY help.keyboard.name.downloads           "Niðurhal" >
+<!ENTITY help.keyboard.name.find                "Leita" >
+<!ENTITY help.keyboard.name.find.again          "Leita aftur" >
+<!ENTITY help.keyboard.name.find.text           "Leita um leið og þú slærð" >
+<!ENTITY help.keyboard.name.find.link           "Leita um leið og þú slærð tengill" >
+<!ENTITY help.keyboard.name.search.focus        "Fara í leitarbox" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Fylla skjá" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
+<!ENTITY help.keyboard.name.video.escape        "fara úr fullum skjá" >
+<!ENTITY help.keyboard.name.cdrip.start         "Afrita geisladisk" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stöðva afritun geisladisks" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Ýta út geisladisk" >
+<!ENTITY help.keyboard.name.quit                "Hætta" >
+<!ENTITY help.keyboard.name.preferences         "Stillingar" >
+<!ENTITY help.keyboard.name.help                "Hjálparefni" >
+<!ENTITY help.keyboard.name.sanitize            "Hreinsa persónuleg gögn" >

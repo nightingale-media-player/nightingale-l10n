@@ -1,0 +1,286 @@
+<!ENTITY window.ok "OK">
+<!ENTITY window.cancel "Ofbriechen">
+<!ENTITY window.browse "Duërchsichen">
+<!ENTITY window.save "Späicheren">
+<!ENTITY window.yes "Jo">
+<!ENTITY window.no "Nee">
+<!ENTITY menu.edit.cut "Ausschneiden">
+<!ENTITY menu.edit.copy "Kopéieren">
+<!ENTITY menu.edit.delete "Läschen">
+<!ENTITY menu.edit.find "Fannen">
+<!ENTITY menu.control.play "Ofspillen">
+<!ENTITY menu.control.play.button "Ofspillen">
+<!ENTITY displaypane.name.sidebar "Riets Saiteleescht">
+<!ENTITY device.dialog.wait_for_completion.title "Amgaang op d&apos;Viirriichtungen ze waarden">
+<!ENTITY device.dialog.wait_for_completion.msg "Amgaang op completéieren vun allen Viirriichtungsoperatiounen ze waarden. Klickt &quot;Varloossen&quot; fir d&apos;Waarden ze stoppen an d&apos;Applicatioun ze varloossen">
+<!ENTITY device.dialog.wait_for_completion.quit "Varloossen">
+<!ENTITY tooltip.control.play "Ofspillen">
+<!ENTITY smart.selectedby "ausgewielt fun">
+<!ENTITY feed.subscribe.close "Zoumaachen">
+<!ENTITY watchfolder.title "Op d&apos;Uërdner oppassen">
+<!ENTITY watchfolder.folderlist "Bei desen Uërdneren op nei Medien oppassen:">
+<!ENTITY locale.language "Sprooch">
+<!ENTITY about.version "Versioun">
+<!ENTITY about.buttons.credits "Credits">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY equalizer.on.checkbox "Un">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Gewéinlech">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Klassesch">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY equalizer.preset.dance "Danzen">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Kopfhörer">
+<!ENTITY equalizer.preset.full_bass_treble "Volle Bass a Sopran">
+<!ENTITY equalizer.preset.full_treble "Volle Sopran">
+<!ENTITY equalizer.preset.full_bass "Full bass">
+<!ENTITY setupprogress.cancel "Ofbriechen">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY jumptofile.title "No sprangen">
+<!ENTITY jumptofile.search "Sichen:">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.add "Dozau maen">
+<!ENTITY hotkeys.remove "Läschen">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Keng USB-Massespäichergeräter sin connectéiert.">
+<!ENTITY umsd.music.tab "Musék">
+<!ENTITY umsd.music.music_files_group "Musek Fichiéen">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Videodateien">
+<!ENTITY umsd.video.video_path_desc "Beim Kopéieren vun Videodateien op d&apos;Gerät, plazéier se an deen heiten Uërdner:">
+<!ENTITY umsd.video.video_path_browse_msg "Den Geräte-Uërdner an deen d&apos;Videodateien kommen sollen auswiëlen.">
+<!ENTITY umsd.video.video_ext_desc "Kopéier Videodatein mat dëser Dateiendung op d&apos;Gerät:">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY command.device.cancel "Ofbriechen">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Kopéieren ofbriechen">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Läschen obriechen">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Synchroniséieren ofbriechen">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Updaten ofbriechen">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Äuswerfen">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Ignoreiren">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Informatioune kréien">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Nei benennen">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Synchroniséieren">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY command.device.rip "Ripp d&apos;CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Stopp de Ripp">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Schlo CD Informatioun no">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "CD auswerfen">
+<!ENTITY command.device.ejectcddevice.accesskey "A">
+<!ENTITY device.firmware.wizard.title "Firmware ged geupdated">
+<!ENTITY device.firmware.wizard.check.install.description "Dei nei Firmware solt manner ewei 10minutten an usproch huelen. Dier kennt emmer nach zu engem speideren Zeitpunkt dest Update widerhuelen.">
+<!ENTITY device.firmware.wizard.check.already.description "Firmware fun iergem Gerät as schons um neiesten Stand.">
+<!ENTITY device.firmware.wizard.download.title "Dei nei Firmware ged gedownloaded…">
+<!ENTITY device.info.model.label "Modell">
+<!ENTITY device.info.capacity.label "Kapazitéit">
+<!ENTITY device.info.friendly_name.label "Numm">
+<!ENTITY device.info.serial_number.label "Seriennummer">
+<!ENTITY device.info.vendor.label "Fabrikant">
+<!ENTITY device.info.access.label "Zougrëffscompatibiltéit">
+<!ENTITY device.info.playback_formats.label "Playbackformater">
+<!ENTITY device.info.battery.label "Battrie">
+<!ENTITY device.info.firmware_version.label "Firmware Versioun">
+<!ENTITY device.progress.sync "Sychroniséieren">
+<!ENTITY device.capacity.music.label "Musék">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Photoën">
+<!ENTITY device.capacity.other.label "Aaneres">
+<!ENTITY device.capacity.free.label "Gratis">
+<!ENTITY device.unsupported_media.dialog.title "Oncompatibel Dateien entdeckt">
+<!ENTITY device.unsupported_media.dialog.enable "So mar et, wann oncompatibel Dateien entdeckt gin">
+<!ENTITY device.sync.header.label "Synchroniséierungsastellungen">
+<!ENTITY device.sync.auto_sync.label "Synchroniséieren">
+<!ENTITY device.sync.sync_all.label "All d&apos;Musék, Videoen a Widdergaablëschten">
+<!ENTITY device.sync.sync_selected.label "Ausgewielte Widdergaablëschten:">
+<!ENTITY device.settings.header.label "Astellungen">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.management.tabs.music.label "Musék">
+<!ENTITY device.management.tabs.tools.label "Toolen">
+<!ENTITY device.management.tabs.settings.label "Astellungen">
+<!ENTITY device.tools.support.title "Hellef">
+<!ENTITY copySelectionCmd.label "Den ausgewielten Text kopéieren">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Ofspillen">
+<!ENTITY downloadMediaCmd.label "Zur Bibliothéik downloaden">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "An d&apos;Playlist eroflueden">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "<Keng Playlisten>">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nei Playlist">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY feedback.dialog.title "Helleft ons &brandShortName; ze verbessern!">
+<!ENTITY feedback.dialog.yes "Io">
+<!ENTITY feedback.dialog.no "Nee">
+<!ENTITY feedback.dialog.sentence1 "Welld dier ons hellefen &brandShortName; ze verbessern andeem dier e klengen anonymen Test maat? Merci.">
+<!ENTITY feedback.dialog.sentence2 "Sold dier ent interesseiert sin werte mier ierg net nach eng keier froen. Merci fierd Liesen an mier si glecklesch dat dier &brandShortName; notzt!">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; Team">
+<!ENTITY first_run.connection.settings.button "Connections astellungen…">
+<!ENTITY first_run.eula.accept_checkbox.label "Ech hun den Vertrag duerchgelies an en aktzepteiert.">
+<!ENTITY first_run.eula.language.label "Sprooch:">
+<!ENTITY first_run.import_media.header.label "Dateien importeiren">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Mei Computer no Sourcen duergsichen">
+<!ENTITY first_run.import_media.radio.dont_import.label "Dateien net importeiren">
+<!ENTITY export_tracks_itunes_checkbox "Lidder zu iTunes exportéieren">
+<!ENTITY export_playlists_itunes_checkbox "Widdergaablëschten exportéieren">
+<!ENTITY export_subscriptions_itunes_checkbox "Abonnementer exportéieren">
+<!ENTITY export_smartplaylists_itunes_checkbox "Smart Widdergaablëschten exportéieren">
+<!ENTITY watch_folder.prefs.title "Uërdneren kucken">
+<!ENTITY watch_folder.prefs.settings_group_caption "Uërdner Astellungen kucken">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automatesch op Ännerungen an deem heiten Uërdner oppassen">
+<!ENTITY watch_folder.prefs.watch_folder_label "Uërdner">
+<!ENTITY enable_recommended_addons_update.label "Recommandéiert Add-Onen.">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY add_on_bundle_installer.error_box.label "Detailer">
+<!ENTITY albumart.displaypane.not_playing_message "Et gett de Moment näischt gespillt">
+<!ENTITY albumart.displaypane.not_selected_message "Näischt ausgewielt">
+<!ENTITY albumart.displaypane.drag_and_drop "Den Album Cover heihinner zéien">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Weist dei ausgewielten">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Weist dei lo ofgespillten">
+<!ENTITY albumart.displaypane.selected.menu.cut "Ausschneiden">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopéieren">
+<!ENTITY albumart.displaypane.selected.menu.paste "Päschen">
+<!ENTITY albumart.displaypane.selected.menu.clear "Läschen">
+<!ENTITY albumart.coverpreview.title "Album Cover">
+<!ENTITY albumartpreferences.prefpane.label "Album Artwork">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "En Album Artwork fir d&apos;Meta Data schreiwen">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Dëst wärt &brandShortName; arlaabed, Artworken an kompatibel Plaketten fir Mediadateien anzebauen.">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "No Fichiers Nimm sichen:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Gëff déi duurch e Komma getrennte Lëscht vun Dateinimm hei an">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "No Erweiderungen sichen:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Gëff déi duurch e Komma getrennte Lëscht vun Arweiderungen hei an">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Erop">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Erof">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Zrecksetzen">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Ech hun deng Fotoen gesin. dei sin ganz schein. Ech geiw gären enkeier Model Fotoen mat dir machen. Wärs du intersseiert? Kuck an menger Frend Lescht dem donaklara seng 4 lescht Fotoen, dei sin och vun mir, dan kanns du dir en Bild machen. Du kanns mir och uruffen wans du wëlls. 691454812 Et geiw mech freen.">
+<!ENTITY wizard.button.back.label "Zrëck Gon">
+<!ENTITY wizard.button.back.accesskey "Z">
+<!ENTITY wizard.button.cancel.label "Ofbriechen">
+<!ENTITY wizard.button.next.label "Weider">
+<!ENTITY wizard.button.next.accesskey "W">
+<!ENTITY wizard.button.finish.label "Oofschléissen">
+<!ENTITY fetch_album_art.dialog.title "Album Biller kreien">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artist">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY cdrip.lookup.info_not_found.title "Keng CD Informatiounen fonnt">
+<!ENTITY cdrip.prefpane.label "CD Ripp">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY cdrip.prefpane.quality "Qualitéit">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "Wann d&apos;CD färdeg gerippt ass, d&apos;CD auswerfen">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Wann den CD Ripp oofgeschloss ass den System Alarm SOund oofspillen">
+<!ENTITY cdrip.mediaview.format_label "Format:">
+<!ENTITY cdrip.mediaview.quality_label "Kalitéit:">
+<!ENTITY cdrip.mediaview.settings_button "Astellungen">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stopp d&apos;Rippen">
+<!ENTITY cdrip.mediaview.eject_cd_button "CD auswerfen">
+<!ENTITY cdrip.mediaview.eject.key "A">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY about.credits.intro "Mir giffen gären eisen Matarbeschter merci soën, dären Efforten aus dem Songbird daat maachen, waat en ass. Dës Leit hun gehollef an dems se den Code an d&apos;Dokumentation geschriwwen and den Programm getest hun. Si hun dest Produkt kreéiert an gepflegt, genausou wéi déi domat verbonnen Entwéckler Kits, eis Constructiouns-Toolen and eis Internetsäiten. Hannert den Nimm stin och d&apos;IRC Nicknimm, kommt op #songbird iwwer irc.mozilla.org an soot Moien!">
+<!ENTITY about.credits.footer.beforeLink "Natiërlëch wär näischt vun dësem méiglëch gewiërcht, ouni di hard Arbescht vun">
+<!ENTITY about.credits.footer.linkText "d&apos;Matarbeschter">
+<!ENTITY about.credits.footer.afterLink "zum Mozilla Projet">
+<!ENTITY about.credits.heading.translators "Iwwersetzer">
+<!ENTITY about.credits.heading.champs "Meisteren">
+<!ENTITY about.credits.description.champs.link.pre "D&apos;Songbird Meisteren sin déi agefleeschten Sondbird Notzeren a Fanen, déi iwwert de Ruff vun dar Pflicht erausgaange sin fir aaneren Songbird Notzeren an eisem">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY about.credits.description.champs.link.post "Se sin déi am meescht produktiv an eisem Forum a schaffen onermiddlech fir ze garantéieren dass all Songbird-Notzer e glécklechen Songbird-Notzer ass.">
+<!ENTITY cdinfo.other.label "Füg déng eegen Kënschtler an Album Informatiounen bäi">

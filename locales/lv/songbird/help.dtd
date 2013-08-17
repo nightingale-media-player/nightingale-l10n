@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "" >
+<!ENTITY help.keyboard.subtitle           "Tastatūras saīsenes" >
+<!ENTITY help.keyboard.description        "Klaviatūras īsceļi padara uzdevumus &brandShortName; vieglākus. Zemāk ir saraksts ar pieejamajām komandām un tiem piemērotiem īsceļiem.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Komanda" >
+<!ENTITY help.keyboard.heading.shortcut   "Īsceļš" >
+<!ENTITY help.keyboard.section.playback   "Atskaņošanas iestatījumi" >
+<!ENTITY help.keyboard.section.library    "Bibliotēka un saraksti" >
+<!ENTITY help.keyboard.section.editing    "Labošana" >
+<!ENTITY help.keyboard.section.navigation "Navigācija" >
+<!ENTITY help.keyboard.section.browser    "Pārlūks" >
+<!ENTITY help.keyboard.section.windows    "Logi un cilnes" >
+<!ENTITY help.keyboard.section.search     "Meklēt" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Dažādi" >
+
+<!ENTITY help.keyboard.key.left           "Bultiņa pa kreisi" >
+<!ENTITY help.keyboard.key.right          "Bultiņa pa labi" >
+<!ENTITY help.keyboard.key.up             "Bultiņa uz augšu" >
+<!ENTITY help.keyboard.key.down           "Bultiņa uz leju" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Klikšķis" >
+<!ENTITY help.keyboard.mouse.click.middle "Vidējais-Klikšķis" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Dzēst" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Atskaņot/Apturēt iezīmēto ierakstu" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Atskaņot iepriekšējo ierakstu sarakstā" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Atskaņot nākamo ierakstu sarakstā" >
+<!ENTITY help.keyboard.name.volume.down         "Samazināt skaļumu" >
+<!ENTITY help.keyboard.name.volume.up           "Palielināt skaļumu" >
+<!ENTITY help.keyboard.name.volume.mute         "Klusums" >
+<!ENTITY help.keyboard.name.volume.max          "Maksimālais skaļums" >
+<!ENTITY help.keyboard.name.jumpto              "Pārslēgties uz logu" >
+<!ENTITY help.keyboard.name.equalizer           "Open the Equalizer" >
+<!ENTITY help.keyboard.name.new.playlist        "Jauns saraksts" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Jauns viedsaraksts" >
+<!ENTITY help.keyboard.name.import              "Importēt medijus" >
+<!ENTITY help.keyboard.name.currenttrack        "Parādīt šobrīd atskaņoto ierakstu" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Mainīt mediju skatu" >
+<!ENTITY help.keyboard.name.feather.switch      "Mainīt spalvu izvietojumu" >
+<!ENTITY help.keyboard.name.trackeditor         "Metadatu redaktors" >
+<!ENTITY help.keyboard.name.edit.undo           "Atsaukt" >
+<!ENTITY help.keyboard.name.edit.redo           "Atsaukt atsaukšanu" >
+<!ENTITY help.keyboard.name.edit.selectall      "Iezīmēt visu" >
+<!ENTITY help.keyboard.name.edit.cut            "Izgriezt" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopēt" >
+<!ENTITY help.keyboard.name.edit.paste          "Ievietot" >
+<!ENTITY help.keyboard.name.edit.delete         "Dzēst" >
+<!ENTITY help.keyboard.name.browser.back        "Atpakaļ" >
+<!ENTITY help.keyboard.name.browser.forward     "Uz priekšu" >
+<!ENTITY help.keyboard.name.browser.reload      "Pārlādēt" >
+<!ENTITY help.keyboard.name.browser.stop        "Pārstāt ielādēt" >
+<!ENTITY help.keyboard.name.open.file           "Atvērt failu" >
+<!ENTITY help.keyboard.name.open.url            "Atvērt URL vietni" >
+<!ENTITY help.keyboard.name.tab.open.link       "Atvērt Saiti Jaunā Tabā" >
+<!ENTITY help.keyboard.name.save.link           "Saglabāt saiti" >
+<!ENTITY help.keyboard.name.file.print          "Drukāt" >
+<!ENTITY help.keyboard.name.view.source         "Apskatīt Avotu" >
+<!ENTITY help.keyboard.name.view.zoomin         "Pietuvināt" >
+<!ENTITY help.keyboard.name.view.zoomout        "Attālināt" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Orģinālais palielinājums" >
+<!ENTITY help.keyboard.name.subscribe           "Parakstīties" >
+<!ENTITY help.keyboard.name.locationbar         "Fokusēt vietas norādi" >
+<!ENTITY help.keyboard.name.tab.new             "Jauna cilne" >
+<!ENTITY help.keyboard.name.tab.close           "Aizvērt cilni" >
+<!ENTITY help.keyboard.name.tab.next            "Nākošā cilne" >
+<!ENTITY help.keyboard.name.tab.previous        "Iepriekšējā cilne" >
+<!ENTITY help.keyboard.name.tab.1               "Pārslēgties uz 1. Tabu" >
+<!ENTITY help.keyboard.name.tab.2               "Pārslēgties uz 2. Tabu" >
+<!ENTITY help.keyboard.name.tab.3               "Pārslēgties uz 3. Tabu" >
+<!ENTITY help.keyboard.name.tab.4               "Pārslēgties uz 4. Tabu" >
+<!ENTITY help.keyboard.name.tab.5               "Pārslēgties uz 5. Tabu" >
+<!ENTITY help.keyboard.name.tab.6               "Pārslēgties uz 6. Tabu" >
+<!ENTITY help.keyboard.name.tab.7               "Pārslēgties uz 7. Tabu" >
+<!ENTITY help.keyboard.name.tab.8               "Pārslēgties uz 8. Tabu" >
+<!ENTITY help.keyboard.name.tab.9               "Pārslēgties uz Pēdējo Tabu" >
+<!ENTITY help.keyboard.name.page.top            "Pārvietot uz lapas augšu" >
+<!ENTITY help.keyboard.name.page.bottom         "Pārvietot uz lapas apakšu" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Pilnekrāns" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimizēt piesaistes punktā" >
+<!ENTITY help.keyboard.name.mac.hide            "Slēpt logu" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Slēpt citas programmas" >
+<!ENTITY help.keyboard.name.downloads           "Lejupielādes" >
+<!ENTITY help.keyboard.name.find                "Meklēt" >
+<!ENTITY help.keyboard.name.find.again          "Meklēt nākamo" >
+<!ENTITY help.keyboard.name.find.text           "Meklēt rakstot tekstu" >
+<!ENTITY help.keyboard.name.find.link           "Meklēt rakstot saiti" >
+<!ENTITY help.keyboard.name.search.focus        "Fokusēt meklētāju" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Pilnekrāns" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video virspusē" >
+<!ENTITY help.keyboard.name.video.escape        "Escape from Full Screen" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Izņemt CD" >
+<!ENTITY help.keyboard.name.quit                "Iziet" >
+<!ENTITY help.keyboard.name.preferences         "Iestatījumi" >
+<!ENTITY help.keyboard.name.help                "Palīdzības temati" >
+<!ENTITY help.keyboard.name.sanitize            "Iztīrīt privātos datus" >

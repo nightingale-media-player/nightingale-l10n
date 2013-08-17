@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName; Raccourcis Clavier" >
+<!ENTITY help.keyboard.subtitle           "Raccourcis Clavier" >
+<!ENTITY help.keyboard.description        "Lorsque vous utilisez &brandShortName;, vous pouvez vous servir des touches de votre clavier pour effectuer des tâches rapidement. Les raccourcis des commandes les plus fréquemment utilisées sont indiqués à droite de chaque commande.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Commande" >
+<!ENTITY help.keyboard.heading.shortcut   "Raccourci" >
+<!ENTITY help.keyboard.section.playback   "Contrôles de lecture" >
+<!ENTITY help.keyboard.section.library    "Bibliothèque et listes de lecture" >
+<!ENTITY help.keyboard.section.editing    "Éditer" >
+<!ENTITY help.keyboard.section.navigation "Navigation" >
+<!ENTITY help.keyboard.section.browser    "Navigateur" >
+<!ENTITY help.keyboard.section.windows    "Fenêtres et Onglets" >
+<!ENTITY help.keyboard.section.search     "Recherche" >
+<!ENTITY help.keyboard.section.video      "Vidéo" >
+<!ENTITY help.keyboard.section.cdrip      "Extraction de CD" >
+<!ENTITY help.keyboard.section.misc       "Divers" >
+
+<!ENTITY help.keyboard.key.left           "Flèche gauche" >
+<!ENTITY help.keyboard.key.right          "Flèche droite" >
+<!ENTITY help.keyboard.key.up             "Flèche vers le haut" >
+<!ENTITY help.keyboard.key.down           "Flèche vers le bas" >
+<!ENTITY help.keyboard.key.pgup           "Page Précédente" >
+<!ENTITY help.keyboard.key.pgdn           "Page Suivante" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Clic" >
+<!ENTITY help.keyboard.mouse.click.middle "Clic du milieu" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Suppr" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Lecture/Pause du média sélectionné" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Jouer le média précédent dans une liste" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Jouer le média suivant dans une liste" >
+<!ENTITY help.keyboard.name.volume.down         "Réduire le volume" >
+<!ENTITY help.keyboard.name.volume.up           "Augmenter le volume" >
+<!ENTITY help.keyboard.name.volume.mute         "Volume muet" >
+<!ENTITY help.keyboard.name.volume.max          "Volume max" >
+<!ENTITY help.keyboard.name.jumpto              "Aller à la fenêtre" >
+<!ENTITY help.keyboard.name.equalizer           "Ouvrir l&apos;égaliseur" >
+<!ENTITY help.keyboard.name.new.playlist        "Nouvelle liste de lecture" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nouvelle liste de lecture intelligente" >
+<!ENTITY help.keyboard.name.import              "Importer des médias" >
+<!ENTITY help.keyboard.name.currenttrack        "Localiser le fichier média en cours de lecture" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Affichage d&apos;autre visualisations des médias" >
+<!ENTITY help.keyboard.name.feather.switch      "Changer de plumes" >
+<!ENTITY help.keyboard.name.trackeditor         "Éditeur de métadonnées" >
+<!ENTITY help.keyboard.name.edit.undo           "Annuler" >
+<!ENTITY help.keyboard.name.edit.redo           "Rétablir" >
+<!ENTITY help.keyboard.name.edit.selectall      "Tout sélectionner" >
+<!ENTITY help.keyboard.name.edit.cut            "Couper" >
+<!ENTITY help.keyboard.name.edit.copy           "Copier" >
+<!ENTITY help.keyboard.name.edit.paste          "Coller" >
+<!ENTITY help.keyboard.name.edit.delete         "Effacer" >
+<!ENTITY help.keyboard.name.browser.back        "Page précédente" >
+<!ENTITY help.keyboard.name.browser.forward     "Page suivante" >
+<!ENTITY help.keyboard.name.browser.reload      "Recharger la page active" >
+<!ENTITY help.keyboard.name.browser.stop        "Stopper le chargement" >
+<!ENTITY help.keyboard.name.open.file           "Ouvrir un fichier" >
+<!ENTITY help.keyboard.name.open.url            "Ouvrir une URL" >
+<!ENTITY help.keyboard.name.tab.open.link       "Ouvrir le lien dans un nouvel onglet" >
+<!ENTITY help.keyboard.name.save.link           "Enregistrer le lien" >
+<!ENTITY help.keyboard.name.file.print          "Imprimer" >
+<!ENTITY help.keyboard.name.view.source         "Code source de la page" >
+<!ENTITY help.keyboard.name.view.zoomin         "Agrandir" >
+<!ENTITY help.keyboard.name.view.zoomout        "Réduire" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Normal" >
+<!ENTITY help.keyboard.name.subscribe           "Souscrire" >
+<!ENTITY help.keyboard.name.locationbar         "Sélectionner la barre d&apos;adresse" >
+<!ENTITY help.keyboard.name.tab.new             "Nouvel onglet" >
+<!ENTITY help.keyboard.name.tab.close           "Fermer l&apos;onglet" >
+<!ENTITY help.keyboard.name.tab.next            "Onglet suivant" >
+<!ENTITY help.keyboard.name.tab.previous        "Onglet précédent" >
+<!ENTITY help.keyboard.name.tab.1               "Basculer vers l&apos;onglet 1" >
+<!ENTITY help.keyboard.name.tab.2               "Basculer vers l&apos;onglet 2" >
+<!ENTITY help.keyboard.name.tab.3               "Basculer vers l&apos;onglet 3" >
+<!ENTITY help.keyboard.name.tab.4               "Basculer vers l&apos;onglet 4" >
+<!ENTITY help.keyboard.name.tab.5               "Basculer vers l&apos;onglet 5" >
+<!ENTITY help.keyboard.name.tab.6               "Basculer vers l&apos;onglet 6" >
+<!ENTITY help.keyboard.name.tab.7               "Basculer vers l&apos;onglet 7" >
+<!ENTITY help.keyboard.name.tab.8               "Basculer vers l&apos;onglet 8" >
+<!ENTITY help.keyboard.name.tab.9               "Basculer vers l&apos;onglet 9" >
+<!ENTITY help.keyboard.name.page.top            "Aller en bas de la page" >
+<!ENTITY help.keyboard.name.page.bottom         "Aller en haut de la page" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Plein écran" >
+<!ENTITY help.keyboard.name.mac.minimize        "Réduire" >
+<!ENTITY help.keyboard.name.mac.hide            "Masquer la fenêtre" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Masquer les autres applications" >
+<!ENTITY help.keyboard.name.downloads           "Téléchargements" >
+<!ENTITY help.keyboard.name.find                "Rechercher" >
+<!ENTITY help.keyboard.name.find.again          "Chercher à nouveau" >
+<!ENTITY help.keyboard.name.find.text           "Lancer la recherche lors de la saisie de texte" >
+<!ENTITY help.keyboard.name.find.link           "Lancer la recherche lors de la saisie de texte" >
+<!ENTITY help.keyboard.name.search.focus        "Moteur de recherche actif" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Plein écran" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Vidéo au premier plan" >
+<!ENTITY help.keyboard.name.video.escape        "Quitter le mode plein écran" >
+<!ENTITY help.keyboard.name.cdrip.start         "Extraire le CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Arrêter l&apos;extraction du CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Éjecter le CD" >
+<!ENTITY help.keyboard.name.quit                "Quitter" >
+<!ENTITY help.keyboard.name.preferences         "Préférences" >
+<!ENTITY help.keyboard.name.help                "Aide" >
+<!ENTITY help.keyboard.name.sanitize            "Effacer mes traces" >

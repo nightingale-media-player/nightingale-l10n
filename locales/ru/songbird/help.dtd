@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Клавиатурные сокращения &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Клавиатурные сокращения" >
+<!ENTITY help.keyboard.description        "Сочетания клавиш упрощают работу с &brandShortName;. Ниже находится список доступных команд с относящимися к ним сочетаниями клавиш.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Команда" >
+<!ENTITY help.keyboard.heading.shortcut   "Сочетание клавиш" >
+<!ENTITY help.keyboard.section.playback   "Управление воспроизведением" >
+<!ENTITY help.keyboard.section.library    "Медиатека и плейлисты" >
+<!ENTITY help.keyboard.section.editing    "Редактирование" >
+<!ENTITY help.keyboard.section.navigation "Навигация" >
+<!ENTITY help.keyboard.section.browser    "Браузер" >
+<!ENTITY help.keyboard.section.windows    "Окна и вкладки" >
+<!ENTITY help.keyboard.section.search     "Поиск" >
+<!ENTITY help.keyboard.section.video      "Видео" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Разное" >
+
+<!ENTITY help.keyboard.key.left           "Стрелка Влево" >
+<!ENTITY help.keyboard.key.right          "Стрелка Вправо" >
+<!ENTITY help.keyboard.key.up             "Стрелка Вверх" >
+<!ENTITY help.keyboard.key.down           "Стрелка Вниз" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Щелчок мышью" >
+<!ENTITY help.keyboard.mouse.click.middle "Средняя кнопка мыши" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Воспроизвести/Приостановить выбранный медиафайл" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Воспроизвести предыдущий медиафайл в плейлисте" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Воспроизвести следующий медиафайл в плейлисте" >
+<!ENTITY help.keyboard.name.volume.down         "Уменьшить громкость" >
+<!ENTITY help.keyboard.name.volume.up           "Увеличить громкость" >
+<!ENTITY help.keyboard.name.volume.mute         "Заглушить звук" >
+<!ENTITY help.keyboard.name.volume.max          "Максимальная громкость" >
+<!ENTITY help.keyboard.name.jumpto              "Перейти в окно" >
+<!ENTITY help.keyboard.name.equalizer           "Открыть эквалайзер" >
+<!ENTITY help.keyboard.name.new.playlist        "Новый плейлист" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Создать умный плейлист" >
+<!ENTITY help.keyboard.name.import              "Импорт медиафайлов" >
+<!ENTITY help.keyboard.name.currenttrack        "Показать расположение воспроизводимого в данный момент медиафайла" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Сменить вид " >
+<!ENTITY help.keyboard.name.feather.switch      "Переключение между темами" >
+<!ENTITY help.keyboard.name.trackeditor         "Редактор метаданных" >
+<!ENTITY help.keyboard.name.edit.undo           "Отменить" >
+<!ENTITY help.keyboard.name.edit.redo           "Повторить" >
+<!ENTITY help.keyboard.name.edit.selectall      "Выбрать всё" >
+<!ENTITY help.keyboard.name.edit.cut            "Вырезать" >
+<!ENTITY help.keyboard.name.edit.copy           "Копировать" >
+<!ENTITY help.keyboard.name.edit.paste          "Вставить" >
+<!ENTITY help.keyboard.name.edit.delete         "Удалить" >
+<!ENTITY help.keyboard.name.browser.back        "Назад" >
+<!ENTITY help.keyboard.name.browser.forward     "Вперед" >
+<!ENTITY help.keyboard.name.browser.reload      "Обновить" >
+<!ENTITY help.keyboard.name.browser.stop        "Остановить загрузку" >
+<!ENTITY help.keyboard.name.open.file           "Открыть файл" >
+<!ENTITY help.keyboard.name.open.url            "Открыть URL-адрес" >
+<!ENTITY help.keyboard.name.tab.open.link       "Открыть ссылку в новой вкладке" >
+<!ENTITY help.keyboard.name.save.link           "Сохранить ссылку" >
+<!ENTITY help.keyboard.name.file.print          "Печать" >
+<!ENTITY help.keyboard.name.view.source         "Посмотреть исходный код" >
+<!ENTITY help.keyboard.name.view.zoomin         "Увеличить" >
+<!ENTITY help.keyboard.name.view.zoomout        "Уменьшить" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Сбросить масштаб" >
+<!ENTITY help.keyboard.name.subscribe           "Подписаться" >
+<!ENTITY help.keyboard.name.locationbar         "Перейти к адресной строке" >
+<!ENTITY help.keyboard.name.tab.new             "Новая вкладка" >
+<!ENTITY help.keyboard.name.tab.close           "Закрыть вкладку" >
+<!ENTITY help.keyboard.name.tab.next            "Следующая вкладка" >
+<!ENTITY help.keyboard.name.tab.previous        "Предыдущая вкладка" >
+<!ENTITY help.keyboard.name.tab.1               "Переключиться на вкладку 1" >
+<!ENTITY help.keyboard.name.tab.2               "Переключиться на вкладку 2" >
+<!ENTITY help.keyboard.name.tab.3               "Переключиться на вкладку 3" >
+<!ENTITY help.keyboard.name.tab.4               "Переключиться на вкладку 4" >
+<!ENTITY help.keyboard.name.tab.5               "Переключиться на вкладку 5" >
+<!ENTITY help.keyboard.name.tab.6               "Переключиться на вкладку 6" >
+<!ENTITY help.keyboard.name.tab.7               "Переключиться на вкладку 7" >
+<!ENTITY help.keyboard.name.tab.8               "Переключиться на вкладку 8" >
+<!ENTITY help.keyboard.name.tab.9               "Переключиться на вкладку 9" >
+<!ENTITY help.keyboard.name.page.top            "Перейти в верх страницы" >
+<!ENTITY help.keyboard.name.page.bottom         "Перейти в низ страницы" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Полноэкранный режим" >
+<!ENTITY help.keyboard.name.mac.minimize        "Убрать в Dock" >
+<!ENTITY help.keyboard.name.mac.hide            "Скрыть окно" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Скрыть другие приложения" >
+<!ENTITY help.keyboard.name.downloads           "Загрузки" >
+<!ENTITY help.keyboard.name.find                "Найти" >
+<!ENTITY help.keyboard.name.find.again          "Найти ещё раз" >
+<!ENTITY help.keyboard.name.find.text           "Поиск по мере набора текста" >
+<!ENTITY help.keyboard.name.find.link           "Поиск по мере набора ссылок" >
+<!ENTITY help.keyboard.name.search.focus        "Перейти к строке поиска" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Видео на весь экран" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Видео на передний план" >
+<!ENTITY help.keyboard.name.video.escape        "Выйти из полноэкранного режима просмотра видео" >
+<!ENTITY help.keyboard.name.cdrip.start         "Преобразовать Audio CD в звуковые файлы" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Остановить преобразование Audio CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Извлечь CD" >
+<!ENTITY help.keyboard.name.quit                "Выход из программы" >
+<!ENTITY help.keyboard.name.preferences         "Настройки" >
+<!ENTITY help.keyboard.name.help                "Разделы справки" >
+<!ENTITY help.keyboard.name.sanitize            "Удалить личные данные" >

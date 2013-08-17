@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Klávesové skratky programu &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Klávesové skratky" >
+<!ENTITY help.keyboard.description        "Klávesové skratky môžu pomôcť spraviť úlohy v &brandShortName; oveľa jednoduchšími. Nasledujúci zoznam obsahuje dostupné príkazy s ich príslušnými skratkami.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Príkaz" >
+<!ENTITY help.keyboard.heading.shortcut   "Skratka" >
+<!ENTITY help.keyboard.section.playback   "Ovládanie prehrávania" >
+<!ENTITY help.keyboard.section.library    "Knižnica a zoznamy skladieb" >
+<!ENTITY help.keyboard.section.editing    "Upravovanie" >
+<!ENTITY help.keyboard.section.navigation "Navigácia" >
+<!ENTITY help.keyboard.section.browser    "Prehliadač" >
+<!ENTITY help.keyboard.section.windows    "Okná a karty" >
+<!ENTITY help.keyboard.section.search     "Hľadať" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Rôzne" >
+
+<!ENTITY help.keyboard.key.left           "Left Arrow" >
+<!ENTITY help.keyboard.key.right          "Right Arrow" >
+<!ENTITY help.keyboard.key.up             "Up Arrow" >
+<!ENTITY help.keyboard.key.down           "Down Arrow" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Kliknutiie" >
+<!ENTITY help.keyboard.mouse.click.middle "Kliknutie stredným tlačidlom (myši)" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Prehrať/Pozastaviť vybranú položku médií" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Prehrať predchádzajúcu položku médií v zozname" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Prehrať nasledujúcu položku médií v zozname" >
+<!ENTITY help.keyboard.name.volume.down         "Znížiť hlasitosť" >
+<!ENTITY help.keyboard.name.volume.up           "Zvýšiť hlasitosť" >
+<!ENTITY help.keyboard.name.volume.mute         "Stlmiť" >
+<!ENTITY help.keyboard.name.volume.max          "Maximálna hlasitosť" >
+<!ENTITY help.keyboard.name.jumpto              "Prepnúť do okna" >
+<!ENTITY help.keyboard.name.equalizer           "Otvoriť ekvalizér" >
+<!ENTITY help.keyboard.name.new.playlist        "Nový zoznam skladieb" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nový inteligentný zoznam skladieb" >
+<!ENTITY help.keyboard.name.import              "Importovať médiá" >
+<!ENTITY help.keyboard.name.currenttrack        "Zistiť umiestnenie práve prehrávaného média" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Zobraziť" >
+<!ENTITY help.keyboard.name.feather.switch      "Prepnúť rozloženie vzhľadu" >
+<!ENTITY help.keyboard.name.trackeditor         "Upraviť meta údaje" >
+<!ENTITY help.keyboard.name.edit.undo           "Späť" >
+<!ENTITY help.keyboard.name.edit.redo           "Znova" >
+<!ENTITY help.keyboard.name.edit.selectall      "Označiť všetko" >
+<!ENTITY help.keyboard.name.edit.cut            "Vystrihnúť" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopírovať" >
+<!ENTITY help.keyboard.name.edit.paste          "Kopírovať" >
+<!ENTITY help.keyboard.name.edit.delete         "Odstrániť" >
+<!ENTITY help.keyboard.name.browser.back        "Späť" >
+<!ENTITY help.keyboard.name.browser.forward     "Dopredu" >
+<!ENTITY help.keyboard.name.browser.reload      "Načítať najnovšiu verziu" >
+<!ENTITY help.keyboard.name.browser.stop        "Zastaviť načítanie" >
+<!ENTITY help.keyboard.name.open.file           "Otvoriť súbor" >
+<!ENTITY help.keyboard.name.open.url            "Otvoriť URL umiestnenie" >
+<!ENTITY help.keyboard.name.tab.open.link       "Otvoriť odkaz na novej karte" >
+<!ENTITY help.keyboard.name.save.link           "Uložiť odkaz" >
+<!ENTITY help.keyboard.name.file.print          "Tlačiť" >
+<!ENTITY help.keyboard.name.view.source         "Zobraziť zdroj" >
+<!ENTITY help.keyboard.name.view.zoomin         "Priblížiť" >
+<!ENTITY help.keyboard.name.view.zoomout        "Vzdialiť" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Obnoviť" >
+<!ENTITY help.keyboard.name.subscribe           "Odoberať" >
+<!ENTITY help.keyboard.name.locationbar         "Nastaviť navigačný panel ako aktívny" >
+<!ENTITY help.keyboard.name.tab.new             "Nová karta" >
+<!ENTITY help.keyboard.name.tab.close           "Zavrieť kartu" >
+<!ENTITY help.keyboard.name.tab.next            "Ďalšia karta" >
+<!ENTITY help.keyboard.name.tab.previous        "Predchádzajúca karta" >
+<!ENTITY help.keyboard.name.tab.1               "Prepnúť na kartu 1" >
+<!ENTITY help.keyboard.name.tab.2               "Prepnúť na kartu 2" >
+<!ENTITY help.keyboard.name.tab.3               "Prepnúť na kartu 3" >
+<!ENTITY help.keyboard.name.tab.4               "Prepnúť na kartu 4" >
+<!ENTITY help.keyboard.name.tab.5               "Prepnúť na kartu 5" >
+<!ENTITY help.keyboard.name.tab.6               "Prepnúť na kartu 6" >
+<!ENTITY help.keyboard.name.tab.7               "Prepnúť na kartu 7" >
+<!ENTITY help.keyboard.name.tab.8               "Prepnúť na kartu 8" >
+<!ENTITY help.keyboard.name.tab.9               "Prepnúť na kartu 9" >
+<!ENTITY help.keyboard.name.page.top            "Presunúť na začiatok stránky" >
+<!ENTITY help.keyboard.name.page.bottom         "Presunúť na koniec stránky" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Celá obrazovka" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimalizovať do Dock-u" >
+<!ENTITY help.keyboard.name.mac.hide            "Skryť okno" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Skryť ostatné aplkácie" >
+<!ENTITY help.keyboard.name.downloads           "Prevzatia" >
+<!ENTITY help.keyboard.name.find                "Hľadať" >
+<!ENTITY help.keyboard.name.find.again          "Hľadať znova" >
+<!ENTITY help.keyboard.name.find.text           "Hľadať počas zadávania textu" >
+<!ENTITY help.keyboard.name.find.link           "Hľadať počas zadávania adresy" >
+<!ENTITY help.keyboard.name.search.focus        "Nastaviť panel vyhľadávania ako aktívny" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Full Screen" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
+<!ENTITY help.keyboard.name.video.escape        "Escape from Full Screen" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Vysunúť CD" >
+<!ENTITY help.keyboard.name.quit                "Ukončiť" >
+<!ENTITY help.keyboard.name.preferences         "Nastavenia" >
+<!ENTITY help.keyboard.name.help                "Témy pomocníka" >
+<!ENTITY help.keyboard.name.sanitize            "Odstrániť vaše súkromné údaje" >

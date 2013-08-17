@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "Iawn" >
+<!ENTITY window.cancel      "Diddymu" >
+<!ENTITY window.apply       "Gosod" >
+<!ENTITY window.browse      "Pori…" >
+<!ENTITY window.save        "Cadw">
+<!ENTITY window.yes         "Iawn">
+<!ENTITY window.no          "Na">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Gadael &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "G">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Dewisiadau">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Gwasanaethau">
+<!ENTITY menu.mac.hide                  "Cuddio &brandShortName;">
+<!ENTITY menu.mac.hide.key              "C">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Cuddio Eraill">
+<!ENTITY menu.mac.hideothers.key        "E">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Dangos Popeth">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Ffeil" >
+<!ENTITY menu.file.new          "Rhestr Chwarae Newydd…" >
+<!ENTITY menu.file.smart        "Rhestr Chwarae Clyfar Newydd" >
+<!ENTITY menu.file.remote       "Tanysgrifiad Newydd" >
+<!ENTITY menu.file.podcast      "Podlediad Newydd…" >
+<!ENTITY menu.file.open         "Agor Ffeil…" >
+<!ENTITY menu.file.url          "Agor Lleoliad." >
+<!ENTITY menu.file.playlist     "Mewnforio Rhestr Chwarae…" >
+<!ENTITY menu.file.library      "Mewnforio Llyfrgell…" >
+<!ENTITY menu.file.newtab       "Tab Newydd" >
+<!ENTITY menu.file.closetab     "Cau&apos;r Tab" >
+<!ENTITY menu.file.metadata     "Gweld Metadata">
+<!ENTITY menu.file.scan         "Chwilio am Gyfryngau…" >
+<!ENTITY menu.file.exit         "Gadael" >
+
+<!ENTITY menu.edit          "Golygu" >
+<!ENTITY menu.edit.undo     "Dadwneud  " >
+<!ENTITY menu.edit.redo     "Ailwneud" >
+<!ENTITY menu.edit.cut      "Torri" >
+<!ENTITY menu.edit.copy     "Copïo" >
+<!ENTITY menu.edit.paste    "Gludo" >
+<!ENTITY menu.edit.delete   "Dileu" >
+<!ENTITY menu.edit.selall   "Dewis Popeth" >
+<!ENTITY menu.edit.find        "Canfod" >
+<!ENTITY menu.edit.findagain   "Canfod Eto" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Dewisiadau">
+<!ENTITY menu.linux.preferences.accesskey "D">
+
+<!ENTITY menu.controls      "Rheoli" >
+<!ENTITY menu.control.play  "Chwarae" >
+<!ENTITY menu.control.pause "Oedi" >
+<!ENTITY menu.control.next  "Trac Nesaf" >
+<!ENTITY menu.control.prev  "Trac Blaenorol" >
+<!ENTITY menu.control.shuf  "Hap" >
+<!ENTITY menu.control.repa  "Ailadrodd Popeth" >
+<!ENTITY menu.control.rep1  "Ailadrodd Un" >
+<!ENTITY menu.control.repx  "Ailadrodd Dim" >
+<!ENTITY menu.control.jumpto "Symud i…" >
+
+<!ENTITY menu.control.play.button      "Chwarae" >
+<!ENTITY menu.control.pause.button     "Oedi" >
+<!ENTITY menu.control.stop.button      "Atal" >
+
+<!ENTITY displaypane.default.image.pre "Dewis ategyn o&apos;r ">
+<!ENTITY displaypane.default.image.tooltip "Eicon Dewis Ategyn">
+<!ENTITY displaypane.default.image.post "ddewislen neu ymweld â">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Gwefan Ategion">
+<!ENTITY displaypane.default.link.post "i bori&apos;r ategion.">
+<!ENTITY displaypane.name.servicepane   "Gwaelod Paen Gwasanaeth">
+<!ENTITY displaypane.name.browser       "Gwaelod Paen Cynnwys">
+<!ENTITY displaypane.name.sidebar       "Bar Ochr De">
+<!ENTITY servicepane.title.label        "Paen Gwasanaeth">
+
+<!ENTITY menu.tools            "Offer" >
+<!ENTITY menu.tools.getartwork "Estyn Celf Album…">
+<!ENTITY menu.tools.exportmedia "Allforio Newidiadau&apos;r Llyfrgell">
+
+<!ENTITY menu.help          "Cymorth" >
+<!ENTITY menu.help.homepage "&brandShortName; Website" >
+<!ENTITY menu.help.bugz     "Adrodd ar Wall…" >
+<!ENTITY menu.help.topics   "Pynciau Cymorth" >
+<!ENTITY menu.help.keyboard "Llwybrau Byr Bysellfwrdd">
+<!ENTITY menu.help.about    "Ynghylch &brandShortName;" >
+
+<!ENTITY menu.equalizer     "Hafalydd…" >
+<!ENTITY menu.preferences   "Dewisiadau" >
+<!ENTITY menu.extensions    "Ychwanegion" >
+<!ENTITY menu.clearprivatedata "Clirio Data Preifat">
+<!ENTITY menu.errorconsole "Consol Gwall">
+<!ENTITY menu.downloadmgr   "Llwytho i Lawr" >
+<!ENTITY menu.switchplayercontrols  "Rheoli&apos;r Chwaraewr" >
+<!ENTITY menu.controllerontop       "Dangos ar y Brig">
+<!ENTITY menu.controlleronbottom    "Dangos ar y Gwaelod">
+
+<!ENTITY menu.fullscreen            "Sgrin Lawn">
+<!ENTITY menu.videotofront          "Fideo i&apos;r Blaen">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Aros am ddyfeisiau.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Aros i bod gweithred dyfais i orffen.  Clicio &quot;Gadael&quot; i beidio aros a chau&apos;r rhaglen.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Gadael">
+
+<!ENTITY tooltip.minimize         "Llai" >
+<!ENTITY tooltip.maximize         "Mwy/Adfer" >
+<!ENTITY tooltip.exit             "Gadael" >
+<!ENTITY tooltip.close            "Cau" >
+<!ENTITY tooltip.hide             "Cuddio" >
+<!ENTITY tooltip.fullscreen       "Sgrin Lawn" >
+<!ENTITY tooltip.control.back     "Trac Blaenorol" >
+<!ENTITY tooltip.control.play     "Chwarae" >
+<!ENTITY tooltip.control.pause    "Oedi" >
+<!ENTITY tooltip.control.resume   "Ailgychwyn" >
+<!ENTITY tooltip.control.stop     "Atal" >
+<!ENTITY tooltip.control.fwd      "Trac Nesaf" >
+<!ENTITY tooltip.control.mute     "Tewi" >
+<!ENTITY tooltip.control.volume   "Sain" >
+<!ENTITY tooltip.control.shuffle  "Hap" >
+<!ENTITY tooltip.control.shuf_off "Diffodd Hap" >
+<!ENTITY tooltip.control.curtrack "Canfod y Trac Cyfredol" >
+<!ENTITY tooltip.search           "Chwilio" >
+<!ENTITY tooltip.browser.back     "Pori Nôl" >
+<!ENTITY tooltip.browser.fwd      "Pori Ymlaen" >
+<!ENTITY tooltip.browser.stop     "Peidio Pori" >
+<!ENTITY tooltip.browser.home     "Cartref" >
+<!ENTITY tooltip.browser.refresh  "Adnewyddu" >
+<!ENTITY tooltip.browser.subscription "Creu Tystysgrifiad" >
+<!ENTITY tooltip.browser.mediapages.list "Golwg Rhestr" >
+<!ENTITY tooltip.browser.mediapages.filter "Golwg Paen Hidl" >
+<!ENTITY tooltip.browser.mediapages "Golwg…" >
+<!ENTITY tooltip.servicepane.show    "Dangos Paen Gwasanaeth" >
+<!ENTITY tooltip.servicepane.collapse    "Cau&apos;r Paen Gwasanaeth" >
+<!ENTITY tooltip.servicepane.newnode "Rhestr Chwarae Newydd" >
+<!ENTITY tooltip.displaypane.options "Dewisiadau Cynnwys Paen">
+
+<!ENTITY smart.window             "Rhestr Chwarae Clyfar" >
+<!ENTITY smart.limit              "Cyfyngu i" >
+<!ENTITY smart.match              "Cydweddu" >
+<!ENTITY smart.matchsingle        "Cydweddu&apos;r cyflwr canlynol:" >
+<!ENTITY smart.any                "unrhyw" >
+<!ENTITY smart.all                "pob" >
+<!ENTITY smart.following          "o&apos;r cyflwr(cyflyrau)canlynol:" >
+<!ENTITY smart.random             "hap" >
+<!ENTITY smart.album              "albwm" >
+<!ENTITY smart.artist             "artist" >
+<!ENTITY smart.genre              "math" >
+<!ENTITY smart.title              "teitl" >
+<!ENTITY smart.high_rating        "graddio&apos;n uchel" >
+<!ENTITY smart.low_rating         "graddio&apos;n isel" >
+<!ENTITY smart.most_recent        "mwyaf diweddar" >
+<!ENTITY smart.least_recent       "lleiaf diweddar" >
+<!ENTITY smart.most_often         "mwyaf aml" >
+<!ENTITY smart.least_often        "lleiaf aml" >
+<!ENTITY smart.most_added         "ychwanegwyd diwethaf" >
+<!ENTITY smart.least_added        "ychwanegwyd lleiaf" >
+<!ENTITY smart.minutes            "munud" >
+<!ENTITY smart.hours              "awr" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "caneuon" >
+<!ENTITY smart.selectedby         "Dewiswyd gan" >
+<!ENTITY smart.to                 "i" >
+<!ENTITY smart.autoupdate         "Diweddaru Awtomatig">
+<!ENTITY smart.playlistcondition.library "Llyfrgell">
+<!ENTITY smart.contenttypecondition.video "Fideo">
+<!ENTITY smart.contenttypecondition.audio "Cerddoriaeth">
+
+<!ENTITY textbox.songbird_open_url "Rhowch yr URL meu lwybr y cyfrwng i&apos;w chwarae nôl:">
+
+<!ENTITY open_url.title           "Agor URL">
+<!ENTITY subscribe.title          "Tanysgrifio">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "Munud">
+<!ENTITY subscribe.hours          "Awr">
+<!ENTITY subscribe.days           "Diwrnod">
+<!ENTITY subscribe.autocheck      "Diweddaru&apos;n awtomatig bob">
+<!ENTITY subscribe.destinationfolder      "Dewis y ffolder cyrchfan:">
+
+<!ENTITY feed.subscribe.label     "Tanysgrifio">
+<!ENTITY feed.subscribe.dontask   "Peidio dangos y deialog yma&apos;n awtomatig eto">
+<!ENTITY feed.subscribe.close     "Cau">
+
+<!ENTITY podcast.creation_dialog.title       "Podlediad Newydd">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "Ffolderi Gwylio">
+<!ENTITY watchfolder.folderlist   "Gwylio&apos;r ffolderi am gyfrwng newydd">
+
+<!ENTITY locale.language          "Iaith" >
+<!ENTITY menu.view                "Gweld" >
+<!ENTITY about.version            "Fersiwn" >
+<!ENTITY about.buttons.credits    "Cydnabyddiaeth" >
+
+<!ENTITY equalizer.title          "Hafalydd" >
+<!ENTITY equalizer.on.checkbox    "Ymlaen" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Addasu" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Roc" >
+<!ENTITY equalizer.preset.soft_rock   "Roc Meddal" >
+<!ENTITY equalizer.preset.techno      "Tecno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Byw" >
+<!ENTITY equalizer.preset.club        "Clwb" >
+<!ENTITY equalizer.preset.party       "Parti" >
+<!ENTITY equalizer.preset.classical   "Clasurol" >
+<!ENTITY equalizer.preset.large_hall  "Neuadd Fawr" >
+<!ENTITY equalizer.preset.dance       "Dawns" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Meddal" >
+<!ENTITY equalizer.preset.small_speakers   "Gliniadur/Clustffonau" >
+<!ENTITY equalizer.preset.full_bass_treble "Bas a trebl llawn" >
+<!ENTITY equalizer.preset.full_treble "Trebl llawn" >
+<!ENTITY equalizer.preset.full_bass   "Bas llawn" >
+
+
+<!ENTITY setupprogress.pleasewait "Arhoswch…" >
+<!ENTITY setupprogress.cancel     "Diddymu">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "N" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "A" >
+<!ENTITY menu.file.url.accesskey          "L" >
+<!ENTITY menu.file.playlist.accesskey     "M" >
+<!ENTITY menu.file.metadata.accesskey     "w" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "a" >
+<!ENTITY menu.file.scan.accesskey         "C" >
+<!ENTITY locale.language.accesskey        "I" >
+<!ENTITY menu.view.accesskey              "G" >
+<!ENTITY menu.preferences.accesskey       "D" >
+<!ENTITY menu.equalizer.accesskey         "H" >
+<!ENTITY menu.extensions.accesskey        "Y" >
+<!ENTITY menu.clearprivatedata.accesskey  "D" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "G" >
+<!ENTITY menu.downloadmgr.accesskey       "L" >
+
+<!ENTITY menu.edit.accesskey          "o" >
+<!ENTITY menu.edit.undo.accesskey     "U" >
+<!ENTITY menu.edit.redo.accesskey     "A" >
+<!ENTITY menu.edit.cut.accesskey      "O" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "G" >
+<!ENTITY menu.edit.delete.accesskey   "D" >
+<!ENTITY menu.edit.selall.accesskey   "P" >
+<!ENTITY menu.edit.find.accesskey        "C" >
+<!ENTITY menu.edit.findagain.accesskey   "E" >
+
+<!ENTITY menu.controls.accesskey      "R" >
+<!ENTITY menu.control.play.accesskey  "O" >
+<!ENTITY menu.control.pause.accesskey "O" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "B" >
+<!ENTITY menu.control.shuf.accesskey  "H" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "D" >
+<!ENTITY menu.control.jumpto.accesskey "N" >
+
+
+<!ENTITY menu.tools.accesskey            "O" >
+<!ENTITY menu.tools.getartwork.accesskey "A" >
+
+<!ENTITY menu.tools.reveal             "Dangos y Ffeiliau" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "C" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "A" >
+<!ENTITY menu.help.help.accesskey     "C" >
+<!ENTITY menu.help.keyboard.accesskey "L" >
+<!ENTITY menu.help.about.accesskey    "Y" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Golygydd Trac" >
+<!ENTITY trackeditor.tab.summary.title            "Crynodeb" >
+<!ENTITY trackeditor.tab.edit.title               "Golygu" >
+<!ENTITY trackeditor.tab.lyrics.title             "Geiriau" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Ychwanegu Tag" >
+<!ENTITY trackeditor.addtag.tag       "Tag:" >
+
+<!ENTITY jumptofile.title             "Neidio i" >
+<!ENTITY jumptofile.search            "Chwilio:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Defnyddio Bysellau Poeth Eang" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "Gweithred" >
+<!ENTITY hotkeys.hotkey               "Bysell Boeth" >
+<!ENTITY hotkeys.add                  "Ychwanegu" >
+<!ENTITY hotkeys.set                  "Gosod" >
+<!ENTITY hotkeys.remove               "Tynnu" >
+<!ENTITY hotkeys.prefpane             "Bysell Boeth" >
+<!ENTITY hotkeys.info                 "Mae Bysellau poeth yn caniatáu mynediad i swyddogaethau &brandShortName; hyd yn oed os nad yw Songbird yn weithredol.Rhaid i rai cyfuniadau Bysellau Poeth gynnwys bysellau addasu i leihau ymyrraeth ddiangen o raglenni eraill." >
+
+<!ENTITY rapi.prefpane.title             "Integreiddio&apos;r We" >
+<!ENTITY rapi.prefpane.access.caption    "Caniatâd Intigreiddio&apos;r Wefan" >
+<!ENTITY rapi.prefpane.access.text       "Mae modd i chi ganiatáu i wefannau integreiddio gyda &brandShortName; er mwyn creu cyswllt tynnach rhwng y we a&apos;ch cyfrwng. Ffurfweddwch &brandShortName; i ganiatáu neu rwystro gwefannau rhag defnyddio&apos;r pwyntiau integreiddio canlynol." >
+<!ENTITY rapi.whitelist.label            "Eithriadau…" >
+<!ENTITY rapi.restore_defaults.label      "Adfer i&apos;r Rhagosodedig" >
+<!ENTITY rapi.playback_control_disable.label "Rhwystro gwefannau rhag rheoli&apos;r chwarae nol" >
+<!ENTITY rapi.playback_read_disable.label    "Rhwystro gwefannau rhag edrych ar wybodaeth am y cyfrwng sy&apos;n chwarae" >
+<!ENTITY rapi.library_read_disable.label     "Rhwystro gwefannau rhag edrych ar wybodaeth am gyfrwng ar &brandShortName;" >
+<!ENTITY rapi.library_write_disable.label    "Rhwystro gwefannau rhag ychwanegu/dileu cyfrwng o fy Llyfrgell a dyfeisiau" >
+<!ENTITY rapi.playback_control_disable.accesskey "c" >
+<!ENTITY rapi.playback_read_disable.accesskey    "e" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Ychwanegion">
+<!ENTITY prefpane.content.label       "Cynnwys Gwe">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Dim dyfeisiau storio USB wedi eu cysylltu. " >
+<!ENTITY umsd.music.tab                     "Cerddoriaeth" >
+<!ENTITY umsd.music.music_files_group       "Ffeiliau Cerddoriaeth" >
+<!ENTITY umsd.music.music_path_desc         "Wrth gopïo ffeiliau cerddoriaeth i&apos;r ddyfais, rhowch nhw o fewn y cyfeiriadur canlynol:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Dewis y cyfeiriadur dyfais er mwyn gosod y ffeiliau cerddoriaeth." >
+<!ENTITY umsd.music.music_ext_desc          "Copïo ffeiliau cerddoriaeth gyda&apos;r estyniadau canlynol i&apos;r ddyfais:" >
+<!ENTITY umsd.video.tab                     "Fideo" >
+<!ENTITY umsd.video.video_files_group       "Ffeiliau Fideo" >
+<!ENTITY umsd.video.video_path_desc         "Wrth gopïo ffeiliau fideo i&apos;r ddyfais, rhowch nhw o fewn y cyfeiriadur canlynol:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Dewis y cyfeiriadur dyfais er mwyn gosod y ffeiliau fideo." >
+<!ENTITY umsd.video.video_ext_desc          "Copïo ffeiliau fideo gyda&apos;r estyniadau canlynol i&apos;r ddyfais:" >
+
+<!ENTITY device.error.dialog.link           "Darllen Manylion Gwall" >
+
+<!ENTITY restartbox.restartnow        "Ailgychwyn Nawr" >
+<!ENTITY restartbox.restartonplaybackend "Ailgychwyn ar Ddiwedd Chwarae" >
+<!ENTITY restartbox.restartlater      "Ailgychwyn yn Ddiweddarach" >
+
+<!ENTITY setupprogress.installingextensions "Gosod Ychwanegyn" >
+
+<!ENTITY jobprogress.details "Manylion" >
+
+<!ENTITY menu.updateCmd.label          "Gwirio am Ddiweddariad…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "A" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "C" >
+<!ENTITY menu.file.mini.key            "B" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "A" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "C" >
+<!ENTITY menu.edit.findagain.key       "E" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "C" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Bar Bwlch" >
+
+<!ENTITY tabs.closeTab "Cau&apos;r tab">
+<!ENTITY tabs.listAllTabs "Rhestri pob tab">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator " - " >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Tudalen Gartref" >
+<!ENTITY prefs.homepage.url.label          "URL:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Gosod Ychwanegyn" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Diddymu">
+<!ENTITY command.device.cancel.accesskey                "D">
+<!ENTITY command.device.canceldevicecopy                "Diddymu Copïo">
+<!ENTITY command.device.canceldevicecopy.accesskey      "D">
+<!ENTITY command.device.canceldevicedelete              "Diddymu Dileu">
+<!ENTITY command.device.canceldevicedelete.accesskey    "D">
+<!ENTITY command.device.canceldevicesync                "Diddymu Cydweddu">
+<!ENTITY command.device.canceldevicesync.accesskey      "C">
+<!ENTITY command.device.canceldeviceupdate              "Diddymu Diweddaru">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "D">
+<!ENTITY command.device.ejectdevice                     "Bwrw Allan">
+<!ENTITY command.device.ejectdevice.accesskey           "B">
+<!ENTITY command.device.formatdevice                    "Fformatio">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Anwybyddu">
+<!ENTITY command.device.ignoredevice.accesskey          "A">
+<!ENTITY command.device.getdeviceinfo                   "Estyn gwybodaeth">
+<!ENTITY command.device.getdeviceinfo.accesskey         "E">
+<!ENTITY command.device.renamedevice                    "Ailenwi">
+<!ENTITY command.device.renamedevice.accesskey          "A">
+<!ENTITY command.device.devicesync                      "Cydweddu">
+<!ENTITY command.device.devicesync.accesskey            "C">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Rhwygo CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Atal Rhwygo">
+<!ENTITY command.device.stoprip.accesskey               "A">
+<!ENTITY command.device.lookup                          "Gwybodaeth Chwilio CD">
+<!ENTITY command.device.lookup.accesskey                "G">
+<!ENTITY command.device.ejectcddevice                   "Bwrw allan CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "B">
+
+<!ENTITY device.repair.menuitem.default                   "Trwsio fy nyfais">
+
+<!ENTITY device.firmware.wizard.title                     "Diweddaru&apos;r Cadarnwar">
+<!ENTITY device.firmware.wizard.check.page.title          "Gwirio&apos;r Cadarnwar Diweddaraf">
+<!ENTITY device.firmware.wizard.check.progress.title      "Gwirio am gadarnwar diweddar…">
+<!ENTITY device.firmware.wizard.check.install.description "Bydd gosod y cadarnwar diweddaraf yn cymryd llai na 10 munud. Mae modd cyflawni&apos;r diweddariad yn ddiweddarach.">
+<!ENTITY device.firmware.wizard.check.already.description "Mae cadarnwar eich dyfais yn gyfredol">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Nodiadau Ryddhau">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Rhaid i&apos;r ddyfais fod wedi ei chysylltu yn y modd caledwar i barhau. Dilyna&apos;r cyfarwyddiadau isod i osod dy ddyfais yn y modd caledwar.">
+<!ENTITY device.firmware.wizard.download.title            "Llwytho&apos;r cadarnwar newydd i lawr…">
+<!ENTITY device.firmware.wizard.repair.time.description   "Dylai adfer y ddyfais gymryd llai na 5 munud.">
+<!ENTITY device.firmware.wizard.repair.warning            "Bydd adfer eich dyfais i osodiadau&apos;r ffatri &lt;strong class=&quot;loss-of-data-text&quot;&gt;yn dileu&apos;r holl gyfrwng sydd ar y ddyfais&lt;/strong&gt;. Gwnewch gopi wrth gefn o&apos;ch ffeiliau cyn mynd ymlaen.">
+<!ENTITY device.firmware.wizard.install.title             "Gosod cadarnwar">
+
+<!ENTITY device.firmware.wizard.busy.description  "Mae&apos;n ymddangos fod eich dyfais yn brysur. Dim oond pan mae eich dyfais yn segur mae modd gosod cadarnwar.">
+<!ENTITY device.firmware.wizard.retry.description "Cwisiwch eto pan mae eich dyfais wedi cwblhau ei weithredu presennol.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "Bu gwall wrth wirio caledwar newydd. Gwiria dy gysylltiad rhwydwaith a cheisio eto.">
+<!ENTITY device.firmware.wizard.download.error.description "Bu gwall wrth lwytho i lawr caledwar newydd. Gwiria dy gysylltiad rhwydwaith a cheisio eto.">
+<!ENTITY device.firmware.wizard.support.description        "Mae modd cael cefnogaeth a chyngor yn">
+
+<!ENTITY device.info.icon.device            "Eicon dyfais generig">
+<!ENTITY device.info.icon.readonly          "Eicon cloi darllen yn unig">
+<!ENTITY device.info.model.label            "Model">
+<!ENTITY device.info.capacity.label         "Cynnwys">
+<!ENTITY device.info.product.label          "Cynnyrch">
+<!ENTITY device.info.friendly_name.label    "Enw">
+<!ENTITY device.info.serial_number.label    "Rhif Cyfresol">
+<!ENTITY device.info.vendor.label           "Gwneuthurwr">
+<!ENTITY device.info.access.label           "Cytunedd Mynediad">
+<!ENTITY device.info.playback_formats.label "Fformatiau Chwarae Nôl">
+<!ENTITY device.info.battery.label          "Batri">
+<!ENTITY device.info.firmware_version.label "Fersiwn y Cadarnwar">
+
+<!ENTITY device.progress.sync               "Cydweddu">
+
+<!ENTITY device.capacity.music.label    "Cerddoriaeth">
+<!ENTITY device.capacity.video.label    "Fideo">
+<!ENTITY device.capacity.image.label    "Lluniau">
+<!ENTITY device.capacity.other.label    "Eraill">
+<!ENTITY device.capacity.free.label     "Rhydd">
+
+<!ENTITY device.unsupported_media.dialog.title  "Wedi Canfod Ffeiliau Anghydnaws">
+<!ENTITY device.unsupported_media.dialog.enable "Hysbysu pa fo ffeiliau anghydnaws wedi eu canfod">
+
+<!ENTITY device.sync.header.label "Gosodiadau Cydweddu">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Cydweddu">
+<!ENTITY device.sync.sync_all.label "Pob rhestr chwarae, cerddoriaeth a fideo">
+<!ENTITY device.sync.sync_selected.label "Rhestr chwarae;">
+<!ENTITY device.sync.playlist.title "Teitl">
+<!ENTITY device.sync.playlist.video.duration "Hyd y Fideo">
+<!ENTITY device.sync.images.from.label "Cydweddu lluniau o:">
+<!ENTITY device.sync.images.browse "Dewis ffolder…">
+<!ENTITY device.sync.images.all.label "Pob Llun">
+<!ENTITY device.sync.images.all.template "Pob Llun (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Dewis is-ffolderi">
+<!ENTITY device.sync.images.foldername "Enw&apos;r Ffolder">
+<!ENTITY device.sync.images.filecount "Lluniau">
+
+<!ENTITY device.settings.header.label "Gosodiadau">
+<!ENTITY device.settings.general.label "Cyffredinol">
+<!ENTITY device.settings.auto_launch.checkbox.label "Agor &brandShortName; pan fydd y ddyfais wedi ei chanfod">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Gwirio am galedwar newydd yn awtomatig">
+<!ENTITY device.settings.music.transcoding.label "Trawsgodio Cerddoriaeth">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Rheoli Disgiau">
+<!ENTITY device.settings.disk.management.label "Addasu strwythur cyfeiriaduron">
+<!ENTITY device.settings.disk.management.filename "Ffeiliau caneuon">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Ffurfweddu trawscodio&apos;n awtomatig">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Pennu did Pennu did radd a fformat gyda llawradd a fformat gyda llaw">
+<!ENTITY device.settings.music.transcoding.format.label "Fformat amgodio">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Cyfradd ddidol">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Cerddoriaeth">
+<!ENTITY device.management.tabs.video.label "Fideo">
+<!ENTITY device.management.tabs.image.label "Lluniau">
+<!ENTITY device.management.tabs.tools.label "Offer">
+<!ENTITY device.management.tabs.settings.label "Gosodiadau">
+
+<!ENTITY device.tools.product_registration.title "Cofrestru Cynnyrch">
+<!ENTITY device.tools.product_registration.description "Hoffech chi dderbyn prawf prynu, manteision aelodaeth cynnyrch ychwanegol, neu rhybuddion diogelwch?">
+<!ENTITY device.tools.product_registration.label "Cofrestru cynnyrch">
+
+<!ENTITY device.tools.update_firmware.title "Diweddaru&apos;r Caledwar">
+<!ENTITY device.tools.update_firmware.description "Mae eich dyfais wyn cael ei reoli gan raglen fewnol o&apos;r enw caledwar. Mae fersiwn mwy diweddar o&apos;r caledwar wedi ei ryddhau ers i chi gysylltu eich dyfais i&apos;ch cyfrifiadur ddiwethaf.">
+<!ENTITY device.tools.update_firmware.label "Gwirio am galedwedd diweddarwyd">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Fersiwn caledwar cyfredol:">
+
+<!ENTITY device.tools.restore_device.title "Adfer y Ddyfais">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Adfer y ddyfais i osodiadau&apos;r ffatri">
+
+<!ENTITY device.tools.format_device.title "Fformatio&apos;r Ddyfais">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY device.tools.format_device.label "Fformatio&apos;r ddyfais">
+<!ENTITY device.tools.format_volume.button.label "Fformatio">
+
+<!ENTITY device.tools.support.title "Cefnogaeth">
+<!ENTITY device.tools.support.description "Darllenwch y newyddion cefnogi diweddaraf, canllawiau defnyddwyr, dogfennau, cwestiynau a gwybodaeth am y cynnyrch. Mae gwasanaethau cefnogi ar gael ar gyfer cwsmeriaid sydd wedi cofrestru eu cynnyrch.">
+<!ENTITY device.tools.support.label "Darllen adnoddau cefnogi">
+
+<!ENTITY device.tools.reset_warnings.title "Ailosod rhybuddion">
+<!ENTITY device.tools.reset_warnings.description "Bydd ailosod y deialogau rhybudd yn galluogi&apos;r deialogau i&apos;ch atgoffa i gadarnhau rhai tasgau.">
+<!ENTITY device.tools.reset_warnings.label "Ailosod negeseuon rhybudd">
+
+<!ENTITY device.dialog.setup.title "Gosodiadau&apos;r Ddyfais">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Dewis pa gyfrwng storio hoffet ti i &brandShortName; ei reoli:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "anwybyddu&apos;r ddyfais">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Dewis hwn os nad ydych am i &brandShortName; to reoli&apos;r ddyfais.">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Os nad wyt am i &brandShortName; reoli&apos;r ddyfais hon, gelli">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "anwybyddu&apos;r ddyfais hon">
+<!ENTITY device.dialog.setup.explainIgnore.afterText "">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Agor Cyswllt yn y Porwr Rhagosodedig">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Agor Tudalen yn y Porwr Rhagosodedig">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Agor Ffrâm yn y Porwr Rhagosodedig">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Agor Delwedd yn y Porwr Rhagosodedig">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Copïo&apos;r Testun Hwn">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "Chwarae">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Llwytho i&apos;r Llyfrgell">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "Ychwanegu at y Rhestr Chwarae">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "y">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Dim Rhestrau Chwarae&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Rhestr Chwarae Newydd">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Tanysgrifo i&apos;r Dudalen hon">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Tanysgrifio i&apos;r Ffrâm…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Cynorthwyo i Wella &brandShortName;!">
+<!ENTITY feedback.dialog.yes        "Iawn">
+<!ENTITY feedback.dialog.no         "Na">
+<!ENTITY feedback.dialog.sentence1  "A wnewch chi ein cynorthwyo i wella &brandShortName; drwy gymryd rhan mewn arolwg dienw?">
+<!ENTITY feedback.dialog.sentence2  "Os nad oes gennych ddiddordeb, fyddwn ni ddim yn gofyn eto.  Diolch am ystyried ein cais. Rydym yn gwerthfawrogi eich bod yn defnyddio &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "Hwyl,">
+<!ENTITY feedback.dialog.sentence4  "Tîm &brandShortName;">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Croeso i &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "Gosod &brandShortName;">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Ychwanegion Cymeradwy">
+<!ENTITY first_run.add_ons.description.line1 "Mae ychwanegion yn estyn swyddogaethau &brandShortName; gan adael i chi addasu eich profiad cyfryngol. Rydym yn argymell y dewisiadau isod yn gryf.">
+<!ENTITY first_run.add_ons.description.line2 "Mae modd i Ychwanegion integreiddio gyda rhaglenni a gwasanaethau eraill, cynnal cyswllt â dyfeisiau allanol, newid gwedd a mwy! Mae modd llwytho i lawr rhai ychwanegol o wefan Ychwanegion &brandShortName;.">
+<!ENTITY first_run.add_ons.loading.label     "Estyn ychwanegion cymeradwy">
+<!ENTITY first_run.add_ons.load_failed.label "Methu estyn ychwanegion cymeradwy">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "Nid yw &brandShortName; yn gallu Cysylltu â&apos;r Rhyngrwyd">
+<!ENTITY first_run.connection.description          "Gwirio eich Cysylltiad neu Barhau gyda&apos;r Dewin Gosod.">
+<!ENTITY first_run.connection.settings.button      "Gosodiadau&apos;r Cysylltiadau…">
+<!ENTITY first_run.connection.settings.description "A yw eich cyfrifiadur neu rwydwaith wedi ei amddiffyn gan fur cadarn neu ddirprwy? Gall gywiro Gosodiadau Cyswllt helpu i gywiro problemau rhwydwaith cyffredin.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Cytundeb Trwyddedu">
+<!ENTITY first_run.eula.accept_checkbox.label "Rwyf wedi darllen a derbyn amodau&apos;r drwydded.">
+<!ENTITY first_run.eula.language.label        "Iaith:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Gwella &brandShortName;">
+<!ENTITY first_run.feedback.description             "Hoffech chi ein cynorthwyo i wella &brandShortName; drwy anfon adborth ar ffurf metrics a holiaduron ar sut fyddwch yn defnyddio&apos;r rhaglen?">
+<!ENTITY first_run.feedback.metrics.label           "Casglu ac anfon defnydd &brandShortName; drwy&apos;r metrics">
+<!ENTITY first_run.feedback.metrics.description     "Mae&apos;r metrics yn gwbl ddienw ac nid oes gwybodaeth bersonol yn cael eu casglu.">
+<!ENTITY first_run.feedback.email.header.label      "Hysbysu">
+<!ENTITY first_run.feedback.email.description       "Tanysgrifio i&apos;n llythyr newyddion er mwyn clywed am fersiynau newydd a diweddariadau pwysig.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "rhowch eich cyfeiriad e-bost i aros yn gyfredol">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "Mewnforio/Allforio iTunes">
+<!ENTITY first_run.itunes.description                   "Mae&apos;n ymddangos fel bod iTunes wedi ei osod. Mae modd ffurfweddu  &brandShortName; i fewnforio a/neu allforio traciau rhwng &brandShortName;ac iTues fel bod eich llyfrgelloedd yn cydweddu.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Mewnforio traciau a rhestrau chwarae o iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Fe all mewnforio podlediadau a cherddoriaeth a brynwyd yn siop iTunes i mewn i &brandShortName;. Mae&apos;r nodwedd yma yn gweithio’n dda os mae &brandShortName; yw eich prif chwaraewyr cerddoriaeth.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Allforio traciau a rhestrau chwarae newydd i iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Mae modd allforio cerddoriaeth brynwyd drwy &brandShortName; i iTunes fel bod modd eu trosglwyddo i&apos;ch iPod neu iPhone.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Mewnforio Cyfrwng">
+<!ENTITY first_run.import_media.description                  "Bydd y dudalen hon yn eich arwain drwy&apos;r dull o fewnforio ffeiliau cyfrwng i &brandShortName; drwy geisio canfod eich cyfrwng lleol. Unwaith fydd &brandShortName; yn cychwyn bydd modd i chi ychwanegu cyfrwng pellach mewn ffyrdd amrywiol.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Sganio cyfeiriaduron fy nghyfrifiadur">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Peidio mewnforio cyfrwng nawr">
+<!ENTITY first_run.import_media.scan_directories.description "Hoffech chi i &brandShortName; geisio mewnforio cyfrwng drwy sganio cyfeiriaduron penodol ar eich cyfrifiadur?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Gwylio&apos;r ffolder am newid">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Llwytho Ychwanegiadau">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Croeso i &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; - chwaraewr cyfrwng hyblyg ar gyfer y bwrdd gwaith.">
+<!ENTITY first_run.welcome.description.line2 "Mae&apos;r cynorthwyydd yn darparu ffordd gyflym ac effeithiol o gael cychwyn arni.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Mewnforio Cyfrwng">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Mewnforio Llyfrgell">
+<!ENTITY import_library.prefs.title                       "Mewnforio/Allforio iTunes">
+<!ENTITY import_library.library_file_label                "Ffeil Llyfrgell:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Rhybuddio pan nad yw traciau neu restrau chwarae heb eu cynnal yn cael eu mewnforio.">
+<!ENTITY import_library.prefs.path_group_caption          "Llwybr Llyfrgell">
+<!ENTITY import_library.prefs.options_group_caption       "Dewisiadau Mewnforio">
+<!ENTITY import_library.import_command                    "Llyfrgell Mewnforio">
+<!ENTITY import_tracks_itunes_checkbox                    "Mewnforio traciau o iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Mewnforio rhestrau chwarau">
+<!ENTITY export_tracks_itunes_checkbox                    "Allforio traciau i iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Allforio rhestrau chwarae">
+<!ENTITY export_subscriptions_itunes_checkbox             "Allforio tanysgrifiadau">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Allforio rhestrau chwarae clyfar">
+<!ENTITY importexport_show_notifications_checkbox         "Hysbysu pan fydd y mewnforio/allforio wedi ei gwblhau">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Rhestr Chwarae wedi newid">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Cadw rhestr chwarae gyfredol &brandShortName; (Peidio mewnforio&apos;r rhestr chwarae)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Cyfuno rhestr chwarae gyfredol &brandShortName; ac iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Amnewid rhestr chwarae &brandShortName; am un cyfredol iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Nodyn:  Nid oes modd dadwneud cyfuno ac amnewid.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Gosod y dewis o&apos;r holl restrau chwarae">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Ffolderi Gwylio">
+<!ENTITY watch_folder.prefs.settings_group_caption "Gwylio Gosodiadau Ffolder">
+<!ENTITY watch_folder.prefs.description            "Mae &brandShortName; yn gallu monitro gynnwys ffolder ac yn awtomatig ychwanegu neu symud eitemau sydd o&apos;i mewn">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Edrych yn awtomatig am newidiadau yn yr ffolder canlynol">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Ffolder:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Ychwanegion Cymeradwy">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "Gosod &brandShortName;">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Manylion">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Chwarae dim" >
+<!ENTITY albumart.displaypane.not_selected_message  "Dewis dim" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Llusgo gwaith celf album yma" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Dangos Dewis Nawr" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Dangos Chwarae Nawr" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Torri">
+<!ENTITY albumart.displaypane.selected.menu.copy "Copïo">
+<!ENTITY albumart.displaypane.selected.menu.paste "Gludo">
+<!ENTITY albumart.displaypane.selected.menu.clear "Clirio">
+<!ENTITY albumart.coverpreview.title "Celf Album">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Gwaith Celf Album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Ysgrifennu Celf Album i Meta Data">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Bydd hwn yn caniatáu i &brandShortName; i fewnosod gwaith celf mewn tagiau cydweddus ar gyfer ffeiliau cyfrwng">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Chwilio enwau ffeil:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Rhowch restr wedi ei wahani gyda chollnod o enwau ffeil yma:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Chwilio a estyniadau ffeil:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Rhowch restr wedi ei wahani gyda chollnod o estyniadau yma:">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Blaenoriaethau&apos;r Estynnwr">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Trefnwch y rhestr estyn gan osod y cyntaf ar y brig.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Fyny">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Lawr">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Ailosod">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Awto estyn Gwaith Celf Albymau">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Mae modd awto estyn gwaith celf albymau pan mae trac yn cael ei chwarae neu wedi ei ddewis, yn ddibynnol ar fodd y paen dangos Gwaith Celf Albymau. Gall berfformiad gael ei effeithio wrth ddefnyddio&apos;r nodwedd hon.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Nôl">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "Diddymu">
+<!ENTITY wizard.button.next.label      "Parhau">
+<!ENTITY wizard.button.next.accesskey  "C">
+<!ENTITY wizard.button.finish.label    "Gorffen">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Gwall Mediacore">
+<!ENTITY mediacore.error.preface  "Mae &brandShortName; wedi canfod y gwallau Mediacore canlynol:">
+<!ENTITY mediacore.error.continue "Parhau">
+<!ENTITY mediacore.error.stop     "Atal Chwarae Nôl">
+<!ENTITY mediacore.error.dontshowme "Peidio dangos gwallau pellach Mediacore">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Am rhagor o wybodaeth am codecs coll, gw.">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Rhybudd Mewnforio Cyfrwng">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Am ragor o wybodaeth ar godecs coll, gw.:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Peidio fy rhybuddio am ffeiliau fideo heb eu cynnal, wrth fewnforio.">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Chwarae Nôl">
+
+<!ENTITY playback.prefpane.audio_output.label   "Allbwn Sain">
+<!ENTITY playback.prefpane.audio_output.buffer  "Byffer Allbwn:">
+
+<!ENTITY playback.prefpane.streaming.label      "Y Rhwydwaith a Ffrydio">
+<!ENTITY playback.prefpane.streaming.buffer     "Byffer Ffrydio">
+
+<!ENTITY playback.prefpane.normalization.label  "Normaleiddio">
+<!ENTITY playback.prefpane.normalization.enable "Defnyddio data normaleiddio sain os yw ar gael">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Data cynnydd dewisol">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Albwm">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Trac">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Meta dat graddio">
+<!ENTITY playback.prefpane.ratings.enablewriting "Cadw gwybodaeth graddio o fewn ffeil meta data pob ffeil">
+
+<!ENTITY fetch_album_art.dialog.title "Estyn Celf Album">
+<!ENTITY fetch_album_art.dialog.message "Heb ei wireddu eto (Gw. Bug 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Artist">
+<!ENTITY cdrip.lookup.info_not_found.album  "Album">
+<!ENTITY cdrip.lookup.info_not_found.title  "Heb ganfod Gwybodaeth CD">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Gallwch ychwanegu enw&apos;r artist a&apos;r albwm yma. Gallwch olygu gweddill y wybodaeth o fewn rhestr chwarae y CD">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Teitl">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "Rhwygo CD">
+<!ENTITY cdrip.prefpane.format "Fformat">
+<!ENTITY cdrip.prefpane.quality "Ansawdd">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "Wedi i CD gael ei rwygo ei fwrw allan">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Pan mae Rhwygo CD wedi ei gwblhau chwarae sain rhybudd system">
+<!ENTITY cdrip.prefpane.providers.title "Darparwr Chwilio&apos;r CD">
+<!ENTITY cdrip.prefpane.quality_desc "Bydd gosod ansawdd kpbs uwch yn creu ansawdd sain gwell a maint ffeil mwy.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Gosodiadau Rhwygo CD">
+<!ENTITY cdrip.mediaview.format_label              "Fformat:">
+<!ENTITY cdrip.mediaview.quality_label             "Ansawdd:">
+<!ENTITY cdrip.mediaview.settings_button           "Gosodiadau">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Rhwygo CD">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Atal Rhwygo">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Gweld Traciau">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Bwrw CD Allan">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "B">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Ffenestr Fideo">
+<!ENTITY videowindow.actualsize "Maint Gwirioneddol">
+<!ENTITY videowindow.fullscreen "Sgrin Lawn">
+
+<!ENTITY videowindow.fullscreen.key   "S">
+<!ENTITY videowindow.bringtofront.key "B">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Hoffwn ddiolch i&apos;n cyfranwyr sydd wedi gwneud Songbird yr hyn ydyw. Mae&apos;r bobl yma wedi cynorthwyo drwy ysgrifennu cod a dogfennaeth, a drwy ei brofi. Mae nhw wedi creu a chynnal y rhaglen, ei offer datblygu yr offer adeiladu a&apos;r wefan. Dyma eu henwau a&apos;u llysenwau IRC, dewch i #songbird ar irc.mozilla.org a dweud helo!">
+<!ENTITY about.credits.footer.beforeLink "Wrth gwrs, byddai dim o hyn yn bosibl heb waith caled ac ymdrechion">
+<!ENTITY about.credits.footer.linkText "y cyfranwyr">
+<!ENTITY about.credits.footer.afterLink "i broject Mozilla.">
+<!ENTITY about.credits.heading.translators "Cyfieithwyr">
+<!ENTITY about.credits.heading.champs "Pencampwyr">
+<!ENTITY about.credits.description.champs.link.pre "Mae Pencampwyr Songbird yn ddefnyddwyr a chefnogwyr Songbird sydd wedi mynd tu hwnt i&apos;r hyn sy&apos;n rhesymol i gefnogi defnyddwyr Songbird.">
+<!ENTITY about.credits.description.champs.link.text "Fforwm Cefnogi GetSatisfaction Songbird">
+<!ENTITY about.credits.description.champs.link.post "Dyma&apos;r rhai mwyaf ymroddgar ar y fforwm. ac yn gweithio&apos;n ddiflino i sicrhau fod pob defnyddiwr Songbird yn ddefnyddiwr hapus.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Wedi Canfod Cofnodion CD Lluosog">
+<!ENTITY cdrip.lookup.multiple.description "Dewiswch un o&apos;r canlynol neu ychwanegu eich gwybodaeth.">
+<!ENTITY cdinfo.other.label                "Ychwanegu eich Gwybodaeth am Artist ac Albwm">
+
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Adding tracks">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "हाँ" >
+<!ENTITY window.cancel      "रद्द " >
+<!ENTITY window.apply       "Apply" >
+<!ENTITY window.browse      "ढूंढें" >
+<!ENTITY window.save        "सहेजें ">
+<!ENTITY window.yes         "हाँ">
+<!ENTITY window.no          "नहीं">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Quit &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Preferences">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Services">
+<!ENTITY menu.mac.hide                  "Hide &brandShortName;">
+<!ENTITY menu.mac.hide.key              "H">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Hide Others">
+<!ENTITY menu.mac.hideothers.key        "H">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Show All">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "File" >
+<!ENTITY menu.file.new          "नयी गानसूची" >
+<!ENTITY menu.file.smart        "नयी चतुर गीतसूची…" >
+<!ENTITY menu.file.remote       "नया अभिदान…" >
+<!ENTITY menu.file.podcast      "New Podcast…" >
+<!ENTITY menu.file.open         "Open File…" >
+<!ENTITY menu.file.url          "पता बताइए…" >
+<!ENTITY menu.file.playlist     "Import a Playlist…" >
+<!ENTITY menu.file.library      "Import a Library…" >
+<!ENTITY menu.file.newtab       "New Tab" >
+<!ENTITY menu.file.closetab     "Close Tab" >
+<!ENTITY menu.file.metadata     "View Metadata">
+<!ENTITY menu.file.scan         "Import Media…" >
+<!ENTITY menu.file.exit         "Exit" >
+
+<!ENTITY menu.edit          "Edit" >
+<!ENTITY menu.edit.undo     "Undo" >
+<!ENTITY menu.edit.redo     "Redo" >
+<!ENTITY menu.edit.cut      "काटें" >
+<!ENTITY menu.edit.copy     "पकड़ें" >
+<!ENTITY menu.edit.paste    "चिपकाएँ" >
+<!ENTITY menu.edit.delete   "हटाओ" >
+<!ENTITY menu.edit.selall   "Select All" >
+<!ENTITY menu.edit.find        "Find" >
+<!ENTITY menu.edit.findagain   "Find Again" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Preferences">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "Controls" >
+<!ENTITY menu.control.play  "बजाअो" >
+<!ENTITY menu.control.pause "स्थगित करें" >
+<!ENTITY menu.control.next  "Next Track" >
+<!ENTITY menu.control.prev  "Previous Track" >
+<!ENTITY menu.control.shuf  "Shuffle" >
+<!ENTITY menu.control.repa  "Repeat All" >
+<!ENTITY menu.control.rep1  "Repeat One" >
+<!ENTITY menu.control.repx  "Repeat None" >
+<!ENTITY menu.control.jumpto "Jump To…" >
+
+<!ENTITY menu.control.play.button      "बजाअो" >
+<!ENTITY menu.control.pause.button     "स्थगित करें" >
+<!ENTITY menu.control.stop.button      "रद्द करना" >
+
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY displaypane.name.servicepane   "Service Pane Bottom">
+<!ENTITY displaypane.name.browser       "Content Pane Bottom">
+<!ENTITY displaypane.name.sidebar       "Right Sidebar">
+<!ENTITY servicepane.title.label        "Service Pane">
+
+<!ENTITY menu.tools            "Tools" >
+<!ENTITY menu.tools.getartwork "Get Artwork">
+<!ENTITY menu.tools.exportmedia "Export Library Changes">
+
+<!ENTITY menu.help          "मदद" >
+<!ENTITY menu.help.homepage "&brandShortName; Website" >
+<!ENTITY menu.help.bugz     "समस्या सूचित कीजिए" >
+<!ENTITY menu.help.topics   "Help Topics" >
+<!ENTITY menu.help.keyboard "कीबोर्ड के शॉर्टकट">
+<!ENTITY menu.help.about    "&brandShortName; के विषय में…" >
+
+<!ENTITY menu.equalizer     "Equalizer…" >
+<!ENTITY menu.preferences   "विकल्प" >
+<!ENTITY menu.extensions    "Add-ons" >
+<!ENTITY menu.clearprivatedata "Clear Private Data…">
+<!ENTITY menu.errorconsole "Error Console">
+<!ENTITY menu.downloadmgr   "File Downloads" >
+<!ENTITY menu.switchplayercontrols  "Player Controls" >
+<!ENTITY menu.controllerontop       "Display at Top">
+<!ENTITY menu.controlleronbottom    "Display at Bottom">
+
+<!ENTITY menu.fullscreen            "Full Screen">
+<!ENTITY menu.videotofront          "Video to Front">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Waiting for devices.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Waiting for all device operations to complete.  Click &quot;Quit&quot; to stop waiting and quit application.">
+<!ENTITY device.dialog.wait_for_completion.quit   "छोड़ें">
+
+<!ENTITY tooltip.minimize         "Minimize" >
+<!ENTITY tooltip.maximize         "Maximize/Restore" >
+<!ENTITY tooltip.exit             "Exit" >
+<!ENTITY tooltip.close            "Close" >
+<!ENTITY tooltip.hide             "छिपायें" >
+<!ENTITY tooltip.fullscreen       "Fullscreen" >
+<!ENTITY tooltip.control.back     "Previous Track" >
+<!ENTITY tooltip.control.play     "Play" >
+<!ENTITY tooltip.control.pause    "स्थगित करें" >
+<!ENTITY tooltip.control.resume   "Resume" >
+<!ENTITY tooltip.control.stop     "रद्द करना" >
+<!ENTITY tooltip.control.fwd      "अगला ट्रॅक" >
+<!ENTITY tooltip.control.mute     "Mute" >
+<!ENTITY tooltip.control.volume   "Volume" >
+<!ENTITY tooltip.control.shuffle  "Shuffle" >
+<!ENTITY tooltip.control.shuf_off "Shuffle Off" >
+<!ENTITY tooltip.control.curtrack "Find Current Track" >
+<!ENTITY tooltip.search           "खोजें" >
+<!ENTITY tooltip.browser.back     "Browse Back" >
+<!ENTITY tooltip.browser.fwd      "Browse Forward" >
+<!ENTITY tooltip.browser.stop     "Stop Browser" >
+<!ENTITY tooltip.browser.home     "Home" >
+<!ENTITY tooltip.browser.refresh  "Refresh" >
+<!ENTITY tooltip.browser.subscription "Subscribe to this page" >
+<!ENTITY tooltip.browser.mediapages.list "List View" >
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
+<!ENTITY tooltip.browser.mediapages "Switch Media Views…" >
+<!ENTITY tooltip.servicepane.show    "Show Service Pane" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "नयी गानसूची" >
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+
+<!ENTITY smart.window             "Smart Playlist" >
+<!ENTITY smart.limit              "Limit to" >
+<!ENTITY smart.match              "Match" >
+<!ENTITY smart.matchsingle        "Match the following condition:" >
+<!ENTITY smart.any                "कोई भी" >
+<!ENTITY smart.all                "सभी" >
+<!ENTITY smart.following          "of the following conditions:" >
+<!ENTITY smart.random             "random" >
+<!ENTITY smart.album              "एल्बम" >
+<!ENTITY smart.artist             "कलाकार" >
+<!ENTITY smart.genre              "genre" >
+<!ENTITY smart.title              "title" >
+<!ENTITY smart.high_rating        "highest rating" >
+<!ENTITY smart.low_rating         "lowest rating" >
+<!ENTITY smart.most_recent        "most recently played" >
+<!ENTITY smart.least_recent       "least recently played" >
+<!ENTITY smart.most_often         "most often played" >
+<!ENTITY smart.least_often        "least often played" >
+<!ENTITY smart.most_added         "most recently added" >
+<!ENTITY smart.least_added        "least recently added" >
+<!ENTITY smart.minutes            "minutes" >
+<!ENTITY smart.hours              "hours" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "items" >
+<!ENTITY smart.selectedby         "selected by" >
+<!ENTITY smart.to                 "to" >
+<!ENTITY smart.autoupdate         "अपने आप अपडेट करें">
+<!ENTITY smart.playlistcondition.library "Library">
+<!ENTITY smart.contenttypecondition.video "वीडियो">
+<!ENTITY smart.contenttypecondition.audio "संगीत">
+
+<!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
+
+<!ENTITY open_url.title           "Open URL">
+<!ENTITY subscribe.title          "Subscribe">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "Minute(s)">
+<!ENTITY subscribe.hours          "Hour(s)">
+<!ENTITY subscribe.days           "Day(s)">
+<!ENTITY subscribe.autocheck      "Automatically update every">
+<!ENTITY subscribe.destinationfolder      "Select destination folder:">
+
+<!ENTITY feed.subscribe.label     "Subscribe">
+<!ENTITY feed.subscribe.dontask   "Don't automatically show this dialog again">
+<!ENTITY feed.subscribe.close     "Close">
+
+<!ENTITY podcast.creation_dialog.title       "नया पोडकास्ट">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "फोल्डर देखें">
+<!ENTITY watchfolder.folderlist   "Watch these folders for new media:">
+
+<!ENTITY locale.language          "Language" >
+<!ENTITY menu.view                "View" >
+<!ENTITY about.version            "संस्करण" >
+<!ENTITY about.buttons.credits    "आभार" >
+
+<!ENTITY equalizer.title          "Equalizer" >
+<!ENTITY equalizer.on.checkbox    "On" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Custom" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rock" >
+<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
+<!ENTITY equalizer.preset.techno      "Techno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Live" >
+<!ENTITY equalizer.preset.club        "Club" >
+<!ENTITY equalizer.preset.party       "Party" >
+<!ENTITY equalizer.preset.classical   "Classical" >
+<!ENTITY equalizer.preset.large_hall  "Large Hall" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Soft" >
+<!ENTITY equalizer.preset.small_speakers   "Laptop/Headphones" >
+<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
+<!ENTITY equalizer.preset.full_treble "Full treble" >
+<!ENTITY equalizer.preset.full_bass   "Full bass" >
+
+
+<!ENTITY setupprogress.pleasewait "कृपया प्रतीक्षा करें" >
+<!ENTITY setupprogress.cancel     "रद्द करें">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "A" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "C" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "L" >
+<!ENTITY menu.view.accesskey              "V" >
+<!ENTITY menu.preferences.accesskey       "O" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "A" >
+<!ENTITY menu.clearprivatedata.accesskey  "P" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "X" >
+<!ENTITY menu.downloadmgr.accesskey       "D" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "U" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "T" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "P" >
+<!ENTITY menu.edit.delete.accesskey   "D" >
+<!ENTITY menu.edit.selall.accesskey   "A" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "R" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "J" >
+
+
+<!ENTITY menu.tools.accesskey            "T" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Show File" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "मैटाडैटा सम्पादक" >
+<!ENTITY trackeditor.tab.summary.title            "सारांश" >
+<!ENTITY trackeditor.tab.edit.title               "गुण" >
+<!ENTITY trackeditor.tab.lyrics.title             "गाने के बोल" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Add Tag" >
+<!ENTITY trackeditor.addtag.tag       "Tag:" >
+
+<!ENTITY jumptofile.title             "Jump to" >
+<!ENTITY jumptofile.search            "खोजें:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Use Global Hotkeys" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "Action" >
+<!ENTITY hotkeys.hotkey               "Hotkey" >
+<!ENTITY hotkeys.add                  "नया जोडें" >
+<!ENTITY hotkeys.set                  "Set" >
+<!ENTITY hotkeys.remove               "हटाएँ" >
+<!ENTITY hotkeys.prefpane             "Hotkeys" >
+<!ENTITY hotkeys.info                 "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.&#10;&#10;Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications." >
+
+<!ENTITY rapi.prefpane.title             "Web Integration" >
+<!ENTITY rapi.prefpane.access.caption    "Web Integration Permissions" >
+<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
+<!ENTITY rapi.whitelist.label            "Exceptions…" >
+<!ENTITY rapi.restore_defaults.label      "Restore to Default" >
+<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback" >
+<!ENTITY rapi.playback_read_disable.label    "वेबसाइट्स को आपके द्वारा चलाये गए गानों का पता न चलने दें" >
+<!ENTITY rapi.library_read_disable.label     "Block websites from viewing information about media in my Library and devices" >
+<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Add-ons">
+<!ENTITY prefpane.content.label       "Web Content">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "कोई USB  स्टोरेज नहीं मिली" >
+<!ENTITY umsd.music.tab                     "संगीत" >
+<!ENTITY umsd.music.music_files_group       "संगीत की फाइलें" >
+<!ENTITY umsd.music.music_path_desc         "When copying music files to the device, place them within the following directory:" >
+<!ENTITY umsd.music.music_path_browse_msg   "संगीत रखने के लिए इस उपकरण का कोई फोल्डर चुनें" >
+<!ENTITY umsd.music.music_ext_desc          "Copy music files with the following extensions to the device:" >
+<!ENTITY umsd.video.tab                     "विडियो" >
+<!ENTITY umsd.video.video_files_group       "Video files" >
+<!ENTITY umsd.video.video_path_desc         "When copying video files to the device, place them within the following directory:" >
+<!ENTITY umsd.video.video_path_browse_msg   "विडियो रखने के लिए इस उपकरण का कोई फोल्डर चुनें" >
+<!ENTITY umsd.video.video_ext_desc          "Copy video files with the following extensions to the device:" >
+
+<!ENTITY device.error.dialog.link           "View Error Details" >
+
+<!ENTITY restartbox.restartnow        "अभी पुनरारंभ करें" >
+<!ENTITY restartbox.restartonplaybackend "Restart on End of Playback" >
+<!ENTITY restartbox.restartlater      "बाद में पुनरारंभ करें" >
+
+<!ENTITY setupprogress.installingextensions "Installing Add-ons" >
+
+<!ENTITY jobprogress.details "Details" >
+
+<!ENTITY menu.updateCmd.label          "Check for Updates…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "आई" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "जे" >
+
+<!ENTITY menu.control.playpause.spacebar "Spacebar" >
+
+<!ENTITY tabs.closeTab "Close tab">
+<!ENTITY tabs.listAllTabs "List all tabs">
+
+<!ENTITY window.browser.titledefault       " " >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator "-" >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "मुख्य पन्ना" >
+<!ENTITY prefs.homepage.url.label          "य़ूरल" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Add-on Installation" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "रद्द करना">
+<!ENTITY command.device.cancel.accesskey                "C">
+<!ENTITY command.device.canceldevicecopy                "प्रितिलिप रद्द करें ">
+<!ENTITY command.device.canceldevicecopy.accesskey      "C">
+<!ENTITY command.device.canceldevicedelete              "हटाने की प्रक्रिया को रोकें">
+<!ENTITY command.device.canceldevicedelete.accesskey    "C">
+<!ENTITY command.device.canceldevicesync                "समकालन बंद करो">
+<!ENTITY command.device.canceldevicesync.accesskey      "C">
+<!ENTITY command.device.canceldeviceupdate              "अपडेट बंद करो">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
+<!ENTITY command.device.ejectdevice                     "बाहर निकालें">
+<!ENTITY command.device.ejectdevice.accesskey           "E">
+<!ENTITY command.device.formatdevice                    "पूर्णतः खाली करें">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "ध्यान न दें">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "जानकारी लेकर आयें">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "नाम बदलें">
+<!ENTITY command.device.renamedevice.accesskey          "R">
+<!ENTITY command.device.devicesync                      "समकालन">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Rip CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Stop Rip">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "Lookup CD Information">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Eject CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "E">
+
+<!ENTITY device.repair.menuitem.default                   "Repair my device">
+
+<!ENTITY device.firmware.wizard.title                     "Update Firmware">
+<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
+<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
+<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
+<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
+<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
+<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
+
+<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
+<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
+<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
+
+<!ENTITY device.info.icon.device            "Generic device icon">
+<!ENTITY device.info.icon.readonly          "Read-only lock icon">
+<!ENTITY device.info.model.label            "Model">
+<!ENTITY device.info.capacity.label         "क्षमता">
+<!ENTITY device.info.product.label          "Product">
+<!ENTITY device.info.friendly_name.label    "नाम">
+<!ENTITY device.info.serial_number.label    "Serial Number">
+<!ENTITY device.info.vendor.label           "Manufacturer">
+<!ENTITY device.info.access.label           "Access Compatibility">
+<!ENTITY device.info.playback_formats.label "File Formats">
+<!ENTITY device.info.battery.label          "बैटरी">
+<!ENTITY device.info.firmware_version.label "Firmware Version">
+
+<!ENTITY device.progress.sync               "Sync">
+
+<!ENTITY device.capacity.music.label    "संगीत">
+<!ENTITY device.capacity.video.label    "वीडियो">
+<!ENTITY device.capacity.image.label    "तस्वीर ">
+<!ENTITY device.capacity.other.label    "Other">
+<!ENTITY device.capacity.free.label     "अप्रयुक्त">
+
+<!ENTITY device.unsupported_media.dialog.title  "Incompatible Files Detected">
+<!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
+
+<!ENTITY device.sync.header.label "Sync Settings">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Sync">
+<!ENTITY device.sync.sync_all.label "Sync all media and playlists">
+<!ENTITY device.sync.sync_selected.label "Sync selected playlists:">
+<!ENTITY device.sync.playlist.title "Title">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.sync.images.filecount "Photos">
+
+<!ENTITY device.settings.header.label "प्राथमिकतायें">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
+<!ENTITY device.settings.music.transcoding.label "संगीत कूटलेखन (संगीत को ट्रांसकोडे किया जा रहा है)">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Disk Management">
+<!ENTITY device.settings.disk.management.label "Customize directory structure">
+<!ENTITY device.settings.disk.management.filename "Song files">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "संगीत">
+<!ENTITY device.management.tabs.video.label "वीडियो">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY device.management.tabs.tools.label "Tools">
+<!ENTITY device.management.tabs.settings.label "प्राथमिकतायें">
+
+<!ENTITY device.tools.product_registration.title "Product Registration">
+<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
+<!ENTITY device.tools.product_registration.label "Register product">
+
+<!ENTITY device.tools.update_firmware.title "Update Firmware">
+<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
+<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
+
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+
+<!ENTITY device.tools.format_device.title "Format Device">
+<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
+<!ENTITY device.tools.format_device.label "Format device">
+<!ENTITY device.tools.format_volume.button.label "पूर्णतः खाली करें">
+
+<!ENTITY device.tools.support.title "Support">
+<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
+<!ENTITY device.tools.support.label "View support resources">
+
+<!ENTITY device.tools.reset_warnings.title "Reset warnings">
+<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
+<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
+
+<!ENTITY device.dialog.setup.title "Device Setup">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "इस उपकरण को अनदेखा करें">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Open Link In Default Web Browser">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Open Page In Default Web Browser">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Open Frame In Default Web Browser">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Open Image In Default Web Browser">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Copy Selected Text">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "बजाओ">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Download To Library">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "गीतसूची मे डाउनलोड करे">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;कोई गीतसूची नहीं&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "नयी गीतसूची">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Subscribe To This Page…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Subscribe To This Frame…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Help Make &brandShortName; Better!">
+<!ENTITY feedback.dialog.yes        "हाँ">
+<!ENTITY feedback.dialog.no         "नहीं">
+<!ENTITY feedback.dialog.sentence1  "Will you help us make &brandShortName; better by taking a quick, anonymous survey?">
+<!ENTITY feedback.dialog.sentence2  "If you're not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "Regards,">
+<!ENTITY feedback.dialog.sentence4  "The &brandShortName; Team">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Welcome to &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "&brandShortName; Setup">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Recommended Add-ons">
+<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;'s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
+<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application's appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
+<!ENTITY first_run.add_ons.loading.label     "Retrieving recommended add-ons.">
+<!ENTITY first_run.add_ons.load_failed.label "Unable to retrieve recommended add-ons.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; Cannot Connect to the Internet">
+<!ENTITY first_run.connection.description          "Check your Connection Settings or Continue with the Setup assistant.">
+<!ENTITY first_run.connection.settings.button      "Connection Settings…">
+<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "License Agreement">
+<!ENTITY first_run.eula.accept_checkbox.label "मैने लाईसेन्स की शर्ते पढी है और मुझे मंज़ूर है">
+<!ENTITY first_run.eula.language.label        "भाषा :">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "&brandShortName; को बेहतर बनाने मे मदद करें">
+<!ENTITY first_run.feedback.description             "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
+<!ENTITY first_run.feedback.metrics.label           "Collect and send my metrics to the &brandShortName; team">
+<!ENTITY first_run.feedback.metrics.description     "Metrics are completely anonymous and no personal information is collected.">
+<!ENTITY first_run.feedback.email.header.label      "मुझे जानकारी देते रहें">
+<!ENTITY first_run.feedback.email.description       "Subscribe to our newsletter to hear about new releases and important updates.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "iTunes Import/Export">
+<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
+<!ENTITY first_run.itunes.checkbox.export.label         "नये गीत और गीतसूचियों को आईट्यून्स में भेजो">
+<!ENTITY first_run.itunes.checkbox.export.description   "&brandShortName; द्वारा प्रयाप्त किए गये संगीत को आईट्यून्स में ट्रान्स्फर किया जा सकता है ताकि वह आपके आईपॉड या आईफ़ोन में डाला जा सके ।">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Import Media">
+<!ENTITY first_run.import_media.description                  "Select what media you'd like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Scan directories on my computer">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Do not import media">
+<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Downloading Add-ons">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "&brandShortName; मे आपका स्वागत है">
+<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
+<!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Media Importer">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Import a library">
+<!ENTITY import_library.prefs.title                       "iTunes Import/Export">
+<!ENTITY import_library.library_file_label                "Library File:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Alert me when unsupported tracks or playlists are not imported">
+<!ENTITY import_library.prefs.path_group_caption          "iTunes Music Library Location">
+<!ENTITY import_library.prefs.options_group_caption       "Import/Export Options">
+<!ENTITY import_library.import_command                    "Import Library">
+<!ENTITY import_tracks_itunes_checkbox                    "Import music tracks from iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Import music playlists">
+<!ENTITY export_tracks_itunes_checkbox                    "Export music tracks to iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Export music playlists">
+<!ENTITY export_subscriptions_itunes_checkbox             "Export subscriptions">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Export music smart playlists">
+<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Playlist changed">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Keep the current &brandShortName; playlist (Do not import this playlist)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Merge the current &brandShortName; and iTunes playlists">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Replace this &brandShortName; playlist with the current iTunes playlist">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Note: Merge and replace cannot be undone.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Apply selection to all playlists">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "फोल्डर देखें ">
+<!ENTITY watch_folder.prefs.settings_group_caption "फोल्डर सेटिंग देखें ">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; एक फोल्डर की चीज़ों पर नज़र रख सकता है और अपने आप और चीज़ें डाल या हटा सकता है।">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Automatically watch for changes in the following folder">
+<!ENTITY watch_folder.prefs.watch_folder_label     "फोल्डर:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Recommended Add-ons">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "&brandShortName; Setup">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "विवरण">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "कुछ नही चल रहा है |" >
+<!ENTITY albumart.displaypane.not_selected_message  "कुछ नहीं चुना गया |" >
+<!ENTITY albumart.displaypane.drag_and_drop  "अलबम चित्र को यहा खीचे" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "abhi kya chuna hua hai" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "abhi kya chal rha hai" >
+<!ENTITY albumart.displaypane.selected.menu.cut "काटें">
+<!ENTITY albumart.displaypane.selected.menu.copy "पकड़ें">
+<!ENTITY albumart.displaypane.selected.menu.paste "चिपकाएँ">
+<!ENTITY albumart.displaypane.selected.menu.clear "मिटायें">
+<!ENTITY albumart.coverpreview.title "अलबम चित्र">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "एल्बम आर्टवर्क">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "आर्टवर्क को मेटाडाटा के भीतर लिखें">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip " यह &brandShortName; को  मीडिया फ़ाइलो के संगत टैग में कलाकृति स्थापित करने की अनुमति देता है.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "फाइल नाम खोजें:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "अल्पविराम से अलग  होने वाली फाइलो के नाम की सूची दर्ज करें  ">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "फ़ाइल एक्सटेंशन खोजे">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "अल्पविराम से अलग  होने वाली एक्सटेंशन की सूची दर्ज करें  ">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "fetcher  की प्राथमिकताओं">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "fetcher की सूची जो आप शीर्ष पर उपयोग करना चाहते हैं.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "ऊपर">
+<!ENTITY albumartpreferences.prefpane.priorities.down "नीचे">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "पुनरारंभ करें">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "अपने आप एल्बम आर्टवर्क ले.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "अपने आप एल्बम आर्टवर्क ले (एल्बम कलाकृति प्रदर्शन फलक के मोड पर निर्भर करता है). इस सुविधा से परदर्शन प्रभावित हो सकता है ">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "पीछे जाएँ">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "रद्द करें">
+<!ENTITY wizard.button.next.label      "जारी रखें ">
+<!ENTITY wizard.button.next.accesskey  "C">
+<!ENTITY wizard.button.finish.label    "समाप्त">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Playback Error">
+<!ENTITY mediacore.error.preface  "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY mediacore.error.continue "जारी रखें ">
+<!ENTITY mediacore.error.stop     "Stop Playback">
+<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Playback">
+
+<!ENTITY playback.prefpane.audio_output.label   "Audio Output">
+<!ENTITY playback.prefpane.audio_output.buffer  "Output Buffer:">
+
+<!ENTITY playback.prefpane.streaming.label      "Network and Streaming">
+<!ENTITY playback.prefpane.streaming.buffer     "Streaming Buffer:">
+
+<!ENTITY playback.prefpane.normalization.label  "Normalization">
+<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "मिलिसेकंड">
+
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
+
+<!ENTITY fetch_album_art.dialog.title "Get Artwork">
+<!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "कलाकार">
+<!ENTITY cdrip.lookup.info_not_found.album  "Album">
+<!ENTITY cdrip.lookup.info_not_found.title  "CD Information Not Found">
+<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Title">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "CD Rip">
+<!ENTITY cdrip.prefpane.format "पूर्णतः खाली करें">
+<!ENTITY cdrip.prefpane.quality "कुँलिटी ">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Settings">
+<!ENTITY cdrip.mediaview.format_label              "पूर्णतः खाली करें:">
+<!ENTITY cdrip.mediaview.quality_label             "Quality: ">
+<!ENTITY cdrip.mediaview.settings_button           "प्राथमिकतायें">
+<!ENTITY cdrip.mediaview.rip_cd_button             "सीडी रिप करो (सीडी  बनाओ)">
+<!ENTITY cdrip.mediaview.stop_rip_button           "रिप करना बंद करे.">
+<!ENTITY cdrip.mediaview.view_tracks_button        "View Tracks">
+<!ENTITY cdrip.mediaview.eject_cd_button           "सीडी बाहर निकालो">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Video Window">
+<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY videowindow.fullscreen "Full Screen">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "हम अपने सहायकों को धन्यवाद देना चाहते हैं जिनके प्रयासों के कारण ही सॉंगबर्ड इस स्तर पर पंहुचा है. इन लोगों ने कोड लिखने, पत्राचार और परखने में मदद की है. इन्होंने इस सॉफ्टवेयर  और संबंधित चीज़ों, निर्माण उपकरणों और वेबसाइटओं की रचना की और उन्हें क़ायम रखा है | इनके नाम उनके आई.आर.सी (IRC) उपनामों के साथ दिए गये हैं, irc.mozilla.org में #songbird पर आकर अपना अभिवादन करें.">
+<!ENTITY about.credits.footer.beforeLink "अवश्य ही ,यह सब इनकी कड़ी मेहनत और प्रयासों के बिना सम्भव न था :">
+<!ENTITY about.credits.footer.linkText "सहायक">
+<!ENTITY about.credits.footer.afterLink "Mozilla प्रोजेक्ट को">
+<!ENTITY about.credits.heading.translators "अनुवादक">
+<!ENTITY about.credits.heading.champs "महारथी">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction समर्थन फोरम.">
+<!ENTITY about.credits.description.champs.link.post "वे हमारे मंच पर सबसे उर्वर लोग हैं, और वे अथक काम के द्वारा यह सुनिश्चित करते है की हर songbird उपयोगकर्ता खुश हो.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Multiple CD Records Found">
+<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
+<!ENTITY cdinfo.other.label                "कलाकार और एल्बम की जानकारी जोड़ें">
+
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Adding tracks">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

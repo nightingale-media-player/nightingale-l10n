@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "ปุ่มลัดสำหรับแป้นพิมพ์ใน &brandShortName; " >
+<!ENTITY help.keyboard.subtitle           "ปุ่มลัดสำหรับแป้นพิมพ์" >
+<!ENTITY help.keyboard.description        "ปุ่มลัดสำหรับแป้นพิมพ์สามารถทำให้การ &brandShortName; สะดวกยิ่งขึ้น ด้านล่างนี้เป็นรายการคำสั่งทั้งหมดตามด้วยปุ่มลัดที่เหมาะสม">
+<!ENTITY help.platform.windows            "วินโดวส์" >
+<!ENTITY help.platform.macosx             "แมค" >
+<!ENTITY help.platform.linux              "ลินุกซ์" >
+<!ENTITY help.keyboard.heading.command    "คำสั่ง" >
+<!ENTITY help.keyboard.heading.shortcut   "ปุ่มลัด" >
+<!ENTITY help.keyboard.section.playback   "ระบบควบคุมการเล่น" >
+<!ENTITY help.keyboard.section.library    "ตู้เพลงและรายการเพลง" >
+<!ENTITY help.keyboard.section.editing    "กำลังแก้ไข" >
+<!ENTITY help.keyboard.section.navigation "การนำทาง" >
+<!ENTITY help.keyboard.section.browser    "เบราวเซอร์" >
+<!ENTITY help.keyboard.section.windows    "หน้าต่างและแท็บ" >
+<!ENTITY help.keyboard.section.search     "ค้นหา" >
+<!ENTITY help.keyboard.section.video      "วีดีโอ" >
+<!ENTITY help.keyboard.section.cdrip      "ดึงเพลงจาก CD" >
+<!ENTITY help.keyboard.section.misc       "เบ็ดเตล็ด" >
+
+<!ENTITY help.keyboard.key.left           "ลูกศรซ้าย" >
+<!ENTITY help.keyboard.key.right          "ลูกศรขวา" >
+<!ENTITY help.keyboard.key.up             "ลูกศรขึ้น" >
+<!ENTITY help.keyboard.key.down           "ลูกศรลง" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "คลิก" >
+<!ENTITY help.keyboard.mouse.click.middle "คลิกปุ่มเมาส์กลาง" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "เล่น/พักสื่อที่เลือก" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "เล่นมิเดียก่อนหน้าในลิสต์" >
+<!ENTITY help.keyboard.name.playcontrol.next    "เล่นมิเดียต่อไปในลิสต์" >
+<!ENTITY help.keyboard.name.volume.down         "ลดเสียง" >
+<!ENTITY help.keyboard.name.volume.up           "เพิ่มเสียง" >
+<!ENTITY help.keyboard.name.volume.mute         "ปิดเสียง" >
+<!ENTITY help.keyboard.name.volume.max          "เสียงสูงสุด" >
+<!ENTITY help.keyboard.name.jumpto              "กระโดไปยังหน้าต่าง" >
+<!ENTITY help.keyboard.name.equalizer           "เปิดตัวปรับแต่งเสียง" >
+<!ENTITY help.keyboard.name.new.playlist        "รายการเพลงใหม่" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "สร้างรายการเพลงแบบฉลาด" >
+<!ENTITY help.keyboard.name.import              "นำสื่อเข้า" >
+<!ENTITY help.keyboard.name.currenttrack        "หารายการมิเดียที่กำลังเล่นอยู่" >
+<!ENTITY help.keyboard.name.mediapage.switch    "สลับมุมมองมิเดีย" >
+<!ENTITY help.keyboard.name.feather.switch      "สลับการจัดเรียงช่องหน้าต่าง" >
+<!ENTITY help.keyboard.name.trackeditor         "แก้ไขข้อมูล" >
+<!ENTITY help.keyboard.name.edit.undo           "ย้อนกลับ" >
+<!ENTITY help.keyboard.name.edit.redo           "ทำใหม่" >
+<!ENTITY help.keyboard.name.edit.selectall      "เลือกทั้งหมด" >
+<!ENTITY help.keyboard.name.edit.cut            "ตัด" >
+<!ENTITY help.keyboard.name.edit.copy           "คัดลอก" >
+<!ENTITY help.keyboard.name.edit.paste          "วาง" >
+<!ENTITY help.keyboard.name.edit.delete         "ลบ" >
+<!ENTITY help.keyboard.name.browser.back        "กลับ" >
+<!ENTITY help.keyboard.name.browser.forward     "เดินหน้า" >
+<!ENTITY help.keyboard.name.browser.reload      "โหลดใหม่" >
+<!ENTITY help.keyboard.name.browser.stop        "หยุดการโหลด" >
+<!ENTITY help.keyboard.name.open.file           "เปิดไฟล์" >
+<!ENTITY help.keyboard.name.open.url            "เปิดที่อยู่ URl" >
+<!ENTITY help.keyboard.name.tab.open.link       "เปิดลิงก์ในแท็บใหม่" >
+<!ENTITY help.keyboard.name.save.link           "จัดเก็บลิงก์" >
+<!ENTITY help.keyboard.name.file.print          "พิมพ์" >
+<!ENTITY help.keyboard.name.view.source         "ดูซอร์สโคด" >
+<!ENTITY help.keyboard.name.view.zoomin         "ขยายเข้า" >
+<!ENTITY help.keyboard.name.view.zoomout        "ขยายออก" >
+<!ENTITY help.keyboard.name.view.zoomreset      "ล้างการขยาย" >
+<!ENTITY help.keyboard.name.subscribe           "ลงทะเบียน" >
+<!ENTITY help.keyboard.name.locationbar         "โฟกัสที่บาร์ที่อยู่" >
+<!ENTITY help.keyboard.name.tab.new             "แท็บใหม่" >
+<!ENTITY help.keyboard.name.tab.close           "ปิดแท็บ" >
+<!ENTITY help.keyboard.name.tab.next            "แท็บต่อไป" >
+<!ENTITY help.keyboard.name.tab.previous        "แท็บก่อนหน้า" >
+<!ENTITY help.keyboard.name.tab.1               "เปลี่ยนไปยังแท็บ 1" >
+<!ENTITY help.keyboard.name.tab.2               "เปลี่ยนไปยังแท็บ 2" >
+<!ENTITY help.keyboard.name.tab.3               "เปลี่ยนไปยังแท็บ 3" >
+<!ENTITY help.keyboard.name.tab.4               "เปลี่ยนไปยังแท็บ 4" >
+<!ENTITY help.keyboard.name.tab.5               "เปลี่ยนไปยังแท็บ 5" >
+<!ENTITY help.keyboard.name.tab.6               "เปลี่ยนไปยังแท็บ 6" >
+<!ENTITY help.keyboard.name.tab.7               "เปลี่ยนไปยังแท็บ 7" >
+<!ENTITY help.keyboard.name.tab.8               "เปลี่ยนไปยังแท็บ 8" >
+<!ENTITY help.keyboard.name.tab.9               "เปลี่ยนไปยังแท็บ 9" >
+<!ENTITY help.keyboard.name.page.top            "เลือนไปยังส่วนบนของหน้า" >
+<!ENTITY help.keyboard.name.page.bottom         "เลื่อนไปยังส่วนล่างของหน้า" >
+<!ENTITY help.keyboard.name.view.fullscreen     "เต็มจอ" >
+<!ENTITY help.keyboard.name.mac.minimize        "ย่อเก็บไปที่ Dock" >
+<!ENTITY help.keyboard.name.mac.hide            "ซ่อนหน้าต่าง" >
+<!ENTITY help.keyboard.name.mac.hideothers      "ซ่อนโปรแกรมอื่น" >
+<!ENTITY help.keyboard.name.downloads           "ดาวน์โหลด" >
+<!ENTITY help.keyboard.name.find                "ค้นหา" >
+<!ENTITY help.keyboard.name.find.again          "ค้นหาอีกครั้ง" >
+<!ENTITY help.keyboard.name.find.text           "ค้นหาเทกซ์ขณะพิมพ์" >
+<!ENTITY help.keyboard.name.find.link           "ค้นหาลิงก์ขณะพิมพ์" >
+<!ENTITY help.keyboard.name.search.focus        "แสดงกล่องค้นหาตลอด" >
+<!ENTITY help.keyboard.name.video.fullscreen    "เต็มจอ" >
+<!ENTITY help.keyboard.name.video.bringtofront  "แสดงวิดีโอไว้ด้านบนเสมอ" >
+<!ENTITY help.keyboard.name.video.escape        "ออกจากโหมดเต็มจอ" >
+<!ENTITY help.keyboard.name.cdrip.start         "ดึงเพลงจาก CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "หยุกการดึงเพลงจาก CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "เปิดถาด CD" >
+<!ENTITY help.keyboard.name.quit                "ออก" >
+<!ENTITY help.keyboard.name.preferences         "ตัวเลือก" >
+<!ENTITY help.keyboard.name.help                "หัวข้อช่วยเหลือ" >
+<!ENTITY help.keyboard.name.sanitize            "ล้างข้อมูลส่วนตัวข้องคุณ" >

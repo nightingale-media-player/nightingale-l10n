@@ -1,0 +1,586 @@
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "Da Lowr">
+<!ENTITY window.cancel "Dilea">
+<!ENTITY window.browse "Peuri…">
+<!ENTITY window.save "Gwitha">
+<!ENTITY window.yes "Mynnav">
+<!ENTITY window.no "Na Vynnav">
+<!ENTITY menu.mac.exit "Kwitya &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Dewisyansow">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services "Gonisow">
+<!ENTITY menu.mac.hide "Kudha &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Kudha an Re Erel">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Diskwedhes Puptra">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Restren">
+<!ENTITY menu.file.new "Kanrol Nowyth…">
+<!ENTITY menu.file.smart "Kanrol Gonnyk Nowyth…">
+<!ENTITY menu.file.remote "Ragbren Nowyth…">
+<!ENTITY menu.file.podcast "Podkast Nowyth…">
+<!ENTITY menu.file.open "Ygeri Restren…">
+<!ENTITY menu.file.url "Ygeri dhyworth URL…">
+<!ENTITY menu.file.playlist "Ymperthi Kanrol…">
+<!ENTITY menu.file.library "Ymperthi Lyverva…">
+<!ENTITY menu.file.newtab "Tab Nowyth">
+<!ENTITY menu.file.closetab "Degea Tab">
+<!ENTITY menu.file.metadata "Gweles Metadata">
+<!ENTITY menu.file.scan "Ymperthi Media…">
+<!ENTITY menu.file.exit "Diberth">
+<!ENTITY menu.edit "Chanjya">
+<!ENTITY menu.edit.undo "Diswul">
+<!ENTITY menu.edit.redo "Daswul">
+<!ENTITY menu.edit.cut "Trehi">
+<!ENTITY menu.edit.copy "Kopia">
+<!ENTITY menu.edit.paste "Glusa">
+<!ENTITY menu.edit.delete "Dilea">
+<!ENTITY menu.edit.selall "Dewis Puptra">
+<!ENTITY menu.edit.find "Kavos">
+<!ENTITY menu.edit.findagain "Kavos Arta">
+<!ENTITY menu.linux.preferences "Dewisyansow">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.controls "Kontrolyow">
+<!ENTITY menu.control.play "Seni/Hokya">
+<!ENTITY menu.control.pause "Hokya">
+<!ENTITY menu.control.next "Nessa Hyns">
+<!ENTITY menu.control.prev "Hyns Kyns">
+<!ENTITY menu.control.shuf "Gwevya">
+<!ENTITY menu.control.repa "Dasseni Puptra">
+<!ENTITY menu.control.rep1 "Dasseni Onan">
+<!ENTITY menu.control.repx "Na Dhassen Travyth">
+<!ENTITY menu.control.jumpto "Lamma Dhe…">
+<!ENTITY menu.control.play.button "Seni">
+<!ENTITY menu.control.pause.button "Hokya">
+<!ENTITY menu.control.stop.button "Hedhi">
+<!ENTITY displaypane.default.link.text "Gwiasva an Keworrans">
+<!ENTITY displaypane.name.servicepane "Goles Kwarel Gonis">
+<!ENTITY displaypane.name.browser "Goles Kwarel Dalgh">
+<!ENTITY displaypane.name.sidebar "Barr-tenewen a-Dhyhow">
+<!ENTITY servicepane.title.label "Kwarel Gonis">
+<!ENTITY menu.tools "Toulys">
+<!ENTITY menu.tools.getartwork "Kavos Art Kuntilow">
+<!ENTITY menu.help "Gweres">
+<!ENTITY menu.help.homepage "Gwiasva &brandShortName;">
+<!ENTITY menu.help.bugz "Derivas Pryv…">
+<!ENTITY menu.help.topics "Testennow Gweres">
+<!ENTITY menu.help.keyboard "Skochfordhow Alhwedhel">
+<!ENTITY menu.help.about "A-dro dhe &brandShortName;">
+<!ENTITY menu.equalizer "Kesposel-son…">
+<!ENTITY menu.preferences "Dewisyansow">
+<!ENTITY menu.extensions "Keworansow">
+<!ENTITY menu.clearprivatedata "Gwakhe Derivadow Privedh…">
+<!ENTITY menu.errorconsole "Konsolen Gwallow ">
+<!ENTITY menu.downloadmgr "Iskargansow Restren">
+<!ENTITY menu.switchplayercontrols "Kontrolyow Senyel">
+<!ENTITY menu.controllerontop "Diskwedhes dhe Benn">
+<!ENTITY menu.controlleronbottom "Diskwedhes dhe Woles">
+<!ENTITY menu.fullscreen "Skrin leun">
+<!ENTITY device.dialog.wait_for_completion.title "Ow kortos an devisyow.">
+<!ENTITY device.dialog.wait_for_completion.msg "Ow kortos pub gwrians yn devis dhe hedhi. Klyck &quot;Hedhi&quot; rag hedhi gortos ha hedhi an dowlen.">
+<!ENTITY device.dialog.wait_for_completion.quit "Kwitya">
+<!ENTITY tooltip.minimize "Lehe">
+<!ENTITY tooltip.maximize "Lehe/Daskavos">
+<!ENTITY tooltip.exit "Diberth">
+<!ENTITY tooltip.close "Degea">
+<!ENTITY tooltip.hide "Kudha">
+<!ENTITY tooltip.fullscreen "Skrin Leun">
+<!ENTITY tooltip.control.back "Hyns Kyns">
+<!ENTITY tooltip.control.play "Seni">
+<!ENTITY tooltip.control.pause "Hokya">
+<!ENTITY tooltip.control.resume "Pesya">
+<!ENTITY tooltip.control.stop "Hedhi">
+<!ENTITY tooltip.control.fwd "Nessa Hyns">
+<!ENTITY tooltip.control.mute "Dison">
+<!ENTITY tooltip.control.volume "Sonradh">
+<!ENTITY tooltip.control.shuffle "Gwevya">
+<!ENTITY tooltip.control.shuf_off "Skwychya Gwevya yn Farow">
+<!ENTITY tooltip.control.curtrack "Kavos Hyns a-Lemmyn">
+<!ENTITY tooltip.search "Hwilas">
+<!ENTITY tooltip.browser.back "Peuri war-Lergh">
+<!ENTITY tooltip.browser.fwd "Peuri yn-Rag">
+<!ENTITY tooltip.browser.stop "Hedhi Peurel">
+<!ENTITY tooltip.browser.home "Tre">
+<!ENTITY tooltip.browser.refresh "Dasnowedha">
+<!ENTITY tooltip.browser.subscription "Gwruthyl Ragbren">
+<!ENTITY tooltip.browser.mediapages "Skwychya Gwelyow Media">
+<!ENTITY tooltip.servicepane.show "Diskwedhes Kwarel Gonis">
+<!ENTITY tooltip.servicepane.newnode "Kanrol Nowyth">
+<!ENTITY smart.window "Kanrol Gonnyk">
+<!ENTITY smart.limit "Finwedha dhe">
+<!ENTITY smart.match "Keheveli">
+<!ENTITY smart.matchsingle "Gwra par a&apos;n studh a syw:">
+<!ENTITY smart.any "pypynag">
+<!ENTITY smart.all "peub">
+<!ENTITY smart.following "a&apos;n studh(ow) del syw:">
+<!ENTITY smart.random "dre hap">
+<!ENTITY smart.album "kuntilow">
+<!ENTITY smart.artist "artydh">
+<!ENTITY smart.genre "ehen">
+<!ENTITY smart.title "titel">
+<!ENTITY smart.high_rating "merk uhel">
+<!ENTITY smart.low_rating "isella merk">
+<!ENTITY smart.most_recent "an nowyttha senys">
+<!ENTITY smart.least_recent "an kottha senys">
+<!ENTITY smart.most_often "an moyha menowgh senys">
+<!ENTITY smart.least_often "an leha menowgh senys">
+<!ENTITY smart.most_added "an nowyttha">
+<!ENTITY smart.least_added "an kottha">
+<!ENTITY smart.minutes "a vynys">
+<!ENTITY smart.hours "ourys">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "kanow">
+<!ENTITY smart.selectedby "dewisys gans">
+<!ENTITY smart.to "dhe ">
+<!ENTITY smart.autoupdate "Nowedhans awtomatek">
+<!ENTITY smart.playlistcondition.library "Lyverva">
+<!ENTITY smart.contenttypecondition.video "Gwydhyow">
+<!ENTITY smart.contenttypecondition.audio "Ilow">
+<!ENTITY textbox.songbird_open_url "Skrif URL po lergh a&apos;n media a vynnydh aga dasseni">
+<!ENTITY open_url.title "Ygeri URL">
+<!ENTITY subscribe.title "Ragbrena">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Mynysen(now)">
+<!ENTITY subscribe.hours "Our(ys)">
+<!ENTITY subscribe.days "Dydh(yow)">
+<!ENTITY subscribe.autocheck "Nowedha yn awtomatek pub">
+<!ENTITY subscribe.destinationfolder "Dewis plegel rag kosten:">
+<!ENTITY feed.subscribe.label "Ragbrena">
+<!ENTITY feed.subscribe.close "Degea">
+<!ENTITY podcast.creation_dialog.title "Podkast Nowyth">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+<!ENTITY watchfolder.title "Plegellow Golyas">
+<!ENTITY watchfolder.folderlist "Golyas an plegellow ma rag media nowyth:">
+<!ENTITY locale.language "Yeth">
+<!ENTITY menu.view "Gweles">
+<!ENTITY about.version "Versyon">
+<!ENTITY about.buttons.credits "Aswonvosow">
+<!ENTITY equalizer.title "Kesposel-son">
+<!ENTITY equalizer.on.checkbox "Yn fyw">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "0">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Rock Medhel">
+<!ENTITY equalizer.preset.techno "Tekno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Yn fyw">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.party "Parti">
+<!ENTITY equalizer.preset.classical "Klassel">
+<!ENTITY equalizer.preset.large_hall "Hel vras">
+<!ENTITY equalizer.preset.dance "Dons">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Medhel">
+<!ENTITY equalizer.preset.full_bass "Faborden leun">
+<!ENTITY setupprogress.pleasewait "Gorta mar pleg…">
+<!ENTITY setupprogress.cancel "Hedhi">
+<!ENTITY menu.file.accesskey "R">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "Y">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "D">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "w">
+<!ENTITY menu.preferences.accesskey "D">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "K">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "i">
+<!ENTITY menu.downloadmgr.accesskey "I">
+<!ENTITY menu.edit.accesskey "C">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "W">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY menu.edit.paste.accesskey "G">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "V">
+<!ENTITY menu.edit.findagain.accesskey "R">
+<!ENTITY menu.controls.accesskey "K">
+<!ENTITY menu.control.play.accesskey "S">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "G">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "L">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "K">
+<!ENTITY menu.tools.reveal "Diskwedhes Restren">
+<!ENTITY menu.tools.reveal.accesskey "R">
+<!ENTITY menu.tools.reveal.modifiers "accel,shyft">
+<!ENTITY menu.help.accesskey "G">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "P">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "S">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY trackeditor.title "Chanjyel Vetadata">
+<!ENTITY trackeditor.tab.summary.title "Berrskrif">
+<!ENTITY trackeditor.tab.edit.title "Gnasow">
+<!ENTITY trackeditor.tab.lyrics.title "Geryow">
+<!ENTITY trackeditor.prev.button.label "<">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
+<!ENTITY trackeditor.addtag.title "Keworra Tag">
+<!ENTITY trackeditor.addtag.tag "Tag:">
+<!ENTITY jumptofile.title "Lamma dhe">
+<!ENTITY jumptofile.search "Hwilas:">
+<!ENTITY hotkeys.useglobalhotkeys "Devnydhya Botonyow Pooth Ollvysek">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Gwrians">
+<!ENTITY hotkeys.hotkey "Boton Pooth">
+<!ENTITY hotkeys.add "Keworra">
+<!ENTITY hotkeys.set "Settya">
+<!ENTITY hotkeys.remove "Removya">
+<!ENTITY hotkeys.prefpane "Botonyow Pooth">
+<!ENTITY hotkeys.info "Gans Botonyow Pooth Ollvysek y hyllir drehedhes gwriansow &brandShortName; hwath mar nyns yw &brandShortName; an dowlen yn fyw. Res yw dhe nebes kemyskansow a Votonyow Pooth synsi botonyow chanjel rag iselhe melyans andhynerhys gans towlennow erel. ">
+<!ENTITY rapi.prefpane.title "Kesvewnans Gwiasvaow">
+<!ENTITY rapi.prefpane.access.caption "Kummyasow Kesvewnans Gwiasvaow">
+<!ENTITY rapi.prefpane.access.text "Y hyllir ri kummyas dhe wiasvaow dhe gesvewa gans &brandShortName; rag gwruthyl kevren tynna ynter an gwiasvaow ha dha vedia. Rester, mar pleg, &brandShortName; rag ri po lettya kummyas dhe an poyntow a gesvewnans a syw.">
+<!ENTITY rapi.whitelist.label "Marnas…">
+<!ENTITY rapi.restore_defaults.label "Dassetya dhe Savon">
+<!ENTITY rapi.playback_control_disable.label "Let gwiasvaow erbynn kontrolya dasseni media">
+<!ENTITY rapi.playback_read_disable.label "Let gwiasvaow erbynn gweles derivadow a-dro dhe vedia eus ow seni">
+<!ENTITY rapi.library_read_disable.label "Let gwiasvaow erbynn gweles derivadow a-dro dhe vedia y&apos;m Lyverva ha devisow">
+<!ENTITY rapi.library_write_disable.label "Let gwiasvaow erbynn keworra/chanjya media ha kanrolyow y&apos;m Lyverva ha devisow.">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Keworansow">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Nyns eus devis routhstoryans USB junys.">
+<!ENTITY umsd.music.tab "Ilow">
+<!ENTITY umsd.music.music_files_group "Restrennow ilow">
+<!ENTITY umsd.music.music_path_desc "Pan kopiir restrennow ilow dhe&apos;n devis, gorr i y&apos;n arayel a syw:">
+<!ENTITY umsd.music.music_path_browse_msg "Dewis arayel devisow rag gorra restrennow ilow ynni.">
+<!ENTITY umsd.music.music_ext_desc "Dasskrifa restrennow ilow gans an ystynansow a syw dhe&apos;n devis:">
+<!ENTITY umsd.video.tab "Gwydheo">
+<!ENTITY umsd.video.video_files_group "Restrennow gwydheo">
+<!ENTITY umsd.video.video_path_desc "Pan dhasskrifir restrennow gwydheo dhe&apos;n devis, gorr i y&apos;n arayel a syw:">
+<!ENTITY umsd.video.video_path_browse_msg "Dewis arayel dhevisow rag gorra restrennow gwydheo ynni">
+<!ENTITY umsd.video.video_ext_desc "Dasskrifa restrennow gwydheo gans an ystynansow a syw dhe&apos;n devis:">
+<!ENTITY device.error.dialog.link "Diskwedhes Manylyon an Gwall">
+<!ENTITY restartbox.restartnow "Dastalleth Lemmyn">
+<!ENTITY restartbox.restartonplaybackend "Dastalleth orth Penn Dasseni">
+<!ENTITY restartbox.restartlater "Dastalleth Diwettha">
+<!ENTITY setupprogress.installingextensions "Owth Ynstallya Keworansow">
+<!ENTITY jobprogress.details "Manylyon">
+<!ENTITY menu.updateCmd.label "Checkya rag Nowedhansow…">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "Y">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "T">
+<!ENTITY menu.edit.copy.key "K">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "V">
+<!ENTITY menu.edit.findagain.key "R">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "K">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Dil">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Boton Spas">
+<!ENTITY tabs.closeTab "Degea tab">
+<!ENTITY tabs.listAllTabs "Diskwedhes an tabys oll">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface " ">
+<!ENTITY prefs.homepage.label "Pennfolen">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.security.addons.label "Ynstallyans Keworrans">
+<!ENTITY command.device.cancel "Hedhi">
+<!ENTITY command.device.cancel.accesskey "H">
+<!ENTITY command.device.canceldevicecopy "Hedhi Dasskrifa">
+<!ENTITY command.device.canceldevicecopy.accesskey "H">
+<!ENTITY command.device.canceldevicedelete "Hedhi Dilea">
+<!ENTITY command.device.canceldevicedelete.accesskey "H">
+<!ENTITY command.device.canceldevicesync "Hedhi Kettermynegi">
+<!ENTITY command.device.canceldevicesync.accesskey "H">
+<!ENTITY command.device.canceldeviceupdate "Hedhi Nowedhans">
+<!ENTITY command.device.canceldeviceupdate.accesskey "H">
+<!ENTITY command.device.ejectdevice "Estewlel">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Furvasa">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Tremena">
+<!ENTITY command.device.ignoredevice.accesskey "T">
+<!ENTITY command.device.getdeviceinfo "Kyrhes Derivadow">
+<!ENTITY command.device.getdeviceinfo.accesskey "Y">
+<!ENTITY command.device.renamedevice "Dashenwel">
+<!ENTITY command.device.renamedevice.accesskey "A">
+<!ENTITY command.device.devicesync "Kettermynegi">
+<!ENTITY command.device.devicesync.accesskey "K">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Estewlel Sidi">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.firmware.wizard.title "Nowedha Firmware">
+<!ENTITY device.firmware.wizard.check.page.title "Checkya rag fastweyth nowythhes">
+<!ENTITY device.firmware.wizard.check.progress.title "Ow checkya rag fastweyth nowythhes…">
+<!ENTITY device.firmware.wizard.download.title "Owth iskarga fastweyth…">
+<!ENTITY device.firmware.wizard.install.title "Owth ynstallya fastweyth…">
+<!ENTITY device.info.model.label "Ehen">
+<!ENTITY device.info.capacity.label "Dalgh">
+<!ENTITY device.info.product.label "Askorras">
+<!ENTITY device.info.friendly_name.label "Hanow">
+<!ENTITY device.info.serial_number.label "Niver Kovskrif">
+<!ENTITY device.info.vendor.label "Gwrier">
+<!ENTITY device.info.access.label "Kesplegyans Hedhans">
+<!ENTITY device.info.playback_formats.label "Furvasow Dasseni">
+<!ENTITY device.info.battery.label "Batri">
+<!ENTITY device.info.firmware_version.label "Versyon an Firmware">
+<!ENTITY device.progress.sync "Kettermynegi">
+<!ENTITY device.capacity.music.label "Ilow">
+<!ENTITY device.capacity.video.label "Gwydheo">
+<!ENTITY device.capacity.image.label "Skeusennow">
+<!ENTITY device.capacity.other.label "Aral">
+<!ENTITY device.capacity.free.label "Rydh">
+<!ENTITY device.unsupported_media.dialog.title "Restrennow Ankesplegadow Herlerhys">
+<!ENTITY device.unsupported_media.dialog.enable "Lavar dhymm pan vydh restrennow ankesplegadow herlerhys">
+<!ENTITY device.sync.header.label "Settyansow Kettermynegi ">
+<!ENTITY device.sync.auto_sync.label "Kettermynegi">
+<!ENTITY device.sync.sync_all.label "Kettermynegi media ha kanrolyow oll">
+<!ENTITY device.sync.sync_selected.label "Kanrolyow dewisys:">
+<!ENTITY device.sync.playlist.title "Titel">
+<!ENTITY device.sync.playlist.video.duration "Pesyans an gwydhyow">
+<!ENTITY device.sync.images.from.label "Kettermynegi skeusennow dhyworth:">
+<!ENTITY device.sync.images.browse "Dewis plegel…">
+<!ENTITY device.sync.images.all.label "Oll an skeusennow">
+<!ENTITY device.sync.images.all.template "Oll an skeusennow (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Isplegellow dewisys">
+<!ENTITY device.sync.images.foldername "Hanow Plegel">
+<!ENTITY device.sync.images.filecount "Skeusennow">
+<!ENTITY device.settings.header.label "Settyansow">
+<!ENTITY device.settings.general.label "Ollgemmyn">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Checkya rag firmware nowyth yn awtomatek">
+<!ENTITY device.settings.music.transcoding.label "Treuskodyans Ilow">
+<!ENTITY device.settings.disk.label "Dyghtyans Pladen">
+<!ENTITY device.settings.disk.management.filename "Restrennow kan">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kb/e">
+<!ENTITY device.management.tabs.music.label "Ilow">
+<!ENTITY device.management.tabs.video.label "Gwydhyow">
+<!ENTITY device.management.tabs.image.label "Skeusennow">
+<!ENTITY device.management.tabs.tools.label "Toulys">
+<!ENTITY device.management.tabs.settings.label "Settyansow">
+<!ENTITY device.tools.update_firmware.title "Nowythhe fastweyth">
+<!ENTITY device.tools.update_firmware.label "Checkya rag fastweyth nowythhes">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Versyon an fastweyth:">
+<!ENTITY device.tools.format_device.title "Furvasa devis">
+<!ENTITY device.tools.format_device.label "Furvasa devis">
+<!ENTITY device.tools.format_volume.button.label "Furvas">
+<!ENTITY device.tools.support.title "Skoodhyans">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Ygeri Kevren y&apos;n Beurel Savonek">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Ygeri Folen y&apos;n Beurel Savonek">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Ygeri Fram y&apos;n Beurel Savonek">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Ygeri Imaj y&apos;n Beurel Savonek">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Kopia Tekst Dewisys">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Seni">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Iskarga dhe Lyverva">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Iskarga dhe Ganrol">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "<Nyns eus Kanrol vyth>">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Kanrol Nowyth">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Ragbrena an Folen ma…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Ragbrena an Fram ma…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Gweres Dhyn dhe Wellhe &brandShortName;">
+<!ENTITY feedback.dialog.yes "Mynnav">
+<!ENTITY feedback.dialog.no "Na Vynnav">
+<!ENTITY feedback.dialog.sentence1 "A vynnydh agan gweres dhe wellhe &brandShortName; ow kowlwul keswel kot heb ri dha hanow?">
+<!ENTITY feedback.dialog.sentence2 "Mar nyns yw dhe les dhis, ny wren govyn orthis arta. Meur ras a brederi a-dro dhe hemma hag a dhevnydhya &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "Gorhemynadow,">
+<!ENTITY feedback.dialog.sentence4 "An Bagas &brandShortName;">
+<!ENTITY mediapages.firstrun.title "Dynnargh dhe &brandShortName;">
+<!ENTITY first_run.title "Restra &brandShortName;">
+<!ENTITY first_run.add_ons.header.label "Keworansow Profys">
+<!ENTITY first_run.add_ons.description.line1 "Keworansow a ystyn oberadewder &brandShortName; ha ri spas dhis dhe bersonelhe dha berthyans a&apos;n senel vedia. An dewisyansow a-woles yw profys yn fen.">
+<!ENTITY first_run.add_ons.description.line2 "Keworansow a yll kesjunya gans towlennow ha gonisow erel, skoodhya kevrenna gans devisow a-ves, chanjya mien an dowlen ha moy! Y hyllir iskarga moy anedha yn wiasva Geworansow  &brandShortName;.">
+<!ENTITY first_run.add_ons.loading.label "Ow kyrhes keworansow profys.">
+<!ENTITY first_run.add_ons.load_failed.label "Ny yllir kyrhes keworansow profys.">
+<!ENTITY first_run.connection.header.label "Ny yll &brandShortName; omjunya dhe&apos;n Gesrosweyth">
+<!ENTITY first_run.connection.description "Chekkya Settyansow Omjunya po Pesya gans an Weresel Settyansow.">
+<!ENTITY first_run.connection.settings.button "Settyansow Omjunya…">
+<!ENTITY first_run.connection.settings.description "Yw dha jynn-amontya po rosweyth gwithys gans fos-tan po proksi? Ewnhe Settyansow Omjunya kamm a yll digelmi nebes problemow rosweyth kemmyn.">
+<!ENTITY first_run.eula.header.label "Unverheans Leshyans">
+<!ENTITY first_run.eula.accept_checkbox.label "My re redyas ha degemeres termow an leshyans ma.">
+<!ENTITY first_run.eula.language.label "Yeth:">
+<!ENTITY first_run.feedback.header.label "Gweres Dhyn dhe Wellhe &brandShortName; ">
+<!ENTITY first_run.feedback.description "A vynnydh agan gweres dhe wellhe &brandShortName; ow tanvon dhyn dha worvreus y&apos;n furv a vusurow dihanow a-dro dhe fatel dhevnydhydh an dowlen?">
+<!ENTITY first_run.feedback.metrics.label "Kuntel ha danvon ow musurow dhe&apos;n bagas &brandShortName; ">
+<!ENTITY first_run.feedback.metrics.description "Dihanow yn tien yw musurow ha ny vydh derivadow personel kuntellys.">
+<!ENTITY first_run.feedback.email.header.label "Danvon Derivadow Dhymm">
+<!ENTITY first_run.feedback.email.description "Ragbrena agan lyther-nowodhow rag klewes a-dro dhe dhylansow nowyth ha nowedhansow dhe les.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "Ro dha e-bost rag omwitha a-lemmyn">
+<!ENTITY first_run.itunes.header.label "Ymporth/Eksporth iTunes">
+<!ENTITY first_run.itunes.checkbox.import.label "Ymperthi hynsow ha kanrolyow dhyworth iTunes">
+<!ENTITY first_run.itunes.checkbox.export.label "Eksperthi hynsow ha kanrolyow nowyth dhe iTunes">
+<!ENTITY first_run.import_media.header.label "Ymperthi Media">
+<!ENTITY first_run.import_media.description "Dewis an media a vynnydh aga ymperthi dhe &brandShortName;. Pan lanch &brandShortName; y hyllydh keworra media yn maynow varyes.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Arhwilas menegvaow y&apos;m jynn-amontya">
+<!ENTITY first_run.import_media.radio.dont_import.label "Na ymporth media">
+<!ENTITY first_run.import_media.scan_directories.description "A vynnydh mayth assay &brandShortName; ymperthi media owth arhwilas menegvaow a-dhevis y&apos;th jynn-amontya?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Golyas an blegel ma rag chanjyow">
+<!ENTITY first_run.install_add_ons.title "Owth iskarga Keworansow">
+<!ENTITY first_run.welcome.header.label "&brandShortName; a&apos;th tynnergh">
+<!ENTITY first_run.welcome.description.line1 "Ryb seniel vedia dhesktop hengovek  &brandShortName; yw dewis aral a yllydh y janjya herwydh dha vodh.">
+<!ENTITY first_run.welcome.description.line2 "An weresel ma a brovi fordh snell ha diwysek rag herdhya &brandShortName; yn fyw.">
+<!ENTITY import_media.prefs.title "Ymporthel Mediaow">
+<!ENTITY import_library.dialog.title "Ymperthi lyverva">
+<!ENTITY import_library.prefs.title "Ymperthi dhyworth iTunes">
+<!ENTITY import_library.library_file_label "Restren lyverva:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Gwarn vy pan nag yw hynsyow po kanrolyow anskoodhys ymperthys">
+<!ENTITY import_library.prefs.path_group_caption "Tyller Lyverva Ilow iTunes">
+<!ENTITY import_library.prefs.options_group_caption "Dewisyansow Ymperthi">
+<!ENTITY import_library.import_command "Ymperthi lyverva">
+<!ENTITY import_tracks_itunes_checkbox "Ymperthi hynsow dhyworth iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Ymperthi kanrolyow">
+<!ENTITY export_tracks_itunes_checkbox "Esperthi hynsow dhe iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Esperthi kanrolyow">
+<!ENTITY export_subscriptions_itunes_checkbox "Esperthi ragbrenow">
+<!ENTITY export_smartplaylists_itunes_checkbox "Esperthi kanrolyow konnyk">
+<!ENTITY import_library.dirty_playlist_dialog.title "Kanrol chenjys">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Gwitha an ganrol &brandShortName; a-lemmyn (na ymporth an kanrol ma)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Kesunya kanrolyow iTunes gans an ganrol &brandShortName; a-lemmyn">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Aslea an ganrol &brandShortName; ma gans an ganrol iTunes a-lemmyn">
+<!ENTITY import_library.dirty_playlist_dialog.note "Noten: Ny yllir diswul kesunya hag aslea.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Staga dewis dhe bub kanrol">
+<!ENTITY watch_folder.prefs.title "Plegellow Golyas">
+<!ENTITY watch_folder.prefs.settings_group_caption "Settyansow Plegellow Golyas">
+<!ENTITY watch_folder.prefs.description "&brandShortName; a yll golyas dalghyow neb plegel ha keworra po dilea taklow dalhys ynni yn awtomatek.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Golyas awtomatek rag chanjyow y&apos;n blegel a dheu">
+<!ENTITY watch_folder.prefs.watch_folder_label "Plegel:">
+<!ENTITY enable_recommended_addons_update.label "Keworansow Profys">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!ENTITY recommended_add_ons.title "Restra &brandShortName;">
+<!ENTITY add_on_bundle_installer.error_box.label "Manylyon">
+<!ENTITY albumart.displaypane.not_playing_message "Travyth ow seni">
+<!ENTITY albumart.displaypane.not_selected_message "Travyth dewisys">
+<!ENTITY albumart.displaypane.drag_and_drop "Halya art kuntilow omma">
+<!ENTITY albumart.displaypane.selected.menu.cut "Trehi">
+<!ENTITY albumart.displaypane.selected.menu.copy "Kopia">
+<!ENTITY albumart.displaypane.selected.menu.paste "Glusa">
+<!ENTITY albumart.displaypane.selected.menu.clear "Gwakhe">
+<!ENTITY albumart.coverpreview.title "Art Kuntilow">
+<!ENTITY albumartpreferences.prefpane.label "Art Kuntilow">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Skrifa Art Kuntilow dhe Vetadata">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Hwilas henwyn restren:">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Yn-bann">
+<!ENTITY albumartpreferences.prefpane.priorities.down "War-nans">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Dassetya">
+<!ENTITY wizard.button.back.label "Dehweles">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Hedhi">
+<!ENTITY wizard.button.next.label "Pesya">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Gorfenna">
+<!ENTITY mediacore.error.title "Gwall Kresen Vedia">
+<!ENTITY mediacore.error.preface "&brandShortName; a gavas kamm dasseni">
+<!ENTITY mediacore.error.continue "Pesya">
+<!ENTITY mediacore.error.stop "Lettya Dasseni">
+<!ENTITY mediacore.error.dontshowme "Na dhiskwa pella kammow kresen vedia">
+<!ENTITY playback.prefpane.label "Dasseni">
+<!ENTITY playback.prefpane.audio_output.label "Mesgwor Awdyo">
+<!ENTITY playback.prefpane.audio_output.buffer "Divommer Mesgwor:">
+<!ENTITY playback.prefpane.streaming.label "Rosweyth ha Frosans">
+<!ENTITY playback.prefpane.streaming.buffer "Divommer Frosa:">
+<!ENTITY playback.prefpane.normalization.label "Normalheans">
+<!ENTITY playback.prefpane.normalization.enable "Devdnydhya data normalheans awdyo mars eus">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Data gwayn preferrys:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Kuntilow">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Hyns">
+<!ENTITY playback.prefpane.units.kilobytes "kV">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY fetch_album_art.dialog.title "Kavos Art Kuntilow">
+<!ENTITY fetch_album_art.dialog.message "Nyns yw henna gweythresys na hwath. (Mir orth: Pryv 14281)">
+<!ENTITY cdrip.lookup.info_not_found.artist "Artydh">
+<!ENTITY cdrip.lookup.info_not_found.album "Kuntilow">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Titel">
+<!ENTITY cdrip.prefpane.format "Furvas">
+<!ENTITY cdrip.prefpane.quality "Kwalita">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kb/e">
+<!ENTITY cdrip.mediaview.format_label "Furvas:">
+<!ENTITY cdrip.mediaview.quality_label "Kwalita:">
+<!ENTITY cdrip.mediaview.settings_button "Setyansow">
+<!ENTITY cdrip.mediaview.rip_cd_button "Ripya Sidi">
+<!ENTITY cdrip.mediaview.view_tracks_button "Diskwedhes Hynsyow">
+<!ENTITY cdrip.mediaview.eject_cd_button "Estewlel Sidi">
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY videowindow.title "Fenester-Gwydhyow">
+<!ENTITY videowindow.fullscreen "Skrin Leun">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY videowindow.bringtofront.key "T">
+<!ENTITY about.credits.intro "Ni a wor meur ras dh&apos;agan kevriysi, a wrug skoodhya ha krevhe Songbird der aga ober. An re na re weresas dre skrifa kod ha dokumentyans, ha dre brevi. I re wrug ha mentena an askor ma, an daffar displegyans kelmys ganso, agan toulys-drehevel ha&apos;gan gwiasvaow. Henwyn yw sewys gans leshenwyn IRC. Dewgh dhe #songbird orth irc.mozilla.org ha leverel dydh da!">
+<!ENTITY about.credits.footer.beforeLink "Heb mar, ny via possybyl gul hemma heb lavur kales ha strivyansow">
+<!ENTITY about.credits.footer.linkText "an gevriysi">
+<!ENTITY about.credits.footer.afterLink "dhe brojekt Mozilla.">
+<!ENTITY about.credits.heading.translators "Treylyoryon">
+<!ENTITY about.credits.heading.champs "Kampyoryon">
+<!ENTITY cdinfo.other.label "Keworra Derivadow Artydh po Kuntilow">

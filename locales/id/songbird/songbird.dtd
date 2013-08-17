@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "OK" >
+<!ENTITY window.cancel      "Batal" >
+<!ENTITY window.apply       "Terapkan" >
+<!ENTITY window.browse      "Jelajahi…" >
+<!ENTITY window.save        "Simpan">
+<!ENTITY window.yes         "Ya">
+<!ENTITY window.no          "Tidak">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Keluar dari &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Pengaturan">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Layanan">
+<!ENTITY menu.mac.hide                  "Sembunyikan &brandShortName;">
+<!ENTITY menu.mac.hide.key              "H">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Sembunyikan Lainnya">
+<!ENTITY menu.mac.hideothers.key        "H">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Tampilkan Semua">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Berkas" >
+<!ENTITY menu.file.new          "Senarai Putar Baru…" >
+<!ENTITY menu.file.smart        "Senarai Putar Pintar Baru…" >
+<!ENTITY menu.file.remote       "Langganan Baru…" >
+<!ENTITY menu.file.podcast      "Podcast Baru" >
+<!ENTITY menu.file.open         "Buka file.." >
+<!ENTITY menu.file.url          "Buka Alamat…" >
+<!ENTITY menu.file.playlist     "Impor Senarai Putar…" >
+<!ENTITY menu.file.library      "Impor Pustaka…" >
+<!ENTITY menu.file.newtab       "Tab Baru" >
+<!ENTITY menu.file.closetab     "Tutup Tab" >
+<!ENTITY menu.file.metadata     "Tampilkan Metadata">
+<!ENTITY menu.file.scan         "Impor Media" >
+<!ENTITY menu.file.exit         "Keluar" >
+
+<!ENTITY menu.edit          "Edit" >
+<!ENTITY menu.edit.undo     "Batal" >
+<!ENTITY menu.edit.redo     "Ulangi" >
+<!ENTITY menu.edit.cut      "Potong" >
+<!ENTITY menu.edit.copy     "Salin" >
+<!ENTITY menu.edit.paste    "Tempel" >
+<!ENTITY menu.edit.delete   "Hapus" >
+<!ENTITY menu.edit.selall   "Pilih Semua" >
+<!ENTITY menu.edit.find        "Cari" >
+<!ENTITY menu.edit.findagain   "Cari Lagi" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Pengaturan">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "Kendali" >
+<!ENTITY menu.control.play  "Putar" >
+<!ENTITY menu.control.pause "Tunda" >
+<!ENTITY menu.control.next  "Lagu Selanjutnya" >
+<!ENTITY menu.control.prev  "Lagu Sebelumnya" >
+<!ENTITY menu.control.shuf  "Acak" >
+<!ENTITY menu.control.repa  "Ulangi Semua" >
+<!ENTITY menu.control.rep1  "Ulangi Sekali" >
+<!ENTITY menu.control.repx  "Jangan Ulangi" >
+<!ENTITY menu.control.jumpto "Pindah Ke…" >
+
+<!ENTITY menu.control.play.button      "Putar" >
+<!ENTITY menu.control.pause.button     "Jeda" >
+<!ENTITY menu.control.stop.button      "Stop" >
+
+<!ENTITY displaypane.default.image.pre "Pilih pengaya dari menu">
+<!ENTITY displaypane.default.image.tooltip "Ikon Penunjuk Pengaya">
+<!ENTITY displaypane.default.image.post "atau kunjungi">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Situs Pengaya">
+<!ENTITY displaypane.default.link.post "untuk menjelajahi pengaya.">
+<!ENTITY displaypane.name.servicepane   "Panel Layanan Bawah">
+<!ENTITY displaypane.name.browser       "Panel Konten Bawah">
+<!ENTITY displaypane.name.sidebar       "Bar Samping Kanan">
+<!ENTITY servicepane.title.label        "Panel Layanan">
+
+<!ENTITY menu.tools            "Alat" >
+<!ENTITY menu.tools.getartwork "Unduh Artwork Album">
+<!ENTITY menu.tools.exportmedia "Ekspor Perubahan Pustaka">
+
+<!ENTITY menu.help          "Bantuan" >
+<!ENTITY menu.help.homepage "Website &brandShortName;" >
+<!ENTITY menu.help.bugz     "Laporkan Bug…" >
+<!ENTITY menu.help.topics   "Daftar Isi Bantuan" >
+<!ENTITY menu.help.keyboard "Shortcut Papan Ketik">
+<!ENTITY menu.help.about    "Tentang &brandShortName;" >
+
+<!ENTITY menu.equalizer     "Equalizer…" >
+<!ENTITY menu.preferences   "Pengaturan" >
+<!ENTITY menu.extensions    "Pengaya" >
+<!ENTITY menu.clearprivatedata "Bersihkan Data Pribadi…">
+<!ENTITY menu.errorconsole "Konsol Kesalahan">
+<!ENTITY menu.downloadmgr   "Unduhan Berkas" >
+<!ENTITY menu.switchplayercontrols  "Kendali Putar" >
+<!ENTITY menu.controllerontop       "Tampilkan di Atas">
+<!ENTITY menu.controlleronbottom    "Tampilan di Bawah">
+
+<!ENTITY menu.fullscreen            "Layar Penuh">
+<!ENTITY menu.videotofront          "Video ke Depan">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Menunggu peranti.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Menunggu proses semua perangkat selesai. Klik &quot;Keluar&quot; untuk menghentikan proses dan keluar.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Keluar">
+
+<!ENTITY tooltip.minimize         "Perkecil" >
+<!ENTITY tooltip.maximize         "Perbesar Penuh/Kembalikan" >
+<!ENTITY tooltip.exit             "Keluar" >
+<!ENTITY tooltip.close            "Tutup" >
+<!ENTITY tooltip.hide             "Sembunyikan" >
+<!ENTITY tooltip.fullscreen       "Layar Penuh" >
+<!ENTITY tooltip.control.back     "Lagu Sebelumnya" >
+<!ENTITY tooltip.control.play     "Putar" >
+<!ENTITY tooltip.control.pause    "Jeda" >
+<!ENTITY tooltip.control.resume   "Lanjutkan" >
+<!ENTITY tooltip.control.stop     "Stop" >
+<!ENTITY tooltip.control.fwd      "Lagu Selanjutnya" >
+<!ENTITY tooltip.control.mute     "Senyapkan" >
+<!ENTITY tooltip.control.volume   "Volume" >
+<!ENTITY tooltip.control.shuffle  "Acak" >
+<!ENTITY tooltip.control.shuf_off "Matikan Mode Acak" >
+<!ENTITY tooltip.control.curtrack "Cari Lagu Terakhir" >
+<!ENTITY tooltip.search           "Cari" >
+<!ENTITY tooltip.browser.back     "Mundur" >
+<!ENTITY tooltip.browser.fwd      "Maju" >
+<!ENTITY tooltip.browser.stop     "Stop Peramban" >
+<!ENTITY tooltip.browser.home     "Beranda" >
+<!ENTITY tooltip.browser.refresh  "Muat Ulang" >
+<!ENTITY tooltip.browser.subscription "Berlangganan halaman ini" >
+<!ENTITY tooltip.browser.mediapages.list "Lihat Daftar" >
+<!ENTITY tooltip.browser.mediapages.filter "Lihat Daftar Pane" >
+<!ENTITY tooltip.browser.mediapages "Ganti Tampilan Media…" >
+<!ENTITY tooltip.servicepane.show    "Tampilkan Panel Layanan" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "Senarai Putar Baru" >
+<!ENTITY tooltip.displaypane.options "Opsi Panel Konten">
+
+<!ENTITY smart.window             "Senarai Putar Pintar" >
+<!ENTITY smart.limit              "Batasi hingga" >
+<!ENTITY smart.match              "Cocok" >
+<!ENTITY smart.matchsingle        "Cocok dengan berikut:" >
+<!ENTITY smart.any                "apa saja" >
+<!ENTITY smart.all                "semua" >
+<!ENTITY smart.following          "dengan" >
+<!ENTITY smart.random             "acak" >
+<!ENTITY smart.album              "album" >
+<!ENTITY smart.artist             "artis" >
+<!ENTITY smart.genre              "genre" >
+<!ENTITY smart.title              "judul" >
+<!ENTITY smart.high_rating        "peringkat teratas" >
+<!ENTITY smart.low_rating         "peringkat terendah" >
+<!ENTITY smart.most_recent        "terakhir diputar" >
+<!ENTITY smart.least_recent       "paling terakhir diputar" >
+<!ENTITY smart.most_often         "paling sering diputar" >
+<!ENTITY smart.least_often        "paling sering diputar" >
+<!ENTITY smart.most_added         "terakhir ditambahkan" >
+<!ENTITY smart.least_added        "paling terakhir ditambahkan" >
+<!ENTITY smart.minutes            "menit" >
+<!ENTITY smart.hours              "jam" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "I " >
+<!ENTITY smart.selectedby         "dipilih oleh" >
+<!ENTITY smart.to                 "hingga" >
+<!ENTITY smart.autoupdate         "Pemutakhiran Otomatis">
+<!ENTITY smart.playlistcondition.library "Pustaka">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Musik">
+
+<!ENTITY textbox.songbird_open_url "Ketikkan alamat URL atau lokasi media yang ingin diputar:">
+
+<!ENTITY open_url.title           "Buka URL">
+<!ENTITY subscribe.title          "Berlangganan">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "Menit">
+<!ENTITY subscribe.hours          "Jam">
+<!ENTITY subscribe.days           "Hari">
+<!ENTITY subscribe.autocheck      "Otomatis perbarui setiap">
+<!ENTITY subscribe.destinationfolder      "Pilih folder tujuan">
+
+<!ENTITY feed.subscribe.label     "Berlangganan">
+<!ENTITY feed.subscribe.dontask   "Jangan lagi menampilkan dialog ini secara otomatis">
+<!ENTITY feed.subscribe.close     "Tutup">
+
+<!ENTITY podcast.creation_dialog.title       "Podcast Baru">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "Folder yang Dimonitor">
+<!ENTITY watchfolder.folderlist   "Monitor folder ini untuk media baru:">
+
+<!ENTITY locale.language          "Bahasa" >
+<!ENTITY menu.view                "Tampilan" >
+<!ENTITY about.version            "Versi" >
+<!ENTITY about.buttons.credits    "Kredit" >
+
+<!ENTITY equalizer.title          "Equalizer" >
+<!ENTITY equalizer.on.checkbox    "Aktif" >
+<!ENTITY equalizer.band0.label    "30" >
+<!ENTITY equalizer.band1.label    "60" >
+<!ENTITY equalizer.band2.label    "120" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4k" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Suka-suka" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rock" >
+<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
+<!ENTITY equalizer.preset.techno      "Techno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Siaran Langsung" >
+<!ENTITY equalizer.preset.club        "Club" >
+<!ENTITY equalizer.preset.party       "Pesta" >
+<!ENTITY equalizer.preset.classical   "Klasik" >
+<!ENTITY equalizer.preset.large_hall  "Gedung Besar" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Lembut" >
+<!ENTITY equalizer.preset.small_speakers   "Laptop/Headphone" >
+<!ENTITY equalizer.preset.full_bass_treble "Bass Penuh dan Treble" >
+<!ENTITY equalizer.preset.full_treble "Treble penuh" >
+<!ENTITY equalizer.preset.full_bass   "Bass penuh" >
+
+
+<!ENTITY setupprogress.pleasewait "Silakan menunggu…" >
+<!ENTITY setupprogress.cancel     "Batal">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "A" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "T" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "C" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "B" >
+<!ENTITY menu.view.accesskey              "T" >
+<!ENTITY menu.preferences.accesskey       "O" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "A" >
+<!ENTITY menu.clearprivatedata.accesskey  "P" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "X" >
+<!ENTITY menu.downloadmgr.accesskey       "U" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "U" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "T" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "P" >
+<!ENTITY menu.edit.delete.accesskey   "H" >
+<!ENTITY menu.edit.selall.accesskey   "A" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "u" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "J" >
+
+
+<!ENTITY menu.tools.accesskey            "T" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Tampilkan Berkas" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Editor Info" >
+<!ENTITY trackeditor.tab.summary.title            "Keterangan" >
+<!ENTITY trackeditor.tab.edit.title               "Properti" >
+<!ENTITY trackeditor.tab.lyrics.title             "Lirik" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Beri Tag" >
+<!ENTITY trackeditor.addtag.tag       "Tag:" >
+
+<!ENTITY jumptofile.title             "Pindah ke" >
+<!ENTITY jumptofile.search            "Cari:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Gunakan Hotkey Global" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "G" >
+<!ENTITY hotkeys.action               "Tindakan" >
+<!ENTITY hotkeys.hotkey               "Hotkey" >
+<!ENTITY hotkeys.add                  "Tambah" >
+<!ENTITY hotkeys.set                  "Kelompok" >
+<!ENTITY hotkeys.remove               "Hapus" >
+<!ENTITY hotkeys.prefpane             "Hotkey" >
+<!ENTITY hotkeys.info                 "Hotkey Global dapat digunakan untuk mengakses fungsionalitas &brandShortName; walaupun &brandShortName; tidak tampak. Beberapa kombinasi hotkey harus dibuat dengan tombol khusus untuk menghindari konflik dengan aplikasi lainnya." >
+
+<!ENTITY rapi.prefpane.title             "Integrasi Web" >
+<!ENTITY rapi.prefpane.access.caption    "Hak Akses untuk Integrasi Web" >
+<!ENTITY rapi.prefpane.access.text       "Anda dapat mengizinkan situs web untuk terintegrasi dengan &brandShortName; untuk mempererat hubungan antara Web dan media Anda. Silakan atur &brandShortName; agar mengizinkan atau memblokir item integrasi berikut:" >
+<!ENTITY rapi.whitelist.label            "Pengecualian…" >
+<!ENTITY rapi.restore_defaults.label      "Kembali ke Nilai Awal" >
+<!ENTITY rapi.playback_control_disable.label "Blokir stus web agar tidak dapat mengendalikan pemutaran media" >
+<!ENTITY rapi.playback_read_disable.label    "Blokir situs web agar tidak dapat mengambil informasi dari media yang sedang diputar" >
+<!ENTITY rapi.library_read_disable.label     "Blokir situs web agar tidak dapat mengambil informasi dari media pada Pustaka dan perangkat saya" >
+<!ENTITY rapi.library_write_disable.label    "Blokir situs web agar tidak dapat menambah media dan senarai putar pada Pustaka dan perangkat saya" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "" >
+<!ENTITY rapi.library_write_disable.accesskey    "" >
+
+<!ENTITY prefpane.addons.label        "Pengaya">
+<!ENTITY prefpane.content.label       "Konten Web">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Tidak ada perangkat penyimpanan USB yang terhubung" >
+<!ENTITY umsd.music.tab                     "Music" >
+<!ENTITY umsd.music.music_files_group       "Berkas lagu" >
+<!ENTITY umsd.music.music_path_desc         "Saat menyalin berkas lagu ke perangkat, masukkan ke folder:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Pilih direktori pada perangkat untuk lokasi menyimpan berkas lagu." >
+<!ENTITY umsd.music.music_ext_desc          "Salin berkas lagu dengan ekstensi berikut ke perangkat:" >
+<!ENTITY umsd.video.tab                     "Video" >
+<!ENTITY umsd.video.video_files_group       "Berkas video" >
+<!ENTITY umsd.video.video_path_desc         "Saat menyalin berkas video ke perangkat, masukkan ke folder:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Pilih direktori pada perangkat untuk lokasi menyimpan berkas video." >
+<!ENTITY umsd.video.video_ext_desc          "Salin berkas video dengan ekstensi berikut ke perangkat:" >
+
+<!ENTITY device.error.dialog.link           "Tampilkan Detail Kesalahan" >
+
+<!ENTITY restartbox.restartnow        "Restart Sekarang" >
+<!ENTITY restartbox.restartonplaybackend "Restart setelah yang Terakhir" >
+<!ENTITY restartbox.restartlater      "Restart Nanti" >
+
+<!ENTITY setupprogress.installingextensions "Memasang Pengaya" >
+
+<!ENTITY jobprogress.details "Keterangan" >
+
+<!ENTITY menu.updateCmd.label          "Memeriksa Versi Baru…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "MN" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "" >
+<!ENTITY searchFocus.key               "" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "U" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Spacebar" >
+
+<!ENTITY tabs.closeTab "Tutup Tab">
+<!ENTITY tabs.listAllTabs "Daftar tab">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator "-" >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Beranda" >
+<!ENTITY prefs.homepage.url.label          "URL:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Instalasi Pengaya" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Batal">
+<!ENTITY command.device.cancel.accesskey                "C">
+<!ENTITY command.device.canceldevicecopy                "Batalkan Penyalinan">
+<!ENTITY command.device.canceldevicecopy.accesskey      "C">
+<!ENTITY command.device.canceldevicedelete              "Batalkan Penghapusan">
+<!ENTITY command.device.canceldevicedelete.accesskey    "C">
+<!ENTITY command.device.canceldevicesync                "Batalkan Sinkronisasi">
+<!ENTITY command.device.canceldevicesync.accesskey      "C">
+<!ENTITY command.device.canceldeviceupdate              "Batalkan Pemutakhiran">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
+<!ENTITY command.device.ejectdevice                     "Keluarkan">
+<!ENTITY command.device.ejectdevice.accesskey           "E">
+<!ENTITY command.device.formatdevice                    "Format">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Abaikan">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "Ambil Info">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "Ganti Nama">
+<!ENTITY command.device.renamedevice.accesskey          "R">
+<!ENTITY command.device.devicesync                      "Sinkron">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Ekstrak CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Berhenti Mengekstrak">
+<!ENTITY command.device.stoprip.accesskey               "B">
+<!ENTITY command.device.lookup                          "Lihat Informasi CD">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Keluarkan CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "K">
+
+<!ENTITY device.repair.menuitem.default                   "Repair my device">
+
+<!ENTITY device.firmware.wizard.title                     "Perbarui Firmware">
+<!ENTITY device.firmware.wizard.check.page.title          "Periksa Versi Baru Firmware">
+<!ENTITY device.firmware.wizard.check.progress.title      "Memeriksa Versi Baru Firmware">
+<!ENTITY device.firmware.wizard.check.install.description "Memasang pemutakhiran firmware akan berlangsung kira-kira 10 menit. Anda dapat melakukan proses pemutakhiran ini kapan saja.">
+<!ENTITY device.firmware.wizard.check.already.description "Firmware perangkat Anda telah dalam versi terbaru.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Catatan Rilis">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Perangkat harus terhubung dalam modus firmware untuk melanjutkan. Silakan ikuti petunjuk di bawah ini untuk mengatur perangkat Anda ke modus firmware.">
+<!ENTITY device.firmware.wizard.download.title            "Mengunduh firmware baru…">
+<!ENTITY device.firmware.wizard.repair.time.description   "Memulihkan perangkat harus kurang dari 5 menit.">
+<!ENTITY device.firmware.wizard.repair.warning            "Mengembalikan perangkat ke pengaturan pabrik akan menghapus semua media pada perangkat. Silakan backup untuk semua file Anda sebelum melanjutkan.">
+<!ENTITY device.firmware.wizard.install.title             "Memasang firmware…">
+
+<!ENTITY device.firmware.wizard.busy.description  "Tampaknya perangkat Anda sibuk. Firmware hanya dapat diinstal bila perangkat Anda menganggur.">
+<!ENTITY device.firmware.wizard.retry.description "Silakan coba lagi setelah perangkat Anda telah menyelesaikan operasi ini.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "Ada kesalahan saat memeriksa firmware baru. Harap verifikasi koneksi jaringan anda dan coba lagi">
+<!ENTITY device.firmware.wizard.download.error.description "Ada kesalahan saat mengunduh firmware baru. Harap verifikasi koneksi jaringan anda dan coba lagi">
+<!ENTITY device.firmware.wizard.support.description        "Dukungan sumber daya seperti FAQ dan tips mengatasi masalah dapat ditemukan di">
+
+<!ENTITY device.info.icon.device            "Ikon perangkat generik">
+<!ENTITY device.info.icon.readonly          "Ikon kunci baca-saja">
+<!ENTITY device.info.model.label            "Model">
+<!ENTITY device.info.capacity.label         "Kapasitas">
+<!ENTITY device.info.product.label          "Produk">
+<!ENTITY device.info.friendly_name.label    "Nama">
+<!ENTITY device.info.serial_number.label    "Nomor Seri">
+<!ENTITY device.info.vendor.label           "Perakit">
+<!ENTITY device.info.access.label           "Kompatibilitas Akses">
+<!ENTITY device.info.playback_formats.label "Format Berkas">
+<!ENTITY device.info.battery.label          "Baterai">
+<!ENTITY device.info.firmware_version.label "Versi Firmware">
+
+<!ENTITY device.progress.sync               "Sinkronisasi">
+
+<!ENTITY device.capacity.music.label    "Music">
+<!ENTITY device.capacity.video.label    "Video">
+<!ENTITY device.capacity.image.label    "Photos">
+<!ENTITY device.capacity.other.label    "Lainnya">
+<!ENTITY device.capacity.free.label     "Sisa">
+
+<!ENTITY device.unsupported_media.dialog.title  "Berkas yang Tidak Kompatibel Ditemukan">
+<!ENTITY device.unsupported_media.dialog.enable "Beritahu jika berkas yang tidak kompatibel ditemukan">
+
+<!ENTITY device.sync.header.label "Pengaturan Sinkronisasi">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Sinkronisasi">
+<!ENTITY device.sync.sync_all.label "Semua lagu, video, dan senarai putar">
+<!ENTITY device.sync.sync_selected.label "Senarai putar terpilih:">
+<!ENTITY device.sync.playlist.title "Judul">
+<!ENTITY device.sync.playlist.video.duration "Durasi Video">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY device.sync.images.browse "Pilih folder …">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY device.sync.images.foldername "Nama Folder">
+<!ENTITY device.sync.images.filecount "Photos">
+
+<!ENTITY device.settings.header.label "Pengaturan">
+<!ENTITY device.settings.general.label "Umum">
+<!ENTITY device.settings.auto_launch.checkbox.label "Buka &brandShortName; ketika perangkat ini terdeteksi">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Periksa firmware baru secara otomatis">
+<!ENTITY device.settings.music.transcoding.label "Ubah Kodikasi Lagu">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Pengelola Diska">
+<!ENTITY device.settings.disk.management.label "Atur struktur direktori">
+<!ENTITY device.settings.disk.management.filename "Berkas lagu">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Otomatis mengkonfigurasi transcoding">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Secara manual dan format bitrate">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Tingkatbit">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Lagu">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY device.management.tabs.tools.label "Alat">
+<!ENTITY device.management.tabs.settings.label "Pengaturan">
+
+<!ENTITY device.tools.product_registration.title "Pendaftaran Produk">
+<!ENTITY device.tools.product_registration.description "Ingin dapat memastikan bukti pembelian, produk tambahan manfaat keanggotaan, atau menerima pemberitahuan keselamatan?">
+<!ENTITY device.tools.product_registration.label "Daftarkan produk">
+
+<!ENTITY device.tools.update_firmware.title "Perbarui Firmware">
+<!ENTITY device.tools.update_firmware.description "Perangkat Anda dikontrol oleh program yang disebut internal firmware. Versi baru firmware mungkin telah dirilis sejak Anda terakhir perangkat Anda terhubung ke komputer Anda.">
+<!ENTITY device.tools.update_firmware.label "Periksa firmware terbaru">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware versi:">
+
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+
+<!ENTITY device.tools.format_device.title "Membentuk Device">
+<!ENTITY device.tools.format_device.description "Format perangkat Anda akan menghapus semua media pada perangkat.">
+<!ENTITY device.tools.format_device.label "Membentuk device">
+<!ENTITY device.tools.format_volume.button.label "Format">
+
+<!ENTITY device.tools.support.title "Mendukung">
+<!ENTITY device.tools.support.description "Lihat berita dukungan terbaru, user manual, dokumentasi, tanya jawab, dan informasi produk. Layanan dukungan yang tersedia untuk pelanggan yang telah mendaftarkan produk mereka.">
+<!ENTITY device.tools.support.label "Lihat dukungan sumber daya">
+
+<!ENTITY device.tools.reset_warnings.title "Reset peringatan">
+<!ENTITY device.tools.reset_warnings.description "Ulang dialog peringatan akan memungkinkan dialog ini untuk meminta Anda untuk mengkonfirmasi tugas-tugas tertentu yang ingin Anda capai.">
+<!ENTITY device.tools.reset_warnings.label "Reset pesan peringatan">
+
+<!ENTITY device.dialog.setup.title "Setelan Perangkat">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Abaikan">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Cek jika anda tidak ingin &brandShortName; mengelola perangkat ini.">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Jika Anda tidak ingin &brandShortName; untuk mengelola perangkat ini, kamu bisa">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "Mengabaikan perangkat ini">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Buka Tautan pada Peramban Web Default">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Buka Halaman pada Peramban Web Default">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Buka Bingkai pada Peramban Web Default">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "B">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Buka Gambar pada Peramban Web Default">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Salin Teks Terpilih">
+<!ENTITY copySelectionCmd.accesskey                     "">
+<!ENTITY playMediaCmd.label                             "Putar">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Unduh ke Pustaka">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "Unduh ke Daftar Putar">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "u">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Tidak ada Daftar Putar&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Daftar Putar Baru">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Berlangganan Halaman Ini…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Berlangganan Bingkai Ini…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Yuk, Bantu &brandShortName;!">
+<!ENTITY feedback.dialog.yes        "Ya">
+<!ENTITY feedback.dialog.no         "Tidak">
+<!ENTITY feedback.dialog.sentence1  "Dapatkah Anda membantu &brandShortName; dengan mengikuti survei pendek berikut?">
+<!ENTITY feedback.dialog.sentence2  "Jika Anda tidak tertarik, kami tidak akan menanyakannya lagi. Terima kasih sebelumnya dan kami senang Anda menggunakan &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "Salam hangat,">
+<!ENTITY feedback.dialog.sentence4  "Tim &brandShortName;">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Selamat datang di &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "Setup &brandShortName;">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Rekomendasi Pengaya">
+<!ENTITY first_run.add_ons.description.line1 "Pengaya memperkaya fungsi &brandShortName; memberi Anda kemudahan memutar media anda. Beberapa pengaya pilihan berikut sangat direkomendasikan.">
+<!ENTITY first_run.add_ons.description.line2 "Pengaya dapat mengintegrasi dengan aplikasi dan layanan lainnya, mendukung koneksi ke perangkat eksternal, menyulap tampilan aplikasi, dan masih banyak lagi. Anda dapat mengunduh pengaya pada situs Peengaya &brandShortName;.">
+<!ENTITY first_run.add_ons.loading.label     "Mengunduh daftar rekomendasi pengaya.">
+<!ENTITY first_run.add_ons.load_failed.label "Gagal mengunduh rekomendasi pengaya.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; Tidak Dapat Tersambung ke Internet">
+<!ENTITY first_run.connection.description          "Periksa Pengaturan Sambungan atau Lanjutkan dengan Pembantu Setup">
+<!ENTITY first_run.connection.settings.button      "Pengaturan Sambungan…">
+<!ENTITY first_run.connection.settings.description "Apakah komputer atau jaringan Anda dilindungi firewall atau proxy? Memperbaiki Pengaturan Sambungan yang tidak sesuai dapat menyelesaikan masalah yang biasa terjadi.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Perjanjian Lisensi">
+<!ENTITY first_run.eula.accept_checkbox.label "Saya telah membaca dan menyetujui persyaratan lisensi ini.">
+<!ENTITY first_run.eula.language.label        "Bahasa:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Yuk, Bantu &brandShortName;!">
+<!ENTITY first_run.feedback.description             "Bersediakah anda membantu kami membuat &brandShortName; menjadi lebih baik dengan mengirimkan kami umpan-balik dengan bentuk metrik tanpa-nama berdasarkan bagaimana anda menggunakan aplikasi tersebut? ">
+<!ENTITY first_run.feedback.metrics.label           "Kumpulkan dan kirim statstik saya ke tim &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description     "Data statistik bersifat anonim dan tidak ada informasi pribadi yang dikumpulkan.">
+<!ENTITY first_run.feedback.email.header.label      "Kabari Saya Selalu">
+<!ENTITY first_run.feedback.email.description       "Berlangganan ke surat-kabar kami untuk mendengar keluaran baru dan update penting.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "tuliskan email anda untuk kabar terbaru">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "Impor/Ekspor iTunes">
+<!ENTITY first_run.itunes.description                   "Nampaknya iTunes telah dipasang pada komputer Anda. &brandShortName; dapat diatur untuk mengimpor dan/atau mengekspor lagu antara &brandShortName; dan iTunes supaya pustaka musik Anda selalu sinkron.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Impor lagu dan senarai putar dari iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Podcast dan musik yang dibeli dari iTunes Store dapat diimpor ke &brandShortName;. Fitur ini berjalan dengan baik jika &brandShortName; adalah program pemutar musik utama Anda.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Ekspor lagu dan senarai putar baru ke iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Musik yang diambil melalui &brandShortName; dapat diekspor ke iTunes sehingga dapat ditransfer ke iPod atau iPhone anda.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Impor Media">
+<!ENTITY first_run.import_media.description                  "Pilih media yang ingin diimpor ke &brandShortName;. Segera setelah &brandShortName; dibuka Anda dapat menambahkan media lain dengan berbagai cara.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Pindai direktori komputer saya">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Jangan impor media">
+<!ENTITY first_run.import_media.scan_directories.description "Apakah Anda ingin &brandShortName; berusaha untuk mengimpor media dengan memindai folder tertentu pada komputer Anda?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Monitor perubahan pada folder ini">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Mengunduh Pengaya">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Selamat Datang di &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; adalah program pemutar media desktop alternatif yang gampang diatur dan diubah-ubah.">
+<!ENTITY first_run.welcome.description.line2 "Tuntunan berikut akan menuntun Anda dengan cepat dan efisien agar &brandShortName; dapat dijalankan.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Pengimpor Media">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Impor Pustaka">
+<!ENTITY import_library.prefs.title                       "Pengimpor iTunes">
+<!ENTITY import_library.library_file_label                "Berkas Pustaka:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Peringatkan jika lagu atau daftar putar yang tidak didukung formatnya tidak diimpor.">
+<!ENTITY import_library.prefs.path_group_caption          "Lokasi iTunes Music Library">
+<!ENTITY import_library.prefs.options_group_caption       "Pengaturan Impor">
+<!ENTITY import_library.import_command                    "Impor Pustaka">
+<!ENTITY import_tracks_itunes_checkbox                    "Impor lagu dari iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Impor daftar putar">
+<!ENTITY export_tracks_itunes_checkbox                    "Ekspor lagu ke iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Ekspor daftar putar">
+<!ENTITY export_subscriptions_itunes_checkbox             "Ekspor langganan">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Ekspor daftar putar pintar">
+<!ENTITY importexport_show_notifications_checkbox         "Tampilkan pemberitahuan ketika impor/ekspor selesai">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Senarai putar berubah">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Jangan ubah (jangan mengimpor) senarai putar yang ada pada &brandShortName;">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Gabungkan senarai putar (playlist) &brandShortName; dan iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Ganti daftar putar &brandShortName; dengan daftar putar dari iTunes.">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Catatan: Proses penggabungan dan penimpaan tidak dapat dibalikkan.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Terapkan pilihan ke semua senarai putar">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Tidak memungkinkan Melihat direktori di direktori yang sama dengan Anda Musik Kelola folder. Melakukan hal ini akan menciptakan duplikasi di perpustakaan Anda">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Folder yang Dimonitor">
+<!ENTITY watch_folder.prefs.settings_group_caption "Pengaturan Monitor Folder">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; dapat memonitor isi sebuah folder dan secara otomatis menambah atau menghapus item yang ada di dalamnya.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Otomatis memonitor perubahan yang terjadi pada folder berikut:">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Folder:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Rekomendasi Pengaya">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "Setup &brandShortName;">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Keterangan">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Tidak ada yang diputar" >
+<!ENTITY albumart.displaypane.not_selected_message  "Tidak ada yang dipilih" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Seret sampul album ke sini" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Yang Terpilih" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Yang Sedang Diputar" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Potong">
+<!ENTITY albumart.displaypane.selected.menu.copy "Salin">
+<!ENTITY albumart.displaypane.selected.menu.paste "Tempel">
+<!ENTITY albumart.displaypane.selected.menu.clear "Bersihkan">
+<!ENTITY albumart.coverpreview.title "Sampul Album">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Artwork Album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Tulis Artwork Album ke Meta Data">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "&brandShortName; akan menggabungkan artwork pada tag yang kompatibel dengan berkas media.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Cari nama berkas:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Masukkan nama berkas dipisahkan dengan tanda koma di sini">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cari berkas dengan ekstensi:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Masukkan ekstensi dipisahkan dengan tanda koma di sini">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Prioritas Fetcher">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Urutan fetcher yang akan digunakan">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Naik">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Turun">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Kembalikan">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Automatis-mengambil Sampul Album">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Automatis mengambil sampul album saat trek sedang diputar atau dipilih, tergantung pada modus layar panel Sampul Album. Kinerja mungkin terkena dampak ketika  fitur  ini diaktifkan.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Kembali">
+<!ENTITY wizard.button.back.accesskey  "K">
+<!ENTITY wizard.button.cancel.label    "Batal">
+<!ENTITY wizard.button.next.label      "Lanjut">
+<!ENTITY wizard.button.next.accesskey  "L">
+<!ENTITY wizard.button.finish.label    "Selesai">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Kesalahan Pustaka Program Media Inti">
+<!ENTITY mediacore.error.preface  "&brandShortName; mengalami kesalahan pustaka program media inti">
+<!ENTITY mediacore.error.continue "Lanjut">
+<!ENTITY mediacore.error.stop     "Stop Putar">
+<!ENTITY mediacore.error.dontshowme "Jangan tampilkan pesan kesalahan dari pustaka inti media lagi">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Putar">
+
+<!ENTITY playback.prefpane.audio_output.label   "Output Audio">
+<!ENTITY playback.prefpane.audio_output.buffer  "Buffer Output:">
+
+<!ENTITY playback.prefpane.streaming.label      "Jaringan dan Streaming">
+<!ENTITY playback.prefpane.streaming.buffer     "Buffer Untaian:">
+
+<!ENTITY playback.prefpane.normalization.label  "Normalisasi">
+<!ENTITY playback.prefpane.normalization.enable "Gunakan normalisasi audio jika didukung">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Data gain yang diinginkan:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Lagu">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
+
+<!ENTITY fetch_album_art.dialog.title "Ambil Artwork Album">
+<!ENTITY fetch_album_art.dialog.message "Belum diimplementasikan (Lihat Bug 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Artis">
+<!ENTITY cdrip.lookup.info_not_found.album  "Album">
+<!ENTITY cdrip.lookup.info_not_found.title  "Informasi CD Tidak Ditemukan">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Anda dapat menambahkan nama album dan artis di sini. Anda dapat menyunting informasi selanjutnya melalui playlist CD Rip">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Judul">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "Ekstraksi CD">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY cdrip.prefpane.quality "Kualitas">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "Setelah selesai diekstraksi, keluarkan CD">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Setelah selesai dicetak, mainkan suara sinyal sistem">
+<!ENTITY cdrip.prefpane.providers.title "Penyedia Info CD">
+<!ENTITY cdrip.prefpane.quality_desc "Semakin tinggi kbps semakin tinggi kualitas audio dan semakin besar berkasnya.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Setingan/pilihan ekstraksi CD">
+<!ENTITY cdrip.mediaview.format_label              "Format:">
+<!ENTITY cdrip.mediaview.quality_label             "Kualitas:">
+<!ENTITY cdrip.mediaview.settings_button           "Setingan/Pilihan">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Ekstrak CD">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Hentikan ekstraksi">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Lihat Semua Trek">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Keluarkan CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "ubah aksel">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "ubah aksel">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "ubah aksel">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Jendela video">
+<!ENTITY videowindow.actualsize "Ukuran Sebenar">
+<!ENTITY videowindow.fullscreen "Layar Penuh">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Kami ingin berterima kasih pada para kontributor kami, yang usahanya telah membuat Songbird seperti ini. Orang-orang tersebut telah membantu kami menulis kode, dokumentasi dan dengan mengetes. Mereka telah membuat dan memelihara produk ini, terasosiasi oleh development kit, build tool, dan website kami. Nama diikuti nick IRC, datang ke #songbird di irc.mozilla.org dan ucapkan halo!">
+<!ENTITY about.credits.footer.beforeLink "Tentu saja semua tidak akan mungkin tanpa kerja keras dan bantuan dari">
+<!ENTITY about.credits.footer.linkText "para kontributor">
+<!ENTITY about.credits.footer.afterLink "ke proyek Mozilla.">
+<!ENTITY about.credits.heading.translators "Penerjemah">
+<!ENTITY about.credits.heading.champs "Juara-juara">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY about.credits.description.champs.link.text "Songbird Dapatkan Kepuasan Support Forum.">
+<!ENTITY about.credits.description.champs.link.post "Mereka adalah orang yang sangat berjasa di forum kita, dan bekerja tanpa mengenal lelah untuk memastikan bahwa setiap pengguna Songbird adalah pengguna Songbird yang berbahagia.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Rekaman CD Ganda Ditemukan">
+<!ENTITY cdrip.lookup.multiple.description "Pilih salah satu di bawah ini atau tambahkan info Anda sendiri.">
+<!ENTITY cdinfo.other.label                "Tambahakan Info Album dan Artis Anda">
+
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Adding tracks">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

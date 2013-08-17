@@ -1,0 +1,112 @@
+<!ENTITY help.keyboard.title "&brandShortName; ގެ ކީބޯޑް ޝޯޓްކަޓްތައް">
+<!ENTITY help.keyboard.subtitle "ކީބޯރޑް ޝޯރޓްކަޓްތައް">
+<!ENTITY help.keyboard.description "&brandShortName; ގައި  ކީބޯޑް ޝޯޓްކަޓުބޭނުން ކުރުމުން ކުރަންބޭނުންވާ ކަންތައްތައް ވަރަށްބޮޑުތަން ފަސޭހަކަމާއެކު ކުރެވޭނެ. ތިރީގައި މިވަނީ މިގޮތައް ބޭނުން ކުރެވިދާނެ ކޮމާންޑް ތަކާއި އެޔާގުޅޭ ޝޯޓްކަޓްތައް">
+<!ENTITY help.platform.windows "ވިންޑޯސް">
+<!ENTITY help.platform.macosx "މެކް">
+<!ENTITY help.platform.linux "ލިނަކްސް">
+<!ENTITY help.keyboard.heading.command "އަމުރު">
+<!ENTITY help.keyboard.heading.shortcut "ޝޯޓްކަޓް">
+<!ENTITY help.keyboard.section.playback "ޕްލޭބެކް ކޮންޓްރޯލް">
+<!ENTITY help.keyboard.section.library "ލައިބްރަރީއާއި ޕްލޭލިސްޓުތައް">
+<!ENTITY help.keyboard.section.editing "އުނިއިތުރުގެނައުން">
+<!ENTITY help.keyboard.section.navigation "ދަތުރުކުރުން">
+<!ENTITY help.keyboard.section.browser "ބުރައުޒަރ">
+<!ENTITY help.keyboard.section.windows "ވިންޑޯތަކާއި ޓެބްތައް">
+<!ENTITY help.keyboard.section.search "ހޯދާ">
+<!ENTITY help.keyboard.section.misc "އެހެނިހެން">
+<!ENTITY help.keyboard.key.left "ލެފްޓް އެރޯވ">
+<!ENTITY help.keyboard.key.right "ރައިޓް އެރޯވ">
+<!ENTITY help.keyboard.key.up "އަޕް އެރޯވ">
+<!ENTITY help.keyboard.key.down "ޑައުން އެރޯވ">
+<!ENTITY help.keyboard.key.pgup "ޕޭޖް އަޕް">
+<!ENTITY help.keyboard.key.pgdn "ޕޭޖް ޑައުން">
+<!ENTITY help.keyboard.key.home "ހޯމް">
+<!ENTITY help.keyboard.key.end "އެންޑް">
+<!ENTITY help.keyboard.key.tab "ޓެބް">
+<!ENTITY help.keyboard.key.escape "އެސްކޭޕް">
+<!ENTITY help.keyboard.key.f1 "އެފް 1">
+<!ENTITY help.keyboard.key.f2 "އެފް 2">
+<!ENTITY help.keyboard.key.f3 "އެފް 3">
+<!ENTITY help.keyboard.key.f4 "އެފް 4">
+<!ENTITY help.keyboard.key.f5 "އެފް 5">
+<!ENTITY help.keyboard.key.f6 "އެފް 6">
+<!ENTITY help.keyboard.key.f7 "އެފް 7">
+<!ENTITY help.keyboard.key.f8 "އެފް 8">
+<!ENTITY help.keyboard.key.f9 "އެފް 9">
+<!ENTITY help.keyboard.key.f10 "އެފް 10">
+<!ENTITY help.keyboard.key.f11 "އެފް 11">
+<!ENTITY help.keyboard.key.f12 "އެފް 12">
+<!ENTITY help.keyboard.key.f13 "އެފް 13">
+<!ENTITY help.keyboard.key.f14 "އެފް 14">
+<!ENTITY help.keyboard.key.f15 "އެފް 15">
+<!ENTITY help.keyboard.key.meta "ވިންޑޯވްސް ފިތް">
+<!ENTITY help.keyboard.key.ctrl "ކޮންޓްރޯލް">
+<!ENTITY help.keyboard.key.cmd "ކޮމާންޑް">
+<!ENTITY help.keyboard.key.alt "އޯލްޓް">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "ޝިފްޓް">
+<!ENTITY help.keyboard.key.delete "ޑިލީޓް">
+<!ENTITY help.keyboard.name.playcontrol.pause "ސެލެކްޓް ކުރެވިފައިވާ އައިޓަމް ޕްލޭ/ޕޯޒް ކުރޭ">
+<!ENTITY help.keyboard.name.playcontrol.prev "ލިސްޓުގެ ފަހަތަށް އިން އައިޓަމް ޕްލޭ ކުރޭ">
+<!ENTITY help.keyboard.name.playcontrol.next "ލިސްޓުގައި ދެންއިން މީޑިޔާ ކުޅެންފަށާ">
+<!ENTITY help.keyboard.name.volume.down "އަޑުމަޑުކުރޭ">
+<!ENTITY help.keyboard.name.volume.up "އަޑުބާރު ކުރޭ">
+<!ENTITY help.keyboard.name.volume.mute "އަޑު ކަނޑާލާ">
+<!ENTITY help.keyboard.name.volume.max "އަޑު އެންމެ ބާރު ކުރޭ">
+<!ENTITY help.keyboard.name.jumpto "ވިންޑޯއިން ބައްލަވާ">
+<!ENTITY help.keyboard.name.new.playlist "އާ ޕްލޭލިސްޓެއް">
+<!ENTITY help.keyboard.name.new.smartplaylist "އާ ސްމާރޓް ޕްލޭލިސްޓެއް">
+<!ENTITY help.keyboard.name.import "މީޑިއާ އިންޕޯޓްކުރޭ">
+<!ENTITY help.keyboard.name.currenttrack "މިހާރު ޕްލޭކުރެވެމުންދާ ނަންބަރުގެ އަސްލު ހޯދާ">
+<!ENTITY help.keyboard.name.mediapage.switch "މީޑިއާ ފެންނަގޮތް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.feather.switch "ފެދާ ލޭއައުޓް ބަދަލު ކުރައްވާ">
+<!ENTITY help.keyboard.name.trackeditor "މެޓަޑޭޓާ އެޑިޓަރ">
+<!ENTITY help.keyboard.name.edit.undo "އަންޑޫކުރޭ">
+<!ENTITY help.keyboard.name.edit.redo "އަލުން ހަދާ">
+<!ENTITY help.keyboard.name.edit.selectall "ހުރިހާ ފައިލްތައް ނަންގަވާ">
+<!ENTITY help.keyboard.name.edit.cut "ކަޓް">
+<!ENTITY help.keyboard.name.edit.copy "ކޮޕީ">
+<!ENTITY help.keyboard.name.edit.paste "ޕޭސްޓް">
+<!ENTITY help.keyboard.name.edit.delete "ފޮހެލާ">
+<!ENTITY help.keyboard.name.browser.back "ފަހަތަށް ދޭ">
+<!ENTITY help.keyboard.name.browser.forward "ކުރިޔަށް ދޭ">
+<!ENTITY help.keyboard.name.browser.reload "ރީލޯޑް ކުރޭ">
+<!ENTITY help.keyboard.name.browser.stop "ލޯޑްކުރުން ހުއްޓާލާ">
+<!ENTITY help.keyboard.name.open.file "ފައިލް ހުޅުވާ">
+<!ENTITY help.keyboard.name.open.url "ފައިލްގެ ޔޫއާރުއެލް ލޮކޭޝަން ހުޅުވާ">
+<!ENTITY help.keyboard.name.file.print "ޕްރިންޓު ކުރައްވާ">
+<!ENTITY help.keyboard.name.view.source "ސޯސް ބަލާ">
+<!ENTITY help.keyboard.name.view.zoomin "ބޮޑުވާގޮތަށް ޒޫމްކުރޭ">
+<!ENTITY help.keyboard.name.view.zoomout "ކުޑަވާގޮތަށް ޒޫމްކުރޭ">
+<!ENTITY help.keyboard.name.view.zoomreset "ޒޫމް ރިސެޓް">
+<!ENTITY help.keyboard.name.subscribe "ސަބްސްކުރައިބް">
+<!ENTITY help.keyboard.name.locationbar "ލޮކޭޝަންބަރ ފޯކަސް ކުރޭ">
+<!ENTITY help.keyboard.name.tab.new "އާ ޓެބެއް">
+<!ENTITY help.keyboard.name.tab.close "ޓެބު ނިއްވާލާ">
+<!ENTITY help.keyboard.name.tab.next "ކުރިއަށް ހުރި ޓެބު">
+<!ENTITY help.keyboard.name.tab.previous "ފަހަތަށް ހުރި ޓެބު">
+<!ENTITY help.keyboard.name.tab.1 "ޓެބު 1 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.2 "ޓެބު 2 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.3 "ޓެބު 3 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.4 "ޓެބު 4 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.5 "ޓެބު 5 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.6 "ޓެބު 6 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.7 "ޓެބު 7 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.8 "ޓެބު 8 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.tab.9 "ޓެބު 9 އަށް ބަދަލުކުރޭ">
+<!ENTITY help.keyboard.name.page.top "ޕޭޖުގެ އެންމެ މައްޗަށް ގެންދޭ">
+<!ENTITY help.keyboard.name.page.bottom "ޕޭޖުގެ އެންމެތިރިއަށް ގެންދޭ">
+<!ENTITY help.keyboard.name.view.fullscreen "ފުލް ސުކްރީން ހަދާ">
+<!ENTITY help.keyboard.name.mac.minimize "ޑޮކަށް ކުޑަކޮށްލާ">
+<!ENTITY help.keyboard.name.mac.hide "ވިންޑޯ ފޮރުވާލާ">
+<!ENTITY help.keyboard.name.mac.hideothers "އެހެން އެޕްލިކޭޝަންތައް ހައިޑްކުރޭ">
+<!ENTITY help.keyboard.name.downloads "ޑައުންލޯޑް ކުރެވިފައިހުރި އެއްޗެހި">
+<!ENTITY help.keyboard.name.find "ހޯދާ">
+<!ENTITY help.keyboard.name.find.again "އަލުން ހޯދާ">
+<!ENTITY help.keyboard.name.find.text "ލިޔުނު ލިޔުނުހެން ހޯދާ">
+<!ENTITY help.keyboard.name.find.link "ލިންކު ލިޔުނު ލިޔުނުހެން ހޯދާ">
+<!ENTITY help.keyboard.name.search.focus "ސާޗްބޮކުސް ފޯކަސްކުރޭ">
+<!ENTITY help.keyboard.name.quit "ނިންމާލާ">
+<!ENTITY help.keyboard.name.preferences "އިޙުތިޔާރިއްޔަތު">
+<!ENTITY help.keyboard.name.help "އެހީތެރިކަމުގެ ސުރުހީތައް">
+<!ENTITY help.keyboard.name.sanitize "ޕުރައިވެޓް  ޑޭޑާތައް ފޮހެލާ">

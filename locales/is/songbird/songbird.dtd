@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "Í lagi" >
+<!ENTITY window.cancel      "Hætta við" >
+<!ENTITY window.apply       "Staðfesta" >
+<!ENTITY window.browse      "Fletta…" >
+<!ENTITY window.save        "Vista">
+<!ENTITY window.yes         "Já">
+<!ENTITY window.no          "Nei">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Loka &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Stillingar">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Þjónustur">
+<!ENTITY menu.mac.hide                  "Fela &brandShortName;">
+<!ENTITY menu.mac.hide.key              "F">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Fela aðra glugga">
+<!ENTITY menu.mac.hideothers.key        "F">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Sýna alla">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Skrá" >
+<!ENTITY menu.file.new          "Nýr lagalisti…" >
+<!ENTITY menu.file.smart        "Nýr snjall lagalisti…" >
+<!ENTITY menu.file.remote       "Ný áskrift…" >
+<!ENTITY menu.file.podcast      "Nýtt hlaðvarp…" >
+<!ENTITY menu.file.open         "Opna skjal…" >
+<!ENTITY menu.file.url          "Opna slóð…" >
+<!ENTITY menu.file.playlist     "Flytja inn lagalista…" >
+<!ENTITY menu.file.library      "Flytja inn safn…" >
+<!ENTITY menu.file.newtab       "Nýr flipi" >
+<!ENTITY menu.file.closetab     "Loka flipa" >
+<!ENTITY menu.file.metadata     "Skoða lýsigögn">
+<!ENTITY menu.file.scan         "Flytja inn gögn…" >
+<!ENTITY menu.file.exit         "Hætta" >
+
+<!ENTITY menu.edit          "Breyta" >
+<!ENTITY menu.edit.undo     "Afturkalla" >
+<!ENTITY menu.edit.redo     "Endurtaka" >
+<!ENTITY menu.edit.cut      "Klippa" >
+<!ENTITY menu.edit.copy     "Afrita" >
+<!ENTITY menu.edit.paste    "Líma" >
+<!ENTITY menu.edit.delete   "Eyða" >
+<!ENTITY menu.edit.selall   "Velja allt" >
+<!ENTITY menu.edit.find        "Leita" >
+<!ENTITY menu.edit.findagain   "Leita aftur" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Stillingar">
+<!ENTITY menu.linux.preferences.accesskey "S">
+
+<!ENTITY menu.controls      "Stýringar" >
+<!ENTITY menu.control.play  "Spila" >
+<!ENTITY menu.control.pause "Í bið" >
+<!ENTITY menu.control.next  "Næsta lag" >
+<!ENTITY menu.control.prev  "Fyrra lag" >
+<!ENTITY menu.control.shuf  "Stokka" >
+<!ENTITY menu.control.repa  "Endurtaka allt" >
+<!ENTITY menu.control.rep1  "Endurtaka eitt" >
+<!ENTITY menu.control.repx  "Ekki endurtaka" >
+<!ENTITY menu.control.jumpto "Hoppa á…" >
+
+<!ENTITY menu.control.play.button      "Spila" >
+<!ENTITY menu.control.pause.button     "Í bið" >
+<!ENTITY menu.control.stop.button      "Stöðva" >
+
+<!ENTITY displaypane.default.image.pre "Select an add-on from the">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Add-on Site">
+<!ENTITY displaypane.default.link.post "to browse add-ons.">
+<!ENTITY displaypane.name.servicepane   "Þjónustustika neðst">
+<!ENTITY displaypane.name.browser       "Efnissvæði neðst">
+<!ENTITY displaypane.name.sidebar       "Hægri hliðarstika">
+<!ENTITY servicepane.title.label        "Þjónustustika">
+
+<!ENTITY menu.tools            "Verkfæri" >
+<!ENTITY menu.tools.getartwork "Sækja plötuumslag…">
+<!ENTITY menu.tools.exportmedia "Flytja út breytingar á safni">
+
+<!ENTITY menu.help          "Hjálp" >
+<!ENTITY menu.help.homepage "&brandShortName; Website" >
+<!ENTITY menu.help.bugz     "Láta vita af galla…" >
+<!ENTITY menu.help.topics   "Help Topics" >
+<!ENTITY menu.help.keyboard "Flýtilyklar lyklaborðs">
+<!ENTITY menu.help.about    "Um &brandShortName;" >
+
+<!ENTITY menu.equalizer     "Tónjafnari…" >
+<!ENTITY menu.preferences   "Stillingar" >
+<!ENTITY menu.extensions    "Viðbætur" >
+<!ENTITY menu.clearprivatedata "Hreinsa persónuleg gögn…">
+<!ENTITY menu.errorconsole "Villugluggi">
+<!ENTITY menu.downloadmgr   "Niðurhalaðar skrár" >
+<!ENTITY menu.switchplayercontrols  "Stýringar spilara" >
+<!ENTITY menu.controllerontop       "Birta uppi">
+<!ENTITY menu.controlleronbottom    "Birta niðri">
+
+<!ENTITY menu.fullscreen            "Fullan skjá">
+<!ENTITY menu.videotofront          "Video to Front">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Bíð eftir tækjum.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Bíð eftir að öllum aðgerðum tækis ljúki. Smelltu á &quot;Hætta&quot; til að hætta biðinni og loka forritinu.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Hætta">
+
+<!ENTITY tooltip.minimize         "Minnka" >
+<!ENTITY tooltip.maximize         "Stækka/Endurstilla" >
+<!ENTITY tooltip.exit             "Hætta" >
+<!ENTITY tooltip.close            "Loka" >
+<!ENTITY tooltip.hide             "Fela" >
+<!ENTITY tooltip.fullscreen       "Fullan skjá" >
+<!ENTITY tooltip.control.back     "Fyrra lag" >
+<!ENTITY tooltip.control.play     "Spila" >
+<!ENTITY tooltip.control.pause    "Hlé" >
+<!ENTITY tooltip.control.resume   "Byrja aftur" >
+<!ENTITY tooltip.control.stop     "Stoppa" >
+<!ENTITY tooltip.control.fwd      "Næsta lag" >
+<!ENTITY tooltip.control.mute     "Hljóðlaust" >
+<!ENTITY tooltip.control.volume   "Hljóðstyrkur" >
+<!ENTITY tooltip.control.shuffle  "Stokka" >
+<!ENTITY tooltip.control.shuf_off "Hætta að stokka" >
+<!ENTITY tooltip.control.curtrack "Finna núverandi lag" >
+<!ENTITY tooltip.search           "Leita" >
+<!ENTITY tooltip.browser.back     "Til baka" >
+<!ENTITY tooltip.browser.fwd      "Áfram" >
+<!ENTITY tooltip.browser.stop     "Stöðva" >
+<!ENTITY tooltip.browser.home     "Heim" >
+<!ENTITY tooltip.browser.refresh  "Endurnýja" >
+<!ENTITY tooltip.browser.subscription "Búa til áskrift" >
+<!ENTITY tooltip.browser.mediapages.list "List View" >
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
+<!ENTITY tooltip.browser.mediapages "Skipta um sýn…" >
+<!ENTITY tooltip.servicepane.show    "Sýna þjónustusvæði" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "Nýr lagalisti" >
+<!ENTITY tooltip.displaypane.options "Content Pane Options">
+
+<!ENTITY smart.window             "Snjalllista smiður" >
+<!ENTITY smart.limit              "Takmarka við" >
+<!ENTITY smart.match              "Passar við" >
+<!ENTITY smart.matchsingle        "Passar við eftirfarandi skilyrði:" >
+<!ENTITY smart.any                "einhver" >
+<!ENTITY smart.all                "öll" >
+<!ENTITY smart.following          "eftirfarandi skilyrði:" >
+<!ENTITY smart.random             "handahófi" >
+<!ENTITY smart.album              "plötuheiti" >
+<!ENTITY smart.artist             "listamanni" >
+<!ENTITY smart.genre              "tegund" >
+<!ENTITY smart.title              "titli" >
+<!ENTITY smart.high_rating        "hárri stigagjöf" >
+<!ENTITY smart.low_rating         "lágri stigagjöf" >
+<!ENTITY smart.most_recent        "aldri - nýlegast" >
+<!ENTITY smart.least_recent       "minnst spilað" >
+<!ENTITY smart.most_often         "oftast spilað" >
+<!ENTITY smart.least_often        "síst spilað" >
+<!ENTITY smart.most_added         "mest bætt við" >
+<!ENTITY smart.least_added        "síst bætt við" >
+<!ENTITY smart.minutes            "mínútur" >
+<!ENTITY smart.hours              "klukktíma" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "lög" >
+<!ENTITY smart.selectedby         "valið út frá" >
+<!ENTITY smart.to                 "til" >
+<!ENTITY smart.autoupdate         "Uppfæra">
+<!ENTITY smart.playlistcondition.library "Safn">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Tónlist">
+
+<!ENTITY textbox.songbird_open_url "Sláðu inn slóðina að skjalinu sem þú vilt spila:">
+
+<!ENTITY open_url.title           "Opna slóð">
+<!ENTITY subscribe.title          "Gerast áskrifandi">
+<!ENTITY subscribe.url            "Slóð:">
+<!ENTITY subscribe.minutes        "Mínúta/Mínútur">
+<!ENTITY subscribe.hours          "Tími/Tímar">
+<!ENTITY subscribe.days           "Dagur/Dagar">
+<!ENTITY subscribe.autocheck      "Uppfæra skjálkrafa">
+<!ENTITY subscribe.destinationfolder      "Veldu áfangastað:">
+
+<!ENTITY feed.subscribe.label     "Gerast áskrifandi">
+<!ENTITY feed.subscribe.dontask   "Ekki sýna sjálfvirkt þennan glugga aftur">
+<!ENTITY feed.subscribe.close     "Loka">
+
+<!ENTITY podcast.creation_dialog.title       "Nýtt hlaðvarp">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "Vakta möppur">
+<!ENTITY watchfolder.folderlist   "Vakta þessar möppur eftir nýju efni:">
+
+<!ENTITY locale.language          "Tungumál" >
+<!ENTITY menu.view                "Skoða" >
+<!ENTITY about.version            "Útgáfa" >
+<!ENTITY about.buttons.credits    "Þakkir" >
+
+<!ENTITY equalizer.title          "Tónjafnari" >
+<!ENTITY equalizer.on.checkbox    "Virkur" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Sérsniðið" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rokk" >
+<!ENTITY equalizer.preset.soft_rock   "Rólegt rokk" >
+<!ENTITY equalizer.preset.techno      "Teknó" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggí" >
+<!ENTITY equalizer.preset.live        "Lifandi tónlist" >
+<!ENTITY equalizer.preset.club        "Klúbbur" >
+<!ENTITY equalizer.preset.party       "Teiti" >
+<!ENTITY equalizer.preset.classical   "Klassík" >
+<!ENTITY equalizer.preset.large_hall  "Stór salur" >
+<!ENTITY equalizer.preset.dance       "Danstónlist" >
+<!ENTITY equalizer.preset.pop         "Popp" >
+<!ENTITY equalizer.preset.soft        "Rólegt" >
+<!ENTITY equalizer.preset.small_speakers   "Fartölva/Heyrnartól" >
+<!ENTITY equalizer.preset.full_bass_treble "Fullur bassi og hátíðni" >
+<!ENTITY equalizer.preset.full_treble "Fullur bassi" >
+<!ENTITY equalizer.preset.full_bass   "Fullur bassi" >
+
+
+<!ENTITY setupprogress.pleasewait "Vinsamlegast hinkraðu…" >
+<!ENTITY setupprogress.cancel     "Hætta við">
+
+<!ENTITY menu.file.accesskey              "S" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "s" >
+<!ENTITY menu.file.remote.accesskey       "r" >
+<!ENTITY menu.file.podcast.accesskey      "h" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "ð" >
+<!ENTITY menu.file.playlist.accesskey     "i" >
+<!ENTITY menu.file.metadata.accesskey     "S" >
+<!ENTITY menu.file.library.accesskey      "F" >
+<!ENTITY menu.file.newtab.accesskey       "f" >
+<!ENTITY menu.file.closetab.accesskey     "L" >
+<!ENTITY menu.file.scan.accesskey         "g" >
+<!ENTITY locale.language.accesskey        "T" >
+<!ENTITY menu.view.accesskey              "k" >
+<!ENTITY menu.preferences.accesskey       "S" >
+<!ENTITY menu.equalizer.accesskey         "r" >
+<!ENTITY menu.extensions.accesskey        "V" >
+<!ENTITY menu.clearprivatedata.accesskey  "H" >
+<!ENTITY menu.errorconsole.accesskey      "V" >
+<!ENTITY menu.file.exit.accesskey         "H" >
+<!ENTITY menu.downloadmgr.accesskey       "N" >
+
+<!ENTITY menu.edit.accesskey          "B" >
+<!ENTITY menu.edit.undo.accesskey     "f" >
+<!ENTITY menu.edit.redo.accesskey     "n" >
+<!ENTITY menu.edit.cut.accesskey      "K" >
+<!ENTITY menu.edit.copy.accesskey     "A" >
+<!ENTITY menu.edit.paste.accesskey    "L" >
+<!ENTITY menu.edit.delete.accesskey   "E" >
+<!ENTITY menu.edit.selall.accesskey   "j" >
+<!ENTITY menu.edit.find.accesskey        "L" >
+<!ENTITY menu.edit.findagain.accesskey   "u" >
+
+<!ENTITY menu.controls.accesskey      "t" >
+<!ENTITY menu.control.play.accesskey  "S" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "F" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "a" >
+<!ENTITY menu.control.rep1.accesskey  "R" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "H" >
+
+
+<!ENTITY menu.tools.accesskey            "V" >
+<!ENTITY menu.tools.getartwork.accesskey "p" >
+
+<!ENTITY menu.tools.reveal             "Sýna skrá" >
+<!ENTITY menu.tools.reveal.accesskey   "S" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "g" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "F" >
+<!ENTITY menu.help.about.accesskey    "U" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Ritill fyrir lýsigögn" >
+<!ENTITY trackeditor.tab.summary.title            "Útdráttur" >
+<!ENTITY trackeditor.tab.edit.title               "Breyta" >
+<!ENTITY trackeditor.tab.lyrics.title             "Texti" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Bæta við merki" >
+<!ENTITY trackeditor.addtag.tag       "Merki:" >
+
+<!ENTITY jumptofile.title             "Hoppa yfir í" >
+<!ENTITY jumptofile.search            "Leita:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Nota víðværa flýtilykla" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "N" >
+<!ENTITY hotkeys.action               "Aðgerð" >
+<!ENTITY hotkeys.hotkey               "Flýtihnappur" >
+<!ENTITY hotkeys.add                  "Bæta" >
+<!ENTITY hotkeys.set                  "Stilla" >
+<!ENTITY hotkeys.remove               "Fjarlægja" >
+<!ENTITY hotkeys.prefpane             "Flýtihnappar" >
+<!ENTITY hotkeys.info                 "Víðværir flýtilyklar gera þér kleyft að fá aðgang að virkni í &brandShortName; jafnvel þótt &brandShortName; sé ekki forritið sem er virkt. Sumir flýtilyklar verða að hafa breyti lykla til að minnka óæskileg áhrif á önnur forrit." >
+
+<!ENTITY rapi.prefpane.title             "Vef samþætting" >
+<!ENTITY rapi.prefpane.access.caption    "Aðgangur vefsamhæfingar" >
+<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
+<!ENTITY rapi.whitelist.label            "Undantekningar…" >
+<!ENTITY rapi.restore_defaults.label      "Endursetja á sjálfgefið" >
+<!ENTITY rapi.playback_control_disable.label "Hindra að vefsíður stjórni afspilun" >
+<!ENTITY rapi.playback_read_disable.label    "Loka á vefsvæði í að skoða upplýsingar og lög sem eru í spilun" >
+<!ENTITY rapi.library_read_disable.label     "Loka á aðgang vefsvæða að upplýsingum um margmiðlugarskrár í safni og tækjum" >
+<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Viðbætur">
+<!ENTITY prefpane.content.label       "Web Content">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Engir USB lyklar eru tengdir." >
+<!ENTITY umsd.music.tab                     "Tónlist" >
+<!ENTITY umsd.music.music_files_group       "Tónlistarskrár" >
+<!ENTITY umsd.music.music_path_desc         "Þegar verið er að afrita tónlistarskrár í tækið, setja þær í eftirfarandi möppu:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Veldu möppu í tækinu þar sem setja á tónlistarskrár." >
+<!ENTITY umsd.music.music_ext_desc          "Afrita á tækið tónlistarskrár með eftirfarandi endingar:" >
+<!ENTITY umsd.video.tab                     "Myndbönd" >
+<!ENTITY umsd.video.video_files_group       "Myndbandaskrár" >
+<!ENTITY umsd.video.video_path_desc         "Þegar myndbandaskrár eru afritaðar í tæki, setja þær í eftirfarandi möppu:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Veldu möppu í tækinu þar sem setja á myndbandaskrár." >
+<!ENTITY umsd.video.video_ext_desc          "Afrita myndbandaskrár á tæki sem eru með eftirfarandi skráarendingar:" >
+
+<!ENTITY device.error.dialog.link           "Skoða nánari villuupplýsingar" >
+
+<!ENTITY restartbox.restartnow        "Endurræsa núna" >
+<!ENTITY restartbox.restartonplaybackend "Endurræsa þegar afspilun er lokið" >
+<!ENTITY restartbox.restartlater      "Endurræsa síðar" >
+
+<!ENTITY setupprogress.installingextensions "Installing Add-Ons" >
+
+<!ENTITY jobprogress.details "Smáatriði" >
+
+<!ENTITY menu.updateCmd.label          "Leita eftir uppfærslum…">
+<!ENTITY menu.updateCmd.accessKey      "p">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "B" >
+<!ENTITY jumpto.key                    "S" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "s" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "l" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Bilslá" >
+
+<!ENTITY tabs.closeTab "Loka flipa">
+<!ENTITY tabs.listAllTabs "Lista alla flipa">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator " - " >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Upphafssíða" >
+<!ENTITY prefs.homepage.url.label          "Slóð:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Uppsetning viðbóta" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Hætta við">
+<!ENTITY command.device.cancel.accesskey                "H">
+<!ENTITY command.device.canceldevicecopy                "Hætta við afritun">
+<!ENTITY command.device.canceldevicecopy.accesskey      "H">
+<!ENTITY command.device.canceldevicedelete              "Hætta við eyðingu">
+<!ENTITY command.device.canceldevicedelete.accesskey    "H">
+<!ENTITY command.device.canceldevicesync                "Hætta við samstillingu">
+<!ENTITY command.device.canceldevicesync.accesskey      "H">
+<!ENTITY command.device.canceldeviceupdate              "Hætta við uppfærslu">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "H">
+<!ENTITY command.device.ejectdevice                     "Aftengja">
+<!ENTITY command.device.ejectdevice.accesskey           "A">
+<!ENTITY command.device.formatdevice                    "Forsníða">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Hunsa">
+<!ENTITY command.device.ignoredevice.accesskey          "H">
+<!ENTITY command.device.getdeviceinfo                   "Sækja upplýsingar">
+<!ENTITY command.device.getdeviceinfo.accesskey         "u">
+<!ENTITY command.device.renamedevice                    "Endurnefna">
+<!ENTITY command.device.renamedevice.accesskey          "E">
+<!ENTITY command.device.devicesync                      "Samstilla">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Afrita geisladisk">
+<!ENTITY command.device.rip.accesskey                   "A">
+<!ENTITY command.device.stoprip                         "Stöðva afritun geisladisks">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "Finna upplýsingar fyrir geisladisk">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Ýta út geisladis">
+<!ENTITY command.device.ejectcddevice.accesskey         "t">
+
+<!ENTITY device.repair.menuitem.default                   "Repair my device">
+
+<!ENTITY device.firmware.wizard.title                     "Uppfæra fastbúnað">
+<!ENTITY device.firmware.wizard.check.page.title          "Athuga hvort til sé uppfærður fastbúnaður">
+<!ENTITY device.firmware.wizard.check.progress.title      "Athuga uppfærslu á fastbúnaði…">
+<!ENTITY device.firmware.wizard.check.install.description "Uppsetning á uppfærslu á fastbúnaði ætti ekki að taka meira en 10 mínútur. Þú getur alltaf sett upp uppfærsluna seinna.">
+<!ENTITY device.firmware.wizard.check.already.description "Fastbúnaður fyrir tækið er þegar með nýjustu útgáfu.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Útgáfuupplýsingar">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Tengja verður tækið í fastbúnaðarham til að halda áfram. Vinsamlega fylgdu leiðbeiningunum hér fyrir neðan til að setja tækið í fastbúnaðarham.">
+<!ENTITY device.firmware.wizard.download.title            "Niðurhala fastbúnaði…">
+<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
+<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.firmware.wizard.install.title             "Set inn fastbúnað…">
+
+<!ENTITY device.firmware.wizard.busy.description  "Svo virðist sem tækið þitt sé upptekið. Fastbúnað er aðeins hægt að setja upp þegar tækið er aðgerðalaust.">
+<!ENTITY device.firmware.wizard.retry.description "Reyndu aftur eftir að tækið hefur lokið núverandi aðgerð.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "Upp kom villa við að athuga nýjan fastbúnað. Athugaðu nettengingu og reyndu aftur.">
+<!ENTITY device.firmware.wizard.download.error.description "Upp kom villa við að niðurhala nýjan fastbúnð. Athugaðu nettengingu og reyndu aftur.">
+<!ENTITY device.firmware.wizard.support.description        "Aðstoð, spurt og svara og fleiri ráð við vandamálum má finna">
+
+<!ENTITY device.info.icon.device            "Almennt tækistákn">
+<!ENTITY device.info.icon.readonly          "Skriflástákn">
+<!ENTITY device.info.model.label            "Gerð">
+<!ENTITY device.info.capacity.label         "Geymslurými">
+<!ENTITY device.info.product.label          "Vara">
+<!ENTITY device.info.friendly_name.label    "Nafn">
+<!ENTITY device.info.serial_number.label    "Raðnúmer">
+<!ENTITY device.info.vendor.label           "Framleiðandi">
+<!ENTITY device.info.access.label           "Aðgangssamhæfni">
+<!ENTITY device.info.playback_formats.label "Spilunarsnið">
+<!ENTITY device.info.battery.label          "Rafhlaða">
+<!ENTITY device.info.firmware_version.label "Útgáfa fastbúnaðar">
+
+<!ENTITY device.progress.sync               "Samstilla">
+
+<!ENTITY device.capacity.music.label    "Tónlist">
+<!ENTITY device.capacity.video.label    "Myndskeið">
+<!ENTITY device.capacity.image.label    "Photos">
+<!ENTITY device.capacity.other.label    "Annað">
+<!ENTITY device.capacity.free.label     "Ókeypis">
+
+<!ENTITY device.unsupported_media.dialog.title  "Ósamhæfar skrár fundust">
+<!ENTITY device.unsupported_media.dialog.enable "Láta mig vita þegar ósamhæfar skrár finnast">
+
+<!ENTITY device.sync.header.label "Stillingar samstillingar">
+<!ENTITY device.import.header.label "Import">
+<!ENTITY device.sync.auto_sync.label "Samstilla">
+<!ENTITY device.sync.sync_all.label "Öll tónlist, myndbönd og lagalistar">
+<!ENTITY device.sync.sync_selected.label "Valdir lagalistar:">
+<!ENTITY device.sync.playlist.title "Titill">
+<!ENTITY device.sync.playlist.video.duration "Video Duration">
+<!ENTITY device.sync.images.from.label "Sync Photos From:">
+<!ENTITY device.sync.images.browse "Choose folder…">
+<!ENTITY device.sync.images.all.label "All photos">
+<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Selected sub-folders">
+<!ENTITY device.sync.images.foldername "Folder Name">
+<!ENTITY device.sync.images.filecount "Photos">
+
+<!ENTITY device.settings.header.label "Stillingar">
+<!ENTITY device.settings.general.label "Almennt">
+<!ENTITY device.settings.auto_launch.checkbox.label "Opna &brandShortName; þegar þetta tæki finnst">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Athuga sjálfvirkt með nýjan fastbúnað">
+<!ENTITY device.settings.music.transcoding.label "Tónlistarumbreyting">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
+<!ENTITY device.settings.disk.label "Diskastjórnun">
+<!ENTITY device.settings.disk.management.label "Sérsníða möppu uppbyggingu">
+<!ENTITY device.settings.disk.management.filename "Skráarnafn laga">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
+<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitahraði">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Tónlist">
+<!ENTITY device.management.tabs.video.label "Myndband">
+<!ENTITY device.management.tabs.image.label "Photos">
+<!ENTITY device.management.tabs.tools.label "Tól">
+<!ENTITY device.management.tabs.settings.label "Stillingar">
+
+<!ENTITY device.tools.product_registration.title "Vöruskrásetning">
+<!ENTITY device.tools.product_registration.description "Viltu fá sölukvittun, auka hagsbætur fyrir aðildafélaga, eða fá öryggis tilkynningar?">
+<!ENTITY device.tools.product_registration.label "Skrásetja vöru">
+
+<!ENTITY device.tools.update_firmware.title "Uppfæra fastbúnað">
+<!ENTITY device.tools.update_firmware.description "Tækið þitt er stýrt af innra forriti sem kallast fastbúnaður. Hugsanlega er búið að gefa út nýjar útgáfur af fastbúnaðinum seinast frá því tækið var tengt við tölvuna.">
+<!ENTITY device.tools.update_firmware.label "Athuga nýjar útgáfur fastbúnaðar">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Núverandi útgáfa fastbúnaðar:">
+
+<!ENTITY device.tools.restore_device.title "Restore Device">
+<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
+<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
+
+<!ENTITY device.tools.format_device.title "Forsníða Tæki">
+<!ENTITY device.tools.format_device.description "Að forsníða tækið mun eyða allri tónlist og gögnum á tækinu.">
+<!ENTITY device.tools.format_device.label "Forsníða tæki">
+<!ENTITY device.tools.format_volume.button.label "Format">
+
+<!ENTITY device.tools.support.title "Stuðningur">
+<!ENTITY device.tools.support.description "Skoðaðu nýjustu þjónustufréttir, handbækur, skjölun, oft spurðar spurningar, og upplýsingar um vöru. Þjónustuhjálp er á boðstólnum fyrir viðskiptavini sem hafa skrásett vöruna sína.">
+<!ENTITY device.tools.support.label "Skoða þjónustuhjálp">
+
+<!ENTITY device.tools.reset_warnings.title "Endurstilla aðvaranir">
+<!ENTITY device.tools.reset_warnings.description "Ef þú endurvirkjar aðvörunarglugga, munu þessir gluggar spyrja áður en ákveðnar aðgerðir eru framkvæmdar.">
+<!ENTITY device.tools.reset_warnings.label "Endurstilla aðvörunarskilaboð">
+
+<!ENTITY device.dialog.setup.title "Uppsetning tækis">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Ef þú vilt ekki að &brandShortName; meðhöndli þetta tæki, geturðu">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "hunsa þetta tæki">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Opna tengil í sjálfgefnum vafra">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Opna síðu í sjálfgefnum vafra">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Opna ramma í sjálfgefnum vafra">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Opna mynd í sjálfgefnum vafra">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Afrita valinn texta">
+<!ENTITY copySelectionCmd.accesskey                     "A">
+<!ENTITY playMediaCmd.label                             "Spila">
+<!ENTITY playMediaCmd.accesskey                         "S">
+<!ENTITY downloadMediaCmd.label                         "Hlaða niður í safn">
+<!ENTITY downloadMediaCmd.accesskey                     "H">
+<!ENTITY addMediaToPlaylistCmd.label                    "Bæta við lagalista">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "b">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Enginn lagalisti&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Nýr lagalisti">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Setja þessa síðu í áskrift…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "r">
+<!ENTITY subscribeMediaFrameCmd.label                   "Setja þennan ramma í áskrift…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "S">
+
+<!ENTITY feedback.dialog.title      "Hjálpaðu við að Gera &brandShortName; Betri!">
+<!ENTITY feedback.dialog.yes        "Já">
+<!ENTITY feedback.dialog.no         "Nei">
+<!ENTITY feedback.dialog.sentence1  "Viltu hjálpa okkur að betrumbæta &brandShortName; með því að taka þátt fljótlegri, nafnlausri könnun?">
+<!ENTITY feedback.dialog.sentence2  "Ef þú hefur ekki áhuga munum við ekki biðja þig um það aftur. Þakka þér fyrir að íhuga það og við kunnum vel að meta að þú notir &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "Kærar þakkir,">
+<!ENTITY feedback.dialog.sentence4  "&brandShortName; teymið">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Velkominn í &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "Uppsetning &brandShortName;">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Ráðlagðar viðbætur">
+<!ENTITY first_run.add_ons.description.line1 "Viðbætur bæta við virkni &brandShortName;, og leyfa þér að sérsníða spilarann. Mælt er með valmöguleikunum hér fyrir neðan.">
+<!ENTITY first_run.add_ons.description.line2 "Hægt er að nota viðbætur til að samþætta við önnur forrit og þjónustur, hjálp við að tengjast utanáliggjandi tækjum, breyta útliti forrits og fleira! Hægt er að niðurhala viðbótum á &brandShortName; viðbótarsíðunni.">
+<!ENTITY first_run.add_ons.loading.label     "Sæki ráðlagðar viðbætur.">
+<!ENTITY first_run.add_ons.load_failed.label "Mistókst að sækja ráðlagðar viðbætur.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
+<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; getur ekki tengst netinu">
+<!ENTITY first_run.connection.description          "Athugaðu nettengingar stillingarnar þínar eða haltu áfram með uppsetningar hjálparann.">
+<!ENTITY first_run.connection.settings.button      "Tengistillingar…">
+<!ENTITY first_run.connection.settings.description "Er tölvan þín eða net varið af eldvegg eða proxýju? Lagfæringar á röngum stillingum geta lagað flest netvandamál.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Leyfisskilmálar">
+<!ENTITY first_run.eula.accept_checkbox.label "Ég hef lesið og samþykkt skilmála þessara höfundalaga.">
+<!ENTITY first_run.eula.language.label        "Tungumál:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Hjálpaðu til við að gera &brandShortName; betri">
+<!ENTITY first_run.feedback.description             "Viltu hjálpa okkur að gera &brandShortName; betra með því að senda okkur nafnlausar upplýsingar um hvernig þú notar forritið?">
+<!ENTITY first_run.feedback.metrics.label           "Taka saman og senda mínar upplýsingar til &brandShortName; hópsins">
+<!ENTITY first_run.feedback.metrics.description     "Upplýsingar eru algerlega nafnlausar og engum persónulegum upplýsingum er safnað.">
+<!ENTITY first_run.feedback.email.header.label      "Láttu mig vita">
+<!ENTITY first_run.feedback.email.description       "Skráðu þig á fréttabréfið okkar til að heyra um nýjar útgáfur og mikilvægar uppfærslur.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "sláðu inn tölvupóstfangið þitt til að vera í takti">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "Flytja inn/flytja út iTunes">
+<!ENTITY first_run.itunes.description                   "Svo virðist sem þú sért með iTunes uppsett. Hægt er að stilla &brandShortName; þannig að það flytji inn/og flytji út lög á milli &brandShortName; og iTunes þannig að söfnin þín séu samstillt.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Flytja inn lög og spilunarlista frá iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Hlaðvörp og tónlist sem er keypt frá iTunes búðinni er hægt að flytja inn í &brandShortName;. Þessi eiginleiki virkar vel ef &brandShortName; mun verða notaður sem þinn aðaltónlistarspilari.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Flytja út ný lög og lagalista til iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Tónlist sem er fengin í gegnum &brandShortName; er hægt að flytja út í iTunes þannig að hægt sé að flytja þá tónlist í iPod eða iPhone.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Flytja inn tónlist">
+<!ENTITY first_run.import_media.description                  "Veldu hvaða gögn þú vilt flytja inn í &brandShortName; Um leið og &brandShortName; ræsir geturðu bætt við fleiri hlutum á margan hátt.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Skanna möppur á tölvunni minni">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Ekki flytja inn efni">
+<!ENTITY first_run.import_media.scan_directories.description "Viltu að &brandShortName; reyni að flytja inn margmiðlunargögn með því að renna yfir ákveðnar möppur á tölvunni þinni?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Fylgjast með breytingum í þessari möppu">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Sæki viðbætur">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Velkomin/nn í &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; er mikið sérsniðinn valkostur við hefðbundna margmiðlunarspilara.">
+<!ENTITY first_run.welcome.description.line2 "Þessi hjálp útvegar fljóta og skilvirka leið til að fá &brandShortName; til að virka og keyra.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Innflutningur á efni">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Flytja inn safn">
+<!ENTITY import_library.prefs.title                       "Flytja inn/flytja út iTunes">
+<!ENTITY import_library.library_file_label                "Safnskrá:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Vara mig við þegar óstudd lög eða lagalisti er ekki fluttur inn">
+<!ENTITY import_library.prefs.path_group_caption          "Staðsetning iTunes tónlistarsafns">
+<!ENTITY import_library.prefs.options_group_caption       "Stillingar innflutnings/útflutnings">
+<!ENTITY import_library.import_command                    "Flytja inn safn">
+<!ENTITY import_tracks_itunes_checkbox                    "Flytja inn lög frá iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Flytja inn lagalista">
+<!ENTITY export_tracks_itunes_checkbox                    "Flytja út lög í iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Flytja út lagalista">
+<!ENTITY export_subscriptions_itunes_checkbox             "Flytja út áskriftir">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Flytja út snjalla lagalista">
+<!ENTITY importexport_show_notifications_checkbox         "Sýna upplýsingar þegar innflutningi/útflutningi er lokið.">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Lagalista breytt">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Viðhalda núverandi &brandShortName; lagalista (Ekki flytja inn þennan lagalista)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Sameina núverandi lagalisa úr &brandShortName; og iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Skipta þessum &brandShortName; lagalista út fyrir núverandi iTunes lagalista.">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Athugið: Sameiningu og skiptingu er ekki hægt að afturkalla.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Virkja val fyrir alla lagalista">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Vakta möppur">
+<!ENTITY watch_folder.prefs.settings_group_caption "Stillingar möppuvöktunar">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; getur fylgst með innihaldi möppu og sjálfvirkt bætt við eða eytt hlutum sem eru í möppunni.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Sjálfkrafa fylgjast með breytingum í eftirfarandi möppu">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Möppur:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Ráðlagðar viðbætur">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "&brandShortName; uppsetning">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Upplýsingar">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Ekkert í spilun" >
+<!ENTITY albumart.displaypane.not_selected_message  "Ekkert valið" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Dragðu plötuumslag hingað" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Sýna hvað er valið" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Sýna hvað er í spilun" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Klippa">
+<!ENTITY albumart.displaypane.selected.menu.copy "Afrita">
+<!ENTITY albumart.displaypane.selected.menu.paste "Líma">
+<!ENTITY albumart.displaypane.selected.menu.clear "Hreinsa">
+<!ENTITY albumart.coverpreview.title "Plötuumslag">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Plötuumslag">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Skrifa plötuumslag í lýsigögn">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Þetta leyfir &brandShortName; að geyma plötuumslag í gögnum fyrir margmiðlunarskrár">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Leitar að skráarnöfnum:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Sláðu inn kommu aðskilinn lista af skráarnöfnum hérna">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Skráarendingar til að leita eftir:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Sláðu hér inn kommu aðskilin lista af skráarendingum">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Sækjara forgangur">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Settu þá sækjara efst sem þú vilt nota fyrst.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Upp">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Niður">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Endursetja">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Til baka">
+<!ENTITY wizard.button.back.accesskey  "b">
+<!ENTITY wizard.button.cancel.label    "Hætta við">
+<!ENTITY wizard.button.next.label      "Áfram">
+<!ENTITY wizard.button.next.accesskey  "f">
+<!ENTITY wizard.button.finish.label    "Ljúka">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Mediacore villa">
+<!ENTITY mediacore.error.preface  "Upp kom eftirfarandi margmiðlunarvilla í &brandShortName;:">
+<!ENTITY mediacore.error.continue "Áfram">
+<!ENTITY mediacore.error.stop     "Stöðva spilun">
+<!ENTITY mediacore.error.dontshowme "Ekki birta fleiri margmiðlungarkjarna villur">
+<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Afspilun">
+
+<!ENTITY playback.prefpane.audio_output.label   "Hljóðúttak">
+<!ENTITY playback.prefpane.audio_output.buffer  "Úttaks biðminni:">
+
+<!ENTITY playback.prefpane.streaming.label      "Net og straumspilun">
+<!ENTITY playback.prefpane.streaming.buffer     "Straum biðminni:">
+
+<!ENTITY playback.prefpane.normalization.label  "Samræming">
+<!ENTITY playback.prefpane.normalization.enable "Nota hljóðsamræmingargögn ef tilstaðar ">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Æskileg jöfnunargögn:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Plata">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Lag">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
+<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
+
+<!ENTITY fetch_album_art.dialog.title "Sækja plötuumslag">
+<!ENTITY fetch_album_art.dialog.message "Ekki enn innleitt. (Sjá galla 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Flytjandi">
+<!ENTITY cdrip.lookup.info_not_found.album  "Plata">
+<!ENTITY cdrip.lookup.info_not_found.title  "Upplýsingar um disk fundust ekki">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Þú getur bætt við nafni flytjanda og albúms hérna. Þú getur breytt afgangs upplýsingum inní afritunar lagalistanum">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Titill">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "Afrita geisladisk">
+<!ENTITY cdrip.prefpane.format "Forsníða">
+<!ENTITY cdrip.prefpane.quality "Gæði">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "Þegar afritun á geisladisk er lokið ýta þá geisladisk út">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Þegar búið er að afrita geisladisk spila þá aðvörunarhljóð kerfis">
+<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
+<!ENTITY cdrip.prefpane.quality_desc "Hærra gæðastylling á kbps mun gefa frá sér betri gæði á tónlist og stærri skráarstærð">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Stillingar fyrir að afrita geisladisk">
+<!ENTITY cdrip.mediaview.format_label              "Forsníða:">
+<!ENTITY cdrip.mediaview.quality_label             "Gæði:">
+<!ENTITY cdrip.mediaview.settings_button           "Stillingar">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Afrita geisladisk">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Stöðva afritun">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Skoða lög">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Ýta úr CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "myndbands gluggi">
+<!ENTITY videowindow.actualsize "rétt stærð">
+<!ENTITY videowindow.fullscreen "Fullan skjá">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Við viljum þakka þeim sem lögðu fram vinnu sína og gerðu Songbird að veruleika. Þetta fólk hefur hjálpað til við að skrifa kóða og ítarefni og með því að prófa forritið. Það hefur búið til og viðhaldið forritinu, uppsetningarverkfærum og vefsvæðum okkar. Með nöfnum fylgja gælunöfn á irkinu. Kíkið við á #songbird á irc.mozilla.org og heilsið upp á okkur!">
+<!ENTITY about.credits.footer.beforeLink "Auðvitað hefði ekkert að þessu verið mögulegt án erfiðis og árangurs">
+<!ENTITY about.credits.footer.linkText "þátttakendanna">
+<!ENTITY about.credits.footer.afterLink "til Mozilla-verkefnisins.">
+<!ENTITY about.credits.heading.translators "Þýðendur">
+<!ENTITY about.credits.heading.champs "Meistarar">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
+<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
+
+<!ENTITY cdrip.lookup.multiple.title       "">
+<!ENTITY cdrip.lookup.multiple.description "">
+<!ENTITY cdinfo.other.label                "Bæta við þínum eigin upplýsingum um flytjendur og albúm">
+
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Adding tracks">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

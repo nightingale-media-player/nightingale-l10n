@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName;-ի հիմնաբառի պիտակներ" >
+<!ENTITY help.keyboard.subtitle           "Ստեղնաշարի Կարճուղիներ" >
+<!ENTITY help.keyboard.description        "Հիմնաբառի պատկերակները կարող են ստեղծել գործեր &brandShortName;-ում շատ ավելի հեշտ: Ահա հասանելի հրամանների ցանկը:">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Հրաման" >
+<!ENTITY help.keyboard.heading.shortcut   "Պիտակը" >
+<!ENTITY help.keyboard.section.playback   "Խաղարկման Ղեկավարում" >
+<!ENTITY help.keyboard.section.library    "Շտեմարանը և Խաղացանկեր" >
+<!ENTITY help.keyboard.section.editing    "Խմբագրում" >
+<!ENTITY help.keyboard.section.navigation "Ուղղորդում" >
+<!ENTITY help.keyboard.section.browser    "Դիտարկիչ" >
+<!ENTITY help.keyboard.section.windows    "Պատուհաններ և Էջեր" >
+<!ENTITY help.keyboard.section.search     "Փնտրել" >
+<!ENTITY help.keyboard.section.video      "Տեսանյութ" >
+<!ENTITY help.keyboard.section.cdrip      "Պատճենել CD" >
+<!ENTITY help.keyboard.section.misc       "Խառը" >
+
+<!ENTITY help.keyboard.key.left           "Left Arrow" >
+<!ENTITY help.keyboard.key.right          "Right Arrow" >
+<!ENTITY help.keyboard.key.up             "Up Arrow" >
+<!ENTITY help.keyboard.key.down           "Down Arrow" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Սեղմում" >
+<!ENTITY help.keyboard.mouse.click.middle "Middle-Click" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Ջնջել" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Վերարտադրել/Դադար` ընտրված մեդիայի" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Վերարտադրել ցանկի նախորդ մեդիան" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Վերարտադրել ցանկի հաջորդ մեդիան" >
+<!ENTITY help.keyboard.name.volume.down         "Իջեցնել ձայնը" >
+<!ENTITY help.keyboard.name.volume.up           "Բարձրացնել ձայնը" >
+<!ENTITY help.keyboard.name.volume.mute         "Ձայնը կտրել" >
+<!ENTITY help.keyboard.name.volume.max          "Առվլ. ձայնը" >
+<!ENTITY help.keyboard.name.jumpto              "Անցնել պատուհանի" >
+<!ENTITY help.keyboard.name.equalizer           "Բացել էքվալայզերը" >
+<!ENTITY help.keyboard.name.new.playlist        "Նոր խաղացանկ" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Նոր խելացի խաղացանկ" >
+<!ENTITY help.keyboard.name.import              "Ներմուծել մեդիա" >
+<!ENTITY help.keyboard.name.currenttrack        "Տեղադրել Մեդիան Այժմ Խաղարկվում է ֆայլը" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Փոփոխել մեդիայի դիտումը" >
+<!ENTITY help.keyboard.name.feather.switch      "Անցնել Ապագա Լայնքերը" >
+<!ENTITY help.keyboard.name.trackeditor         "Մետատվյալի խմբագրիչ" >
+<!ENTITY help.keyboard.name.edit.undo           "Հետ" >
+<!ENTITY help.keyboard.name.edit.redo           "Հետ" >
+<!ENTITY help.keyboard.name.edit.selectall      "Ընտրել բոլորը" >
+<!ENTITY help.keyboard.name.edit.cut            "Կտրել" >
+<!ENTITY help.keyboard.name.edit.copy           "Պատճենել" >
+<!ENTITY help.keyboard.name.edit.paste          "Տեղադրել" >
+<!ENTITY help.keyboard.name.edit.delete         "Ջնջել" >
+<!ENTITY help.keyboard.name.browser.back        "Հետ" >
+<!ENTITY help.keyboard.name.browser.forward     "Առաջ" >
+<!ENTITY help.keyboard.name.browser.reload      "Վերաբացել" >
+<!ENTITY help.keyboard.name.browser.stop        "Կանգնեցնել բացումը" >
+<!ENTITY help.keyboard.name.open.file           "Բացել ֆայլ" >
+<!ENTITY help.keyboard.name.open.url            "Բացել URL հղում" >
+<!ENTITY help.keyboard.name.tab.open.link       "Բացել հղումը նոր էջում" >
+<!ENTITY help.keyboard.name.save.link           "Պահպանել հղումը" >
+<!ENTITY help.keyboard.name.file.print          "Տպել" >
+<!ENTITY help.keyboard.name.view.source         "Նայել աղբյուրը" >
+<!ENTITY help.keyboard.name.view.zoomin         "Մեծացնել" >
+<!ENTITY help.keyboard.name.view.zoomout        "Փոքրացնել" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Ետարկել չափը" >
+<!ENTITY help.keyboard.name.subscribe           "Գրվել" >
+<!ENTITY help.keyboard.name.locationbar         "Ֆոկուսավորել տեղ. վահանակը" >
+<!ENTITY help.keyboard.name.tab.new             "Նոր էջ" >
+<!ENTITY help.keyboard.name.tab.close           "Փակել էջը" >
+<!ENTITY help.keyboard.name.tab.next            "Հաջորդ էջը" >
+<!ENTITY help.keyboard.name.tab.previous        "Նախորդ էջը" >
+<!ENTITY help.keyboard.name.tab.1               "Անցնել էջ 1" >
+<!ENTITY help.keyboard.name.tab.2               "Անցնել էջ 2" >
+<!ENTITY help.keyboard.name.tab.3               "Անցնել էջ 3" >
+<!ENTITY help.keyboard.name.tab.4               "Անցնել էջ 4" >
+<!ENTITY help.keyboard.name.tab.5               "Անցնել էջ 5" >
+<!ENTITY help.keyboard.name.tab.6               "Անցնել էջ 6" >
+<!ENTITY help.keyboard.name.tab.7               "Անցնել էջ 7" >
+<!ENTITY help.keyboard.name.tab.8               "Անցնել էջ 8" >
+<!ENTITY help.keyboard.name.tab.9               "Անցնել վերջին էջին" >
+<!ENTITY help.keyboard.name.page.top            "Շարժել էջի վերև" >
+<!ENTITY help.keyboard.name.page.bottom         "Շարժել էջի ներքև" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Ամբողջ էկրանով" >
+<!ENTITY help.keyboard.name.mac.minimize        "Թաքցնել ներքևում" >
+<!ENTITY help.keyboard.name.mac.hide            "Թաքցնել պատուհանը" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Թաքցնել այլ ծրագրերը" >
+<!ENTITY help.keyboard.name.downloads           "Բեռնումներ" >
+<!ENTITY help.keyboard.name.find                "Փնտրել" >
+<!ENTITY help.keyboard.name.find.again          "Կրկին Փնտրել" >
+<!ENTITY help.keyboard.name.find.text           "Փնտրել, ինչպես գրել եք տեքստը" >
+<!ENTITY help.keyboard.name.find.link           "Փնտրել, ինչպես գրել եք հղումը" >
+<!ENTITY help.keyboard.name.search.focus        "Ֆոկուսավորել Որոնման դաշտում" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Ամբողջ էկրանով" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Տեսանյութը առջևում" >
+<!ENTITY help.keyboard.name.video.escape        "Փակել Ամբողջ էկրանով" >
+<!ENTITY help.keyboard.name.cdrip.start         "Պատճենել CD-ին" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Կանգնեցնել CD-ի պատճենումը" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Հանել CD-ին" >
+<!ENTITY help.keyboard.name.quit                "Թողնել" >
+<!ENTITY help.keyboard.name.preferences         "Կարգավորումներ" >
+<!ENTITY help.keyboard.name.help                "Օգնության բաժինները" >
+<!ENTITY help.keyboard.name.sanitize            "Մաքրել Անձնական տվյալները" >

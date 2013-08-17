@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Klavkombinoj de &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Klavkombinoj" >
+<!ENTITY help.keyboard.description        "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
+<!ENTITY help.platform.windows            "Vindozo" >
+<!ENTITY help.platform.macosx             "Mako OS X" >
+<!ENTITY help.platform.linux              "Linukso" >
+<!ENTITY help.keyboard.heading.command    "Komando" >
+<!ENTITY help.keyboard.heading.shortcut   "Klavkomando" >
+<!ENTITY help.keyboard.section.playback   "Reproduktadaj Kontroliloj" >
+<!ENTITY help.keyboard.section.library    "Biblioteko kaj Ludlistoj" >
+<!ENTITY help.keyboard.section.editing    "Redaktante" >
+<!ENTITY help.keyboard.section.navigation "Navigado" >
+<!ENTITY help.keyboard.section.browser    "Foliumilo" >
+<!ENTITY help.keyboard.section.windows    "Fenestroj kaj folioj" >
+<!ENTITY help.keyboard.section.search     "Serĉi" >
+<!ENTITY help.keyboard.section.video      "Filmeto" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Diversaĵoj" >
+
+<!ENTITY help.keyboard.key.left           "← " >
+<!ENTITY help.keyboard.key.right          "→ " >
+<!ENTITY help.keyboard.key.up             "↑ " >
+<!ENTITY help.keyboard.key.down           "↓ " >
+<!ENTITY help.keyboard.key.pgup           "Paĝo Supra" >
+<!ENTITY help.keyboard.key.pgdn           "Sudpaĝo" >
+<!ENTITY help.keyboard.key.home           "Hejmo" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tabo" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Click" >
+<!ENTITY help.keyboard.mouse.click.middle "Middle-Click" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "majuskliga klavo" >
+<!ENTITY help.keyboard.key.delete         "Forviŝi" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Play/Pause the Selected Media Item" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Play the Previous Media Item in a List" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Play the Next Media Item in a List" >
+<!ENTITY help.keyboard.name.volume.down         "Malpliigu Sonintenson" >
+<!ENTITY help.keyboard.name.volume.up           "Pliigu Sonintenson" >
+<!ENTITY help.keyboard.name.volume.mute         "Silentigu Sonintenson" >
+<!ENTITY help.keyboard.name.volume.max          "Pleja Sonintenso" >
+<!ENTITY help.keyboard.name.jumpto              "Jump To Window" >
+<!ENTITY help.keyboard.name.equalizer           "Malfermi la Ekvalizilon" >
+<!ENTITY help.keyboard.name.new.playlist        "Nova ludlisto" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Nova Ruza Ludlisto" >
+<!ENTITY help.keyboard.name.import              "Import Media" >
+<!ENTITY help.keyboard.name.currenttrack        "Locate Now Playing Media Item" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Switch Media View" >
+<!ENTITY help.keyboard.name.feather.switch      "Switch Feather Layouts" >
+<!ENTITY help.keyboard.name.trackeditor         "Redaktilo de Metadatumoj" >
+<!ENTITY help.keyboard.name.edit.undo           "Malfari" >
+<!ENTITY help.keyboard.name.edit.redo           "Refari" >
+<!ENTITY help.keyboard.name.edit.selectall      "Elekti ĉiujn" >
+<!ENTITY help.keyboard.name.edit.cut            "Eltondi" >
+<!ENTITY help.keyboard.name.edit.copy           "Kopii" >
+<!ENTITY help.keyboard.name.edit.paste          "Alglui" >
+<!ENTITY help.keyboard.name.edit.delete         "Forviŝi" >
+<!ENTITY help.keyboard.name.browser.back        "Reen" >
+<!ENTITY help.keyboard.name.browser.forward     "Antaŭen" >
+<!ENTITY help.keyboard.name.browser.reload      "Reŝarĝi" >
+<!ENTITY help.keyboard.name.browser.stop        "Haltu Ŝarĝadon" >
+<!ENTITY help.keyboard.name.open.file           "Malfermi dosieron" >
+<!ENTITY help.keyboard.name.open.url            "Malfermi URL-lokon" >
+<!ENTITY help.keyboard.name.tab.open.link       "Malfermi ligilon en nova folio" >
+<!ENTITY help.keyboard.name.save.link           "Konservi ligilon" >
+<!ENTITY help.keyboard.name.file.print          "Presi" >
+<!ENTITY help.keyboard.name.view.source         "Vidi fontokodon" >
+<!ENTITY help.keyboard.name.view.zoomin         "Zomu" >
+<!ENTITY help.keyboard.name.view.zoomout        "Malzomu" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Rekomencigu zomon" >
+<!ENTITY help.keyboard.name.subscribe           "Aboni" >
+<!ENTITY help.keyboard.name.locationbar         "Focus Location Bar" >
+<!ENTITY help.keyboard.name.tab.new             "Nova folio" >
+<!ENTITY help.keyboard.name.tab.close           "Fermi folion" >
+<!ENTITY help.keyboard.name.tab.next            "Sekva folion" >
+<!ENTITY help.keyboard.name.tab.previous        "Antaŭa folio" >
+<!ENTITY help.keyboard.name.tab.1               "Ŝalti al folio 1" >
+<!ENTITY help.keyboard.name.tab.2               "Ŝalti al folio 2" >
+<!ENTITY help.keyboard.name.tab.3               "Ŝalti al folio 3" >
+<!ENTITY help.keyboard.name.tab.4               "Ŝalti al folio 4" >
+<!ENTITY help.keyboard.name.tab.5               "Ŝalti al folio 5" >
+<!ENTITY help.keyboard.name.tab.6               "Ŝalti al folio 6" >
+<!ENTITY help.keyboard.name.tab.7               "Ŝalti al folio 7" >
+<!ENTITY help.keyboard.name.tab.8               "Ŝalti al folio 8" >
+<!ENTITY help.keyboard.name.tab.9               "Ŝalti al folio 9" >
+<!ENTITY help.keyboard.name.page.top            "Move to Top of Page" >
+<!ENTITY help.keyboard.name.page.bottom         "Move to Bottom of Page" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Plenekrano" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimize to Dock" >
+<!ENTITY help.keyboard.name.mac.hide            "Malmontri fenestron" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Malmontri aliajn programojn" >
+<!ENTITY help.keyboard.name.downloads           "Elŝutoj" >
+<!ENTITY help.keyboard.name.find                "Serĉi" >
+<!ENTITY help.keyboard.name.find.again          "Serĉi denove" >
+<!ENTITY help.keyboard.name.find.text           "Find As You Type Text" >
+<!ENTITY help.keyboard.name.find.link           "Find As You Type Link" >
+<!ENTITY help.keyboard.name.search.focus        "Selekti Serĉujon" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Full Screen" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
+<!ENTITY help.keyboard.name.video.escape        "Escape from Full Screen" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Eject CD" >
+<!ENTITY help.keyboard.name.quit                "Foriri" >
+<!ENTITY help.keyboard.name.preferences         "Agordoj" >
+<!ENTITY help.keyboard.name.help                "Helpaj Temoj" >
+<!ENTITY help.keyboard.name.sanitize            "Vakigu Viajn Privatajn Datumojn" >

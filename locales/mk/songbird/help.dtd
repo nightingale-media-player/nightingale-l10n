@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "Тастатурски кратенки на &brandShortName;" >
+<!ENTITY help.keyboard.subtitle           "Тастатурски кратенки" >
+<!ENTITY help.keyboard.description        "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Команда" >
+<!ENTITY help.keyboard.heading.shortcut   "Кратенка" >
+<!ENTITY help.keyboard.section.playback   "Контроли за изведување" >
+<!ENTITY help.keyboard.section.library    "Библиотека и плејлисти" >
+<!ENTITY help.keyboard.section.editing    "Уредување" >
+<!ENTITY help.keyboard.section.navigation "Навигација" >
+<!ENTITY help.keyboard.section.browser    "Прелистувач" >
+<!ENTITY help.keyboard.section.windows    "Прозорци и јазичиња" >
+<!ENTITY help.keyboard.section.search     "Пронајди" >
+<!ENTITY help.keyboard.section.video      "Video" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Разновидени" >
+
+<!ENTITY help.keyboard.key.left           "Left Arrow" >
+<!ENTITY help.keyboard.key.right          "Right Arrow" >
+<!ENTITY help.keyboard.key.up             "Up Arrow" >
+<!ENTITY help.keyboard.key.down           "Down Arrow" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Click" >
+<!ENTITY help.keyboard.mouse.click.middle "Middle-Click" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Избриши" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Пушти/Прекини го избраниот медиски предмет" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Пушти го претходниот медиски предмет во листа" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Пушти го наредниот медиски предмет во листа" >
+<!ENTITY help.keyboard.name.volume.down         "Намали глас" >
+<!ENTITY help.keyboard.name.volume.up           "Зголеми глас" >
+<!ENTITY help.keyboard.name.volume.mute         "Пригуши го гласот" >
+<!ENTITY help.keyboard.name.volume.max          "Макс. глас" >
+<!ENTITY help.keyboard.name.jumpto              "Скокни до прозорец" >
+<!ENTITY help.keyboard.name.equalizer           "Open the Equalizer" >
+<!ENTITY help.keyboard.name.new.playlist        "Нова плејлиста" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Нова итра плејлиста" >
+<!ENTITY help.keyboard.name.import              "Внеси медиa" >
+<!ENTITY help.keyboard.name.currenttrack        "Откриј го пуштениот медиски предмет" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Смени медиски поглед" >
+<!ENTITY help.keyboard.name.feather.switch      "Switch Feather Layouts" >
+<!ENTITY help.keyboard.name.trackeditor         "Уредувач на метаподатоци" >
+<!ENTITY help.keyboard.name.edit.undo           "Врати" >
+<!ENTITY help.keyboard.name.edit.redo           "Повтори" >
+<!ENTITY help.keyboard.name.edit.selectall      "Избери сè" >
+<!ENTITY help.keyboard.name.edit.cut            "Исечи" >
+<!ENTITY help.keyboard.name.edit.copy           "Копирај" >
+<!ENTITY help.keyboard.name.edit.paste          "Залепи" >
+<!ENTITY help.keyboard.name.edit.delete         "Избриши" >
+<!ENTITY help.keyboard.name.browser.back        "Назад" >
+<!ENTITY help.keyboard.name.browser.forward     "Напред" >
+<!ENTITY help.keyboard.name.browser.reload      "Превчитај" >
+<!ENTITY help.keyboard.name.browser.stop        "Запирај вчитување" >
+<!ENTITY help.keyboard.name.open.file           "Отвори датотека…" >
+<!ENTITY help.keyboard.name.open.url            "Open URL Location" >
+<!ENTITY help.keyboard.name.tab.open.link       "Отвори ја врската во ново јазиче" >
+<!ENTITY help.keyboard.name.save.link           "Зачувај ја врската" >
+<!ENTITY help.keyboard.name.file.print          "Печати" >
+<!ENTITY help.keyboard.name.view.source         "Види извор" >
+<!ENTITY help.keyboard.name.view.zoomin         "Зголеми" >
+<!ENTITY help.keyboard.name.view.zoomout        "Намали" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Zoom Reset" >
+<!ENTITY help.keyboard.name.subscribe           "Претплати" >
+<!ENTITY help.keyboard.name.locationbar         "Focus Location Bar" >
+<!ENTITY help.keyboard.name.tab.new             "Ново јазиче" >
+<!ENTITY help.keyboard.name.tab.close           "Затвори го јазичето" >
+<!ENTITY help.keyboard.name.tab.next            "Следно јазиче" >
+<!ENTITY help.keyboard.name.tab.previous        "Претходно јазиче" >
+<!ENTITY help.keyboard.name.tab.1               "Префрли се до јазиче бр. 1" >
+<!ENTITY help.keyboard.name.tab.2               "Префрли се до јазиче бр. 2" >
+<!ENTITY help.keyboard.name.tab.3               "Префрли се до јазиче бр. 3" >
+<!ENTITY help.keyboard.name.tab.4               "Префрли се до јазиче бр. 4" >
+<!ENTITY help.keyboard.name.tab.5               "Префрли се до јазиче бр. 5" >
+<!ENTITY help.keyboard.name.tab.6               "Префрли се до јазиче бр. 6" >
+<!ENTITY help.keyboard.name.tab.7               "Префрли се до јазиче бр. 7" >
+<!ENTITY help.keyboard.name.tab.8               "Префрли се до јазиче бр. 8" >
+<!ENTITY help.keyboard.name.tab.9               "Префрли се до јазиче бр. 9" >
+<!ENTITY help.keyboard.name.page.top            "Move to Top of Page" >
+<!ENTITY help.keyboard.name.page.bottom         "Move to Bottom of Page" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Full Screen" >
+<!ENTITY help.keyboard.name.mac.minimize        "Minimize to Dock" >
+<!ENTITY help.keyboard.name.mac.hide            "Сокриј го прозорецот" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Сокриј други апликации" >
+<!ENTITY help.keyboard.name.downloads           "Превземања" >
+<!ENTITY help.keyboard.name.find                "Најди" >
+<!ENTITY help.keyboard.name.find.again          "Најди пак" >
+<!ENTITY help.keyboard.name.find.text           "Find As You Type Text" >
+<!ENTITY help.keyboard.name.find.link           "Find As You Type Link" >
+<!ENTITY help.keyboard.name.search.focus        "Focus Search Box" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Full Screen" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
+<!ENTITY help.keyboard.name.video.escape        "Escape from Full Screen" >
+<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Eject CD" >
+<!ENTITY help.keyboard.name.quit                "Одречи" >
+<!ENTITY help.keyboard.name.preferences         "Преференции" >
+<!ENTITY help.keyboard.name.help                "Помошни теми" >
+<!ENTITY help.keyboard.name.sanitize            "Бриши ги твоите приватни податоци" >

@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName; пречице на тастатури" >
+<!ENTITY help.keyboard.subtitle           "Пречице на тастатури" >
+<!ENTITY help.keyboard.description        "Пречице на тастатури могу драстично олакшати рад у &brandShortName;. Доле се налази списак наредби с одговарајућим пречицама.">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "Наредба" >
+<!ENTITY help.keyboard.heading.shortcut   "Пречица" >
+<!ENTITY help.keyboard.section.playback   "Контроле репродукције" >
+<!ENTITY help.keyboard.section.library    "Библиотека и списак нумера" >
+<!ENTITY help.keyboard.section.editing    "Уређивање" >
+<!ENTITY help.keyboard.section.navigation "Навигација" >
+<!ENTITY help.keyboard.section.browser    "Прегледач" >
+<!ENTITY help.keyboard.section.windows    "Прозори и језичци" >
+<!ENTITY help.keyboard.section.search     "Претрага" >
+<!ENTITY help.keyboard.section.video      "Видео" >
+<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
+<!ENTITY help.keyboard.section.misc       "Разно" >
+
+<!ENTITY help.keyboard.key.left           "Стрелица лево" >
+<!ENTITY help.keyboard.key.right          "Стрелица десно" >
+<!ENTITY help.keyboard.key.up             "Стрелица горе" >
+<!ENTITY help.keyboard.key.down           "Стрелица доле" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "Клик" >
+<!ENTITY help.keyboard.mouse.click.middle "Средњи клик" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Обриши" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "Репродукуј/паузирај изабрану ставку" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "Репродукуј претходну ставку" >
+<!ENTITY help.keyboard.name.playcontrol.next    "Репродукуј следећу ставку у списку нумера" >
+<!ENTITY help.keyboard.name.volume.down         "Утишај звук" >
+<!ENTITY help.keyboard.name.volume.up           "Појачај звук" >
+<!ENTITY help.keyboard.name.volume.mute         "Искључи звук" >
+<!ENTITY help.keyboard.name.volume.max          "Најјачи звук" >
+<!ENTITY help.keyboard.name.jumpto              "Пређи у прозор" >
+<!ENTITY help.keyboard.name.equalizer           "Отвори еквилајзер" >
+<!ENTITY help.keyboard.name.new.playlist        "Нови списак нумера" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "Нови паметни списак нумера" >
+<!ENTITY help.keyboard.name.import              "Увези медије" >
+<!ENTITY help.keyboard.name.currenttrack        "Пронађи ставку која се тренутно репродукује" >
+<!ENTITY help.keyboard.name.mediapage.switch    "Промени приказ медија" >
+<!ENTITY help.keyboard.name.feather.switch      "Промени изглед теме" >
+<!ENTITY help.keyboard.name.trackeditor         "Уређивач метаподатака" >
+<!ENTITY help.keyboard.name.edit.undo           "Опозови радњу" >
+<!ENTITY help.keyboard.name.edit.redo           "Понови" >
+<!ENTITY help.keyboard.name.edit.selectall      "Изабери све" >
+<!ENTITY help.keyboard.name.edit.cut            "Исеци" >
+<!ENTITY help.keyboard.name.edit.copy           "Умножи" >
+<!ENTITY help.keyboard.name.edit.paste          "Налепи" >
+<!ENTITY help.keyboard.name.edit.delete         "Обриши" >
+<!ENTITY help.keyboard.name.browser.back        "Назад" >
+<!ENTITY help.keyboard.name.browser.forward     "Напред" >
+<!ENTITY help.keyboard.name.browser.reload      "Освежи" >
+<!ENTITY help.keyboard.name.browser.stop        "Заустави учитавање" >
+<!ENTITY help.keyboard.name.open.file           "Отвори датотеку" >
+<!ENTITY help.keyboard.name.open.url            "Отвори интернет локацију" >
+<!ENTITY help.keyboard.name.tab.open.link       "Отвори везу у новом језичку" >
+<!ENTITY help.keyboard.name.save.link           "Сачувај везу" >
+<!ENTITY help.keyboard.name.file.print          "Одштампај" >
+<!ENTITY help.keyboard.name.view.source         "Прикажи извор" >
+<!ENTITY help.keyboard.name.view.zoomin         "Увећај" >
+<!ENTITY help.keyboard.name.view.zoomout        "Умањи" >
+<!ENTITY help.keyboard.name.view.zoomreset      "Врати увећање на подразумевану вредност" >
+<!ENTITY help.keyboard.name.subscribe           "Претплати се" >
+<!ENTITY help.keyboard.name.locationbar         "Локација за усредсређивање" >
+<!ENTITY help.keyboard.name.tab.new             "Нови језичак" >
+<!ENTITY help.keyboard.name.tab.close           "Затвори језичак" >
+<!ENTITY help.keyboard.name.tab.next            "Следећи језичак" >
+<!ENTITY help.keyboard.name.tab.previous        "Претходни језичак" >
+<!ENTITY help.keyboard.name.tab.1               "Пређи на језичак 1" >
+<!ENTITY help.keyboard.name.tab.2               "Пређи на језичак 2" >
+<!ENTITY help.keyboard.name.tab.3               "Пређи на језичак 3" >
+<!ENTITY help.keyboard.name.tab.4               "Пређи на језичак 4" >
+<!ENTITY help.keyboard.name.tab.5               "Пређи на језичак 5" >
+<!ENTITY help.keyboard.name.tab.6               "Пређи на језичак 6" >
+<!ENTITY help.keyboard.name.tab.7               "Пређи на језичак 7" >
+<!ENTITY help.keyboard.name.tab.8               "Пређи на језичак 8" >
+<!ENTITY help.keyboard.name.tab.9               "Пређи на језичак 9" >
+<!ENTITY help.keyboard.name.page.top            "Пређи на врх стране" >
+<!ENTITY help.keyboard.name.page.bottom         "Пређи на крај стране" >
+<!ENTITY help.keyboard.name.view.fullscreen     "Цео екран" >
+<!ENTITY help.keyboard.name.mac.minimize        "Смањи у док" >
+<!ENTITY help.keyboard.name.mac.hide            "Сакриј прозор" >
+<!ENTITY help.keyboard.name.mac.hideothers      "Сакриј остале програме" >
+<!ENTITY help.keyboard.name.downloads           "Преузимања" >
+<!ENTITY help.keyboard.name.find                "Пронађи" >
+<!ENTITY help.keyboard.name.find.again          "Пронађи поново" >
+<!ENTITY help.keyboard.name.find.text           "Пронађи док куцам текст" >
+<!ENTITY help.keyboard.name.find.link           "Пронађи док куцам везу" >
+<!ENTITY help.keyboard.name.search.focus        "Поље за претрагу" >
+<!ENTITY help.keyboard.name.video.fullscreen    "Цео екран" >
+<!ENTITY help.keyboard.name.video.bringtofront  "Видео запис на врху" >
+<!ENTITY help.keyboard.name.video.escape        "Напусти цео екран" >
+<!ENTITY help.keyboard.name.cdrip.start         "Рипуј диск" >
+<!ENTITY help.keyboard.name.cdrip.stop          "Заустави риповање" >
+<!ENTITY help.keyboard.name.cdrip.eject         "Избаци диск" >
+<!ENTITY help.keyboard.name.quit                "Откажи" >
+<!ENTITY help.keyboard.name.preferences         "Поставке" >
+<!ENTITY help.keyboard.name.help                "Теме помоћи" >
+<!ENTITY help.keyboard.name.sanitize            "Очисти приватне податке" >

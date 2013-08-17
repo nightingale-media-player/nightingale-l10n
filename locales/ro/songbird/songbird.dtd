@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "OK" >
+<!ENTITY window.cancel      "Anulare" >
+<!ENTITY window.apply       "Aplică" >
+<!ENTITY window.browse      "Răsfoiește…" >
+<!ENTITY window.save        "Salvează">
+<!ENTITY window.yes         "Da">
+<!ENTITY window.no          "Nu">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Închide &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accelerează">
+<!ENTITY menu.mac.preferences           "Preferințe">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accelerează">
+<!ENTITY menu.mac.services              "Servicii">
+<!ENTITY menu.mac.hide                  "Ascunde &brandShortName;">
+<!ENTITY menu.mac.hide.key              "H">
+<!ENTITY menu.mac.hide.modifiers        "accelerează">
+<!ENTITY menu.mac.hideothers            "Ascunde celelalte">
+<!ENTITY menu.mac.hideothers.key        "H">
+<!ENTITY menu.mac.hideothers.modifiers  "accel, alt">
+<!ENTITY menu.mac.showall               "Arată tot">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Fișier" >
+<!ENTITY menu.file.new          "Listă de redare nouă…" >
+<!ENTITY menu.file.smart        "Listă de redare inteligentă nouă…" >
+<!ENTITY menu.file.remote       "Abonament nou…" >
+<!ENTITY menu.file.podcast      "Podcast nou…" >
+<!ENTITY menu.file.open         "Deschide fișier…" >
+<!ENTITY menu.file.url          "Deschide o adresă…" >
+<!ENTITY menu.file.playlist     "Importă o listă de redare…" >
+<!ENTITY menu.file.library      "Importă o bibliotecă…" >
+<!ENTITY menu.file.newtab       "Filă nouă" >
+<!ENTITY menu.file.closetab     "Închide fila" >
+<!ENTITY menu.file.metadata     "Vizualizare metadate">
+<!ENTITY menu.file.scan         "Importă fișiere…" >
+<!ENTITY menu.file.exit         "Ieșire" >
+
+<!ENTITY menu.edit          "Editează" >
+<!ENTITY menu.edit.undo     "Desfă" >
+<!ENTITY menu.edit.redo     "Refă" >
+<!ENTITY menu.edit.cut      "Taie" >
+<!ENTITY menu.edit.copy     "Copiază" >
+<!ENTITY menu.edit.paste    "Lipește" >
+<!ENTITY menu.edit.delete   "Șterge" >
+<!ENTITY menu.edit.selall   "Selectează tot" >
+<!ENTITY menu.edit.find        "Caută" >
+<!ENTITY menu.edit.findagain   "Caută din nou" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Preferințe">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "Control" >
+<!ENTITY menu.control.play  "Redare" >
+<!ENTITY menu.control.pause "Pauză" >
+<!ENTITY menu.control.next  "Piesa următoare" >
+<!ENTITY menu.control.prev  "Piesa precedentă" >
+<!ENTITY menu.control.shuf  "Amestecă" >
+<!ENTITY menu.control.repa  "Repetă toate" >
+<!ENTITY menu.control.rep1  "Repetă una" >
+<!ENTITY menu.control.repx  "Nu repeta" >
+<!ENTITY menu.control.jumpto "Sari la…" >
+
+<!ENTITY menu.control.play.button      "Redare" >
+<!ENTITY menu.control.pause.button     "Pauză" >
+<!ENTITY menu.control.stop.button      "Oprire" >
+
+<!ENTITY displaypane.default.image.pre "Selectați o extensie din meniu">
+<!ENTITY displaypane.default.image.tooltip "Pictograma de selecție pentru extensii">
+<!ENTITY displaypane.default.image.post "sau vizitați">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Site-ul de extensii">
+<!ENTITY displaypane.default.link.post "pentru a vedea extensiile.">
+<!ENTITY displaypane.name.servicepane   "Spațiu de servicii (Subsol)">
+<!ENTITY displaypane.name.browser       "Spațiu de conținut (Subsol)">
+<!ENTITY displaypane.name.sidebar       "Bară laterală dreapta">
+<!ENTITY servicepane.title.label        "Spațiu de servicii">
+
+<!ENTITY menu.tools            "Unelte" >
+<!ENTITY menu.tools.getartwork "Descarcă imaginea albumului…">
+<!ENTITY menu.tools.exportmedia "Exportă schimbările bibliotecii">
+
+<!ENTITY menu.help          "Ajutor" >
+<!ENTITY menu.help.homepage "Site-ul &brandShortName;" >
+<!ENTITY menu.help.bugz     "Raportează un defect…" >
+<!ENTITY menu.help.topics   "Asistență" >
+<!ENTITY menu.help.keyboard "Comenzile rapide de la tastatură">
+<!ENTITY menu.help.about    "Despre &brandShortName;" >
+
+<!ENTITY menu.equalizer     "Egalizator…" >
+<!ENTITY menu.preferences   "Opțiuni" >
+<!ENTITY menu.extensions    "Extensii" >
+<!ENTITY menu.clearprivatedata "Elimină datele private…">
+<!ENTITY menu.errorconsole "Consolă de erori">
+<!ENTITY menu.downloadmgr   "Descărcări de fișiere" >
+<!ENTITY menu.switchplayercontrols  "Comenzi player" >
+<!ENTITY menu.controllerontop       "Afișare în antet">
+<!ENTITY menu.controlleronbottom    "Afișare în subsol">
+
+<!ENTITY menu.fullscreen            "Pe tot ecranul">
+<!ENTITY menu.videotofront          "Video în față">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Se așteaptă dispozitivele.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Se așteaptă terminarea operațiilor pentru dispozitive. Apăsați „Ieșire” pentru a nu mai aștepta și pentru a părăsi aplicația.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Ieșire">
+
+<!ENTITY tooltip.minimize         "Minimizare" >
+<!ENTITY tooltip.maximize         "Maximizare/Restaurare" >
+<!ENTITY tooltip.exit             "Ieșire" >
+<!ENTITY tooltip.close            "Închide" >
+<!ENTITY tooltip.hide             "Ascunde" >
+<!ENTITY tooltip.fullscreen       "Pe tot ecranul" >
+<!ENTITY tooltip.control.back     "Piesa precedentă" >
+<!ENTITY tooltip.control.play     "Redare" >
+<!ENTITY tooltip.control.pause    "Pauză" >
+<!ENTITY tooltip.control.resume   "Reluare" >
+<!ENTITY tooltip.control.stop     "Oprire" >
+<!ENTITY tooltip.control.fwd      "Piesa următoare" >
+<!ENTITY tooltip.control.mute     "Surdină" >
+<!ENTITY tooltip.control.volume   "Volum" >
+<!ENTITY tooltip.control.shuffle  "Aleatoriu" >
+<!ENTITY tooltip.control.shuf_off "Nu amesteca" >
+<!ENTITY tooltip.control.curtrack "Găsește piesa actuală" >
+<!ENTITY tooltip.search           "Caută" >
+<!ENTITY tooltip.browser.back     "Răsfoiește înapoi" >
+<!ENTITY tooltip.browser.fwd      "Răsfoiește înainte" >
+<!ENTITY tooltip.browser.stop     "Oprește navigatorul" >
+<!ENTITY tooltip.browser.home     "Acasă" >
+<!ENTITY tooltip.browser.refresh  "Reîmprospătare" >
+<!ENTITY tooltip.browser.subscription "Abonare la această pagină" >
+<!ENTITY tooltip.browser.mediapages.list "Vizualizare listă" >
+<!ENTITY tooltip.browser.mediapages.filter "Vizualizare panou de filtre" >
+<!ENTITY tooltip.browser.mediapages "Schimbă vizualizarea de fișiere…" >
+<!ENTITY tooltip.servicepane.show    "Arată spațiul de servicii" >
+<!ENTITY tooltip.servicepane.collapse    "Închide spațiul de servicii" >
+<!ENTITY tooltip.servicepane.newnode "Listă de redare nouă" >
+<!ENTITY tooltip.displaypane.options "Opțiunile spațiului de conținut">
+
+<!ENTITY smart.window             "Listă de redare inteligentă" >
+<!ENTITY smart.limit              "Limitează la" >
+<!ENTITY smart.match              "Potrivește" >
+<!ENTITY smart.matchsingle        "Pune următoarea condiţie:" >
+<!ENTITY smart.any                "oricare" >
+<!ENTITY smart.all                "toate" >
+<!ENTITY smart.following          "din următoarele condiții:" >
+<!ENTITY smart.random             "aleatoriu" >
+<!ENTITY smart.album              "album" >
+<!ENTITY smart.artist             "artist" >
+<!ENTITY smart.genre              "gen" >
+<!ENTITY smart.title              "titlu" >
+<!ENTITY smart.high_rating        "cel mai bine cotate" >
+<!ENTITY smart.low_rating         "cel mai prost cotate" >
+<!ENTITY smart.most_recent        "cel mai recent redate" >
+<!ENTITY smart.least_recent       "cel mai puțin redate recent" >
+<!ENTITY smart.most_often         "cel mai des redate" >
+<!ENTITY smart.least_often        "cel mai puțin redate" >
+<!ENTITY smart.most_added         "cel mai recent adăugate" >
+<!ENTITY smart.least_added        "cel mai puțin adăugate recent" >
+<!ENTITY smart.minutes            "minute" >
+<!ENTITY smart.hours              "ore" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "piese" >
+<!ENTITY smart.selectedby         "ales de" >
+<!ENTITY smart.to                 "la" >
+<!ENTITY smart.autoupdate         "Actualizare automată">
+<!ENTITY smart.playlistcondition.library "Bibliotecă">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Muzică">
+
+<!ENTITY textbox.songbird_open_url "Introduceți adresa sau calea către ceea ce doriți să redați:">
+
+<!ENTITY open_url.title           "Deschide o adresă URL">
+<!ENTITY subscribe.title          "Abonare">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "minut/e">
+<!ENTITY subscribe.hours          "oră/ore">
+<!ENTITY subscribe.days           "zi/zile">
+<!ENTITY subscribe.autocheck      "Actualizează automat la fiecare">
+<!ENTITY subscribe.destinationfolder      "Alegeți dosarul de destinație:">
+
+<!ENTITY feed.subscribe.label     "Abonare">
+<!ENTITY feed.subscribe.dontask   "Nu mai arăta automat acest mesaj">
+<!ENTITY feed.subscribe.close     "Închide">
+
+<!ENTITY podcast.creation_dialog.title       "Podcast nou">
+<!ENTITY podcast.creation_dialog.url.heading "Adresă de internet:">
+
+
+<!ENTITY watchfolder.title        "Dosare sub supraveghere">
+<!ENTITY watchfolder.folderlist   "Monitorizează dacă în aceste dosare s-au adăugat fișiere noi:">
+
+<!ENTITY locale.language          "Limba" >
+<!ENTITY menu.view                "Vizualizare" >
+<!ENTITY about.version            "Versiune" >
+<!ENTITY about.buttons.credits    "Mulțumiri" >
+
+<!ENTITY equalizer.title          "Egalizator" >
+<!ENTITY equalizer.on.checkbox    "Activează" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Personalizat" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rock" >
+<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
+<!ENTITY equalizer.preset.techno      "Techno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Live" >
+<!ENTITY equalizer.preset.club        "Club" >
+<!ENTITY equalizer.preset.party       "Petrecere" >
+<!ENTITY equalizer.preset.classical   "Clasic" >
+<!ENTITY equalizer.preset.large_hall  "Sală mare" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Soft" >
+<!ENTITY equalizer.preset.small_speakers   "Laptop/Căști" >
+<!ENTITY equalizer.preset.full_bass_treble "Numai bass și înalte" >
+<!ENTITY equalizer.preset.full_treble "Numai înalte" >
+<!ENTITY equalizer.preset.full_bass   "Numai bass" >
+
+
+<!ENTITY setupprogress.pleasewait "Vă rugăm așteptați…" >
+<!ENTITY setupprogress.cancel     "Anulare">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "A" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "A" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "C" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "L" >
+<!ENTITY menu.view.accesskey              "V" >
+<!ENTITY menu.preferences.accesskey       "O" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "A" >
+<!ENTITY menu.clearprivatedata.accesskey  "P" >
+<!ENTITY menu.errorconsole.accesskey      "C" >
+<!ENTITY menu.file.exit.accesskey         "E" >
+<!ENTITY menu.downloadmgr.accesskey       "D" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "D" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "T" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "P" >
+<!ENTITY menu.edit.delete.accesskey   "E" >
+<!ENTITY menu.edit.selall.accesskey   "A" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "R" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "J" >
+
+
+<!ENTITY menu.tools.accesskey            "T" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Arată fișierul" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accelerează, schimbare" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Editor de metadate" >
+<!ENTITY trackeditor.tab.summary.title            "Cuprins" >
+<!ENTITY trackeditor.tab.edit.title               "Proprietăți" >
+<!ENTITY trackeditor.tab.lyrics.title             "Versuri" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Adaugă etichetă" >
+<!ENTITY trackeditor.addtag.tag       "Etichetă:" >
+
+<!ENTITY jumptofile.title             "Sari la" >
+<!ENTITY jumptofile.search            "Caută:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Folosește tastele rapide globale" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "Acțiune" >
+<!ENTITY hotkeys.hotkey               "Tastă rapidă" >
+<!ENTITY hotkeys.add                  "Adaugă" >
+<!ENTITY hotkeys.set                  "Setează" >
+<!ENTITY hotkeys.remove               "Șterge" >
+<!ENTITY hotkeys.prefpane             "Taste rapide" >
+<!ENTITY hotkeys.info                 "Comenzile rapide globale vă permit să accesați funcțiile &brandShortName;, chiar dacă &brandShortName; nu este aplicația activă. Unele comenzi rapide trebuie să includă taste modificatoare pentru a minimiza riscul interferenței cu alte aplicații." >
+
+<!ENTITY rapi.prefpane.title             "Integrare web" >
+<!ENTITY rapi.prefpane.access.caption    "Permisii de integrare web" >
+<!ENTITY rapi.prefpane.access.text       "Puteți permite site-urilor să se integreze cu &brandShortName; pentru a crea o legătură strânsă între web și fișierele dumneavoastră. Configurați &brandShortName; pentru a permite sau a bloca următoarele puncte de integrare." >
+<!ENTITY rapi.whitelist.label            "Excepții de…" >
+<!ENTITY rapi.restore_defaults.label      "Restabilește la setările implicite" >
+<!ENTITY rapi.playback_control_disable.label "Blochează controlul redării fișierelor de către site-uri" >
+<!ENTITY rapi.playback_read_disable.label    "Blochează vizualizarea de către site-uri a informațiilor despre fișierele în redare" >
+<!ENTITY rapi.library_read_disable.label     "Blochează vizualizarea de către site-uri a informațiilor despre fișierele din biblioteca mea și din dispozitive" >
+<!ENTITY rapi.library_write_disable.label    "Blochează adăugarea/editarea de către site-uri a fișierelor și a listelor de redare din biblioteca mea și din dispozitive" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Extensii">
+<!ENTITY prefpane.content.label       "Conținut web">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Nu este conectat nici un dispozitiv de stocare USB." >
+<!ENTITY umsd.music.tab                     "Muzică" >
+<!ENTITY umsd.music.music_files_group       "Fișiere de muzică" >
+<!ENTITY umsd.music.music_path_desc         "Când copiați fișiere pe dispozitiv, puneți-le în următorul dosar:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Selectați dosarul dispozitivului în care să se amplaseze fișierele de muzică." >
+<!ENTITY umsd.music.music_ext_desc          "Copiază fișierele de muzică cu următoarele extensii în dispozitivul:" >
+<!ENTITY umsd.video.tab                     "Video" >
+<!ENTITY umsd.video.video_files_group       "Fișiere video" >
+<!ENTITY umsd.video.video_path_desc         "Când copiați fișiere video în dispozitiv, puneți-le în următorul dosar:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Selectați dosarul dispozitivului în care să se amplaseze fișierele video." >
+<!ENTITY umsd.video.video_ext_desc          "Copiază pe dispozitiv fișierele video cu următoarele extensii:" >
+
+<!ENTITY device.error.dialog.link           "Vizualizează detalile erorii" >
+
+<!ENTITY restartbox.restartnow        "Repornește acum" >
+<!ENTITY restartbox.restartonplaybackend "Repornește la sfârșitul redării" >
+<!ENTITY restartbox.restartlater      "Repornește mai târziu" >
+
+<!ENTITY setupprogress.installingextensions "Se instalează extensii" >
+
+<!ENTITY jobprogress.details "Detalii" >
+
+<!ENTITY menu.updateCmd.label          "Verifică dacă sunt actualizări…">
+<!ENTITY menu.updateCmd.accessKey      "o">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Bară de spațiu" >
+
+<!ENTITY tabs.closeTab "Închide fila">
+<!ENTITY tabs.listAllTabs "Lista tuturor filelor">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator "-" >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Pagină de start" >
+<!ENTITY prefs.homepage.url.label          "Adresă de internet:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Instalare extensii" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Anulare">
+<!ENTITY command.device.cancel.accesskey                "A">
+<!ENTITY command.device.canceldevicecopy                "Anulează copierea">
+<!ENTITY command.device.canceldevicecopy.accesskey      "A">
+<!ENTITY command.device.canceldevicedelete              "Anulează ștergerea">
+<!ENTITY command.device.canceldevicedelete.accesskey    "A">
+<!ENTITY command.device.canceldevicesync                "Anulează sincronizarea">
+<!ENTITY command.device.canceldevicesync.accesskey      "A">
+<!ENTITY command.device.canceldeviceupdate              "Anulează actualizarea">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "A">
+<!ENTITY command.device.ejectdevice                     "Scoateți">
+<!ENTITY command.device.ejectdevice.accesskey           "E">
+<!ENTITY command.device.formatdevice                    "Formatează">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Ignoră ">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "Obține detalii">
+<!ENTITY command.device.getdeviceinfo.accesskey         "I">
+<!ENTITY command.device.renamedevice                    "Redenumește">
+<!ENTITY command.device.renamedevice.accesskey          "R">
+<!ENTITY command.device.devicesync                      "Sincronizează">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Extragere de pe CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Oprește extragerea de pe CD">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "Caută informații despre CD">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Scoate CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "E">
+
+<!ENTITY device.repair.menuitem.default                   "Repară dispozitivul meu">
+
+<!ENTITY device.firmware.wizard.title                     "Actualizează firmware">
+<!ENTITY device.firmware.wizard.check.page.title          "Verifică actualizări pentru firmware">
+<!ENTITY device.firmware.wizard.check.progress.title      "Verificare actualizări pentru firmware…">
+<!ENTITY device.firmware.wizard.check.install.description "Instalarea firmware-ului actualizat ar trebui să dureze mai puțin de zece minute. Puteți să faceți actualizarea oricând mai târziu.">
+<!ENTITY device.firmware.wizard.check.already.description "Firmware-ul pentru dispozitivul dumneavoastră este deja actualizat.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Detaliile versiunii">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Dispozitivul trebuie să fie conectat în modul firmware pentru a continua. Vă rugăm urmați instrucțiunile de mai jos pentru a seta dispozitivul pe modul firmware.">
+<!ENTITY device.firmware.wizard.download.title            "Descărcare firmware nou…">
+<!ENTITY device.firmware.wizard.repair.time.description   "Restabilirea dispozitivului ar trebui să dureze mai puțin de cinci minute.">
+<!ENTITY device.firmware.wizard.repair.warning            "Restabilirea dispozitivului la setările din fabrică va duce la ștergerea tuturor pieselor și a datelor de pe dispozitiv. Vă rugăm să faceți o copie de siguranță a tuturor fișierelor înainte de a continua.">
+<!ENTITY device.firmware.wizard.install.title             "Instalare firmware…">
+
+<!ENTITY device.firmware.wizard.busy.description  "Se pare că dispozitivul dumneavoastră este ocupat. Firmware-ul poate fi instalat doar când dispozitivul nu este utilizat.">
+<!ENTITY device.firmware.wizard.retry.description "Vă rugăm să încercați din nou după ce dispozitivul a completat operațiunea actuală.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "A intervenit o eroare în timp ce se căuta un nou firmware. Vă rugăm verificați conexiunea la internet și reîncercați.">
+<!ENTITY device.firmware.wizard.download.error.description "A intervenit o eroare în timpul descărcării noului firmware. Verificați conexiunea la internet și încercați din nou.">
+<!ENTITY device.firmware.wizard.support.description        "Resursele de asistență, cum ar fi întrebările frecvente sau sfaturile de depanare, pot fi găsite la">
+
+<!ENTITY device.info.icon.device            "Pictogramă dispozitiv general">
+<!ENTITY device.info.icon.readonly          "Pictogramă modul doar citire">
+<!ENTITY device.info.model.label            "Model">
+<!ENTITY device.info.capacity.label         "Capacitate">
+<!ENTITY device.info.product.label          "Produs">
+<!ENTITY device.info.friendly_name.label    "Nume">
+<!ENTITY device.info.serial_number.label    "Număr de serie">
+<!ENTITY device.info.vendor.label           "Producător">
+<!ENTITY device.info.access.label           "Compatibilitate acces">
+<!ENTITY device.info.playback_formats.label "Formate redare">
+<!ENTITY device.info.battery.label          "Baterie">
+<!ENTITY device.info.firmware_version.label "Versiune firmware">
+
+<!ENTITY device.progress.sync               "Sincronizare">
+
+<!ENTITY device.capacity.music.label    "Muzică">
+<!ENTITY device.capacity.video.label    "Video ">
+<!ENTITY device.capacity.image.label    "Poze">
+<!ENTITY device.capacity.other.label    "Altele">
+<!ENTITY device.capacity.free.label     "Liber">
+
+<!ENTITY device.unsupported_media.dialog.title  "S-au detectat fișiere incompatibile">
+<!ENTITY device.unsupported_media.dialog.enable "Spune-mi când sunt găsite fișiere incompatibile">
+
+<!ENTITY device.sync.header.label "Setări de sincronizare">
+<!ENTITY device.import.header.label "Importare">
+<!ENTITY device.sync.auto_sync.label "Sincronizare">
+<!ENTITY device.sync.sync_all.label "Toată muzica, fișierele video și listele de redare">
+<!ENTITY device.sync.sync_selected.label "Liste de redare selectate:">
+<!ENTITY device.sync.playlist.title "Titlu">
+<!ENTITY device.sync.playlist.video.duration "Durată video">
+<!ENTITY device.sync.images.from.label "Sincronizează pozele din…">
+<!ENTITY device.sync.images.browse "Alege dosarul…">
+<!ENTITY device.sync.images.all.label "Toate pozele">
+<!ENTITY device.sync.images.all.template "Toate pozele (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Sub-dosare selectate">
+<!ENTITY device.sync.images.foldername "Nume dosar">
+<!ENTITY device.sync.images.filecount "Poze">
+
+<!ENTITY device.settings.header.label "Setări">
+<!ENTITY device.settings.general.label "General">
+<!ENTITY device.settings.auto_launch.checkbox.label "Deschide &brandShortName; când acest dispozitiv este detectat">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Verifică automat pentru firmware mai nou">
+<!ENTITY device.settings.music.transcoding.label "Re-codarea pieselor">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "În prezent, nu sunt disponibile codificatoare pentru acest dispozitiv">
+<!ENTITY device.settings.disk.label "Administrare disc">
+<!ENTITY device.settings.disk.management.label "Personalizează structura dosarului">
+<!ENTITY device.settings.disk.management.filename "Fișiere de muzică">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Configurarea automată a re-codării">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Specifică manual rata de biți și formatul">
+<!ENTITY device.settings.music.transcoding.format.label "Formatul codării">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Rată de biți">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kb/s">
+
+<!ENTITY device.management.tabs.music.label "Muzică">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Poze">
+<!ENTITY device.management.tabs.tools.label "Unelte">
+<!ENTITY device.management.tabs.settings.label "Setări">
+
+<!ENTITY device.tools.product_registration.title "Înregistrarea produsului">
+<!ENTITY device.tools.product_registration.description "Doriți să asigurați dovada de cumpărare, să aveți beneficii suplimentare pentru produs în calitate de membru sau să primiți notificări de siguranță?">
+<!ENTITY device.tools.product_registration.label "Înregistrează produsul">
+
+<!ENTITY device.tools.update_firmware.title "Actualizează firmware-ul">
+<!ENTITY device.tools.update_firmware.description "Dispozitivul dumneavoastră este controlat de un program intern numit firmware. Versiuni mai noi ale firmware-ului au putut fi lansate de când ați conectat ultima dată dispozitivul la calculator.">
+<!ENTITY device.tools.update_firmware.label "Căutare firmware actualizat">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Versiunea actuală a firmware-ului:">
+
+<!ENTITY device.tools.restore_device.title "Restaurare dispozitiv">
+<!ENTITY device.tools.restore_device.description "Restaurarea dispozitivului la setările din fabrică va duce la ștergerea tuturor fișierelor de pe dispozitiv și, de asemenea, la restaurarea firmware-ului și a setărilor din fabrică.">
+<!ENTITY device.tools.restore_device.label "Restaurează dispozitivul la setările din fabrică">
+
+<!ENTITY device.tools.format_device.title "Formatare dispozitiv">
+<!ENTITY device.tools.format_device.description "Formatarea dispozitivului dumneavoastră va duce la ștergerea tuturor pieselor și datelor de pe dispozitiv.">
+<!ENTITY device.tools.format_device.label "Formatare dispozitiv">
+<!ENTITY device.tools.format_volume.button.label "Formatează">
+
+<!ENTITY device.tools.support.title "Asistență">
+<!ENTITY device.tools.support.description "Vizualizați ultimele noutăți în asistență, manuale de utilizator, documentație, întrebări frecvente și informații despre produs. Serviciile de asistență sunt disponibile pentru clienții care și-au înregistrat produsul.">
+<!ENTITY device.tools.support.label "Vizualizează resursele de asistență">
+
+<!ENTITY device.tools.reset_warnings.title "Resetare avertizări">
+<!ENTITY device.tools.reset_warnings.description "Resetarea mesajelor de avertizare va duce solicitarea confirmării din partea dumneavoastră pentru anumite sarcini pe care doriți să le îndepliniți.">
+<!ENTITY device.tools.reset_warnings.label "Resetează mesajele de avertizare">
+
+<!ENTITY device.dialog.setup.title "Configurare dispozitiv">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Alegeți ce dispozitiv de stocare doriți ca &brandShortName; să administreze.">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignoră acest dispozitiv">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Selectați doar dacă nu doriți ca &brandShortName; să administreze acest dispozitiv.">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Dacă nu doriți ca &brandShortName; să administreze acest dispozitiv, puteți să ">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "ignorați acest dispozitiv">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Deschide legătura în navigatorul de internet implicit">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Deschide pagina în navigatorul de internet implicit">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Deschide cadrul în navigatorul de internet implicit">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Deschide imaginea în navigatorul de internet implicit">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Copiere text selectat">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "Redare">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Descarcă în bibliotecă">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "Descarcă în lista de redare">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Nici o listă de redare&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Listă de redare nouă">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Abonare la această pagină…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Abonare la acest cadru…">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Ajutați-ne să facem &brandShortName; mai bun!">
+<!ENTITY feedback.dialog.yes        "Da">
+<!ENTITY feedback.dialog.no         "Nu">
+<!ENTITY feedback.dialog.sentence1  "Doriți să ne ajutați să facem &brandShortName; mai bun prin participarea la un sondaj rapid și anonim?">
+<!ENTITY feedback.dialog.sentence2  "Dacă nu vă interesează, nu vă vom mai întreba niciodată. Vă mulțumim pentru că luați în considerare și pentru că folosiți &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3  "Cu respect,">
+<!ENTITY feedback.dialog.sentence4  "Echipa &brandShortName;">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Bun venit la &brandShortName;!">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "Pregătire &brandShortName;">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Extensii recomandate">
+<!ENTITY first_run.add_ons.description.line1 "Extensiile măresc funcționalitatea programului &brandShortName;, permițându-vă să personalizați interacționarea cu programul. Opțiunile de mai jos sunt recomandate.">
+<!ENTITY first_run.add_ons.description.line2 "Extensiile pot fi integrate în alte aplicaţii şi servicii, suportă conectarea la dispozitive externe, pot schimba aspectul aplicaţiei şi multe altele! Puteţi descărca extensii adiţionale de pe site-ul de extensii &brandShortName;.">
+<!ENTITY first_run.add_ons.loading.label     "Descărcare extensii recomandate.">
+<!ENTITY first_run.add_ons.load_failed.label "Descărcarea extensiilor recomandate nu poate fi efectuată.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Actualizare gata de instalare.">
+<!ENTITY first_run.app_update.finished.text "Actualizarea va fi instalată când &brandShortName; va fi repornit.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; nu reușește să se conecteze la internet">
+<!ENTITY first_run.connection.description          "Verifică setările conexiunii sau continuă cu expertul de configurare.">
+<!ENTITY first_run.connection.settings.button      "Setări de conexiune …">
+<!ENTITY first_run.connection.settings.description "Calculatorul și rețeaua dumneavoastră sunt protejate printr-un firewall sau proxy? Repararea unor setări incorecte ale conexiunii poate ajuta în remedierea multor probleme de rețea des întâlnite.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Acord de licență">
+<!ENTITY first_run.eula.accept_checkbox.label "Am citit și am acceptat termenii acestei licențe.">
+<!ENTITY first_run.eula.language.label        "Limba:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Ajutați la dezvoltarea &brandShortName;">
+<!ENTITY first_run.feedback.description             "Doriţi să ne ajutaţi în dezvoltarea &brandShortName; prin trimiterea de rapoarte sub forma unor anallize anonime asupra modului în care utilizaţi aplicația?">
+<!ENTITY first_run.feedback.metrics.label           "Colecționează și trimite analizele mele echipei &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description     "Analizele sunt complet anonime și nici o informație personală nu este colectată.">
+<!ENTITY first_run.feedback.email.header.label      "Ține-mă la curent">
+<!ENTITY first_run.feedback.email.description       "Abonați-vă la buletinul nostru informativ pentru a fi la curent cu noile versiuni și cu actualizările importante.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "introduceţi adresa de e-mail pentru a fi la curent cu noutățile">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "Import/Export iTunes">
+<!ENTITY first_run.itunes.description                   "Se pare că aveți iTunes instalat. &brandShortName; poate fi configurat să importe și/sau să exporte melodii între &brandShortName; și iTunes, astfel încât bibliotecile dumneavoastră să fie sincronizate.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Importă piese și liste de redare din iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Podcasturile și piesele cumpărate din magazinul iTunes pot fi importate în &brandShortName;. Această caracteristică va funcționa bine dacă &brandShortName; va fi player-ul dumneavoastră principal de muzică.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Exportă piese și liste de redare noi în iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Muzica achiziționată prin &brandShortName; poate fi exportată în iTunes, astfel încât poate fi transferată în iPod-ul sau în iPhone-ul dumneavoastră.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Importă fișiere">
+<!ENTITY first_run.import_media.description                  "Selectați tipurile de fișiere pe care doriți să le importați în &brandShortName;. După ce &brandShortName; este pornit, puteți adăuga și alte tipuri de fișiere în diverse moduri.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Examinează dosarele din calculator">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Nu importa fișiere">
+<!ENTITY first_run.import_media.scan_directories.description "Doriți ca &brandShortName; să încerce să importe fișiere prin scanarea dosarelor specifice din calculatorul dumneavoastră?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Supraveghează acest dosar pentru schimbări">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Se descarcă extensii">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Bun venit la &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; este o alternativă foarte ușor de personalizat pentru playerele tradiționale de media.">
+<!ENTITY first_run.welcome.description.line2 "Acest asistent vă oferă o cale rapidă și eficientă pentru a instala și a utiliza &brandShortName;.">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Importator de fișiere">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Importă o bibliotecă">
+<!ENTITY import_library.prefs.title                       "Importator iTunes">
+<!ENTITY import_library.library_file_label                "Fișier bibliotecă:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Avertizează-mă când nu sunt importate piese sau liste de redare nesuportate">
+<!ENTITY import_library.prefs.path_group_caption          "Locația bibliotecii de muzică din iTunes">
+<!ENTITY import_library.prefs.options_group_caption       "Importă opțiuni">
+<!ENTITY import_library.import_command                    "Importă o bibliotecă">
+<!ENTITY import_tracks_itunes_checkbox                    "Importă melodii din iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Importă playlisturi">
+<!ENTITY export_tracks_itunes_checkbox                    "Exportă melodii în iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Exportă liste de redare">
+<!ENTITY export_subscriptions_itunes_checkbox             "Exportă abonamente">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Exportă liste de redare inteligente">
+<!ENTITY importexport_show_notifications_checkbox         "Arată notificări când importul/exportul este terminat">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Listă de redare schimbată">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Menține lista de redare actuală din &brandShortName; (Nu importa această listă de redare)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Îmbină listele de redare actuale din &brandShortName; și din iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Înlocuiește această listă de redare din &brandShortName; cu cea actuală din iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Notă: O dată efectuate îmbinarea și înlocuirea, nu se mai poate reveni asupra deciziei.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Aplică selecția pentru toate listele de redare">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Nu activați Dosare sub supraveghere la același dosar ca Dosarul de administrare a pieselor. Acest lucru va crea duplicate în biblioteca dumneavoastră. ">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Dosare sub supraveghere">
+<!ENTITY watch_folder.prefs.settings_group_caption "Setările dosarului sub supraveghere">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; poate monitoriza conținutul unui dosar și poate adăuga sau elimina automat elemente conținute de acesta.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Detectează automat schimbările apărute în următorul dosar">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Dosar:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Extensii recomandate">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "Pregătire &brandShortName;">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Detalii">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Nimic în curs de redare" >
+<!ENTITY albumart.displaypane.not_selected_message  "Nimic selectat" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Trageți coperta aici" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Arată-o pe cea selectată" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Arată-o pe cea redată" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Taie">
+<!ENTITY albumart.displaypane.selected.menu.copy "Copiază">
+<!ENTITY albumart.displaypane.selected.menu.paste "Lipește">
+<!ENTITY albumart.displaypane.selected.menu.clear "Elimină">
+<!ENTITY albumart.coverpreview.title "Copertă album">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Imaginea albumului">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Adăugați imaginea albumului la metadate.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "În acest fel, &brandShortName; va putea încorpora imaginea în etichetele compatibile pentru fișiere.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Caută fișiere după nume:">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Introduceți aici lista cu numele fișierelor separate prin virgulă">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Caută fișiere după extensie:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Introduceți aici lista cu extensii separate prin virgulă">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Proprietățile aducătorului">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Modifică lista de fişiere descărcate pentru a fi utilizate primele.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Sus">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Jos">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Resetează">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Descarcă automat imaginea albumului">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Descarcă automat imaginea albumului când o piesă este redată sau selectată, în funcție de modul din spațiul de afișare a acesteia. Performanța poate fi afectată când această opțiune este activată.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Înapoi">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "Anulare">
+<!ENTITY wizard.button.next.label      "Continuare">
+<!ENTITY wizard.button.next.accesskey  "C">
+<!ENTITY wizard.button.finish.label    "Termină">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Eroare fișiere de bază">
+<!ENTITY mediacore.error.preface  "&brandShortName; a depistat următoarea/ele eroare/i a/le fișierelor de bază:">
+<!ENTITY mediacore.error.continue "Continuă">
+<!ENTITY mediacore.error.stop     "Oprește redarea">
+<!ENTITY mediacore.error.dontshowme "Nu mai afișa alte erori ale fișierelor de bază">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Pentru mai multe informații în legătură cu codecurile lipsă, vizitați">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Anunț de importare fișiere">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Pentru mai multe detalii în legătură cu lipsa codecurilor, vizitați:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Nu mă mai atenționa în legătură cu fișierele video nesuportate în timpul importării">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Redare">
+
+<!ENTITY playback.prefpane.audio_output.label   "Ieșire audio">
+<!ENTITY playback.prefpane.audio_output.buffer  "Buffer de ieșire:">
+
+<!ENTITY playback.prefpane.streaming.label      "Rețea și difuzare sub formă de flux">
+<!ENTITY playback.prefpane.streaming.buffer     "Bufferul de streaming:">
+
+<!ENTITY playback.prefpane.normalization.label  "Normalizare">
+<!ENTITY playback.prefpane.normalization.enable "Utilizează date de normalizare audio dacă sunt disponibile">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Date avantajoase preferate:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Piesă">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Metadate clasificare">
+<!ENTITY playback.prefpane.ratings.enablewriting "Păstrează informațiile despre clasificare în metadatele fiecărui fișier.">
+
+<!ENTITY fetch_album_art.dialog.title "Descarcă imaginea albumului">
+<!ENTITY fetch_album_art.dialog.message "Nu este implementat în acest moment. (Vedeți defecțiunea 14281.)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Artist">
+<!ENTITY cdrip.lookup.info_not_found.album  "Album">
+<!ENTITY cdrip.lookup.info_not_found.title  "Nu au fost găsite informațiile despre CD">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Puteți adăuga numele artistului și al albumului aici. Puteți edita informaţiile rămase în lista de redare cu piesele extrase de pe CD.">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Titlu">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "Extragere de pe CD">
+<!ENTITY cdrip.prefpane.format "Format">
+<!ENTITY cdrip.prefpane.quality "Calitate">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kb/s">
+<!ENTITY cdrip.prefpane.eject_after_rip "Scoate CD-ul după ce extragerea de pe acesta a fost terminată">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Redă un sunet de alertă după ce extragerea de pe CD a fost terminată">
+<!ENTITY cdrip.prefpane.providers.title "Furnizorul căutării de CD">
+<!ENTITY cdrip.prefpane.quality_desc "Setarea unei calități mai mari a kb/s va duce la o calitate a sunetului mai mare și la un fișier de dimensiuni mai mari.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Setările extragerii de pe CD">
+<!ENTITY cdrip.mediaview.format_label              "Format:">
+<!ENTITY cdrip.mediaview.quality_label             "Calitate:">
+<!ENTITY cdrip.mediaview.settings_button           "Setări">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Extragere de pe CD">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Oprire extragere">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Vizualizează piesele">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Scoate CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Fereastra video">
+<!ENTITY videowindow.actualsize "Dimensiunea reală">
+<!ENTITY videowindow.fullscreen "Pe tot ecranul">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Am dori să mulțumim colaboratorilor noștri, ale căror eforturi au dezvoltat Songbird în ceea ce este azi. Acești oameni au ajutat atât la crearea codului şi a documentației, cât și la testarea aplicației. Ei au creat şi au dezvoltat acest produs, trusele și uneltele de dezvoltare, precum și site-urile web. Numele lor sunt urmate de poreclele de IRC, puteți accesa #songbird pe irc.mozilla.org pentru a-i saluta!">
+<!ENTITY about.credits.footer.beforeLink "Desigur, nimic nu ar fi posibil fără munca și efortul depuse de">
+<!ENTITY about.credits.footer.linkText "colaboratorii">
+<!ENTITY about.credits.footer.afterLink "proiectului Mozilla.">
+<!ENTITY about.credits.heading.translators "Translatorii">
+<!ENTITY about.credits.heading.champs "Campionii">
+<!ENTITY about.credits.description.champs.link.pre "Campionii Songbird sunt fani și utilizatori înrăiți ai programului Songbird, care au mers dincolo de simțul datoriei pentru a ajuta alți utilizatori pe ">
+<!ENTITY about.credits.description.champs.link.text "Forumul de asistență Songbird.">
+<!ENTITY about.credits.description.champs.link.post "Ei sunt cei mai prolifici tipi de pe forumul nostru și lucrează neîncetat pentru a se asigura că fiecare utilizator al programului Songbird este unul fericit.">
+
+<!ENTITY cdrip.lookup.multiple.title       "Au fost găsite înregistrări de CD multiple">
+<!ENTITY cdrip.lookup.multiple.description "Adăugați propriile dumneavoastră informații sau alegeți una din următoarele.">
+<!ENTITY cdinfo.other.label                "Adaugă informațiile dorite despre artist și album">
+
+<!ENTITY playqueue.label "Listă de redare">
+<!ENTITY playqueue.instructions "Trageți și plasați aici melodii sau liste de redare, pentru a crea o listă">
+<!ENTITY playqueue.inprogress "Adăugare melodii">
+
+<!ENTITY mediamanagement.removed.dialog.title "Notificare Management Media">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Managementul Media (Mediilor) a fost înlăturat din &brandShortName; începând cu versiunea 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Această schimbare face parte din eforturile de a simplifica produlsul nostru şi de a oferi o mai simplificată interacţiune." >

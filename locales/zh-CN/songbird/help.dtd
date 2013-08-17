@@ -1,0 +1,131 @@
+<!-- localizations for in-app help -->
+
+<!ENTITY help.keyboard.title              "&brandShortName;快捷键" >
+<!ENTITY help.keyboard.subtitle           "快捷键" >
+<!ENTITY help.keyboard.description        "键盘快捷键可以使&brandShortName;中的任务执行更容易。下面是可用的命令及对应的快捷键。">
+<!ENTITY help.platform.windows            "Windows" >
+<!ENTITY help.platform.macosx             "Mac" >
+<!ENTITY help.platform.linux              "Linux" >
+<!ENTITY help.keyboard.heading.command    "命令" >
+<!ENTITY help.keyboard.heading.shortcut   "快捷方式" >
+<!ENTITY help.keyboard.section.playback   "回放控制" >
+<!ENTITY help.keyboard.section.library    "媒体库和播放列表" >
+<!ENTITY help.keyboard.section.editing    "正在编辑" >
+<!ENTITY help.keyboard.section.navigation "导航" >
+<!ENTITY help.keyboard.section.browser    "浏览器" >
+<!ENTITY help.keyboard.section.windows    "窗口和标签" >
+<!ENTITY help.keyboard.section.search     "搜索" >
+<!ENTITY help.keyboard.section.video      "视频" >
+<!ENTITY help.keyboard.section.cdrip      "CD抓轨" >
+<!ENTITY help.keyboard.section.misc       "杂项" >
+
+<!ENTITY help.keyboard.key.left           "Left Arrow" >
+<!ENTITY help.keyboard.key.right          "Right Arrow" >
+<!ENTITY help.keyboard.key.up             "Up Arrow" >
+<!ENTITY help.keyboard.key.down           "Down Arrow" >
+<!ENTITY help.keyboard.key.pgup           "Page Up" >
+<!ENTITY help.keyboard.key.pgdn           "Page Down" >
+<!ENTITY help.keyboard.key.home           "Home" >
+<!ENTITY help.keyboard.key.end            "End" >
+<!ENTITY help.keyboard.key.tab            "Tab" >
+<!ENTITY help.keyboard.key.escape         "Esc" >
+<!ENTITY help.keyboard.key.f1             "F1" >
+<!ENTITY help.keyboard.key.f2             "F2" >
+<!ENTITY help.keyboard.key.f3             "F3" >
+<!ENTITY help.keyboard.key.f4             "F4" >
+<!ENTITY help.keyboard.key.f5             "F5" >
+<!ENTITY help.keyboard.key.f6             "F6" >
+<!ENTITY help.keyboard.key.f7             "F7" >
+<!ENTITY help.keyboard.key.f8             "F8" >
+<!ENTITY help.keyboard.key.f9             "F9" >
+<!ENTITY help.keyboard.key.f10            "F10" >
+<!ENTITY help.keyboard.key.f11            "F11" >
+<!ENTITY help.keyboard.key.f12            "F12" >
+<!ENTITY help.keyboard.key.f13            "F13" >
+<!ENTITY help.keyboard.key.f14            "F14" >
+<!ENTITY help.keyboard.key.f15            "F15" >
+
+<!ENTITY help.keyboard.mouse.click.primary "点击" >
+<!ENTITY help.keyboard.mouse.click.middle "鼠标中击" >
+<!ENTITY help.keyboard.key.meta           "Win" >
+<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
+<!ENTITY help.keyboard.key.cmd            "Cmd" >
+<!ENTITY help.keyboard.key.alt            "Alt" >
+<!ENTITY help.keyboard.key.opt            "Opt" >
+<!ENTITY help.keyboard.key.shift          "Shift" >
+<!ENTITY help.keyboard.key.delete         "Delete" >
+
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause   "播放/暂停选中的媒体项目" >
+<!ENTITY help.keyboard.name.playcontrol.prev    "在播放列表中播放上一个媒体项目" >
+<!ENTITY help.keyboard.name.playcontrol.next    "在播放列表中播放下一个媒体项目" >
+<!ENTITY help.keyboard.name.volume.down         "减小音量" >
+<!ENTITY help.keyboard.name.volume.up           "增大音量" >
+<!ENTITY help.keyboard.name.volume.mute         "静音" >
+<!ENTITY help.keyboard.name.volume.max          "最大问音量" >
+<!ENTITY help.keyboard.name.jumpto              "跳转至窗口" >
+<!ENTITY help.keyboard.name.equalizer           "开启均衡器" >
+<!ENTITY help.keyboard.name.new.playlist        "新建播放列表" >
+<!ENTITY help.keyboard.name.new.smartplaylist   "新建智能播放列表" >
+<!ENTITY help.keyboard.name.import              "导入媒体" >
+<!ENTITY help.keyboard.name.currenttrack        "定位当前正在播放的媒体项目" >
+<!ENTITY help.keyboard.name.mediapage.switch    "切换媒体视图" >
+<!ENTITY help.keyboard.name.feather.switch      "切换外观布局" >
+<!ENTITY help.keyboard.name.trackeditor         "元数据编辑器" >
+<!ENTITY help.keyboard.name.edit.undo           "撤消" >
+<!ENTITY help.keyboard.name.edit.redo           "重做" >
+<!ENTITY help.keyboard.name.edit.selectall      "全选" >
+<!ENTITY help.keyboard.name.edit.cut            "剪切" >
+<!ENTITY help.keyboard.name.edit.copy           "复制" >
+<!ENTITY help.keyboard.name.edit.paste          "粘贴" >
+<!ENTITY help.keyboard.name.edit.delete         "删除" >
+<!ENTITY help.keyboard.name.browser.back        "后退" >
+<!ENTITY help.keyboard.name.browser.forward     "前进" >
+<!ENTITY help.keyboard.name.browser.reload      "重新载入" >
+<!ENTITY help.keyboard.name.browser.stop        "停止载入" >
+<!ENTITY help.keyboard.name.open.file           "打开文件" >
+<!ENTITY help.keyboard.name.open.url            "打开URL地址" >
+<!ENTITY help.keyboard.name.tab.open.link       "在新的分页中打开链接" >
+<!ENTITY help.keyboard.name.save.link           "保存链接" >
+<!ENTITY help.keyboard.name.file.print          "打印" >
+<!ENTITY help.keyboard.name.view.source         "查看源代码" >
+<!ENTITY help.keyboard.name.view.zoomin         "放大" >
+<!ENTITY help.keyboard.name.view.zoomout        "缩小" >
+<!ENTITY help.keyboard.name.view.zoomreset      "重置大小" >
+<!ENTITY help.keyboard.name.subscribe           "订阅" >
+<!ENTITY help.keyboard.name.locationbar         "将焦点移至地址栏" >
+<!ENTITY help.keyboard.name.tab.new             "新建标签" >
+<!ENTITY help.keyboard.name.tab.close           "关闭标签" >
+<!ENTITY help.keyboard.name.tab.next            "下一个标签" >
+<!ENTITY help.keyboard.name.tab.previous        "上一个标签" >
+<!ENTITY help.keyboard.name.tab.1               "切换至标签1" >
+<!ENTITY help.keyboard.name.tab.2               "切换至标签2" >
+<!ENTITY help.keyboard.name.tab.3               "切换至标签3" >
+<!ENTITY help.keyboard.name.tab.4               "切换至标签4" >
+<!ENTITY help.keyboard.name.tab.5               "切换至标签5" >
+<!ENTITY help.keyboard.name.tab.6               "切换至标签6" >
+<!ENTITY help.keyboard.name.tab.7               "切换至标签7" >
+<!ENTITY help.keyboard.name.tab.8               "切换至标签8" >
+<!ENTITY help.keyboard.name.tab.9               "最有一个标签" >
+<!ENTITY help.keyboard.name.page.top            "移至页面首部" >
+<!ENTITY help.keyboard.name.page.bottom         "移至页面底部" >
+<!ENTITY help.keyboard.name.view.fullscreen     "全屏" >
+<!ENTITY help.keyboard.name.mac.minimize        "最小化至任务栏" >
+<!ENTITY help.keyboard.name.mac.hide            "隐藏窗口" >
+<!ENTITY help.keyboard.name.mac.hideothers      "隐藏其它窗口" >
+<!ENTITY help.keyboard.name.downloads           "下载项" >
+<!ENTITY help.keyboard.name.find                "查找" >
+<!ENTITY help.keyboard.name.find.again          "查找下一个" >
+<!ENTITY help.keyboard.name.find.text           "查找您键入的文本" >
+<!ENTITY help.keyboard.name.find.link           "查找您键入的链接" >
+<!ENTITY help.keyboard.name.search.focus        "将焦点移至搜索框" >
+<!ENTITY help.keyboard.name.video.fullscreen    "全屏" >
+<!ENTITY help.keyboard.name.video.bringtofront  "视频在前" >
+<!ENTITY help.keyboard.name.video.escape        "退出全屏" >
+<!ENTITY help.keyboard.name.cdrip.start         "开始CD抓轨" >
+<!ENTITY help.keyboard.name.cdrip.stop          "停止CD抓轨" >
+<!ENTITY help.keyboard.name.cdrip.eject         "弹出CD" >
+<!ENTITY help.keyboard.name.quit                "退出" >
+<!ENTITY help.keyboard.name.preferences         "首选项" >
+<!ENTITY help.keyboard.name.help                "帮助主题" >
+<!ENTITY help.keyboard.name.sanitize            "清除您的私人数据" >

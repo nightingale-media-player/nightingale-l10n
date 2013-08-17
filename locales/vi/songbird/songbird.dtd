@@ -1,0 +1,856 @@
+<!ENTITY songbird           "&brandShortName;" >
+<!ENTITY window.ok          "OK" >
+<!ENTITY window.cancel      "Hủy bỏ" >
+<!ENTITY window.apply       "Áp dụng" >
+<!ENTITY window.browse      "Duyệt…" >
+<!ENTITY window.save        "Lưu">
+<!ENTITY window.yes         "Có">
+<!ENTITY window.no          "Không">
+
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit                  "Thoát &brandShortName;" >
+<!ENTITY menu.mac.exit.key              "Q">
+<!ENTITY menu.mac.exit.modifiers        "accel">
+<!ENTITY menu.mac.preferences           "Tùy chọn">
+<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services              "Dịch vụ">
+<!ENTITY menu.mac.hide                  "Ẩn &brandShortName;">
+<!ENTITY menu.mac.hide.key              "N">
+<!ENTITY menu.mac.hide.modifiers        "accel">
+<!ENTITY menu.mac.hideothers            "Ẩn phần khác">
+<!ENTITY menu.mac.hideothers.key        "N">
+<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
+<!ENTITY menu.mac.showall               "Hiện tất cả">
+<!ENTITY menu.mac.minimize.key          "M">
+
+<!ENTITY menu.file              "Tập tin" >
+<!ENTITY menu.file.new          "Danh sách nhạc mới…" >
+<!ENTITY menu.file.smart        "Danh sách nhạc thông minh mới…" >
+<!ENTITY menu.file.remote       "Đăng kí mới…" >
+<!ENTITY menu.file.podcast      "Podcast mới…" >
+<!ENTITY menu.file.open         "Mở tập tin…" >
+<!ENTITY menu.file.url          "Mở từ URL" >
+<!ENTITY menu.file.playlist     "Nhập vào một danh sách" >
+<!ENTITY menu.file.library      "Nhập thư viện…" >
+<!ENTITY menu.file.newtab       "Thẻ mới" >
+<!ENTITY menu.file.closetab     "Đóng thẻ" >
+<!ENTITY menu.file.metadata     "Xem siêu dữ liệu">
+<!ENTITY menu.file.scan         "Quét tìm các file giải trí" >
+<!ENTITY menu.file.exit         "Thoát" >
+
+<!ENTITY menu.edit          "Chỉnh sửa" >
+<!ENTITY menu.edit.undo     "Undo" >
+<!ENTITY menu.edit.redo     "Redo" >
+<!ENTITY menu.edit.cut      "Cắt" >
+<!ENTITY menu.edit.copy     "Sao chép" >
+<!ENTITY menu.edit.paste    "Dán" >
+<!ENTITY menu.edit.delete   "Xóa" >
+<!ENTITY menu.edit.selall   "Chọn Toàn Bộ" >
+<!ENTITY menu.edit.find        "Tìm kiếm" >
+<!ENTITY menu.edit.findagain   "Tìm tiếp" >
+
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences           "Sở thích">
+<!ENTITY menu.linux.preferences.accesskey "N">
+
+<!ENTITY menu.controls      "Điều khiển" >
+<!ENTITY menu.control.play  "Phát/Ngừng" >
+<!ENTITY menu.control.pause "Tạm dừng" >
+<!ENTITY menu.control.next  "Bài hát tiếp theo" >
+<!ENTITY menu.control.prev  "Bài hát trước" >
+<!ENTITY menu.control.shuf  "Xếp đảo" >
+<!ENTITY menu.control.repa  "Lặp lại tất cả" >
+<!ENTITY menu.control.rep1  "Lặp lại một bài" >
+<!ENTITY menu.control.repx  "Không lặp lại" >
+<!ENTITY menu.control.jumpto "Chuyển tới…" >
+
+<!ENTITY menu.control.play.button      "Chơi nhạc" >
+<!ENTITY menu.control.pause.button     "Tạm dừng" >
+<!ENTITY menu.control.stop.button      "Dừng hoàn toàn" >
+
+<!ENTITY displaypane.default.image.pre "Chọn một tiện ích từ">
+<!ENTITY displaypane.default.image.tooltip "Biểu tượng Add-on Picker">
+<!ENTITY displaypane.default.image.post "menu hoặc ghé thăm">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.default.link.text "Trang Tiện ích">
+<!ENTITY displaypane.default.link.post "để duyệt tiện ích.">
+<!ENTITY displaypane.name.servicepane   "Ô dịch vụ đáy">
+<!ENTITY displaypane.name.browser       "Ô nội dung đáy">
+<!ENTITY displaypane.name.sidebar       "Thanh bên phải">
+<!ENTITY servicepane.title.label        "Bảng Dịch vụ">
+
+<!ENTITY menu.tools            "Công cụ" >
+<!ENTITY menu.tools.getartwork "Lấy Hình Bìa Album…">
+<!ENTITY menu.tools.exportmedia "Xuất các thay đổi của thư viện">
+
+<!ENTITY menu.help          "Trợ giúp" >
+<!ENTITY menu.help.homepage "Website &brandShortName;" >
+<!ENTITY menu.help.bugz     "Báo cáo lỗi…" >
+<!ENTITY menu.help.topics   "Giúp đỡ theo đề tài" >
+<!ENTITY menu.help.keyboard "Các phím tắt">
+<!ENTITY menu.help.about    "Về &brandShortName;" >
+
+<!ENTITY menu.equalizer     "Equalizer…" >
+<!ENTITY menu.preferences   "Các tùy chọn" >
+<!ENTITY menu.extensions    "Các phần mở rộng" >
+<!ENTITY menu.clearprivatedata "Xóa thông tin cá nhân…">
+<!ENTITY menu.errorconsole "Trạm sửa lỗi (Error Console)">
+<!ENTITY menu.downloadmgr   "Tải tập tin" >
+<!ENTITY menu.switchplayercontrols  "Điều khiển" >
+<!ENTITY menu.controllerontop       "Hiện ở trên">
+<!ENTITY menu.controlleronbottom    "Hiện ở dưới">
+
+<!ENTITY menu.fullscreen            "Toàn Màn Hình">
+<!ENTITY menu.videotofront          "Video lên trước">
+
+<!ENTITY device.dialog.wait_for_completion.title  "Đang đợi thiết bị.">
+<!ENTITY device.dialog.wait_for_completion.msg    "Đang đợi các hoạt động của thiết bị hoàn thành. Ấn &quot;Thoát&quot; để dừng chờ và thoát khỏi chương trình.">
+<!ENTITY device.dialog.wait_for_completion.quit   "Thoát">
+
+<!ENTITY tooltip.minimize         "Thu nhỏ" >
+<!ENTITY tooltip.maximize         "Phóng to/Phục hồi" >
+<!ENTITY tooltip.exit             "Thóat" >
+<!ENTITY tooltip.close            "Đóng" >
+<!ENTITY tooltip.hide             "Ẩn" >
+<!ENTITY tooltip.fullscreen       "Chế độ toàn màn hình" >
+<!ENTITY tooltip.control.back     "Bài hát trước" >
+<!ENTITY tooltip.control.play     "Phát" >
+<!ENTITY tooltip.control.pause    "Ngừng" >
+<!ENTITY tooltip.control.resume   "Tiếp tục" >
+<!ENTITY tooltip.control.stop     "Dừng hoàn toàn" >
+<!ENTITY tooltip.control.fwd      "Bài hát tiếp theo" >
+<!ENTITY tooltip.control.mute     "Tắt âm" >
+<!ENTITY tooltip.control.volume   "Âm lượng" >
+<!ENTITY tooltip.control.shuffle  "Ngẫu nhiên" >
+<!ENTITY tooltip.control.shuf_off "Hủy ngẫu nhiên" >
+<!ENTITY tooltip.control.curtrack "Tìm bài hát hiện tại" >
+<!ENTITY tooltip.search           "Tìm kiếm" >
+<!ENTITY tooltip.browser.back     "Duyệt lui" >
+<!ENTITY tooltip.browser.fwd      "Duyệt tới" >
+<!ENTITY tooltip.browser.stop     "Ngừng trình duyệt" >
+<!ENTITY tooltip.browser.home     "Trang chủ" >
+<!ENTITY tooltip.browser.refresh  "Làm mới" >
+<!ENTITY tooltip.browser.subscription "Đăng kí vào trang này" >
+<!ENTITY tooltip.browser.mediapages.list "Hiển thi danh sách" >
+<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
+<!ENTITY tooltip.browser.mediapages "Chuyển đổi phương tiện xem" >
+<!ENTITY tooltip.servicepane.show    "Hiện Bảng dịch vụ" >
+<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
+<!ENTITY tooltip.servicepane.newnode "Danh sách nhạc mới" >
+<!ENTITY tooltip.displaypane.options "Tùy chọn Bảng Nội dung">
+
+<!ENTITY smart.window             "Xây dựng danh sách nhạc thông minh" >
+<!ENTITY smart.limit              "Giới hạn đến" >
+<!ENTITY smart.match              "Trùng khớp" >
+<!ENTITY smart.matchsingle        "Khớp điều kiện sau:" >
+<!ENTITY smart.any                "bất kì" >
+<!ENTITY smart.all                "tất cả" >
+<!ENTITY smart.following          "Với (các) điều kiện sau:" >
+<!ENTITY smart.random             "ngẫu nhiên" >
+<!ENTITY smart.album              "album" >
+<!ENTITY smart.artist             "nghệ sĩ" >
+<!ENTITY smart.genre              "thể loại" >
+<!ENTITY smart.title              "tiêu đề" >
+<!ENTITY smart.high_rating        "đánh giá cao" >
+<!ENTITY smart.low_rating         "đánh giá thấp" >
+<!ENTITY smart.most_recent        "gần đây nhất" >
+<!ENTITY smart.least_recent       "cách hiện tại xa nhất" >
+<!ENTITY smart.most_often         "thường xuyên nhất" >
+<!ENTITY smart.least_often        "không thường xuyên nhất" >
+<!ENTITY smart.most_added         "được thêm nhiều nhất" >
+<!ENTITY smart.least_added        "được thêm ít nhất" >
+<!ENTITY smart.minutes            "phút" >
+<!ENTITY smart.hours              "tiếng" >
+<!ENTITY smart.mb                 "MB" >
+<!ENTITY smart.gb                 "GB" >
+<!ENTITY smart.songs              "bài hát" >
+<!ENTITY smart.selectedby         "Chọn bởi" >
+<!ENTITY smart.to                 "với" >
+<!ENTITY smart.autoupdate         "Tự động cập nhật">
+<!ENTITY smart.playlistcondition.library "Thư viện">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Nhạc">
+
+<!ENTITY textbox.songbird_open_url "Điền URL hoặc đường dẫn đến file giải trí mà bạn muốn chơi:">
+
+<!ENTITY open_url.title           "Mở URL">
+<!ENTITY subscribe.title          "Đăng kí">
+<!ENTITY subscribe.url            "URL:">
+<!ENTITY subscribe.minutes        "Phút">
+<!ENTITY subscribe.hours          "Giờ">
+<!ENTITY subscribe.days           "Ngày">
+<!ENTITY subscribe.autocheck      "Tự động cập nhật mỗi">
+<!ENTITY subscribe.destinationfolder      "Lựa chọn thư mục đích:">
+
+<!ENTITY feed.subscribe.label     "Đang kí">
+<!ENTITY feed.subscribe.dontask   "Không tự động hiện thông báo này nữa">
+<!ENTITY feed.subscribe.close     "Đóng">
+
+<!ENTITY podcast.creation_dialog.title       "Pod cast mới">
+<!ENTITY podcast.creation_dialog.url.heading "URL:">
+
+
+<!ENTITY watchfolder.title        "Theo dõi (các) thư mục">
+<!ENTITY watchfolder.folderlist   "Theo dõi thư mục này để tìm các file giải trí mới:">
+
+<!ENTITY locale.language          "Ngôn ngữ" >
+<!ENTITY menu.view                "Hiển thị" >
+<!ENTITY about.version            "Phiên bản" >
+<!ENTITY about.buttons.credits    "Công trạng" >
+
+<!ENTITY equalizer.title          "Equalizer" >
+<!ENTITY equalizer.on.checkbox    "Mở" >
+<!ENTITY equalizer.band0.label    "32" >
+<!ENTITY equalizer.band1.label    "64" >
+<!ENTITY equalizer.band2.label    "125" >
+<!ENTITY equalizer.band3.label    "250" >
+<!ENTITY equalizer.band4.label    "500" >
+<!ENTITY equalizer.band5.label    "1K" >
+<!ENTITY equalizer.band6.label    "2K" >
+<!ENTITY equalizer.band7.label    "4K" >
+<!ENTITY equalizer.band8.label    "8K" >
+<!ENTITY equalizer.band9.label    "16K" >
+<!ENTITY equalizer.preset.custom      "Tùy chọn" >
+<!ENTITY equalizer.preset.flat        "Flat" >
+<!ENTITY equalizer.preset.rock        "Rock" >
+<!ENTITY equalizer.preset.soft_rock   "Rock nhẹ" >
+<!ENTITY equalizer.preset.techno      "Techno" >
+<!ENTITY equalizer.preset.ska         "Ska" >
+<!ENTITY equalizer.preset.reggae      "Reggae" >
+<!ENTITY equalizer.preset.live        "Live" >
+<!ENTITY equalizer.preset.club        "Vũ trường" >
+<!ENTITY equalizer.preset.party       "Tiệc" >
+<!ENTITY equalizer.preset.classical   "Cổ điển" >
+<!ENTITY equalizer.preset.large_hall  "Sảnh lớn" >
+<!ENTITY equalizer.preset.dance       "Dance" >
+<!ENTITY equalizer.preset.pop         "Pop" >
+<!ENTITY equalizer.preset.soft        "Nhẹ" >
+<!ENTITY equalizer.preset.small_speakers   "Máy tính xách tay / Tai nghe" >
+<!ENTITY equalizer.preset.full_bass_treble "Full bass và treble" >
+<!ENTITY equalizer.preset.full_treble "Full treble" >
+<!ENTITY equalizer.preset.full_bass   "Full bass" >
+
+
+<!ENTITY setupprogress.pleasewait "Xin hãy đợi…" >
+<!ENTITY setupprogress.cancel     "Hủy">
+
+<!ENTITY menu.file.accesskey              "F" >
+<!ENTITY menu.file.new.accesskey          "N" >
+<!ENTITY menu.file.smart.accesskey        "S" >
+<!ENTITY menu.file.remote.accesskey       "R" >
+<!ENTITY menu.file.podcast.accesskey      "P" >
+<!ENTITY menu.file.open.accesskey         "O" >
+<!ENTITY menu.file.url.accesskey          "A" >
+<!ENTITY menu.file.playlist.accesskey     "I" >
+<!ENTITY menu.file.metadata.accesskey     "V" >
+<!ENTITY menu.file.library.accesskey      "P" >
+<!ENTITY menu.file.newtab.accesskey       "T" >
+<!ENTITY menu.file.closetab.accesskey     "W" >
+<!ENTITY menu.file.scan.accesskey         "M" >
+<!ENTITY locale.language.accesskey        "L" >
+<!ENTITY menu.view.accesskey              "H" >
+<!ENTITY menu.preferences.accesskey       "O" >
+<!ENTITY menu.equalizer.accesskey         "Q" >
+<!ENTITY menu.extensions.accesskey        "A" >
+<!ENTITY menu.clearprivatedata.accesskey  "X" >
+<!ENTITY menu.errorconsole.accesskey      "T" >
+<!ENTITY menu.file.exit.accesskey         "X" >
+<!ENTITY menu.downloadmgr.accesskey       "D" >
+
+<!ENTITY menu.edit.accesskey          "E" >
+<!ENTITY menu.edit.undo.accesskey     "U" >
+<!ENTITY menu.edit.redo.accesskey     "R" >
+<!ENTITY menu.edit.cut.accesskey      "T" >
+<!ENTITY menu.edit.copy.accesskey     "C" >
+<!ENTITY menu.edit.paste.accesskey    "P" >
+<!ENTITY menu.edit.delete.accesskey   "D" >
+<!ENTITY menu.edit.selall.accesskey   "B" >
+<!ENTITY menu.edit.find.accesskey        "F" >
+<!ENTITY menu.edit.findagain.accesskey   "G" >
+
+<!ENTITY menu.controls.accesskey      "C" >
+<!ENTITY menu.control.play.accesskey  "P" >
+<!ENTITY menu.control.pause.accesskey "P" >
+<!ENTITY menu.control.next.accesskey  "N" >
+<!ENTITY menu.control.prev.accesskey  "R" >
+<!ENTITY menu.control.shuf.accesskey  "S" >
+<!ENTITY menu.control.repa.accesskey  "A" >
+<!ENTITY menu.control.rep1.accesskey  "O" >
+<!ENTITY menu.control.repx.accesskey  "E" >
+<!ENTITY menu.control.jumpto.accesskey "C" >
+
+
+<!ENTITY menu.tools.accesskey            "Z" >
+<!ENTITY menu.tools.getartwork.accesskey "G" >
+
+<!ENTITY menu.tools.reveal             "Hiện tập tin" >
+<!ENTITY menu.tools.reveal.accesskey   "F" >
+<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
+
+<!ENTITY menu.help.accesskey          "H" >
+<!ENTITY menu.help.homepage.accesskey "W" >
+<!ENTITY menu.help.bugz.accesskey     "B" >
+<!ENTITY menu.help.help.accesskey     "H" >
+<!ENTITY menu.help.keyboard.accesskey "K" >
+<!ENTITY menu.help.about.accesskey    "A" >
+
+
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title                        "Chỉnh sửa bài nhạc" >
+<!ENTITY trackeditor.tab.summary.title            "Tóm tắt" >
+<!ENTITY trackeditor.tab.edit.title               "Thuộc tính" >
+<!ENTITY trackeditor.tab.lyrics.title             "Lời" >
+<!ENTITY trackeditor.prev.button.label            "&lt;" >
+<!ENTITY trackeditor.next.button.label            "&gt;" >
+<!ENTITY trackeditor.prev.accesskey               "P" >
+<!ENTITY trackeditor.next.accesskey               "N" >
+<!ENTITY trackeditor.prev.key                     "P" >
+<!ENTITY trackeditor.next.key                     "N" >
+
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title     "Thêm nhãn" >
+<!ENTITY trackeditor.addtag.tag       "Nhãn (tag):" >
+
+<!ENTITY jumptofile.title             "Chuyển tới" >
+<!ENTITY jumptofile.search            "Tìm kiếm:" >
+
+<!ENTITY hotkeys.useglobalhotkeys     "Sử dụng phím nóng trên toàn chương trình" >
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
+<!ENTITY hotkeys.action               "Hành động" >
+<!ENTITY hotkeys.hotkey               "Phím nóng" >
+<!ENTITY hotkeys.add                  "Thêm" >
+<!ENTITY hotkeys.set                  "Thiết lập" >
+<!ENTITY hotkeys.remove               "Loại bỏ" >
+<!ENTITY hotkeys.prefpane             "Phím nóng" >
+<!ENTITY hotkeys.info                 "Phím Tắt Chung cho phép bạn sử dụng các chức năng của &brandShortName; ngay cả khi &brandShortName; không phải là chương trình đang được chọn. Một số Phím Tắt phải có phím điều chỉnh để không ảnh hưởng đến các chương trình khác." >
+
+<!ENTITY rapi.prefpane.title             "Tích hợp Web (Web Integration)" >
+<!ENTITY rapi.prefpane.access.caption    "Giấy phép về việc dùng trên Web" >
+<!ENTITY rapi.prefpane.access.text       "Bạn có thể cho phép các trang Web kết hợp với &brandShortName; để tạo ra một sự liên kết chặt chẽ hơn giữa Web với các file giải trí của bạn. Hãy tinh chỉnh &brandShortName; để cho phép hoặc ngăn chặn sự hoạt động của các trang Web tại các điểm liên kết sau." >
+<!ENTITY rapi.whitelist.label            "Ngoại lệ…" >
+<!ENTITY rapi.restore_defaults.label      "Khôi phục mặc định" >
+<!ENTITY rapi.playback_control_disable.label "Ngăn chặn không cho Website điều khiển chức năng chơi nhạc" >
+<!ENTITY rapi.playback_read_disable.label    "Ngăn chặn không cho Website thấy thông tin về các file giải trí  đang được chơi" >
+<!ENTITY rapi.library_read_disable.label     "Ngăn chặn không cho Website thấy thông tin về các file giải trí trong &brandShortName;" >
+<!ENTITY rapi.library_write_disable.label    "Ngăn chặn không cho Website thêm/xóa các file giải trí trong Thư viện và thiết bị của tôi" >
+<!ENTITY rapi.playback_control_disable.accesskey "p" >
+<!ENTITY rapi.playback_read_disable.accesskey    "m" >
+<!ENTITY rapi.library_read_disable.accesskey     "s" >
+<!ENTITY rapi.library_write_disable.accesskey    "a" >
+
+<!ENTITY prefpane.addons.label        "Phần mở rộng">
+<!ENTITY prefpane.content.label       "Nội Dung Web">
+
+<!ENTITY umsd.prefpane                      "USB" >
+<!ENTITY umsd.no_devices_present            "Không có thiết bị lưu trữ dữ liệu USB nào được kết nối. " >
+<!ENTITY umsd.music.tab                     "Nhạc" >
+<!ENTITY umsd.music.music_files_group       "Các file nhạc" >
+<!ENTITY umsd.music.music_path_desc         "Khi copy nhạc vào thiết bị, hãy đặt chúng vào thư mục sau:" >
+<!ENTITY umsd.music.music_path_browse_msg   "Lựa chọn thư mục chứa các file nhạc cho thiết bị." >
+<!ENTITY umsd.music.music_ext_desc          "Copy các file nhạc vào thiết bị kèm theo những phần mở rộng sau đây:" >
+<!ENTITY umsd.video.tab                     "Video" >
+<!ENTITY umsd.video.video_files_group       "Các file Video" >
+<!ENTITY umsd.video.video_path_desc         "Khi copy các file video vào thiết bị, hãy đặt chúng vào thư mục sau:" >
+<!ENTITY umsd.video.video_path_browse_msg   "Lựa chọn thư mục chứa các file video cho thiết bị." >
+<!ENTITY umsd.video.video_ext_desc          "Copy các file video vào thiết bị kèm theo những phần mở rộng sau đây:" >
+
+<!ENTITY device.error.dialog.link           "Xem chi tiết lỗi" >
+
+<!ENTITY restartbox.restartnow        "Khởi động lại ngay" >
+<!ENTITY restartbox.restartonplaybackend "Khởi động lại sau khi dừng chơi" >
+<!ENTITY restartbox.restartlater      "Khởi động lại sau" >
+
+<!ENTITY setupprogress.installingextensions "Đang cài đặt phần mở rộng" >
+
+<!ENTITY jobprogress.details "Chi tiết" >
+
+<!ENTITY menu.updateCmd.label          "Cập nhật…">
+<!ENTITY menu.updateCmd.accessKey      "U">
+
+
+<!ENTITY menu.file.new.key             "N" >
+<!ENTITY menu.file.smart.key           "N" >
+<!ENTITY menu.file.open.key            "O" >
+<!ENTITY menu.file.url.key             "U" >
+<!ENTITY menu.file.newtab.key          "T" >
+<!ENTITY menu.file.closetab.key        "W" >
+<!ENTITY menu.file.mini.key            "M" >
+<!ENTITY menu.file.filescan.key        "O" >
+<!ENTITY menu.edit.undo.key            "Z" >
+<!ENTITY menu.edit.redo.key            "Y" >
+<!ENTITY menu.edit.cut.key             "X" >
+<!ENTITY menu.edit.copy.key            "C" >
+<!ENTITY menu.edit.paste.key           "V" >
+<!ENTITY menu.edit.selall.key          "A" >
+<!ENTITY menu.edit.find.key            "F" >
+<!ENTITY menu.edit.findagain.key       "G" >
+<!ENTITY bookmarkPage.key              "D" >
+<!ENTITY jumpto.key                    "J" >
+<!ENTITY equalizer.key                 "E" >
+<!ENTITY switchfeathers.key            "M" >
+<!ENTITY search.key                    "F" >
+<!ENTITY searchFocus.key               "K" >
+<!ENTITY locationbar.key               "L" >
+<!ENTITY locationbar.key2              "D" >
+<!ENTITY currentTrackCmd.commandKey    "L" >
+<!ENTITY mediapage.next.key            "S" >
+<!ENTITY trackeditor.key2              "I" >
+<!ENTITY getartwork.key                "G" >
+<!ENTITY sanitize.keycode              "VK_DELETE" >
+<!ENTITY sanitize.key                  "Del" >
+<!ENTITY menu.viewpagesource.key       "U" >
+<!ENTITY downloadmgr.key               "J" >
+
+<!ENTITY menu.control.playpause.spacebar "Phím khoảng trắng" >
+
+<!ENTITY tabs.closeTab "Đóng thẻ">
+<!ENTITY tabs.listAllTabs "Liệt kê tất cả các thẻ">
+
+<!ENTITY window.browser.titledefault       "" >
+<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
+<!ENTITY window.browser.titlemenuseparator "-" >
+<!ENTITY window.browser.titlepreface       "" >
+
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label          "Trang chủ" >
+<!ENTITY prefs.homepage.url.label          "URL:" >
+<!ENTITY prefs.homepage.url.accesskey          "" >
+<!ENTITY prefs.security.addons.label   "Cài đặt phần mở rộng" >
+
+<!-- Device entities -->
+<!ENTITY command.device.cancel                          "Hủy bỏ">
+<!ENTITY command.device.cancel.accesskey                "H">
+<!ENTITY command.device.canceldevicecopy                "Hủy việc Chép">
+<!ENTITY command.device.canceldevicecopy.accesskey      "H">
+<!ENTITY command.device.canceldevicedelete              "Hủy việc Xóa">
+<!ENTITY command.device.canceldevicedelete.accesskey    "H">
+<!ENTITY command.device.canceldevicesync                "Hủy việc Đồng bộ">
+<!ENTITY command.device.canceldevicesync.accesskey      "H">
+<!ENTITY command.device.canceldeviceupdate              "Hủy việc Cập nhật">
+<!ENTITY command.device.canceldeviceupdate.accesskey    "H">
+<!ENTITY command.device.ejectdevice                     "Ngắt kết nối">
+<!ENTITY command.device.ejectdevice.accesskey           "K">
+<!ENTITY command.device.formatdevice                    "Định dạng">
+<!ENTITY command.device.formatdevice.accesskey          "F">
+<!ENTITY command.device.ignoredevice                    "Bác bỏ">
+<!ENTITY command.device.ignoredevice.accesskey          "I">
+<!ENTITY command.device.getdeviceinfo                   "Lấy thông tin">
+<!ENTITY command.device.getdeviceinfo.accesskey         "T">
+<!ENTITY command.device.renamedevice                    "Đổi tên">
+<!ENTITY command.device.renamedevice.accesskey          "N">
+<!ENTITY command.device.devicesync                      "Đồng bộ">
+<!ENTITY command.device.devicesync.accesskey            "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip                             "Sao CD">
+<!ENTITY command.device.rip.accesskey                   "R">
+<!ENTITY command.device.stoprip                         "Dừng Sao">
+<!ENTITY command.device.stoprip.accesskey               "S">
+<!ENTITY command.device.lookup                          "Tra cứu thông tin CD">
+<!ENTITY command.device.lookup.accesskey                "L">
+<!ENTITY command.device.ejectcddevice                   "Mở ổ CD">
+<!ENTITY command.device.ejectcddevice.accesskey         "E">
+
+<!ENTITY device.repair.menuitem.default                   "Sửa thiết bị của tôi">
+
+<!ENTITY device.firmware.wizard.title                     "Cập nhật firmware">
+<!ENTITY device.firmware.wizard.check.page.title          "Kiểm tra cập nhật firmware">
+<!ENTITY device.firmware.wizard.check.progress.title      "Đang kiểm tra cập nhật cho firmware…">
+<!ENTITY device.firmware.wizard.check.install.description "Quá trình cài đặt cập nhật firmware có thể mất không quá 10 phút. Bạn có thể thực hiện quá trình cập nhật vào bất kì lúc nào sau này.">
+<!ENTITY device.firmware.wizard.check.already.description "Firmware của thiết bị của bạn đã được cập nhật rồi.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Thông tin sản phẩm">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Thiết bị phải được kết nối trong chế độ firmware để có thể tiếp tục. Hãy làm theo các chỉ dẫn bên dưới để chuyển thiết bị của bạn sang chế độ firmware.">
+<!ENTITY device.firmware.wizard.download.title            "Đang tải xuống firmware mới…">
+<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
+<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
+<!ENTITY device.firmware.wizard.install.title             "Đang cài đặt firmware">
+
+<!ENTITY device.firmware.wizard.busy.description  "Có vẻ thiết bị của bạn đang bận. Firmware chỉ có thể được cài đặt khi thiết bị của bạn đang rảnh rỗi.">
+<!ENTITY device.firmware.wizard.retry.description "Xin vui lòng thử lại sau khi thiết bị của bạn đã hoàn thành hoạt động hiện tại của nó.">
+
+<!ENTITY device.firmware.wizard.check.error.description    "Có lỗi trong khi kiểm tra firmware mới. Vui lòng kiểm tra kết nối mạng của bạn và thử lại lần nữa.">
+<!ENTITY device.firmware.wizard.download.error.description "Có lỗi trong khi tải xuống firmware mới. Vui lòng kêểm tra lại kết nối mạng của bạn và thử lại lần nữa.">
+<!ENTITY device.firmware.wizard.support.description        "Cái tài liệu hỗ trợ như FAQs và mẹo xử lý vấn đề có thể được tìm thấy tại">
+
+<!ENTITY device.info.icon.device            "Biểu tượng Thiết bị (nói chung)">
+<!ENTITY device.info.icon.readonly          "Biểu tượng khóa chế độ &apos;chỉ đọc&apos;">
+<!ENTITY device.info.model.label            "Model">
+<!ENTITY device.info.capacity.label         "Dung lượng">
+<!ENTITY device.info.product.label          "Sản phẩm">
+<!ENTITY device.info.friendly_name.label    "Tên">
+<!ENTITY device.info.serial_number.label    "Số Serial">
+<!ENTITY device.info.vendor.label           "Nhà sản xuất">
+<!ENTITY device.info.access.label           "Tương thích truy cập">
+<!ENTITY device.info.playback_formats.label "Định dạng hỗ trợ">
+<!ENTITY device.info.battery.label          "Pin">
+<!ENTITY device.info.firmware_version.label "Phiên bản Firmware">
+
+<!ENTITY device.progress.sync               "Đồng bộ">
+
+<!ENTITY device.capacity.music.label    "Nhạc">
+<!ENTITY device.capacity.video.label    "Video">
+<!ENTITY device.capacity.image.label    "Ảnh">
+<!ENTITY device.capacity.other.label    "Khác">
+<!ENTITY device.capacity.free.label     "Còn trống">
+
+<!ENTITY device.unsupported_media.dialog.title  "Phát hiện file không tương thích">
+<!ENTITY device.unsupported_media.dialog.enable "Thông báo khi phát hiện file không tương thích">
+
+<!ENTITY device.sync.header.label "Các thiết lập về đồng bộ">
+<!ENTITY device.import.header.label "Thêm">
+<!ENTITY device.sync.auto_sync.label "Đồng bộ">
+<!ENTITY device.sync.sync_all.label "Toàn bộ nhạc, video và danh sách">
+<!ENTITY device.sync.sync_selected.label "Các danh sách được chọn:">
+<!ENTITY device.sync.playlist.title "Tiêu đề">
+<!ENTITY device.sync.playlist.video.duration "Độ dài Video">
+<!ENTITY device.sync.images.from.label "Đồng bộ hóa Ảnh từ:">
+<!ENTITY device.sync.images.browse "Chọn thư mục…">
+<!ENTITY device.sync.images.all.label "Tất cả các ảnh">
+<!ENTITY device.sync.images.all.template "Tất cả Ảnh (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Thư mục phiên dịch đã chọn">
+<!ENTITY device.sync.images.foldername "Tên thư mục">
+<!ENTITY device.sync.images.filecount "Ảnh">
+
+<!ENTITY device.settings.header.label "Cấu hình">
+<!ENTITY device.settings.general.label "Chung">
+<!ENTITY device.settings.auto_launch.checkbox.label "Mở &brandShortName; khi thiết bị được phát hiện">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Tự động kiểm tra firmware mới">
+<!ENTITY device.settings.music.transcoding.label "Đang chuyển mã nhạc">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Hiện tại không có bộ giải mã cho thiết bị này">
+<!ENTITY device.settings.disk.label "Quản lý đĩa">
+<!ENTITY device.settings.disk.management.label "Tùy biến cấu trúc thư mục">
+<!ENTITY device.settings.disk.management.filename "Tập tin nhạc">
+
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Tự động cấu hình chuyển đổi">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Chỉ định tốc độ bit và định dạng thủ công">
+<!ENTITY device.settings.music.transcoding.format.label "Định dạng mã hóa">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+
+<!ENTITY device.management.tabs.music.label "Nhạc">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Ảnh">
+<!ENTITY device.management.tabs.tools.label "Công cụ">
+<!ENTITY device.management.tabs.settings.label "Cấu hình">
+
+<!ENTITY device.tools.product_registration.title "Đang ký sản phẩm">
+<!ENTITY device.tools.product_registration.description "Bạn muốn bảo đảm các quyền lợi thành viên sản phẩm, hay là nhận các cảnh báo về an toàn?">
+<!ENTITY device.tools.product_registration.label "Đăng ký sản phẩm">
+
+<!ENTITY device.tools.update_firmware.title "Cập nhật firmware">
+<!ENTITY device.tools.update_firmware.description "Thiết bị của bạn được điều khiển bởi một chương trình tích hợp bên trong gọi là firmware. Các phiên bản mới hơn của firmware có thể đã được sản xuất sau lần cuối bạn kết nối thiết bị vào máy tính.">
+<!ENTITY device.tools.update_firmware.label "Kiểm tra cập nhật firmware">
+<!ENTITY device.tools.update_firmware.current_firmware.title "Phiên bản firmware hiện tại:">
+
+<!ENTITY device.tools.restore_device.title "Khôi phục thiết bị">
+<!ENTITY device.tools.restore_device.description "Khôi phục thiết bị về cấu hình của nhà sản xuất sẽ xóa tất cả phương tiện trên thiết bị, cũng như sẽ khôi phục firmware và cấu hình của nhà sản xuất.">
+<!ENTITY device.tools.restore_device.label "Khôi phục thiết bị về cấu hình của nhà sản xuất">
+
+<!ENTITY device.tools.format_device.title "Định dạng thiết bị">
+<!ENTITY device.tools.format_device.description "Quá trình định dạng thiết bị của bạn sẽ xóa tất cả các bài nhạc và dữ liệu trên thiết bị.">
+<!ENTITY device.tools.format_device.label "Định dạng thiết bị">
+<!ENTITY device.tools.format_volume.button.label "Định dạng">
+
+<!ENTITY device.tools.support.title "Hỗ trợ">
+<!ENTITY device.tools.support.description "Xem thông tin hỗ trợ, hướng dẫn thủ công, tài liệu, các câu hỏi thường gặp, và thông tin sản phẩm. Các dịch vụ hỗ trợ có cho khác hàng đã đăng ký sản phẩm của họ.">
+<!ENTITY device.tools.support.label "Xem các tài liệu hỗ trợ">
+
+<!ENTITY device.tools.reset_warnings.title "Thiết lập lại các cảnh báo">
+<!ENTITY device.tools.reset_warnings.description "Thiết lập lại các hộp thoại cảnh báo sẽ kích hoạt những hộp thoại này để yêu cầu bạn xác nhận những tác vụ nhất định mà bạn muốn hoàn thành.">
+<!ENTITY device.tools.reset_warnings.label "Thiết lập lại các thông điệp cảnh báo">
+
+<!ENTITY device.dialog.setup.title "Thiết lập thiết bị">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Từ chối thiết bị này">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Chỉ chọn nếu bạn không muốn&brandShortName; để quản lý thiết bị này ">
+
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "nếu bạn không muốn &brandShortName; quản lý thiết bị này, bạn có thể">
+<!ENTITY device.dialog.setup.explainIgnore.linkText "bác bỏ thiết bị này">
+<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
+
+<!ENTITY openLinkCmdInDefaultBrowser.label              "Mở đường dẫn bằng trình duyệt Web mặc định">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openPageCmdInDefaultBrowser.label              "Mở trang này bằng trình duyệt Web mặc định">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label             "Mở khung này bằng trình duyệt Web mặc định">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY openImageCmdInDefaultBrowser.label             "Mở ảnh bằng trình duyệt Web mặc định">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
+<!ENTITY copySelectionCmd.label                         "Sao chép">
+<!ENTITY copySelectionCmd.accesskey                     "c">
+<!ENTITY playMediaCmd.label                             "Phát">
+<!ENTITY playMediaCmd.accesskey                         "p">
+<!ENTITY downloadMediaCmd.label                         "Tải về thư viện">
+<!ENTITY downloadMediaCmd.accesskey                     "d">
+<!ENTITY addMediaToPlaylistCmd.label                    "Tải vào Danh Sách Nhạc">
+<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Không có Danh sách&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Danh Sách Nhạc mới">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
+<!ENTITY subscribeMediaPageCmd.label                    "Đăng kí trang này…">
+<!ENTITY subscribeMediaPageCmd.accesskey                "u">
+<!ENTITY subscribeMediaFrameCmd.label                   "Đăng ký khung này">
+<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
+
+<!ENTITY feedback.dialog.title      "Giúp &brandShortName; tốt hơn!">
+<!ENTITY feedback.dialog.yes        "Có">
+<!ENTITY feedback.dialog.no         "Không">
+<!ENTITY feedback.dialog.sentence1  "Bạn có muốn giúp  &brandShortName; tốt hơn bằng cách tham gia một cuộc khảo sát ẩn danh nhanh?">
+<!ENTITY feedback.dialog.sentence2  "Nếu bạn không hào hứng, chúng tôi sẽ không làm phiền lại. Cảm ơn đã xem xét và chúng tôi rất cảm kích khi bạn sử dụng &brandShortName;! ">
+<!ENTITY feedback.dialog.sentence3  "Kính chào,">
+<!ENTITY feedback.dialog.sentence4  "Nhóm &brandShortName;">
+
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title        "Chào mừng bạn đến với &brandShortName;">
+
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title                  "Thiết lập &brandShortName;">
+
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label      "Phần mở rộng được đề xuất">
+<!ENTITY first_run.add_ons.description.line1 "Phần bổ sung mở rộng chức năng của &brandShortName;, cho phép bạn tùy biến trải nghiệm âm nhạc. Các tùy chọn bên dưới rất được khuyến khích.">
+<!ENTITY first_run.add_ons.description.line2 "Phần mở rộng có thể tích hợp với những ứng dụng và dịch vụ khác, hỗ trợ kết nối với thiết bị ngoài, thay đổi giao diện chương trình và hơn thế nữa! Bạn có thể tải về tại &brandShortName; trang Phần mở rộng.">
+<!ENTITY first_run.add_ons.loading.label     "Đang tải các chương trình phụ đáng chú ý.">
+<!ENTITY first_run.add_ons.load_failed.label "Không thể tải các chương trình phụ đáng chú ý.">
+
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Cập nhật sẵn sàng để cài đặt.">
+<!ENTITY first_run.app_update.finished.text "Cập nhật sẽ được cài đặt sau khi &brandShortName; khởi động lại.">
+
+<!-- First-run connection entities. -->
+<!ENTITY first_run.connection.header.label         "&brandShortName; không thể kết nối Internet">
+<!ENTITY first_run.connection.description          "Kiểm tra Thiết lập kết nối của bạn hoặc Tiếp tục với chương trình hỗ trợ cài đặt.">
+<!ENTITY first_run.connection.settings.button      "Đang thiết lập kết nối…">
+<!ENTITY first_run.connection.settings.description "Máy tính của bạn có kết nối thông qua tường lửa hoặc proxy không? Chỉnh sửa lại các Thiết lập kết nối chưa đúng có thể sẽ giải quyết được nhiều vấn đề về mạng thường gặp.">
+
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label          "Thỏa thuận bản quyền">
+<!ENTITY first_run.eula.accept_checkbox.label "Tôi đã đọc và chấp thuận các điều khoản bản quyền này.">
+<!ENTITY first_run.eula.language.label        "Ngôn ngữ:">
+
+<!-- First-run feedback entities. -->
+<!ENTITY first_run.feedback.header.label            "Giúp &brandShortName; tốt hơn">
+<!ENTITY first_run.feedback.description             "Bạn có sẵn lòng giúp chúng tôi làm cho &brandShortName; ngày một tốt hơn bằng cách gửi cho chúng tôi phản hồi dưới dạng dấu tên về việc bạn sử dụng ứng dụng này như thế nào?">
+<!ENTITY first_run.feedback.metrics.label           "Thu thập và gửi thông tin sử dụng của tôi đến đội phát triển &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description     "Các thông tin được hoàn thành dưới dạng dấu tên và không hề kèm theo thông tin cá nhân nào.">
+<!ENTITY first_run.feedback.email.header.label      "Báo cho tôi thông tin mới nhất">
+<!ENTITY first_run.feedback.email.description       "Hãy đăng ký nhận thư thông báo của chúng tôi để biết được những thông tin cập nhật quan trọng.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "nhập địa chỉ email của bạn để nhận thông tin cập nhật">
+
+<!-- First-run iTunes import/export entities. -->
+<!ENTITY first_run.itunes.header.label                  "Xuất/nhập sang iTunes">
+<!ENTITY first_run.itunes.description                   "Có vẻ bạn có cài iTunes. &brandShortName; có thể được thiết lập để nhập/xuất nhạc giữa &brandShortName; và iTunes để các thư viện của bạn đượxc đồng bộ.">
+<!ENTITY first_run.itunes.checkbox.import.label         "Nhập nhạc và danh sách nhạc từ iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts và nhạc mua từ iTunes Store có thể được nhập vào &brandShortName;. Chức năng này làm việc tốt nếu &brandShortName; là trình chơi nhạc chính của bạn.">
+<!ENTITY first_run.itunes.checkbox.export.label         "Xuất các bản nhạc và danh sách nhạc mới sang iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description   "Nhạc lấy từ &brandShortName; có thể được xuất sang iTunes để có thể chuyển san iPod hoặc iPhone của bạn.">
+
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label                 "Nhập thiết bị">
+<!ENTITY first_run.import_media.description                  "Chọn file bạn muốn nhập vào &brandShortName;. Khi đã khởi động &brandShortName; bạn có thể nhập thêm các file khác bằng nhiều cách.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Quét thư mục trên máy">
+<!ENTITY first_run.import_media.radio.dont_import.label      "Đừng nhập thiết bị">
+<!ENTITY first_run.import_media.scan_directories.description "Bạn có muốn &brandShortName; tự nhập dữ liệu bằng cách quét các thư mục được chỉ định trên máy tính của bạn?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Xem xét sự thay đổi của thư mục này">
+
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "Tải phần mở rộng">
+
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label      "Chào mừng đến với &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; là một chương trình có độ tùy biến cao so với các chương trình chơi nhạc trên desktop truyền thống.">
+<!ENTITY first_run.welcome.description.line2 "Chương trình hỗ trợ này cung cấp một cách nhanh và hiệu quả để sử dụng tốt &brandShortName;">
+
+<!-- Import media dialog preference entities. -->
+<!ENTITY import_media.prefs.title                         "Trình nhập dữ liệu">
+
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title                      "Nhập thư viện">
+<!ENTITY import_library.prefs.title                       "Trình nhập iTune">
+<!ENTITY import_library.library_file_label                "Tập tin thư viện:">
+<!ENTITY import_library.unsupported_media_alert_checkbox  "Thông báo cho tôi khi không thể nhập những bài hoặc playlist không được hỗ trợ">
+<!ENTITY import_library.prefs.path_group_caption          "Nơi chưa thư viện nhạc iTunes">
+<!ENTITY import_library.prefs.options_group_caption       "Tùy chọn Nhập dữ liệu">
+<!ENTITY import_library.import_command                    "Nhập Thư Viện">
+<!ENTITY import_tracks_itunes_checkbox                    "Nhập nhạc từ iTunes">
+<!ENTITY import_playlists_itunes_checkbox                 "Nhập danh sách nhạc">
+<!ENTITY export_tracks_itunes_checkbox                    "Xuất nhạc sang iTunes">
+<!ENTITY export_playlists_itunes_checkbox                 "Xuất danh sách nhạc">
+<!ENTITY export_subscriptions_itunes_checkbox             "Xuất các bản đăng ký">
+<!ENTITY export_smartplaylists_itunes_checkbox            "Xuất danh sách nhạc thông minh">
+<!ENTITY importexport_show_notifications_checkbox         "Nhắc nhở khi quá trình nhập/xuất hoàn tất">
+
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title        "Playlist đã được thay đổi">
+<!ENTITY import_library.dirty_playlist_dialog.keep         "Giữ nguyên playlist &brandShortName; hiện tại (Không nhập playlist này)">
+<!ENTITY import_library.dirty_playlist_dialog.merge        "Ghép &brandShortName; hiện tại với playlist của iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace      "Thay thế playlist &brandShortName; với playlist hiện tại của iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note         "Chú ý: Quá trình Ghép và Thay thế không thể khôi phục.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Áp dụng các thứ đã chọn vào tất cả các playlist">
+
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
+
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title                  "Các thư mục được theo dõi">
+<!ENTITY watch_folder.prefs.settings_group_caption "Thiết lập Theo dõi Thư mục">
+<!ENTITY watch_folder.prefs.description            "&brandShortName; có thể quản lý nội dung của một thư mục và tự động thêm hoặc xóa file trong thư mục đó.">
+<!ENTITY watch_folder.prefs.enable_checkbox        "Tự động theo dõi thay đổi trong thư mục sau">
+<!ENTITY watch_folder.prefs.watch_folder_label     "Thư mục:">
+
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label     "Phần phụ trợ được khuyến cáo">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title        "Cài đặt &brandShortName;">
+
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label    "Chi tiết">
+
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message  "Không có bản nhạc nào đang được chơi" >
+<!ENTITY albumart.displaypane.not_selected_message  "Bạn chưa chọn gì cả" >
+<!ENTITY albumart.displaypane.drag_and_drop  "Kéo và thả hình bìa album vào đây" >
+<!ENTITY albumart.displaypane.contextmenu.showselected  "Hiện Đang chọn" >
+<!ENTITY albumart.displaypane.contextmenu.showplaying   "Hiện Đang phát" >
+<!ENTITY albumart.displaypane.selected.menu.cut "Cắt">
+<!ENTITY albumart.displaypane.selected.menu.copy "Chép">
+<!ENTITY albumart.displaypane.selected.menu.paste "Dán">
+<!ENTITY albumart.displaypane.selected.menu.clear "Xóa">
+<!ENTITY albumart.coverpreview.title "Hình bìa Album">
+
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "Hình bìa album">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Lưu ảnh album vào file nhạc">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Cho phép &brandShortName; chép hình album vào những thẻ thích hợp của các file đa phương tiện.">
+
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "Tìm tên tập tin">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Nhập vào danh sách tên tập tin được ngăn cách bằng dấu phẩy vào đây">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Tìm kiếm thành phần mở rộng của tập tin">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Nhập vào danh sách các thành phần mở rộng được ngăn cách bằng dấu phẩy vào đây ">
+
+<!ENTITY albumartpreferences.prefpane.priorities.label "Ưu tiên của trình tìm kiếm (fetcher)">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Sắp xếp danh sách trình tìm kiếm (fetcher) bạn muốn dùng trước lên trên đầu.">
+<!ENTITY albumartpreferences.prefpane.priorities.up "Lên">
+<!ENTITY albumartpreferences.prefpane.priorities.down "Xuống">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "Cài đặt lại">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Tự nạp ảnh album khi phát hoặc chọn bài hát, tùy thuộc vào chế độ của khung hiển thị Ảnh bìa Album. Hiệu năng có thể bị ảnh hưởng khi kích hoạt tính năng này.">
+
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label      "Trở lại">
+<!ENTITY wizard.button.back.accesskey  "B">
+<!ENTITY wizard.button.cancel.label    "Hủy bỏ">
+<!ENTITY wizard.button.next.label      "Tiếp tục">
+<!ENTITY wizard.button.next.accesskey  "T">
+<!ENTITY wizard.button.finish.label    "Kết thúc">
+
+<!-- Mediacore entities. -->
+<!ENTITY mediacore.error.title    "Lỗi Mediacore">
+<!ENTITY mediacore.error.preface  "&brandShortName; phát sinh lỗi sau:">
+<!ENTITY mediacore.error.continue "Tiếp tục">
+<!ENTITY mediacore.error.stop     "Ngừng chơi">
+<!ENTITY mediacore.error.dontshowme "Từ giờ không hiện lỗi nữa">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Để có thêm thông tin về codec bị thiếu, hãy xem">
+<!ENTITY mediacore.error.codec_not_found.text.post "">
+
+<!-- Media importer filtered extensions warning -->
+<!ENTITY mediaimporter.filtered_extensions.title "Ghi chú về Nhập Phương tiện">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "Để có thêm thông tin về codec bị thiếu, hãy xem:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Không thông báo cho tôi về tập tin video không được hỗ trợ trong lần nhập tới">
+
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label          "Phát">
+
+<!ENTITY playback.prefpane.audio_output.label   "Ngõ ra Âm thanh">
+<!ENTITY playback.prefpane.audio_output.buffer  "Đệm Ngõ Ra:">
+
+<!ENTITY playback.prefpane.streaming.label      "Mạng và Luồng">
+<!ENTITY playback.prefpane.streaming.buffer     "Đệm Luồng:">
+
+<!ENTITY playback.prefpane.normalization.label  "Chuẩn hóa">
+<!ENTITY playback.prefpane.normalization.enable "Sử dụng dữ liệu chuẩn hóa âm thanh nếu có">
+
+<!ENTITY playback.prefpane.normalization.preferredGain.label "Dữ liệu gain ưa thích:">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "Bài">
+
+<!ENTITY playback.prefpane.units.kilobytes  "kB">
+<!ENTITY playback.prefpane.units.ms         "ms">
+
+<!ENTITY playback.prefpane.ratings.label "Siêu dữ liệu xếp hạng">
+<!ENTITY playback.prefpane.ratings.enablewriting "Lưu trữ thông tin xếp hạng trong siêu dữ liệu tập tincủa mỗi tập tin.">
+
+<!ENTITY fetch_album_art.dialog.title "Tải ảnh bìa album">
+<!ENTITY fetch_album_art.dialog.message "Hiện chưa được vận hành. (Xem lỗi 14281)">
+
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "Ca sĩ">
+<!ENTITY cdrip.lookup.info_not_found.album  "Anbum">
+<!ENTITY cdrip.lookup.info_not_found.title  "Không tìm thấy thông tin CD">
+<!ENTITY cdrip.lookup.info_not_found.descr  "Bạn có thể thêm tên ca sĩ và anbum tại đây. Bạn có thể thay đổi thông tin trong danh sách Sao CD">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Tiêu đề">
+
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "Sao CD">
+<!ENTITY cdrip.prefpane.format "Định dạng">
+<!ENTITY cdrip.prefpane.quality "Chất lượng">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.prefpane.eject_after_rip "Khi rip xong CD, nhả CD ra.">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Bật tiếng thông báo khi rip xong CD">
+<!ENTITY cdrip.prefpane.providers.title "Nhà cung cấp Tra cứu CD">
+<!ENTITY cdrip.prefpane.quality_desc "Chất lượng kbps cao hơn sẽ cho kết quả âm thanh chất lượng cao hơn và tập tin có kích thước lớn hơn.">
+
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Cấu hình rip CD">
+<!ENTITY cdrip.mediaview.format_label              "Định dạng:">
+<!ENTITY cdrip.mediaview.quality_label             "Chất lượng:">
+<!ENTITY cdrip.mediaview.settings_button           "Cấu hình">
+<!ENTITY cdrip.mediaview.rip_cd_button             "Rip CD">
+<!ENTITY cdrip.mediaview.stop_rip_button           "Ngừng quá trình sao">
+<!ENTITY cdrip.mediaview.view_tracks_button        "Xem các bản nhạc">
+<!ENTITY cdrip.mediaview.eject_cd_button           "Nhả CD">
+
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key                 "E">
+<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
+<!ENTITY cdrip.mediaview.rip.key                   "C">
+<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key              "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
+
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "Cửa sổ Video">
+<!ENTITY videowindow.actualsize "Kích Thước Thật">
+<!ENTITY videowindow.fullscreen "Toàn Màn Hình">
+
+<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.bringtofront.key "T">
+
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "Chúng tôi muốn gửi lời cảm ơn đến các cộng tác viên, những người đã nỗ lực đóng góp cho Songbird. Họ đã giúp viết mã, tài liệu và chạy thử chương trình. Họ đã tạo ra và duy trì sản phẩm này, những bộ phát triển đi kèm với nó, cùng các công cụ xây dựng và trang web của chúng tôi. Danh sách tên đi kèm với nick IRC, hãy tạt qua #songbird trên irc.mozilla.org và gửi lời chào làm quen!">
+<!ENTITY about.credits.footer.beforeLink "Tất nhiên sẽ không thể có được thành quả này nếu thiếu sự nỗ lực chăm chỉ của">
+<!ENTITY about.credits.footer.linkText "những cộng tác viên">
+<!ENTITY about.credits.footer.afterLink "đến dự án Mozilla.">
+<!ENTITY about.credits.heading.translators "Người dịch">
+<!ENTITY about.credits.heading.champs "Các Quán quân">
+<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
+<!ENTITY about.credits.description.champs.link.text "Diễn đàn hỗ trợ GetSatisfaction của Songbird">
+<!ENTITY about.credits.description.champs.link.post "Họ là những người bạn năng nổ nhất của chúng tối, và làm việc không mệt mỏi để đảm bảo rằng tất cả những người dùng Songbird đều là những người dùng  hạnh phúc">
+
+<!ENTITY cdrip.lookup.multiple.title       "Tìm thấy nhiều CD ghi">
+<!ENTITY cdrip.lookup.multiple.description "Chọn một trong những điều sau đây hoặc thêm các thông tin của riêng bạn.">
+<!ENTITY cdinfo.other.label                "Thêm thông tin Ca sĩ và Anbum">
+
+<!ENTITY playqueue.label "Play Queue">
+<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
+<!ENTITY playqueue.inprogress "Đang thêm bài">
+
+<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
+<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

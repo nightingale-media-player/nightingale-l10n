@@ -1,0 +1,80 @@
+<!ENTITY help.keyboard.subtitle "Njia Fupi za Keyboard">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Amri">
+<!ENTITY help.keyboard.heading.shortcut "Njia fupi">
+<!ENTITY help.keyboard.section.editing "Kuhariri">
+<!ENTITY help.keyboard.section.search "Tafuta">
+<!ENTITY help.keyboard.key.left "Mshale wa Kushoto">
+<!ENTITY help.keyboard.key.right "Mshale wa Kulia">
+<!ENTITY help.keyboard.key.up "Mshale wa Juu">
+<!ENTITY help.keyboard.key.down "Mshale wa Chini">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Bonyeza">
+<!ENTITY help.keyboard.mouse.click.middle "Bonyeza Katikati">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Delete">
+<!ENTITY help.keyboard.name.volume.down "Punguza Sauti">
+<!ENTITY help.keyboard.name.volume.up "Ongeza Sauti">
+<!ENTITY help.keyboard.name.volume.mute "Ondoa Sauti">
+<!ENTITY help.keyboard.name.volume.max "Sauti Ya Juu">
+<!ENTITY help.keyboard.name.edit.undo "Rudisha Ilivyokuwa">
+<!ENTITY help.keyboard.name.edit.redo "Rudia Kufanya">
+<!ENTITY help.keyboard.name.edit.selectall "Chagua Yote">
+<!ENTITY help.keyboard.name.edit.cut "Kata">
+<!ENTITY help.keyboard.name.edit.copy "Nakili">
+<!ENTITY help.keyboard.name.edit.paste "Weka">
+<!ENTITY help.keyboard.name.edit.delete "Futa">
+<!ENTITY help.keyboard.name.browser.back "Nyuma">
+<!ENTITY help.keyboard.name.browser.forward "Mbele">
+<!ENTITY help.keyboard.name.browser.reload "Pandisha Tena">
+<!ENTITY help.keyboard.name.browser.stop "Acha Kupandisha">
+<!ENTITY help.keyboard.name.open.file "Fungua Faili">
+<!ENTITY help.keyboard.name.tab.open.link "Fungua Kiungo kwenye Tab Mpya">
+<!ENTITY help.keyboard.name.save.link "Hifadhi Kiungo">
+<!ENTITY help.keyboard.name.file.print "Chapisha">
+<!ENTITY help.keyboard.name.view.source "Angalia Ilikotoka">
+<!ENTITY help.keyboard.name.view.zoomin "Kuza">
+<!ENTITY help.keyboard.name.view.zoomout "Punguza">
+<!ENTITY help.keyboard.name.tab.new "Tab Mpya">
+<!ENTITY help.keyboard.name.tab.close "Funga Tab">
+<!ENTITY help.keyboard.name.tab.next "Tab Nyingine">
+<!ENTITY help.keyboard.name.tab.previous "Tab Iliyopita">
+<!ENTITY help.keyboard.name.page.top "Nenda Juu ya Ukurasa">
+<!ENTITY help.keyboard.name.page.bottom "Nenda Chini ya Ukurasa">
+<!ENTITY help.keyboard.name.view.fullscreen "Skrini Yote">
+<!ENTITY help.keyboard.name.downloads "Zilizopakuliwa">
+<!ENTITY help.keyboard.name.find "Tafuta">
+<!ENTITY help.keyboard.name.find.again "Tafuta Tena">
+<!ENTITY help.keyboard.name.find.text "Tafuta Ukiwa Unachapa Maandishi ">
+<!ENTITY help.keyboard.name.find.link "Tafuta Ukiwa Unachapa Kiungo">
+<!ENTITY help.keyboard.name.quit "Ondoka">
+<!ENTITY help.keyboard.name.preferences "Unavyopendelea">
+<!ENTITY help.keyboard.name.help "Mada za Msaada">
+<!ENTITY help.keyboard.name.sanitize "Futa Taarifa Zako Binafsi">
