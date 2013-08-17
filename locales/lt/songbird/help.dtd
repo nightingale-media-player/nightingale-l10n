@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "&brandShortName; spartieji klavišai" >
-<!ENTITY help.keyboard.subtitle           "Spartieji klavišai" >
-<!ENTITY help.keyboard.description        "Spartieji klavišai gali palengvinti darbą su &brandShortName;. Žemiau yra galimų komandų ir jas atitinkančių sparčiųjų klavišų sąrašas.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Komanda" >
-<!ENTITY help.keyboard.heading.shortcut   "Sutrumpinimas" >
-<!ENTITY help.keyboard.section.playback   "Grojimo valdikliai" >
-<!ENTITY help.keyboard.section.library    "Biblioteka bei grojaraščiai" >
-<!ENTITY help.keyboard.section.editing    "Redagavimas" >
-<!ENTITY help.keyboard.section.navigation "Navigacija" >
-<!ENTITY help.keyboard.section.browser    "Naršyklė" >
-<!ENTITY help.keyboard.section.windows    "Langai ir kortelės" >
-<!ENTITY help.keyboard.section.search     "Paieška" >
-<!ENTITY help.keyboard.section.video      "Vaizdo įrašai" >
-<!ENTITY help.keyboard.section.cdrip      "CD išskleidimas" >
-<!ENTITY help.keyboard.section.misc       "Kita" >
-
-<!ENTITY help.keyboard.key.left           "Rodyklė kairėn" >
-<!ENTITY help.keyboard.key.right          "Rodyklė dešinėn" >
-<!ENTITY help.keyboard.key.up             "Rodyklė viršun" >
-<!ENTITY help.keyboard.key.down           "Rodyklė žemyn" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Pelės paspaudimas" >
-<!ENTITY help.keyboard.mouse.click.middle "Vidurinysis pelės klavišas" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "" >
-<!ENTITY help.keyboard.key.delete         "Šalinti" >
-
+<!ENTITY help.keyboard.title "&brandShortName; spartieji klavišai">
+<!ENTITY help.keyboard.subtitle "Spartieji klavišai">
+<!ENTITY help.keyboard.description "Spartieji klavišai gali palengvinti darbą su &brandShortName;. Žemiau yra galimų komandų ir jas atitinkančių sparčiųjų klavišų sąrašas.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Komanda">
+<!ENTITY help.keyboard.heading.shortcut "Sutrumpinimas">
+<!ENTITY help.keyboard.section.playback "Grojimo valdikliai">
+<!ENTITY help.keyboard.section.library "Biblioteka bei grojaraščiai">
+<!ENTITY help.keyboard.section.editing "Redagavimas">
+<!ENTITY help.keyboard.section.navigation "Navigacija">
+<!ENTITY help.keyboard.section.browser "Naršyklė">
+<!ENTITY help.keyboard.section.windows "Langai ir kortelės">
+<!ENTITY help.keyboard.section.search "Paieška">
+<!ENTITY help.keyboard.section.video "Vaizdo įrašai">
+<!ENTITY help.keyboard.section.cdrip "CD išskleidimas">
+<!ENTITY help.keyboard.section.misc "Kita">
+<!ENTITY help.keyboard.key.left "Rodyklė kairėn">
+<!ENTITY help.keyboard.key.right "Rodyklė dešinėn">
+<!ENTITY help.keyboard.key.up "Rodyklė viršun">
+<!ENTITY help.keyboard.key.down "Rodyklė žemyn">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Pelės paspaudimas">
+<!ENTITY help.keyboard.mouse.click.middle "Vidurinysis pelės klavišas">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "">
+<!ENTITY help.keyboard.key.delete "Šalinti">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Groti/Pristabdyti pažymėtą kūtinį" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Groti ankstesnį kūrinį grojaraštyje " >
-<!ENTITY help.keyboard.name.playcontrol.next    "Groti kitą kūrinį grojaraštyje" >
-<!ENTITY help.keyboard.name.volume.down         "Tyliau" >
-<!ENTITY help.keyboard.name.volume.up           "Garsiau" >
-<!ENTITY help.keyboard.name.volume.mute         "Visiškai nutildyti" >
-<!ENTITY help.keyboard.name.volume.max          "Visu garsu" >
-<!ENTITY help.keyboard.name.jumpto              "Peršokti į langą" >
-<!ENTITY help.keyboard.name.equalizer           "Atverti ekvalaizerį" >
-<!ENTITY help.keyboard.name.new.playlist        "Naujas grojaraštis" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Naujas sumanusis grojaraštis" >
-<!ENTITY help.keyboard.name.import              "Importuoti failus" >
-<!ENTITY help.keyboard.name.currenttrack        "Rasti dabar grojamą bylą" >
-<!ENTITY help.keyboard.name.mediapage.switch    "" >
-<!ENTITY help.keyboard.name.feather.switch      "Perjungti plunksnas" >
-<!ENTITY help.keyboard.name.trackeditor         " Kūrinių Metaduomenų redaktorius" >
-<!ENTITY help.keyboard.name.edit.undo           "Atšaukti" >
-<!ENTITY help.keyboard.name.edit.redo           "" >
-<!ENTITY help.keyboard.name.edit.selectall      "Pažymėti viską" >
-<!ENTITY help.keyboard.name.edit.cut            "Iškirpti" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopijuoti" >
-<!ENTITY help.keyboard.name.edit.paste          "Įklijuoti" >
-<!ENTITY help.keyboard.name.edit.delete         "Šalinti" >
-<!ENTITY help.keyboard.name.browser.back        "Atgal" >
-<!ENTITY help.keyboard.name.browser.forward     "Persiųsti " >
-<!ENTITY help.keyboard.name.browser.reload      "Atnaujinti" >
-<!ENTITY help.keyboard.name.browser.stop        "Stabdyti krovimą" >
-<!ENTITY help.keyboard.name.open.file           "Atverti failą" >
-<!ENTITY help.keyboard.name.open.url            "Atverti URL adresą" >
-<!ENTITY help.keyboard.name.tab.open.link       "Atverti nuorodą naujoje kortelėje" >
-<!ENTITY help.keyboard.name.save.link           "Išsaugoti nuorodą" >
-<!ENTITY help.keyboard.name.file.print          "Spausdinti" >
-<!ENTITY help.keyboard.name.view.source         "Pirminis tekstas" >
-<!ENTITY help.keyboard.name.view.zoomin         "Artinti vaizdą" >
-<!ENTITY help.keyboard.name.view.zoomout        "Tolinti vaizdą" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Atkurti originalų mastelį" >
-<!ENTITY help.keyboard.name.subscribe           "Prenumeruoti" >
-<!ENTITY help.keyboard.name.locationbar         "Koncentruoti ties Adreso laukeliu " >
-<!ENTITY help.keyboard.name.tab.new             "Nauja kortelė" >
-<!ENTITY help.keyboard.name.tab.close           "Uždaryti kortelę" >
-<!ENTITY help.keyboard.name.tab.next            "Kita kortelė" >
-<!ENTITY help.keyboard.name.tab.previous        "Ankstesnė kortelė" >
-<!ENTITY help.keyboard.name.tab.1               "Kortelė nr. 1" >
-<!ENTITY help.keyboard.name.tab.2               "Kortelė nr. 2" >
-<!ENTITY help.keyboard.name.tab.3               "Kortelė nr. 3" >
-<!ENTITY help.keyboard.name.tab.4               "Kortelė nr. 4" >
-<!ENTITY help.keyboard.name.tab.5               "Kortelė nr. 5" >
-<!ENTITY help.keyboard.name.tab.6               "Kortelė nr. 6" >
-<!ENTITY help.keyboard.name.tab.7               "Kortelė nr. 7" >
-<!ENTITY help.keyboard.name.tab.8               "Kortelė nr. 8" >
-<!ENTITY help.keyboard.name.tab.9               "Kortelė nr. 9" >
-<!ENTITY help.keyboard.name.page.top            "Perkelti į puslapio viršų" >
-<!ENTITY help.keyboard.name.page.bottom         "Perkelti į puslapio apačią" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Visame ekrane" >
-<!ENTITY help.keyboard.name.mac.minimize        "Minimizuoti į juostą" >
-<!ENTITY help.keyboard.name.mac.hide            "Slėpti langą" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Slėpti kitas programas" >
-<!ENTITY help.keyboard.name.downloads           "Atsiuntimai" >
-<!ENTITY help.keyboard.name.find                "Rasti" >
-<!ENTITY help.keyboard.name.find.again          "Rasti dar kartą" >
-<!ENTITY help.keyboard.name.find.text           "Ieškoti Jums įvedinėjant tekstą" >
-<!ENTITY help.keyboard.name.find.link           "Ieškoti Jums įvedinėjant nuorodą" >
-<!ENTITY help.keyboard.name.search.focus        "Koncentruoti ties Paieškos laukeliu" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Visas ekranas" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Vaizdas viršuje" >
-<!ENTITY help.keyboard.name.video.escape        "Baigti rodymą visame ekrane" >
-<!ENTITY help.keyboard.name.cdrip.start         "Išskleisti CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Stabdyti CD išskleidimą" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Išstumti CD" >
-<!ENTITY help.keyboard.name.quit                "Uždaryti" >
-<!ENTITY help.keyboard.name.preferences         "Parametrai" >
-<!ENTITY help.keyboard.name.help                "Pagalbos temos" >
-<!ENTITY help.keyboard.name.sanitize            "Šalinti privačius duomenis" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Groti/Pristabdyti pažymėtą kūtinį">
+<!ENTITY help.keyboard.name.playcontrol.prev "Groti ankstesnį kūrinį grojaraštyje ">
+<!ENTITY help.keyboard.name.playcontrol.next "Groti kitą kūrinį grojaraštyje">
+<!ENTITY help.keyboard.name.volume.down "Tyliau">
+<!ENTITY help.keyboard.name.volume.up "Garsiau">
+<!ENTITY help.keyboard.name.volume.mute "Visiškai nutildyti">
+<!ENTITY help.keyboard.name.volume.max "Visu garsu">
+<!ENTITY help.keyboard.name.jumpto "Peršokti į langą">
+<!ENTITY help.keyboard.name.equalizer "Atverti ekvalaizerį">
+<!ENTITY help.keyboard.name.new.playlist "Naujas grojaraštis">
+<!ENTITY help.keyboard.name.new.smartplaylist "Naujas sumanusis grojaraštis">
+<!ENTITY help.keyboard.name.import "Importuoti failus">
+<!ENTITY help.keyboard.name.currenttrack "Rasti dabar grojamą bylą">
+<!ENTITY help.keyboard.name.mediapage.switch "">
+<!ENTITY help.keyboard.name.feather.switch "Perjungti plunksnas">
+<!ENTITY help.keyboard.name.trackeditor " Kūrinių Metaduomenų redaktorius">
+<!ENTITY help.keyboard.name.edit.undo "Atšaukti">
+<!ENTITY help.keyboard.name.edit.redo "">
+<!ENTITY help.keyboard.name.edit.selectall "Pažymėti viską">
+<!ENTITY help.keyboard.name.edit.cut "Iškirpti">
+<!ENTITY help.keyboard.name.edit.copy "Kopijuoti">
+<!ENTITY help.keyboard.name.edit.paste "Įklijuoti">
+<!ENTITY help.keyboard.name.edit.delete "Šalinti">
+<!ENTITY help.keyboard.name.browser.back "Atgal">
+<!ENTITY help.keyboard.name.browser.forward "Persiųsti ">
+<!ENTITY help.keyboard.name.browser.reload "Atnaujinti">
+<!ENTITY help.keyboard.name.browser.stop "Stabdyti krovimą">
+<!ENTITY help.keyboard.name.open.file "Atverti failą">
+<!ENTITY help.keyboard.name.open.url "Atverti URL adresą">
+<!ENTITY help.keyboard.name.tab.open.link "Atverti nuorodą naujoje kortelėje">
+<!ENTITY help.keyboard.name.save.link "Išsaugoti nuorodą">
+<!ENTITY help.keyboard.name.file.print "Spausdinti">
+<!ENTITY help.keyboard.name.view.source "Pirminis tekstas">
+<!ENTITY help.keyboard.name.view.zoomin "Artinti vaizdą">
+<!ENTITY help.keyboard.name.view.zoomout "Tolinti vaizdą">
+<!ENTITY help.keyboard.name.view.zoomreset "Atkurti originalų mastelį">
+<!ENTITY help.keyboard.name.subscribe "Prenumeruoti">
+<!ENTITY help.keyboard.name.locationbar "Koncentruoti ties Adreso laukeliu ">
+<!ENTITY help.keyboard.name.tab.new "Nauja kortelė">
+<!ENTITY help.keyboard.name.tab.close "Uždaryti kortelę">
+<!ENTITY help.keyboard.name.tab.next "Kita kortelė">
+<!ENTITY help.keyboard.name.tab.previous "Ankstesnė kortelė">
+<!ENTITY help.keyboard.name.tab.1 "Kortelė nr. 1">
+<!ENTITY help.keyboard.name.tab.2 "Kortelė nr. 2">
+<!ENTITY help.keyboard.name.tab.3 "Kortelė nr. 3">
+<!ENTITY help.keyboard.name.tab.4 "Kortelė nr. 4">
+<!ENTITY help.keyboard.name.tab.5 "Kortelė nr. 5">
+<!ENTITY help.keyboard.name.tab.6 "Kortelė nr. 6">
+<!ENTITY help.keyboard.name.tab.7 "Kortelė nr. 7">
+<!ENTITY help.keyboard.name.tab.8 "Kortelė nr. 8">
+<!ENTITY help.keyboard.name.tab.9 "Kortelė nr. 9">
+<!ENTITY help.keyboard.name.page.top "Perkelti į puslapio viršų">
+<!ENTITY help.keyboard.name.page.bottom "Perkelti į puslapio apačią">
+<!ENTITY help.keyboard.name.view.fullscreen "Visame ekrane">
+<!ENTITY help.keyboard.name.mac.minimize "Minimizuoti į juostą">
+<!ENTITY help.keyboard.name.mac.hide "Slėpti langą">
+<!ENTITY help.keyboard.name.mac.hideothers "Slėpti kitas programas">
+<!ENTITY help.keyboard.name.downloads "Atsiuntimai">
+<!ENTITY help.keyboard.name.find "Rasti">
+<!ENTITY help.keyboard.name.find.again "Rasti dar kartą">
+<!ENTITY help.keyboard.name.find.text "Ieškoti Jums įvedinėjant tekstą">
+<!ENTITY help.keyboard.name.find.link "Ieškoti Jums įvedinėjant nuorodą">
+<!ENTITY help.keyboard.name.search.focus "Koncentruoti ties Paieškos laukeliu">
+<!ENTITY help.keyboard.name.video.fullscreen "Visas ekranas">
+<!ENTITY help.keyboard.name.video.bringtofront "Vaizdas viršuje">
+<!ENTITY help.keyboard.name.video.escape "Baigti rodymą visame ekrane">
+<!ENTITY help.keyboard.name.cdrip.start "Išskleisti CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Stabdyti CD išskleidimą">
+<!ENTITY help.keyboard.name.cdrip.eject "Išstumti CD">
+<!ENTITY help.keyboard.name.quit "Uždaryti">
+<!ENTITY help.keyboard.name.preferences "Parametrai">
+<!ENTITY help.keyboard.name.help "Pagalbos temos">
+<!ENTITY help.keyboard.name.sanitize "Šalinti privačius duomenis">

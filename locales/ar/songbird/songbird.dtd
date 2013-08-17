@@ -1,501 +1,422 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "موافق" >
-<!ENTITY window.cancel      "إلغاء" >
-<!ENTITY window.apply       "تطبيق" >
-<!ENTITY window.browse      "تصفّح…" >
-<!ENTITY window.save        "حفظ">
-<!ENTITY window.yes         "نعم">
-<!ENTITY window.no          "لا">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "موافق">
+<!ENTITY window.cancel "إلغاء">
+<!ENTITY window.apply "تطبيق">
+<!ENTITY window.browse "تصفّح…">
+<!ENTITY window.save "حفظ">
+<!ENTITY window.yes "نعم">
+<!ENTITY window.no "لا">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "إنهاء &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "تفضيلات">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "إنهاء &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "تفضيلات">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "خدمات">
-<!ENTITY menu.mac.hide                  "إخفاء &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "إخفاء البقية">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "اعرض الجميع">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "ملف" >
-<!ENTITY menu.file.new          "قائمة جديدة…" >
-<!ENTITY menu.file.smart        "قائمة تشغيل ذكية جديدة…" >
-<!ENTITY menu.file.remote       "اشتراك جديد…" >
-<!ENTITY menu.file.podcast      "New Podcast…" >
-<!ENTITY menu.file.open         "فتح ملف" >
-<!ENTITY menu.file.url          "افتح مكاناً…" >
-<!ENTITY menu.file.playlist     "استورد قائمة تشغيل…" >
-<!ENTITY menu.file.library      "استورد مكتبة…" >
-<!ENTITY menu.file.newtab       "لسان جديد" >
-<!ENTITY menu.file.closetab     "أغلق اللسان" >
-<!ENTITY menu.file.metadata     "عرض البيانات الوصفيه">
-<!ENTITY menu.file.scan         "استورد وسائط…" >
-<!ENTITY menu.file.exit         "خروج" >
-
-<!ENTITY menu.edit          "حرّر" >
-<!ENTITY menu.edit.undo     "تراجع" >
-<!ENTITY menu.edit.redo     "أعِد" >
-<!ENTITY menu.edit.cut      "قص" >
-<!ENTITY menu.edit.copy     "انسخ" >
-<!ENTITY menu.edit.paste    "الصق" >
-<!ENTITY menu.edit.delete   "احذف" >
-<!ENTITY menu.edit.selall   "إختر الكل" >
-<!ENTITY menu.edit.find        "ابحث" >
-<!ENTITY menu.edit.findagain   "ابحث مرة أخرى" >
-
+<!ENTITY menu.mac.services "خدمات">
+<!ENTITY menu.mac.hide "إخفاء &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "إخفاء البقية">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "اعرض الجميع">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "ملف">
+<!ENTITY menu.file.new "قائمة جديدة…">
+<!ENTITY menu.file.smart "قائمة تشغيل ذكية جديدة…">
+<!ENTITY menu.file.remote "اشتراك جديد…">
+<!ENTITY menu.file.open "فتح ملف">
+<!ENTITY menu.file.url "افتح مكاناً…">
+<!ENTITY menu.file.playlist "استورد قائمة تشغيل…">
+<!ENTITY menu.file.library "استورد مكتبة…">
+<!ENTITY menu.file.newtab "لسان جديد">
+<!ENTITY menu.file.closetab "أغلق اللسان">
+<!ENTITY menu.file.metadata "عرض البيانات الوصفيه">
+<!ENTITY menu.file.scan "استورد وسائط…">
+<!ENTITY menu.file.exit "خروج">
+<!ENTITY menu.edit "حرّر">
+<!ENTITY menu.edit.undo "تراجع">
+<!ENTITY menu.edit.redo "أعِد">
+<!ENTITY menu.edit.cut "قص">
+<!ENTITY menu.edit.copy "انسخ">
+<!ENTITY menu.edit.paste "الصق">
+<!ENTITY menu.edit.delete "احذف">
+<!ENTITY menu.edit.selall "إختر الكل">
+<!ENTITY menu.edit.find "ابحث">
+<!ENTITY menu.edit.findagain "ابحث مرة أخرى">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "تفضيلات">
+<!ENTITY menu.linux.preferences "تفضيلات">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "المفاتيح" >
-<!ENTITY menu.control.play  "تشغيل" >
-<!ENTITY menu.control.pause "توقف" >
-<!ENTITY menu.control.next  "المقطوعة التالية" >
-<!ENTITY menu.control.prev  "المقطوعة السابقة" >
-<!ENTITY menu.control.shuf  "خلط" >
-<!ENTITY menu.control.repa  "تكرار الكُل" >
-<!ENTITY menu.control.rep1  "تكرار واحدة" >
-<!ENTITY menu.control.repx  "عدم التكرار" >
-<!ENTITY menu.control.jumpto "انتقل إلى…" >
-
-<!ENTITY menu.control.play.button      "تشغيل" >
-<!ENTITY menu.control.pause.button     "توقف" >
-<!ENTITY menu.control.stop.button      "إيقاف" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
+<!ENTITY menu.controls "المفاتيح">
+<!ENTITY menu.control.play "تشغيل">
+<!ENTITY menu.control.pause "توقف">
+<!ENTITY menu.control.next "المقطوعة التالية">
+<!ENTITY menu.control.prev "المقطوعة السابقة">
+<!ENTITY menu.control.shuf "خلط">
+<!ENTITY menu.control.repa "تكرار الكُل">
+<!ENTITY menu.control.rep1 "تكرار واحدة">
+<!ENTITY menu.control.repx "عدم التكرار">
+<!ENTITY menu.control.jumpto "انتقل إلى…">
+<!ENTITY menu.control.play.button "تشغيل">
+<!ENTITY menu.control.pause.button "توقف">
+<!ENTITY menu.control.stop.button "إيقاف">
 <!ENTITY displaypane.default.image.post "قائمه او زياره الي">
 <!ENTITY displaypane.default.link.pre " ">
 <!ENTITY displaypane.default.link.text "الموقع الالكتروني للاضافات">
 <!ENTITY displaypane.default.link.post "لعرض الاضافات">
-<!ENTITY displaypane.name.servicepane   "الجزء السفلي للوحة الخدمة">
-<!ENTITY displaypane.name.browser       "الجزء السفلي للوحة المحتوى">
-<!ENTITY displaypane.name.sidebar       "القائمة الجانبية اليُمنى">
-<!ENTITY servicepane.title.label        "لوحة الخدمة">
-
-<!ENTITY menu.tools            "أدوات" >
+<!ENTITY displaypane.name.servicepane "الجزء السفلي للوحة الخدمة">
+<!ENTITY displaypane.name.browser "الجزء السفلي للوحة المحتوى">
+<!ENTITY displaypane.name.sidebar "القائمة الجانبية اليُمنى">
+<!ENTITY servicepane.title.label "لوحة الخدمة">
+<!ENTITY menu.tools "أدوات">
 <!ENTITY menu.tools.getartwork "احصل على صورة الألبوم…">
 <!ENTITY menu.tools.exportmedia "استيراد تغييرات المكتبة">
-
-<!ENTITY menu.help          "مساعدة" >
-<!ENTITY menu.help.homepage "موقع سونج بيرد" >
-<!ENTITY menu.help.bugz     "أبلغ عن خطأ…" >
-<!ENTITY menu.help.topics   "مواضيع المساعدة" >
+<!ENTITY menu.help "مساعدة">
+<!ENTITY menu.help.homepage "موقع سونج بيرد">
+<!ENTITY menu.help.bugz "أبلغ عن خطأ…">
+<!ENTITY menu.help.topics "مواضيع المساعدة">
 <!ENTITY menu.help.keyboard "اختصارات لوحة المفاتيح">
-<!ENTITY menu.help.about    "&brandShortName; معلومات عن " >
-
-<!ENTITY menu.equalizer     "المعادل…" >
-<!ENTITY menu.preferences   "خيارات" >
-<!ENTITY menu.extensions    "الإضافات" >
+<!ENTITY menu.help.about "&brandShortName; معلومات عن ">
+<!ENTITY menu.equalizer "المعادل…">
+<!ENTITY menu.preferences "خيارات">
+<!ENTITY menu.extensions "الإضافات">
 <!ENTITY menu.clearprivatedata "امسح البيانات الشخصية…">
 <!ENTITY menu.errorconsole "معراض الأخطاء">
-<!ENTITY menu.downloadmgr   "تنزيل الملفات" >
-<!ENTITY menu.switchplayercontrols  "ضوابط المشغل" >
-<!ENTITY menu.controllerontop       "عرض في الأعلى">
-<!ENTITY menu.controlleronbottom    "عرض في الأسفل">
-
-<!ENTITY menu.fullscreen            "الشاشه الكامله">
-<!ENTITY menu.videotofront          "انقل الفيديو للامام">
-
-<!ENTITY device.dialog.wait_for_completion.title  "جاري انتظار الأجهزة.">
-<!ENTITY device.dialog.wait_for_completion.msg    "إنتظار كافة العمليات على الأجهزة حتى تتم.اضغط على خروج لإيقاف الإنتظار و الخروج من البرنامج">
-<!ENTITY device.dialog.wait_for_completion.quit   "مغادرة">
-
-<!ENTITY tooltip.minimize         "تصغير" >
-<!ENTITY tooltip.maximize         "تضخيم/إعادة" >
-<!ENTITY tooltip.exit             "خروج" >
-<!ENTITY tooltip.close            "اغلاق" >
-<!ENTITY tooltip.hide             "إخفاء" >
-<!ENTITY tooltip.fullscreen       "ملء الشاشة" >
-<!ENTITY tooltip.control.back     "المقطوعة السابقة" >
-<!ENTITY tooltip.control.play     "تشغيل" >
-<!ENTITY tooltip.control.pause    "توقيف مؤقت" >
-<!ENTITY tooltip.control.resume   "تشغيل من جديد" >
-<!ENTITY tooltip.control.stop     "إيقاف" >
-<!ENTITY tooltip.control.fwd      "المقطوعة التالية" >
-<!ENTITY tooltip.control.mute     "صامت" >
-<!ENTITY tooltip.control.volume   "حجم الصوت" >
-<!ENTITY tooltip.control.shuffle  "اخلط" >
-<!ENTITY tooltip.control.shuf_off "أوقف الخلط" >
-<!ENTITY tooltip.control.curtrack "ابحث على المقطوعة الحالية" >
-<!ENTITY tooltip.search           "بحث" >
-<!ENTITY tooltip.browser.back     "العودة للخلف" >
-<!ENTITY tooltip.browser.fwd      "للأمام" >
-<!ENTITY tooltip.browser.stop     "إيقاف المُتصفح" >
-<!ENTITY tooltip.browser.home     "الرئيسية" >
-<!ENTITY tooltip.browser.refresh  "أعد التنزيل" >
-<!ENTITY tooltip.browser.subscription "إشترك في هذه الصفحة" >
-<!ENTITY tooltip.browser.mediapages.list "List View" >
-<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
-<!ENTITY tooltip.browser.mediapages "بدّل طريقة عرض الوسائط" >
-<!ENTITY tooltip.servicepane.show    "أظهر لوحة الخدمة" >
-<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "قائمة جديدة" >
-<!ENTITY tooltip.displaypane.options "Content Pane Options">
-
-<!ENTITY smart.window             "قائمة التشغيل الذكية" >
-<!ENTITY smart.limit              "إلى الحد" >
-<!ENTITY smart.match              "طابق" >
-<!ENTITY smart.matchsingle        "تُطابق الشروط التالية :" >
-<!ENTITY smart.any                "بعض" >
-<!ENTITY smart.all                "كل" >
-<!ENTITY smart.following          "الشروط التالية :" >
-<!ENTITY smart.random             "عشوائي" >
-<!ENTITY smart.album              "ألبوم" >
-<!ENTITY smart.artist             "الفنان" >
-<!ENTITY smart.genre              "النوع" >
-<!ENTITY smart.title              "عنوان" >
-<!ENTITY smart.high_rating        "الأعلى تقييماً" >
-<!ENTITY smart.low_rating         "الأقل تقييماً" >
-<!ENTITY smart.most_recent        "الأكثر تشغيلاً" >
-<!ENTITY smart.least_recent       "الأقدم تشغيلاً" >
-<!ENTITY smart.most_often         "الغالب تشغيلها" >
-<!ENTITY smart.least_often        "الأقل تشغيلاً" >
-<!ENTITY smart.most_added         "المُضافة مؤخراً" >
-<!ENTITY smart.least_added        "الأقدم إضافة" >
-<!ENTITY smart.minutes            "دقائق" >
-<!ENTITY smart.hours              "ساعة" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "عناصر" >
-<!ENTITY smart.selectedby         "إختر بواسطة" >
-<!ENTITY smart.to                 "إلى" >
-<!ENTITY smart.autoupdate         "تحديث تلقائي">
+<!ENTITY menu.downloadmgr "تنزيل الملفات">
+<!ENTITY menu.switchplayercontrols "ضوابط المشغل">
+<!ENTITY menu.controllerontop "عرض في الأعلى">
+<!ENTITY menu.controlleronbottom "عرض في الأسفل">
+<!ENTITY menu.fullscreen "الشاشه الكامله">
+<!ENTITY menu.videotofront "انقل الفيديو للامام">
+<!ENTITY device.dialog.wait_for_completion.title "جاري انتظار الأجهزة.">
+<!ENTITY device.dialog.wait_for_completion.msg "إنتظار كافة العمليات على الأجهزة حتى تتم.اضغط على خروج لإيقاف الإنتظار و الخروج من البرنامج">
+<!ENTITY device.dialog.wait_for_completion.quit "مغادرة">
+<!ENTITY tooltip.minimize "تصغير">
+<!ENTITY tooltip.maximize "تضخيم/إعادة">
+<!ENTITY tooltip.exit "خروج">
+<!ENTITY tooltip.close "اغلاق">
+<!ENTITY tooltip.hide "إخفاء">
+<!ENTITY tooltip.fullscreen "ملء الشاشة">
+<!ENTITY tooltip.control.back "المقطوعة السابقة">
+<!ENTITY tooltip.control.play "تشغيل">
+<!ENTITY tooltip.control.pause "توقيف مؤقت">
+<!ENTITY tooltip.control.resume "تشغيل من جديد">
+<!ENTITY tooltip.control.stop "إيقاف">
+<!ENTITY tooltip.control.fwd "المقطوعة التالية">
+<!ENTITY tooltip.control.mute "صامت">
+<!ENTITY tooltip.control.volume "حجم الصوت">
+<!ENTITY tooltip.control.shuffle "اخلط">
+<!ENTITY tooltip.control.shuf_off "أوقف الخلط">
+<!ENTITY tooltip.control.curtrack "ابحث على المقطوعة الحالية">
+<!ENTITY tooltip.search "بحث">
+<!ENTITY tooltip.browser.back "العودة للخلف">
+<!ENTITY tooltip.browser.fwd "للأمام">
+<!ENTITY tooltip.browser.stop "إيقاف المُتصفح">
+<!ENTITY tooltip.browser.home "الرئيسية">
+<!ENTITY tooltip.browser.refresh "أعد التنزيل">
+<!ENTITY tooltip.browser.subscription "إشترك في هذه الصفحة">
+<!ENTITY tooltip.browser.mediapages.list "List View">
+<!ENTITY tooltip.browser.mediapages "بدّل طريقة عرض الوسائط">
+<!ENTITY tooltip.servicepane.show "أظهر لوحة الخدمة">
+<!ENTITY tooltip.servicepane.newnode "قائمة جديدة">
+<!ENTITY smart.window "قائمة التشغيل الذكية">
+<!ENTITY smart.limit "إلى الحد">
+<!ENTITY smart.match "طابق">
+<!ENTITY smart.matchsingle "تُطابق الشروط التالية :">
+<!ENTITY smart.any "بعض">
+<!ENTITY smart.all "كل">
+<!ENTITY smart.following "الشروط التالية :">
+<!ENTITY smart.random "عشوائي">
+<!ENTITY smart.album "ألبوم">
+<!ENTITY smart.artist "الفنان">
+<!ENTITY smart.genre "النوع">
+<!ENTITY smart.title "عنوان">
+<!ENTITY smart.high_rating "الأعلى تقييماً">
+<!ENTITY smart.low_rating "الأقل تقييماً">
+<!ENTITY smart.most_recent "الأكثر تشغيلاً">
+<!ENTITY smart.least_recent "الأقدم تشغيلاً">
+<!ENTITY smart.most_often "الغالب تشغيلها">
+<!ENTITY smart.least_often "الأقل تشغيلاً">
+<!ENTITY smart.most_added "المُضافة مؤخراً">
+<!ENTITY smart.least_added "الأقدم إضافة">
+<!ENTITY smart.minutes "دقائق">
+<!ENTITY smart.hours "ساعة">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "عناصر">
+<!ENTITY smart.selectedby "إختر بواسطة">
+<!ENTITY smart.to "إلى">
+<!ENTITY smart.autoupdate "تحديث تلقائي">
 <!ENTITY smart.playlistcondition.library "مكتبة">
 <!ENTITY smart.contenttypecondition.video "فيديو">
 <!ENTITY smart.contenttypecondition.audio "موسيقي">
-
 <!ENTITY textbox.songbird_open_url "أدخل رابط أو مسار الوسائط التي تريد أن تشغلها:">
-
-<!ENTITY open_url.title           "افتح عنوان">
-<!ENTITY subscribe.title          "اشترك">
-<!ENTITY subscribe.url            "المسار:">
-<!ENTITY subscribe.minutes        "دقيقة (دقائق)">
-<!ENTITY subscribe.hours          "ساعة (ساعات)">
-<!ENTITY subscribe.days           "يوم (أيام)">
-<!ENTITY subscribe.autocheck      "التحديث التلقائي كُل">
-<!ENTITY subscribe.destinationfolder      "إختر ملف الوجهة:">
-
-<!ENTITY feed.subscribe.label     "أشترك">
-<!ENTITY feed.subscribe.dontask   "Don't automatically show this dialog again">
-<!ENTITY feed.subscribe.close     "اغلاق">
-
-<!ENTITY podcast.creation_dialog.title       "New Podcast">
+<!ENTITY open_url.title "افتح عنوان">
+<!ENTITY subscribe.title "اشترك">
+<!ENTITY subscribe.url "المسار:">
+<!ENTITY subscribe.minutes "دقيقة (دقائق)">
+<!ENTITY subscribe.hours "ساعة (ساعات)">
+<!ENTITY subscribe.days "يوم (أيام)">
+<!ENTITY subscribe.autocheck "التحديث التلقائي كُل">
+<!ENTITY subscribe.destinationfolder "إختر ملف الوجهة:">
+<!ENTITY feed.subscribe.label "أشترك">
+<!ENTITY feed.subscribe.close "اغلاق">
+<!ENTITY podcast.creation_dialog.title "New Podcast">
 <!ENTITY podcast.creation_dialog.url.heading "رابط">
-
-
-<!ENTITY watchfolder.title        "راقب المجلدات…">
-<!ENTITY watchfolder.folderlist   "راقب هذه المجلدات للوسائط الجديدة:">
-
-<!ENTITY locale.language          "اللغة" >
-<!ENTITY menu.view                "عرض" >
-<!ENTITY about.version            "الإصدار" >
-<!ENTITY about.buttons.credits    "المساهمات" >
-
-<!ENTITY equalizer.title          "معادل الصوت" >
-<!ENTITY equalizer.on.checkbox    "يعمل" >
-<!ENTITY equalizer.band0.label    "٣٢" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "كيلوبايت" >
-<!ENTITY equalizer.band6.label    "" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "خصائص" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "روك" >
-<!ENTITY equalizer.preset.soft_rock   "سوفت روك" >
-<!ENTITY equalizer.preset.techno      "تكنو" >
-<!ENTITY equalizer.preset.ska         "سكاً " >
-<!ENTITY equalizer.preset.reggae      "ريجي " >
-<!ENTITY equalizer.preset.live        "مباشر" >
-<!ENTITY equalizer.preset.club        "نادي" >
-<!ENTITY equalizer.preset.party       "حفلة" >
-<!ENTITY equalizer.preset.classical   "كلاسيكي" >
-<!ENTITY equalizer.preset.large_hall  "صالة كبيرة" >
-<!ENTITY equalizer.preset.dance       "رقص" >
-<!ENTITY equalizer.preset.pop         "بوب" >
-<!ENTITY equalizer.preset.soft        "ضعيف" >
-<!ENTITY equalizer.preset.small_speakers   "حاسب محمول \ سماعات رأس" >
-<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
-<!ENTITY equalizer.preset.full_treble "Full treble" >
-<!ENTITY equalizer.preset.full_bass   "Full bass" >
-
-
-<!ENTITY setupprogress.pleasewait "الرجاء الانتظار…" >
-<!ENTITY setupprogress.cancel     "إلغاء ">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "Y" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "C" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "أظهر الملف" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "راقب المجلدات…">
+<!ENTITY watchfolder.folderlist "راقب هذه المجلدات للوسائط الجديدة:">
+<!ENTITY locale.language "اللغة">
+<!ENTITY menu.view "عرض">
+<!ENTITY about.version "الإصدار">
+<!ENTITY about.buttons.credits "المساهمات">
+<!ENTITY equalizer.title "معادل الصوت">
+<!ENTITY equalizer.on.checkbox "يعمل">
+<!ENTITY equalizer.band0.label "٣٢">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "كيلوبايت">
+<!ENTITY equalizer.band6.label "">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "خصائص">
+<!ENTITY equalizer.preset.rock "روك">
+<!ENTITY equalizer.preset.soft_rock "سوفت روك">
+<!ENTITY equalizer.preset.techno "تكنو">
+<!ENTITY equalizer.preset.ska "سكاً ">
+<!ENTITY equalizer.preset.reggae "ريجي ">
+<!ENTITY equalizer.preset.live "مباشر">
+<!ENTITY equalizer.preset.club "نادي">
+<!ENTITY equalizer.preset.party "حفلة">
+<!ENTITY equalizer.preset.classical "كلاسيكي">
+<!ENTITY equalizer.preset.large_hall "صالة كبيرة">
+<!ENTITY equalizer.preset.dance "رقص">
+<!ENTITY equalizer.preset.pop "بوب">
+<!ENTITY equalizer.preset.soft "ضعيف">
+<!ENTITY equalizer.preset.small_speakers "حاسب محمول \ سماعات رأس">
+<!ENTITY setupprogress.pleasewait "الرجاء الانتظار…">
+<!ENTITY setupprogress.cancel "إلغاء ">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "أظهر الملف">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "مُحرر البيانات الفوقية" >
-<!ENTITY trackeditor.tab.summary.title            "موجز" >
-<!ENTITY trackeditor.tab.edit.title               "خيارات" >
-<!ENTITY trackeditor.tab.lyrics.title             "كلمات الأغاني" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "مُحرر البيانات الفوقية">
+<!ENTITY trackeditor.tab.summary.title "موجز">
+<!ENTITY trackeditor.tab.edit.title "خيارات">
+<!ENTITY trackeditor.tab.lyrics.title "كلمات الأغاني">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "إضافة وسم" >
-<!ENTITY trackeditor.addtag.tag       "وسم :" >
-
-<!ENTITY jumptofile.title             "انتقل إلى" >
-<!ENTITY jumptofile.search            "بحث" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "استخدم مفاتيح الاختصار السريع العامة" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "الإجراء" >
-<!ENTITY hotkeys.hotkey               "مفتاح الاختصار السريع" >
-<!ENTITY hotkeys.add                  "إضافة" >
-<!ENTITY hotkeys.set                  "إضافة" >
-<!ENTITY hotkeys.remove               "إزالة" >
-<!ENTITY hotkeys.prefpane             "مفاتيح الاختصار السريع" >
-<!ENTITY hotkeys.info                 "تمكن مفاتيح الاختصار السريع العامة من تنفيذ وظائف &brandShortName; حتى لو لم يكن برنامج &brandShortName; هو البرنامج النشط. لا بد لبعض تراكيب المفاتيح أن تحتوي على مفاتيح التعديل (مثل Shift, Ctrl, Alt) وذلك من أجل تقليل التداخل بين البرامج " >
-
-<!ENTITY rapi.prefpane.title             "التكامل مع الويب" >
-<!ENTITY rapi.prefpane.access.caption    "أذونات التكامل مع الويب" >
-<!ENTITY rapi.prefpane.access.text       "يمكنك أن تسمح لمواقع الإنترنت بالنكامل مع &brandShortName; وذلك لبناء ترابط أقوى بين الإنترنت والوسائط لديك. الرجاء قم بضبط &brandShortName; للسماح أو منع مواضع التكامل التالية: " >
-<!ENTITY rapi.whitelist.label            "استثناءات…" >
-<!ENTITY rapi.restore_defaults.label      "أعد إلى الوضع المبدئي" >
-<!ENTITY rapi.playback_control_disable.label "امنع المواقع من التحكم بتشغيل الوسائط" >
-<!ENTITY rapi.playback_read_disable.label    "امنع المواقع من قراءة المعلومات حول الوسائط المشغلة" >
-<!ENTITY rapi.library_read_disable.label     "امنع المواقع من قراءة المعلومات حول الوسائط في المكتبة والأجهزة" >
-<!ENTITY rapi.library_write_disable.label    "امنع المواقع من إضافة وتحرير الوسائط وقوائم التشغيل في مكتبتي وأجهزتي" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "إضافات">
-<!ENTITY prefpane.content.label       "محتوي الانترنت">
-
-<!ENTITY umsd.prefpane                      "الناقل التسلسي العام (USB)" >
-<!ENTITY umsd.no_devices_present            "لا يوجد جهاز USB مُتصل" >
-<!ENTITY umsd.music.tab                     "موسيقى" >
-<!ENTITY umsd.music.music_files_group       "ملفات الموسيقى" >
-<!ENTITY umsd.music.music_path_desc         "عند نسخ ملفات الموسيقى إلى الجهاز , ضعهم في المُجلد التالي" >
-<!ENTITY umsd.music.music_path_browse_msg   "إختر مُجلد الجهاز الذي ترغب وضع ملفات الموسيقى فيه" >
-<!ENTITY umsd.music.music_ext_desc          "انسخ ملفات الموسيقى ذات اللواحق التالية إلى الجهاز :" >
-<!ENTITY umsd.video.tab                     "فيديو" >
-<!ENTITY umsd.video.video_files_group       "ملفات فيديو" >
-<!ENTITY umsd.video.video_path_desc         "عند نسخ ملفات الفيديو إلى الجهاز,انسخهم إلى المُجلد التالي :" >
-<!ENTITY umsd.video.video_path_browse_msg   "إختر مُجلد الجهاز الذي ترغب في وضع ملفات الفيديو فيه" >
-<!ENTITY umsd.video.video_ext_desc          "انسخ ملفات الفيديو ذات اللواحق التالية إلى الجهاز :" >
-
-<!ENTITY device.error.dialog.link           "اظهر تفاصيل الاخطأ" >
-
-<!ENTITY restartbox.restartnow        "أعد التشغيل الآن" >
-<!ENTITY restartbox.restartonplaybackend "أعد التشغيل عند نهاية تشغيل المقطع" >
-<!ENTITY restartbox.restartlater      "أعد التشغيل لاحقاً" >
-
-<!ENTITY setupprogress.installingextensions "تثبيت الإضافة" >
-
-<!ENTITY jobprogress.details "تفاصيل" >
-
-<!ENTITY menu.updateCmd.label          "ابحث عن التحديثات…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "مفتاح الفراغ " >
-
+<!ENTITY trackeditor.addtag.title "إضافة وسم">
+<!ENTITY trackeditor.addtag.tag "وسم :">
+<!ENTITY jumptofile.title "انتقل إلى">
+<!ENTITY jumptofile.search "بحث">
+<!ENTITY hotkeys.useglobalhotkeys "استخدم مفاتيح الاختصار السريع العامة">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "الإجراء">
+<!ENTITY hotkeys.hotkey "مفتاح الاختصار السريع">
+<!ENTITY hotkeys.add "إضافة">
+<!ENTITY hotkeys.set "إضافة">
+<!ENTITY hotkeys.remove "إزالة">
+<!ENTITY hotkeys.prefpane "مفاتيح الاختصار السريع">
+<!ENTITY hotkeys.info "تمكن مفاتيح الاختصار السريع العامة من تنفيذ وظائف &brandShortName; حتى لو لم يكن برنامج &brandShortName; هو البرنامج النشط. لا بد لبعض تراكيب المفاتيح أن تحتوي على مفاتيح التعديل (مثل Shift, Ctrl, Alt) وذلك من أجل تقليل التداخل بين البرامج ">
+<!ENTITY rapi.prefpane.title "التكامل مع الويب">
+<!ENTITY rapi.prefpane.access.caption "أذونات التكامل مع الويب">
+<!ENTITY rapi.prefpane.access.text "يمكنك أن تسمح لمواقع الإنترنت بالنكامل مع &brandShortName; وذلك لبناء ترابط أقوى بين الإنترنت والوسائط لديك. الرجاء قم بضبط &brandShortName; للسماح أو منع مواضع التكامل التالية: ">
+<!ENTITY rapi.whitelist.label "استثناءات…">
+<!ENTITY rapi.restore_defaults.label "أعد إلى الوضع المبدئي">
+<!ENTITY rapi.playback_control_disable.label "امنع المواقع من التحكم بتشغيل الوسائط">
+<!ENTITY rapi.playback_read_disable.label "امنع المواقع من قراءة المعلومات حول الوسائط المشغلة">
+<!ENTITY rapi.library_read_disable.label "امنع المواقع من قراءة المعلومات حول الوسائط في المكتبة والأجهزة">
+<!ENTITY rapi.library_write_disable.label "امنع المواقع من إضافة وتحرير الوسائط وقوائم التشغيل في مكتبتي وأجهزتي">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "إضافات">
+<!ENTITY prefpane.content.label "محتوي الانترنت">
+<!ENTITY umsd.prefpane "الناقل التسلسي العام (USB)">
+<!ENTITY umsd.no_devices_present "لا يوجد جهاز USB مُتصل">
+<!ENTITY umsd.music.tab "موسيقى">
+<!ENTITY umsd.music.music_files_group "ملفات الموسيقى">
+<!ENTITY umsd.music.music_path_desc "عند نسخ ملفات الموسيقى إلى الجهاز , ضعهم في المُجلد التالي">
+<!ENTITY umsd.music.music_path_browse_msg "إختر مُجلد الجهاز الذي ترغب وضع ملفات الموسيقى فيه">
+<!ENTITY umsd.music.music_ext_desc "انسخ ملفات الموسيقى ذات اللواحق التالية إلى الجهاز :">
+<!ENTITY umsd.video.tab "فيديو">
+<!ENTITY umsd.video.video_files_group "ملفات فيديو">
+<!ENTITY umsd.video.video_path_desc "عند نسخ ملفات الفيديو إلى الجهاز,انسخهم إلى المُجلد التالي :">
+<!ENTITY umsd.video.video_path_browse_msg "إختر مُجلد الجهاز الذي ترغب في وضع ملفات الفيديو فيه">
+<!ENTITY umsd.video.video_ext_desc "انسخ ملفات الفيديو ذات اللواحق التالية إلى الجهاز :">
+<!ENTITY device.error.dialog.link "اظهر تفاصيل الاخطأ">
+<!ENTITY restartbox.restartnow "أعد التشغيل الآن">
+<!ENTITY restartbox.restartonplaybackend "أعد التشغيل عند نهاية تشغيل المقطع">
+<!ENTITY restartbox.restartlater "أعد التشغيل لاحقاً">
+<!ENTITY setupprogress.installingextensions "تثبيت الإضافة">
+<!ENTITY jobprogress.details "تفاصيل">
+<!ENTITY menu.updateCmd.label "ابحث عن التحديثات…">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "مفتاح الفراغ ">
 <!ENTITY tabs.closeTab "إغلاق التبويب">
 <!ENTITY tabs.listAllTabs "إظهار كل التبيويبات">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "الصفحة الرئيسية" >
-<!ENTITY prefs.homepage.url.label          "المسار:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "تثبيت الإضافات" >
-
+<!ENTITY prefs.homepage.label "الصفحة الرئيسية">
+<!ENTITY prefs.homepage.url.label "المسار:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "تثبيت الإضافات">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "ايقاف">
-<!ENTITY command.device.cancel.accesskey                "S">
-<!ENTITY command.device.canceldevicecopy                "ايقاف النسخ">
-<!ENTITY command.device.canceldevicecopy.accesskey      "S">
-<!ENTITY command.device.canceldevicedelete              "ايقاف الحذف">
-<!ENTITY command.device.canceldevicedelete.accesskey    "S">
-<!ENTITY command.device.canceldevicesync                "ايقاف المزامنة">
-<!ENTITY command.device.canceldevicesync.accesskey      "S">
-<!ENTITY command.device.canceldeviceupdate              "ايقاف التحديث">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "S">
-<!ENTITY command.device.ejectdevice                     "أخرج">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "تهيئة">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "تجاهل">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "احصل على المعلومات">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "غيّر الاسم">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "مزامنة">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "ايقاف">
+<!ENTITY command.device.cancel.accesskey "S">
+<!ENTITY command.device.canceldevicecopy "ايقاف النسخ">
+<!ENTITY command.device.canceldevicecopy.accesskey "S">
+<!ENTITY command.device.canceldevicedelete "ايقاف الحذف">
+<!ENTITY command.device.canceldevicedelete.accesskey "S">
+<!ENTITY command.device.canceldevicesync "ايقاف المزامنة">
+<!ENTITY command.device.canceldevicesync.accesskey "S">
+<!ENTITY command.device.canceldeviceupdate "ايقاف التحديث">
+<!ENTITY command.device.canceldeviceupdate.accesskey "S">
+<!ENTITY command.device.ejectdevice "أخرج">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "تهيئة">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "تجاهل">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "احصل على المعلومات">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "غيّر الاسم">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "مزامنة">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "مزق القرص المضغوط">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "إيقاف إستخراج الأغاني من القرص المدمج">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "إبحث عن معلومات متعلقة بالقرص">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "إخراج القرص">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "اصلح الجهاز">
-
-<!ENTITY device.firmware.wizard.title                     "تديث النظام">
-<!ENTITY device.firmware.wizard.check.page.title          "بحث عن تحديثات للانظمه">
-<!ENTITY device.firmware.wizard.check.progress.title      "جاري البحث عن تحديثات">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
+<!ENTITY command.device.rip "مزق القرص المضغوط">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "إيقاف إستخراج الأغاني من القرص المدمج">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "إبحث عن معلومات متعلقة بالقرص">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "إخراج القرص">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "اصلح الجهاز">
+<!ENTITY device.firmware.wizard.title "تديث النظام">
+<!ENTITY device.firmware.wizard.check.page.title "بحث عن تحديثات للانظمه">
+<!ENTITY device.firmware.wizard.check.progress.title "جاري البحث عن تحديثات">
 <!ENTITY device.firmware.wizard.check.release_notes.label "ملاحظات الإصدار">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "تحميل تظام ثابت جديد">
-<!ENTITY device.firmware.wizard.repair.time.description   "من المفترض ان تاخذ العمليه اقل من 5 دقائق">
-<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY device.firmware.wizard.install.title             "تثبيت نظام جديد">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY device.firmware.wizard.download.title "تحميل تظام ثابت جديد">
+<!ENTITY device.firmware.wizard.repair.time.description "من المفترض ان تاخذ العمليه اقل من 5 دقائق">
+<!ENTITY device.firmware.wizard.install.title "تثبيت نظام جديد">
 <!ENTITY device.firmware.wizard.retry.description "يرجى إعادة المحاولة بعد ان ينتهي الجهاز من العملية التي يقوم بها الآن">
-
-<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
-
-<!ENTITY device.info.icon.device            "ايقونه الاجهزه العامه">
-<!ENTITY device.info.icon.readonly          "ايقونه القراءه فقط">
-<!ENTITY device.info.model.label            "الموديل">
-<!ENTITY device.info.capacity.label         "القدرة">
-<!ENTITY device.info.product.label          "منتج">
-<!ENTITY device.info.friendly_name.label    "الاسم">
-<!ENTITY device.info.serial_number.label    "الرقم التسلسي">
-<!ENTITY device.info.vendor.label           "المُصنّع">
-<!ENTITY device.info.access.label           "مدى توافق النفاذ">
+<!ENTITY device.info.icon.device "ايقونه الاجهزه العامه">
+<!ENTITY device.info.icon.readonly "ايقونه القراءه فقط">
+<!ENTITY device.info.model.label "الموديل">
+<!ENTITY device.info.capacity.label "القدرة">
+<!ENTITY device.info.product.label "منتج">
+<!ENTITY device.info.friendly_name.label "الاسم">
+<!ENTITY device.info.serial_number.label "الرقم التسلسي">
+<!ENTITY device.info.vendor.label "المُصنّع">
+<!ENTITY device.info.access.label "مدى توافق النفاذ">
 <!ENTITY device.info.playback_formats.label "صيغة التشغيل">
-<!ENTITY device.info.battery.label          "بطارية">
+<!ENTITY device.info.battery.label "بطارية">
 <!ENTITY device.info.firmware_version.label "اصدرار نظان التشغيل">
-
-<!ENTITY device.progress.sync               "مُزامنة">
-
-<!ENTITY device.capacity.music.label    "موسيقى">
-<!ENTITY device.capacity.video.label    "فيديو">
-<!ENTITY device.capacity.image.label    "صور">
-<!ENTITY device.capacity.other.label    "أخرى">
-<!ENTITY device.capacity.free.label     "مجاني">
-
-<!ENTITY device.unsupported_media.dialog.title  "تم العثور على ملفات غير متوافقة">
+<!ENTITY device.progress.sync "مُزامنة">
+<!ENTITY device.capacity.music.label "موسيقى">
+<!ENTITY device.capacity.video.label "فيديو">
+<!ENTITY device.capacity.image.label "صور">
+<!ENTITY device.capacity.other.label "أخرى">
+<!ENTITY device.capacity.free.label "مجاني">
+<!ENTITY device.unsupported_media.dialog.title "تم العثور على ملفات غير متوافقة">
 <!ENTITY device.unsupported_media.dialog.enable "أخبرني بوجود ملفات غير متوافقة">
-
 <!ENTITY device.sync.header.label "إعدادات المُزامنة">
 <!ENTITY device.import.header.label "استيراد">
 <!ENTITY device.sync.auto_sync.label "مُزامنة">
@@ -510,328 +431,240 @@
 <!ENTITY device.sync.images.selected.label "تحديد المجلدات">
 <!ENTITY device.sync.images.foldername "اسم المجلد">
 <!ENTITY device.sync.images.filecount "صور">
-
 <!ENTITY device.settings.header.label "الإعدادات">
 <!ENTITY device.settings.general.label "عام">
 <!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "تديث نظام التشغيل دوريا">
 <!ENTITY device.settings.music.transcoding.label "تحويل الموسيقي">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
 <!ENTITY device.settings.disk.label "إدارة القرص">
-<!ENTITY device.settings.disk.management.label "Customize directory structure">
 <!ENTITY device.settings.disk.management.filename "ملفات الموسيقى">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "موسيقى">
 <!ENTITY device.management.tabs.video.label "فيديو">
 <!ENTITY device.management.tabs.image.label "صور">
 <!ENTITY device.management.tabs.tools.label "أدوات">
 <!ENTITY device.management.tabs.settings.label "الإعدادات">
-
 <!ENTITY device.tools.product_registration.title "تسجيل المنتج">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
 <!ENTITY device.tools.product_registration.label "سجل المنتج">
-
 <!ENTITY device.tools.update_firmware.title "&quot;تحديث &quot;فرموير">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
 <!ENTITY device.tools.update_firmware.current_firmware.title "اصدرار نظام التشغيل الحالي">
-
 <!ENTITY device.tools.restore_device.title "استرجع الجهاز">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
 <!ENTITY device.tools.restore_device.label "اعاده الجهاز الي وضع المصنع">
-
 <!ENTITY device.tools.format_device.title "تهيئه الجهاز">
 <!ENTITY device.tools.format_device.description "تهيئه الجهاز سوف تمسح كل الوسائط">
 <!ENTITY device.tools.format_device.label "تهيئه الجهاز">
 <!ENTITY device.tools.format_volume.button.label "تهيئه">
-
 <!ENTITY device.tools.support.title "الدعم">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
 <!ENTITY device.tools.support.label "عرض مصادر الدعم">
-
 <!ENTITY device.tools.reset_warnings.title "مسح الاخطا">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
 <!ENTITY device.tools.reset_warnings.label "مسح رسائل الاخطأ">
-
 <!ENTITY device.dialog.setup.title "إعداد الجهاز">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "تجاهل هذا الجهاز">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "تجاهل هذاالجهاز">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "افتح الرابط في متصفح الشبكة المبدئي">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "افتح الصفحة في متصفح الشبكة المبدئي">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "افتح الإطار في متصفح الشبكة المبدئي">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "افتح الصورة في متصفح الشبكة المبدئي">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "انسخ النص المُحدد">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "تشغيل">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "نزّل إلى المكتبة">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "نزّل إلى قائمة التشغيل">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;لا قوائم تشغيل&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "قائمة تشغيل جديدة">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "اشترك في هذه الصفحة…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "اشترك في هذا الإطار…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "ساعد في تحسين &brandShortName;!">
-<!ENTITY feedback.dialog.yes        "نعم">
-<!ENTITY feedback.dialog.no         "لا">
-<!ENTITY feedback.dialog.sentence1  "هل تريد مساعدتنا في تحسين &brandShortName; بأخذ اختبار سريع ومجهول؟">
-<!ENTITY feedback.dialog.sentence2  "إذا لم تكن لديك الرغبة فلن تُسأل مرة أخرى. نشكرك لاهتمامك ونقدّر استخدامك لـ&brandShortName;">
-<!ENTITY feedback.dialog.sentence3  "مع التحية،">
-<!ENTITY feedback.dialog.sentence4  "فريق &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "افتح الرابط في متصفح الشبكة المبدئي">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "افتح الصفحة في متصفح الشبكة المبدئي">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "افتح الإطار في متصفح الشبكة المبدئي">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "افتح الصورة في متصفح الشبكة المبدئي">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "انسخ النص المُحدد">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "تشغيل">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "نزّل إلى المكتبة">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "نزّل إلى قائمة التشغيل">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;لا قوائم تشغيل&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "قائمة تشغيل جديدة">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "اشترك في هذه الصفحة…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "اشترك في هذا الإطار…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "ساعد في تحسين &brandShortName;!">
+<!ENTITY feedback.dialog.yes "نعم">
+<!ENTITY feedback.dialog.no "لا">
+<!ENTITY feedback.dialog.sentence1 "هل تريد مساعدتنا في تحسين &brandShortName; بأخذ اختبار سريع ومجهول؟">
+<!ENTITY feedback.dialog.sentence2 "إذا لم تكن لديك الرغبة فلن تُسأل مرة أخرى. نشكرك لاهتمامك ونقدّر استخدامك لـ&brandShortName;">
+<!ENTITY feedback.dialog.sentence3 "مع التحية،">
+<!ENTITY feedback.dialog.sentence4 "فريق &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "أهلاً وسهلاً بك في &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "أهلاً وسهلاً بك في &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "تثبيت &brandShortName;">
-
+<!ENTITY first_run.title "تثبيت &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "إضافات يُنصح بها">
+<!ENTITY first_run.add_ons.header.label "إضافات يُنصح بها">
 <!ENTITY first_run.add_ons.description.line1 "تزيد الإضافات من تأدية &brandShortName;&apos; الوظيفية، وتسمح لك بتخصيص استخدامك لمشغل الوسائط. ينصح وبشدة بالخيارات أدناه.">
 <!ENTITY first_run.add_ons.description.line2 "يمكن للإضافات أن تتكامل مع التطبيقات والخدمات الأخرى، وتدعم الاتصال بالأجهزة الخارجية، وتغير من الشكل الخارجي للبرنامح وأمور عديدة أخرى! بإمكانك تنزيل إضافات أخرى على موقع إضافات &brandShortName;.">
-<!ENTITY first_run.add_ons.loading.label     "جاري جلب الإضافات التي يُنصح بها">
+<!ENTITY first_run.add_ons.loading.label "جاري جلب الإضافات التي يُنصح بها">
 <!ENTITY first_run.add_ons.load_failed.label "فشل في جلب الإضافات التي يُنصح بها">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "التحديثات جاهز لتركيب">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "لم يتمكن &brandShortName; من الإتصال بالإنترنت">
-<!ENTITY first_run.connection.description          "قم بالتأكيد من إعدادات الاتصال أو تابع مع مساعد التثبيت.">
-<!ENTITY first_run.connection.settings.button      "خيارات الإتصال">
+<!ENTITY first_run.connection.header.label "لم يتمكن &brandShortName; من الإتصال بالإنترنت">
+<!ENTITY first_run.connection.description "قم بالتأكيد من إعدادات الاتصال أو تابع مع مساعد التثبيت.">
+<!ENTITY first_run.connection.settings.button "خيارات الإتصال">
 <!ENTITY first_run.connection.settings.description "هل حاسوبك محمي بجدار ناري أو وسيط؟ إن تصحيح إعدادات الاتصال الخاطئة قد يساعدك في حل مشكلات الشبكة.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "اتفاقية المُستخدم">
+<!ENTITY first_run.eula.header.label "اتفاقية المُستخدم">
 <!ENTITY first_run.eula.accept_checkbox.label "لقد قرأت الشروط و أنا موافق على شروط هذه الشهادة">
-<!ENTITY first_run.eula.language.label        ":اللغة">
-
+<!ENTITY first_run.eula.language.label ":اللغة">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "ساعد في جعل &brandShortName; أفضل">
-<!ENTITY first_run.feedback.description             "هل تريد أن تجعل &brandShortName;  أفضل وذلك عن طريق التغذية الراجعة بإرسال مجرد أرقام عن كيفية استخدامك للبرنامج؟">
-<!ENTITY first_run.feedback.metrics.label           "قم بجمع المقاييس لدي وأرسلها إلى فريق &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "المقاييس التي يتم إرسالها مجهولة ولا يتم جمع أي معلومات شخصية.">
-<!ENTITY first_run.feedback.email.header.label      "أطلعني على الأخبار الجديدة">
-<!ENTITY first_run.feedback.email.description       "إشتراك في النشرة البريدية لنخبرك بوجود تحديثات جديدة او إصدارات جديدة">
+<!ENTITY first_run.feedback.header.label "ساعد في جعل &brandShortName; أفضل">
+<!ENTITY first_run.feedback.description "هل تريد أن تجعل &brandShortName;  أفضل وذلك عن طريق التغذية الراجعة بإرسال مجرد أرقام عن كيفية استخدامك للبرنامج؟">
+<!ENTITY first_run.feedback.metrics.label "قم بجمع المقاييس لدي وأرسلها إلى فريق &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "المقاييس التي يتم إرسالها مجهولة ولا يتم جمع أي معلومات شخصية.">
+<!ENTITY first_run.feedback.email.header.label "أطلعني على الأخبار الجديدة">
+<!ENTITY first_run.feedback.email.description "إشتراك في النشرة البريدية لنخبرك بوجود تحديثات جديدة او إصدارات جديدة">
 <!ENTITY first_run.feedback.email.textbox.emptytext "أدخل بريدك الإلكتروني لتصلك آخر الأخبار">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "آي تيونز تصدير\استيراد">
-<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
-<!ENTITY first_run.itunes.checkbox.import.label         "استيراد مقطوعات الموسيقي وقوائم التشغيل من اي تيونز">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
-<!ENTITY first_run.itunes.checkbox.export.label         "تصدير الموسيقي الجديد وقوائم التشغيل الي اي تيونز">
-<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
-
+<!ENTITY first_run.itunes.header.label "آي تيونز تصدير\استيراد">
+<!ENTITY first_run.itunes.checkbox.import.label "استيراد مقطوعات الموسيقي وقوائم التشغيل من اي تيونز">
+<!ENTITY first_run.itunes.checkbox.export.label "تصدير الموسيقي الجديد وقوائم التشغيل الي اي تيونز">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "إستيراد الوسائط">
-<!ENTITY first_run.import_media.description                  "اختر الوسائط التي ترغب في استيرادها إلى &brandShortName;. بعد تشغيل برنامج &brandShortName; يمكنك إضافة الوسائط بطرق مختلفة.">
+<!ENTITY first_run.import_media.header.label "إستيراد الوسائط">
+<!ENTITY first_run.import_media.description "اختر الوسائط التي ترغب في استيرادها إلى &brandShortName;. بعد تشغيل برنامج &brandShortName; يمكنك إضافة الوسائط بطرق مختلفة.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "امسح المجُلدات على جهازي">
-<!ENTITY first_run.import_media.radio.dont_import.label      "لا تقم بإستيراد الوسائط">
+<!ENTITY first_run.import_media.radio.dont_import.label "لا تقم بإستيراد الوسائط">
 <!ENTITY first_run.import_media.scan_directories.description "هل ترغب أن يقوم &brandShortName; بمحاولة استيراد الوسائط عن طريق البحث في مجلدات معينة من حاسوبك؟">
 <!ENTITY first_run.import_media.scan_directories.watch.label "قم بمراقبة هذا المجلد للتغييرات">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "تنزيل الإضافات">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "&brandShortName; أهلاً و سهلاً في ">
+<!ENTITY first_run.welcome.header.label "&brandShortName; أهلاً و سهلاً في ">
 <!ENTITY first_run.welcome.description.line1 "يعتبر &brandShortName; بديلاً لمشغّلات الوسائط التقليدية يمكن تخصيصه بشكل واسع.">
 <!ENTITY first_run.welcome.description.line2 "هذا الدليل يوفر طريقة سريعة وفعالة لبدء وتشغيل برنامج &brandShortName;.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "مستورد الوسائط">
-
+<!ENTITY import_media.prefs.title "مستورد الوسائط">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "إستيراد مكتبة">
-<!ENTITY import_library.prefs.title                       "مُستورد iTunes">
-<!ENTITY import_library.library_file_label                "ملف المكتبة :">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "نبّهني عندما لايتم إستيراد ملفات أو قوائم ذات تراميز غير مدعومة">
-<!ENTITY import_library.prefs.path_group_caption          "مكان قائمة موسيقى iTunes">
-<!ENTITY import_library.prefs.options_group_caption       "خيارات الإستيراد">
-<!ENTITY import_library.import_command                    "إستيراد مكتبة">
-<!ENTITY import_tracks_itunes_checkbox                    "استيراد الصوتيات من الآي تيونز">
-<!ENTITY import_playlists_itunes_checkbox                 "استيراد قوائم تشغيل">
-<!ENTITY export_tracks_itunes_checkbox                    "تصدير مقطوعات الموسيقي الي اي تيونز">
-<!ENTITY export_playlists_itunes_checkbox                 "تصدير قائمه تشغيل الموسيقي">
-<!ENTITY export_subscriptions_itunes_checkbox             "تصدير الاختيارات">
-<!ENTITY export_smartplaylists_itunes_checkbox            "تصدير القائمه التشغيل الزكيه">
-<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
-
+<!ENTITY import_library.dialog.title "إستيراد مكتبة">
+<!ENTITY import_library.prefs.title "مُستورد iTunes">
+<!ENTITY import_library.library_file_label "ملف المكتبة :">
+<!ENTITY import_library.unsupported_media_alert_checkbox "نبّهني عندما لايتم إستيراد ملفات أو قوائم ذات تراميز غير مدعومة">
+<!ENTITY import_library.prefs.path_group_caption "مكان قائمة موسيقى iTunes">
+<!ENTITY import_library.prefs.options_group_caption "خيارات الإستيراد">
+<!ENTITY import_library.import_command "إستيراد مكتبة">
+<!ENTITY import_tracks_itunes_checkbox "استيراد الصوتيات من الآي تيونز">
+<!ENTITY import_playlists_itunes_checkbox "استيراد قوائم تشغيل">
+<!ENTITY export_tracks_itunes_checkbox "تصدير مقطوعات الموسيقي الي اي تيونز">
+<!ENTITY export_playlists_itunes_checkbox "تصدير قائمه تشغيل الموسيقي">
+<!ENTITY export_subscriptions_itunes_checkbox "تصدير الاختيارات">
+<!ENTITY export_smartplaylists_itunes_checkbox "تصدير القائمه التشغيل الزكيه">
+<!ENTITY importexport_show_notifications_checkbox "Show notifications when the import/export is complete">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "تم تغير القائمة">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "احتفظ بقائمة تشغيل &brandShortName; الحالية. (لا تقُم باستيراد قائمة التشغيل هذه)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "امزج بين كل من قائمتي آي تيونز ITunes و&brandShortName; الحاليتين">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "قم باستبدال قائمة &brandShortName; بقائمة آي تيونز iTunes الحالية">
-<!ENTITY import_library.dirty_playlist_dialog.note         "مُلاحظة : الدمج و الإستبدال لا يُمكن التراجع عنهم">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "طبّق الاختيار على جميع قوائم التشغيل">
-
-<!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "تم تغير القائمة">
+<!ENTITY import_library.dirty_playlist_dialog.keep "احتفظ بقائمة تشغيل &brandShortName; الحالية. (لا تقُم باستيراد قائمة التشغيل هذه)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "امزج بين كل من قائمتي آي تيونز ITunes و&brandShortName; الحاليتين">
+<!ENTITY import_library.dirty_playlist_dialog.replace "قم باستبدال قائمة &brandShortName; بقائمة آي تيونز iTunes الحالية">
+<!ENTITY import_library.dirty_playlist_dialog.note "مُلاحظة : الدمج و الإستبدال لا يُمكن التراجع عنهم">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "طبّق الاختيار على جميع قوائم التشغيل">
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "مراقبة المجلدات">
+<!ENTITY watch_folder.prefs.title "مراقبة المجلدات">
 <!ENTITY watch_folder.prefs.settings_group_caption "إعدادات مراقبة المجلدات">
-<!ENTITY watch_folder.prefs.description            "يمكن لـ&brandShortName; مراقبة محتويات مجلد وإضافة العناصر وإزالتها منه تلقائياً.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "قم بمراقبة التغييرات على هذا المجلد تلقائياً">
-<!ENTITY watch_folder.prefs.watch_folder_label     "المجلد:">
-
+<!ENTITY watch_folder.prefs.description "يمكن لـ&brandShortName; مراقبة محتويات مجلد وإضافة العناصر وإزالتها منه تلقائياً.">
+<!ENTITY watch_folder.prefs.enable_checkbox "قم بمراقبة التغييرات على هذا المجلد تلقائياً">
+<!ENTITY watch_folder.prefs.watch_folder_label "المجلد:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "إضافات يُنصح بها">
+<!ENTITY enable_recommended_addons_update.label "إضافات يُنصح بها">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "تثبيت &brandShortName;">
-
+<!ENTITY recommended_add_ons.title "تثبيت &brandShortName;">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "تفاصيل">
-
+<!ENTITY add_on_bundle_installer.error_box.label "تفاصيل">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "لا شيء قيد التشغيل" >
-<!ENTITY albumart.displaypane.not_selected_message  "لا شيء مختار الآن" >
-<!ENTITY albumart.displaypane.drag_and_drop  "اسحب صورة الألبوم إلى هنا" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "إعرض الموسيقى المختاره" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "إعرض الموسيقى الحاليه" >
+<!ENTITY albumart.displaypane.not_playing_message "لا شيء قيد التشغيل">
+<!ENTITY albumart.displaypane.not_selected_message "لا شيء مختار الآن">
+<!ENTITY albumart.displaypane.drag_and_drop "اسحب صورة الألبوم إلى هنا">
+<!ENTITY albumart.displaypane.contextmenu.showselected "إعرض الموسيقى المختاره">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "إعرض الموسيقى الحاليه">
 <!ENTITY albumart.displaypane.selected.menu.cut "قص">
 <!ENTITY albumart.displaypane.selected.menu.copy "نسخ">
 <!ENTITY albumart.displaypane.selected.menu.paste "لصق">
 <!ENTITY albumart.displaypane.selected.menu.clear "امسح">
 <!ENTITY albumart.coverpreview.title "صورة الألبوم">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "الصور الفنية للألبوم">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "دون صورة الألبوم في البيانات الوصفية">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "ابحث أسماء الملفات">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "أدخل  هنا قوائم أسماء الملفات المفرقة بالفواصل">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "ابحث في ملف الاضافات">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "أدخل قوائم الإضافات المفرقة بالفواصل">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "أولويات البحث">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "إلى الأعلى">
 <!ENTITY albumartpreferences.prefpane.priorities.down "إلى الأسفل">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "إعادة للوضع السابق ">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "إستيراد التصميم الفني لغلاف الألبوم تلقائيا">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "العودة للخلف">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "إلغاء">
-<!ENTITY wizard.button.next.label      "متابعة">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "إتمام">
-
+<!ENTITY wizard.button.back.label "العودة للخلف">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "إلغاء">
+<!ENTITY wizard.button.next.label "متابعة">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "إتمام">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "خطأ في لب الوسائط">
-<!ENTITY mediacore.error.preface  "واجه  الأخطاء &brandShortName; التالية للب الوسائط:">
+<!ENTITY mediacore.error.title "خطأ في لب الوسائط">
+<!ENTITY mediacore.error.preface "واجه  الأخطاء &brandShortName; التالية للب الوسائط:">
 <!ENTITY mediacore.error.continue "متابعة">
-<!ENTITY mediacore.error.stop     "أوقف التشغيل">
+<!ENTITY mediacore.error.stop "أوقف التشغيل">
 <!ENTITY mediacore.error.dontshowme "لا تعرض أخطاء أخرى للب اللوسائط">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
 <!ENTITY mediacore.error.codec_not_found.text.post " ">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "ملحظه استيراد الوسائط">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "تشغيل">
-
-<!ENTITY playback.prefpane.audio_output.label   "مخرج صوت">
-<!ENTITY playback.prefpane.audio_output.buffer  "النسبة المحملة لضمان سلاسة الملف المشغل">
-
-<!ENTITY playback.prefpane.streaming.label      "الشبكة و البث">
-<!ENTITY playback.prefpane.streaming.buffer     "النسبة المحملة لضمان سلاسة البث">
-
-<!ENTITY playback.prefpane.normalization.label  "معادلة الصوت">
+<!ENTITY playback.prefpane.label "تشغيل">
+<!ENTITY playback.prefpane.audio_output.label "مخرج صوت">
+<!ENTITY playback.prefpane.audio_output.buffer "النسبة المحملة لضمان سلاسة الملف المشغل">
+<!ENTITY playback.prefpane.streaming.label "الشبكة و البث">
+<!ENTITY playback.prefpane.streaming.buffer "النسبة المحملة لضمان سلاسة البث">
+<!ENTITY playback.prefpane.normalization.label "معادلة الصوت">
 <!ENTITY playback.prefpane.normalization.enable "استعمل بيانات معادلة الصوت إن وجدت">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "قيمة المعادلة المفضلة">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "الألبوم">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "المقطوعة">
-
-<!ENTITY playback.prefpane.units.kilobytes  "كيلوبايت">
-<!ENTITY playback.prefpane.units.ms         "ميللي ثانية">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
+<!ENTITY playback.prefpane.units.kilobytes "كيلوبايت">
+<!ENTITY playback.prefpane.units.ms "ميللي ثانية">
 <!ENTITY fetch_album_art.dialog.title "الحصول على صورة الألبوم">
 <!ENTITY fetch_album_art.dialog.message "الخاصية غير مفعلة (راجع الخطأ 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "الفنان">
-<!ENTITY cdrip.lookup.info_not_found.album  "الألبوم">
-<!ENTITY cdrip.lookup.info_not_found.title  "لم يتم ايجاد معلومات القرص المضغوط">
-<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY cdrip.lookup.info_not_found.album "الألبوم">
+<!ENTITY cdrip.lookup.info_not_found.title "لم يتم ايجاد معلومات القرص المضغوط">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "العنوان">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "إستخراج الأغاني من القرص المدمج">
 <!ENTITY cdrip.prefpane.format "تهيئه">
 <!ENTITY cdrip.prefpane.quality "جودة">
 <!ENTITY cdrip.prefpane.quality.units.kbps "كيلوبايت في الثانية">
 <!ENTITY cdrip.prefpane.eject_after_rip "إخراج القرص المدمج بعد إنتهاء نسخ أغاني القرص المدمج">
-<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
-<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Settings">
-<!ENTITY cdrip.mediaview.format_label              "تهيئه : ">
-<!ENTITY cdrip.mediaview.quality_label             "الجودة:">
-<!ENTITY cdrip.mediaview.settings_button           "الإعدادات">
-<!ENTITY cdrip.mediaview.rip_cd_button             "نسخ أغاني القرص المدمح">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Stop Rip">
-<!ENTITY cdrip.mediaview.view_tracks_button        "عرض المقطوعات">
-<!ENTITY cdrip.mediaview.eject_cd_button           "أخرج القرص">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip Settings">
+<!ENTITY cdrip.mediaview.format_label "تهيئه : ">
+<!ENTITY cdrip.mediaview.quality_label "الجودة:">
+<!ENTITY cdrip.mediaview.settings_button "الإعدادات">
+<!ENTITY cdrip.mediaview.rip_cd_button "نسخ أغاني القرص المدمح">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stop Rip">
+<!ENTITY cdrip.mediaview.view_tracks_button "عرض المقطوعات">
+<!ENTITY cdrip.mediaview.eject_cd_button "أخرج القرص">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "تسارع التحويل">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "تسارع التحويل">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "تسارع التحويل">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "تسارع التحويل">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "تسارع التحويل">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "تسارع التحويل">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "نافذة فيديو">
 <!ENTITY videowindow.actualsize "الحجم الفعلي">
 <!ENTITY videowindow.fullscreen "الشاشه كامله الحجم">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "نود أن نشكر المساهمين معنا  ، على جهودهم التي تبذل لجعل Songbird  ما هو عليه. لقد ساعد هؤلاء الناس من خلال كتابة الرموزالبرمجية  والتوثيق ، والتجارب. لقد خلقو وحاظو على هذا المنتج ، وأدوات التطوير المرتبطة به ، وادوات بنائه و مواقع الإنترنت الخاصة به . ان الأسماء الختصرة تزود من قبل  #songbird على irc.mozilla.org و قل مرحبا ">
 <!ENTITY about.credits.footer.beforeLink "هذا البرنامج لم يكن متوفراً إلا بالعمل الشاق والجهود المبذولة من">
@@ -842,15 +675,8 @@
 <!ENTITY about.credits.description.champs.link.pre "ابطال سونجبيرد هما العنداء من مستخدمين سونجبيرد ولبوا ندا الواجب لكي يساعدوا المستخدمين الاخرين ">
 <!ENTITY about.credits.description.champs.link.text "منتدى الدعم الفني للإستمتاع بسونقبرد">
 <!ENTITY about.credits.description.champs.link.post "">
-
-<!ENTITY cdrip.lookup.multiple.title       "Multiple CD Records Found">
 <!ENTITY cdrip.lookup.multiple.description "إختر احد الخيارات التالية أو اضف معلوماتك الخاصه">
-<!ENTITY cdinfo.other.label                "أضف معلومات الفنان والالبوم خاصتك">
-
+<!ENTITY cdinfo.other.label "أضف معلومات الفنان والالبوم خاصتك">
 <!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
 <!ENTITY playqueue.inprogress "جاري اضافه المقطوعات">
-
 <!ENTITY mediamanagement.removed.dialog.title "اداره ملاحظات الوسائط">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

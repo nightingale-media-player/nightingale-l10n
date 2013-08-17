@@ -1,131 +1,126 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "&brandShortName; מקשי קיצור" >
-<!ENTITY help.keyboard.subtitle           "מקשי קיצור" >
-<!ENTITY help.keyboard.description        "קיצורי מקשים יכולים לעשות את המשימות בסונגבירד קלות הרבה יותר. להלן מפורטות הפקודות האפשרויות, מלוות בקיצורי המקלדת המפעילות אותן.">
-<!ENTITY help.platform.windows            "חלונות" >
-<!ENTITY help.platform.macosx             "מקינטוש" >
-<!ENTITY help.platform.linux              "לינוקס" >
-<!ENTITY help.keyboard.heading.command    "פקודה" >
-<!ENTITY help.keyboard.heading.shortcut   "קיצור דרך" >
-<!ENTITY help.keyboard.section.playback   "כפתורי נגן" >
-<!ENTITY help.keyboard.section.library    "ספרייה ורשימות השמעה" >
-<!ENTITY help.keyboard.section.editing    "עריכה" >
-<!ENTITY help.keyboard.section.navigation "ניווט" >
-<!ENTITY help.keyboard.section.browser    "דפדפן" >
-<!ENTITY help.keyboard.section.windows    "חלון ולשוניות" >
-<!ENTITY help.keyboard.section.search     "חפש" >
-<!ENTITY help.keyboard.section.video      "וידאו" >
-<!ENTITY help.keyboard.section.cdrip      "ריפ תקליטור" >
-<!ENTITY help.keyboard.section.misc       "כללי" >
-
-<!ENTITY help.keyboard.key.left           "חץ שמאלה" >
-<!ENTITY help.keyboard.key.right          "חץ ימינה" >
-<!ENTITY help.keyboard.key.up             "חץ למעלה" >
-<!ENTITY help.keyboard.key.down           "למטה" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "קליק" >
-<!ENTITY help.keyboard.mouse.click.middle "קליק אמצעי" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Delete" >
-
+<!ENTITY help.keyboard.title "&brandShortName; מקשי קיצור">
+<!ENTITY help.keyboard.subtitle "מקשי קיצור">
+<!ENTITY help.keyboard.description "קיצורי מקשים יכולים לעשות את המשימות בסונגבירד קלות הרבה יותר. להלן מפורטות הפקודות האפשרויות, מלוות בקיצורי המקלדת המפעילות אותן.">
+<!ENTITY help.platform.windows "חלונות">
+<!ENTITY help.platform.macosx "מקינטוש">
+<!ENTITY help.platform.linux "לינוקס">
+<!ENTITY help.keyboard.heading.command "פקודה">
+<!ENTITY help.keyboard.heading.shortcut "קיצור דרך">
+<!ENTITY help.keyboard.section.playback "כפתורי נגן">
+<!ENTITY help.keyboard.section.library "ספרייה ורשימות השמעה">
+<!ENTITY help.keyboard.section.editing "עריכה">
+<!ENTITY help.keyboard.section.navigation "ניווט">
+<!ENTITY help.keyboard.section.browser "דפדפן">
+<!ENTITY help.keyboard.section.windows "חלון ולשוניות">
+<!ENTITY help.keyboard.section.search "חפש">
+<!ENTITY help.keyboard.section.video "וידאו">
+<!ENTITY help.keyboard.section.cdrip "ריפ תקליטור">
+<!ENTITY help.keyboard.section.misc "כללי">
+<!ENTITY help.keyboard.key.left "חץ שמאלה">
+<!ENTITY help.keyboard.key.right "חץ ימינה">
+<!ENTITY help.keyboard.key.up "חץ למעלה">
+<!ENTITY help.keyboard.key.down "למטה">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "קליק">
+<!ENTITY help.keyboard.mouse.click.middle "קליק אמצעי">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Delete">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "נגן/הפסק את הרצועה שנבחרה" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "נגן את הרצועה הקודמת ברשימה" >
-<!ENTITY help.keyboard.name.playcontrol.next    "נגן את הרצועה הבאה ברשימה" >
-<!ENTITY help.keyboard.name.volume.down         "הנמך עוצמה" >
-<!ENTITY help.keyboard.name.volume.up           "הגבר עוצמה" >
-<!ENTITY help.keyboard.name.volume.mute         "השתק" >
-<!ENTITY help.keyboard.name.volume.max          "עוצמה מלאה" >
-<!ENTITY help.keyboard.name.jumpto              " דלג לחלון" >
-<!ENTITY help.keyboard.name.equalizer           "פתח אקולייזר" >
-<!ENTITY help.keyboard.name.new.playlist        "רשימת השמעה חדשה" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "רשימת השמעה חכמה חדשה" >
-<!ENTITY help.keyboard.name.import              "יבא מדיה" >
-<!ENTITY help.keyboard.name.currenttrack        "אתר מדיה שמתנגנת עכשיו" >
-<!ENTITY help.keyboard.name.mediapage.switch    "שנה את תצוגת המדיה" >
-<!ENTITY help.keyboard.name.feather.switch      "החלף סגנון נוצות" >
-<!ENTITY help.keyboard.name.trackeditor         "עורך קטעי השמע" >
-<!ENTITY help.keyboard.name.edit.undo           "בטל" >
-<!ENTITY help.keyboard.name.edit.redo           "בצע שוב" >
-<!ENTITY help.keyboard.name.edit.selectall      "בחר הכל" >
-<!ENTITY help.keyboard.name.edit.cut            "גזור" >
-<!ENTITY help.keyboard.name.edit.copy           "העתק" >
-<!ENTITY help.keyboard.name.edit.paste          "הדבק" >
-<!ENTITY help.keyboard.name.edit.delete         "מחק" >
-<!ENTITY help.keyboard.name.browser.back        "אחורה" >
-<!ENTITY help.keyboard.name.browser.forward     "קדימה" >
-<!ENTITY help.keyboard.name.browser.reload      "טען מחדש" >
-<!ENTITY help.keyboard.name.browser.stop        "עצור טעינה" >
-<!ENTITY help.keyboard.name.open.file           "פתח קובץ" >
-<!ENTITY help.keyboard.name.open.url            "פתח כתובת אינטרנת" >
-<!ENTITY help.keyboard.name.tab.open.link       "פתח קישור בכרטיסיה חדשה" >
-<!ENTITY help.keyboard.name.save.link           "שמור קישור" >
-<!ENTITY help.keyboard.name.file.print          "הדפס" >
-<!ENTITY help.keyboard.name.view.source         "הראה מקור" >
-<!ENTITY help.keyboard.name.view.zoomin         "הגדל" >
-<!ENTITY help.keyboard.name.view.zoomout        "הקטן" >
-<!ENTITY help.keyboard.name.view.zoomreset      "החזר גודל למקור" >
-<!ENTITY help.keyboard.name.subscribe           "הרשם" >
-<!ENTITY help.keyboard.name.locationbar         "עבור לשורת הכתובות" >
-<!ENTITY help.keyboard.name.tab.new             "לשונית חדשה" >
-<!ENTITY help.keyboard.name.tab.close           "סגור לשונית" >
-<!ENTITY help.keyboard.name.tab.next            "ללשונית הבאה" >
-<!ENTITY help.keyboard.name.tab.previous        "ללשונית הקודמת" >
-<!ENTITY help.keyboard.name.tab.1               "גש ללשונית 1" >
-<!ENTITY help.keyboard.name.tab.2               "גש ללשונית 2" >
-<!ENTITY help.keyboard.name.tab.3               "גש ללשונית 3" >
-<!ENTITY help.keyboard.name.tab.4               "גש ללשונית 4" >
-<!ENTITY help.keyboard.name.tab.5               "גש ללשונית 5" >
-<!ENTITY help.keyboard.name.tab.6               "גש ללשונית 6" >
-<!ENTITY help.keyboard.name.tab.7               "גש ללשונית 7" >
-<!ENTITY help.keyboard.name.tab.8               "גש ללשונית 8" >
-<!ENTITY help.keyboard.name.tab.9               "גש ללשונית 9" >
-<!ENTITY help.keyboard.name.page.top            "עבור לתחילת הדף" >
-<!ENTITY help.keyboard.name.page.bottom         "עבור לתחתית הדף" >
-<!ENTITY help.keyboard.name.view.fullscreen     "מסך מלא" >
-<!ENTITY help.keyboard.name.mac.minimize        "מזער למגש המערכת" >
-<!ENTITY help.keyboard.name.mac.hide            "הסתר חלון" >
-<!ENTITY help.keyboard.name.mac.hideothers      "הסתר תוכניות אחרות" >
-<!ENTITY help.keyboard.name.downloads           "הורדות" >
-<!ENTITY help.keyboard.name.find                "חפש" >
-<!ENTITY help.keyboard.name.find.again          "חפש שוב" >
-<!ENTITY help.keyboard.name.find.text           "מצא טקסט תוך כדי הקלדה" >
-<!ENTITY help.keyboard.name.find.link           "מצא קישור תוך כדי הקלדה" >
-<!ENTITY help.keyboard.name.search.focus        "התמקד על תיבת חיפוש" >
-<!ENTITY help.keyboard.name.video.fullscreen    "מסך מלא" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
-<!ENTITY help.keyboard.name.video.escape        "יציאה ממסך מלא" >
-<!ENTITY help.keyboard.name.cdrip.start         "ריפ תקליטור" >
-<!ENTITY help.keyboard.name.cdrip.stop          "עצור ריפ תקליטור" >
-<!ENTITY help.keyboard.name.cdrip.eject         "שלוף תקליטור" >
-<!ENTITY help.keyboard.name.quit                "צא" >
-<!ENTITY help.keyboard.name.preferences         "העדפות" >
-<!ENTITY help.keyboard.name.help                "נושאי עזרה" >
-<!ENTITY help.keyboard.name.sanitize            "נקה מידע פרטי" >
+<!ENTITY help.keyboard.name.playcontrol.pause "נגן/הפסק את הרצועה שנבחרה">
+<!ENTITY help.keyboard.name.playcontrol.prev "נגן את הרצועה הקודמת ברשימה">
+<!ENTITY help.keyboard.name.playcontrol.next "נגן את הרצועה הבאה ברשימה">
+<!ENTITY help.keyboard.name.volume.down "הנמך עוצמה">
+<!ENTITY help.keyboard.name.volume.up "הגבר עוצמה">
+<!ENTITY help.keyboard.name.volume.mute "השתק">
+<!ENTITY help.keyboard.name.volume.max "עוצמה מלאה">
+<!ENTITY help.keyboard.name.jumpto " דלג לחלון">
+<!ENTITY help.keyboard.name.equalizer "פתח אקולייזר">
+<!ENTITY help.keyboard.name.new.playlist "רשימת השמעה חדשה">
+<!ENTITY help.keyboard.name.new.smartplaylist "רשימת השמעה חכמה חדשה">
+<!ENTITY help.keyboard.name.import "יבא מדיה">
+<!ENTITY help.keyboard.name.currenttrack "אתר מדיה שמתנגנת עכשיו">
+<!ENTITY help.keyboard.name.mediapage.switch "שנה את תצוגת המדיה">
+<!ENTITY help.keyboard.name.feather.switch "החלף סגנון נוצות">
+<!ENTITY help.keyboard.name.trackeditor "עורך קטעי השמע">
+<!ENTITY help.keyboard.name.edit.undo "בטל">
+<!ENTITY help.keyboard.name.edit.redo "בצע שוב">
+<!ENTITY help.keyboard.name.edit.selectall "בחר הכל">
+<!ENTITY help.keyboard.name.edit.cut "גזור">
+<!ENTITY help.keyboard.name.edit.copy "העתק">
+<!ENTITY help.keyboard.name.edit.paste "הדבק">
+<!ENTITY help.keyboard.name.edit.delete "מחק">
+<!ENTITY help.keyboard.name.browser.back "אחורה">
+<!ENTITY help.keyboard.name.browser.forward "קדימה">
+<!ENTITY help.keyboard.name.browser.reload "טען מחדש">
+<!ENTITY help.keyboard.name.browser.stop "עצור טעינה">
+<!ENTITY help.keyboard.name.open.file "פתח קובץ">
+<!ENTITY help.keyboard.name.open.url "פתח כתובת אינטרנת">
+<!ENTITY help.keyboard.name.tab.open.link "פתח קישור בכרטיסיה חדשה">
+<!ENTITY help.keyboard.name.save.link "שמור קישור">
+<!ENTITY help.keyboard.name.file.print "הדפס">
+<!ENTITY help.keyboard.name.view.source "הראה מקור">
+<!ENTITY help.keyboard.name.view.zoomin "הגדל">
+<!ENTITY help.keyboard.name.view.zoomout "הקטן">
+<!ENTITY help.keyboard.name.view.zoomreset "החזר גודל למקור">
+<!ENTITY help.keyboard.name.subscribe "הרשם">
+<!ENTITY help.keyboard.name.locationbar "עבור לשורת הכתובות">
+<!ENTITY help.keyboard.name.tab.new "לשונית חדשה">
+<!ENTITY help.keyboard.name.tab.close "סגור לשונית">
+<!ENTITY help.keyboard.name.tab.next "ללשונית הבאה">
+<!ENTITY help.keyboard.name.tab.previous "ללשונית הקודמת">
+<!ENTITY help.keyboard.name.tab.1 "גש ללשונית 1">
+<!ENTITY help.keyboard.name.tab.2 "גש ללשונית 2">
+<!ENTITY help.keyboard.name.tab.3 "גש ללשונית 3">
+<!ENTITY help.keyboard.name.tab.4 "גש ללשונית 4">
+<!ENTITY help.keyboard.name.tab.5 "גש ללשונית 5">
+<!ENTITY help.keyboard.name.tab.6 "גש ללשונית 6">
+<!ENTITY help.keyboard.name.tab.7 "גש ללשונית 7">
+<!ENTITY help.keyboard.name.tab.8 "גש ללשונית 8">
+<!ENTITY help.keyboard.name.tab.9 "גש ללשונית 9">
+<!ENTITY help.keyboard.name.page.top "עבור לתחילת הדף">
+<!ENTITY help.keyboard.name.page.bottom "עבור לתחתית הדף">
+<!ENTITY help.keyboard.name.view.fullscreen "מסך מלא">
+<!ENTITY help.keyboard.name.mac.minimize "מזער למגש המערכת">
+<!ENTITY help.keyboard.name.mac.hide "הסתר חלון">
+<!ENTITY help.keyboard.name.mac.hideothers "הסתר תוכניות אחרות">
+<!ENTITY help.keyboard.name.downloads "הורדות">
+<!ENTITY help.keyboard.name.find "חפש">
+<!ENTITY help.keyboard.name.find.again "חפש שוב">
+<!ENTITY help.keyboard.name.find.text "מצא טקסט תוך כדי הקלדה">
+<!ENTITY help.keyboard.name.find.link "מצא קישור תוך כדי הקלדה">
+<!ENTITY help.keyboard.name.search.focus "התמקד על תיבת חיפוש">
+<!ENTITY help.keyboard.name.video.fullscreen "מסך מלא">
+<!ENTITY help.keyboard.name.video.escape "יציאה ממסך מלא">
+<!ENTITY help.keyboard.name.cdrip.start "ריפ תקליטור">
+<!ENTITY help.keyboard.name.cdrip.stop "עצור ריפ תקליטור">
+<!ENTITY help.keyboard.name.cdrip.eject "שלוף תקליטור">
+<!ENTITY help.keyboard.name.quit "צא">
+<!ENTITY help.keyboard.name.preferences "העדפות">
+<!ENTITY help.keyboard.name.help "נושאי עזרה">
+<!ENTITY help.keyboard.name.sanitize "נקה מידע פרטי">

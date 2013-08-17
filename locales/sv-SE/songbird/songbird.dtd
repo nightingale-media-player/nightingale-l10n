@@ -1,501 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "OK" >
-<!ENTITY window.cancel      "Avbryt" >
-<!ENTITY window.apply       "Verkställ" >
-<!ENTITY window.browse      "Bläddra…" >
-<!ENTITY window.save        "Spara">
-<!ENTITY window.yes         "Ja">
-<!ENTITY window.no          "Nej">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "OK">
+<!ENTITY window.cancel "Avbryt">
+<!ENTITY window.apply "Verkställ">
+<!ENTITY window.browse "Bläddra…">
+<!ENTITY window.save "Spara">
+<!ENTITY window.yes "Ja">
+<!ENTITY window.no "Nej">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Avsluta &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Inställningar">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Avsluta &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Inställningar">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Tjänster">
-<!ENTITY menu.mac.hide                  "Dölj &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Dölj andra">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Visa allt">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Arkiv" >
-<!ENTITY menu.file.new          "Ny spellista…" >
-<!ENTITY menu.file.smart        "Ny smart spellista…" >
-<!ENTITY menu.file.remote       "Ny prenumeration…" >
-<!ENTITY menu.file.podcast      "Ny podsändning…" >
-<!ENTITY menu.file.open         "Öppna mediafil…" >
-<!ENTITY menu.file.url          "Öppna URL…" >
-<!ENTITY menu.file.playlist     "Importera spellista…" >
-<!ENTITY menu.file.library      "Importera bibliotek…" >
-<!ENTITY menu.file.newtab       "Ny flik" >
-<!ENTITY menu.file.closetab     "Stäng flik" >
-<!ENTITY menu.file.metadata     "Se Metadata">
-<!ENTITY menu.file.scan         "Sök efter media…" >
-<!ENTITY menu.file.exit         "Avsluta" >
-
-<!ENTITY menu.edit          "Redigera" >
-<!ENTITY menu.edit.undo     "Ångra" >
-<!ENTITY menu.edit.redo     "Gör om" >
-<!ENTITY menu.edit.cut      "Klipp ut" >
-<!ENTITY menu.edit.copy     "Kopiera" >
-<!ENTITY menu.edit.paste    "Klistra in" >
-<!ENTITY menu.edit.delete   "Ta bort" >
-<!ENTITY menu.edit.selall   "Markera allt" >
-<!ENTITY menu.edit.find        "Sök" >
-<!ENTITY menu.edit.findagain   "Sök nästa" >
-
+<!ENTITY menu.mac.services "Tjänster">
+<!ENTITY menu.mac.hide "Dölj &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Dölj andra">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Visa allt">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Arkiv">
+<!ENTITY menu.file.new "Ny spellista…">
+<!ENTITY menu.file.smart "Ny smart spellista…">
+<!ENTITY menu.file.remote "Ny prenumeration…">
+<!ENTITY menu.file.podcast "Ny podsändning…">
+<!ENTITY menu.file.open "Öppna mediafil…">
+<!ENTITY menu.file.url "Öppna URL…">
+<!ENTITY menu.file.playlist "Importera spellista…">
+<!ENTITY menu.file.library "Importera bibliotek…">
+<!ENTITY menu.file.newtab "Ny flik">
+<!ENTITY menu.file.closetab "Stäng flik">
+<!ENTITY menu.file.metadata "Se Metadata">
+<!ENTITY menu.file.scan "Sök efter media…">
+<!ENTITY menu.file.exit "Avsluta">
+<!ENTITY menu.edit "Redigera">
+<!ENTITY menu.edit.undo "Ångra">
+<!ENTITY menu.edit.redo "Gör om">
+<!ENTITY menu.edit.cut "Klipp ut">
+<!ENTITY menu.edit.copy "Kopiera">
+<!ENTITY menu.edit.paste "Klistra in">
+<!ENTITY menu.edit.delete "Ta bort">
+<!ENTITY menu.edit.selall "Markera allt">
+<!ENTITY menu.edit.find "Sök">
+<!ENTITY menu.edit.findagain "Sök nästa">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Inställningar">
+<!ENTITY menu.linux.preferences "Inställningar">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Spelaren" >
-<!ENTITY menu.control.play  "Spela upp" >
-<!ENTITY menu.control.pause "Pausa" >
-<!ENTITY menu.control.next  "Nästa spår" >
-<!ENTITY menu.control.prev  "Föregående spår" >
-<!ENTITY menu.control.shuf  "Blanda" >
-<!ENTITY menu.control.repa  "Upprepa alla" >
-<!ENTITY menu.control.rep1  "Upprepa en gång" >
-<!ENTITY menu.control.repx  "Upprepa inte" >
-<!ENTITY menu.control.jumpto "Hoppa till…" >
-
-<!ENTITY menu.control.play.button      "Start" >
-<!ENTITY menu.control.pause.button     "Paus" >
-<!ENTITY menu.control.stop.button      "Stopp" >
-
+<!ENTITY menu.controls "Spelaren">
+<!ENTITY menu.control.play "Spela upp">
+<!ENTITY menu.control.pause "Pausa">
+<!ENTITY menu.control.next "Nästa spår">
+<!ENTITY menu.control.prev "Föregående spår">
+<!ENTITY menu.control.shuf "Blanda">
+<!ENTITY menu.control.repa "Upprepa alla">
+<!ENTITY menu.control.rep1 "Upprepa en gång">
+<!ENTITY menu.control.repx "Upprepa inte">
+<!ENTITY menu.control.jumpto "Hoppa till…">
+<!ENTITY menu.control.play.button "Start">
+<!ENTITY menu.control.pause.button "Paus">
+<!ENTITY menu.control.stop.button "Stopp">
 <!ENTITY displaypane.default.image.pre "Välj en add-on från menyn">
 <!ENTITY displaypane.default.image.tooltip "Add-on ikon">
 <!ENTITY displaypane.default.image.post "menyn eller besök">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Add-on sidan">
 <!ENTITY displaypane.default.link.post "att visa add-ons.">
-<!ENTITY displaypane.name.servicepane   "Nedre panel">
-<!ENTITY displaypane.name.browser       "Nedre innehållspanel">
-<!ENTITY displaypane.name.sidebar       "Höger panel">
-<!ENTITY servicepane.title.label        "Servicepanel">
-
-<!ENTITY menu.tools            "Verktyg" >
+<!ENTITY displaypane.name.servicepane "Nedre panel">
+<!ENTITY displaypane.name.browser "Nedre innehållspanel">
+<!ENTITY displaypane.name.sidebar "Höger panel">
+<!ENTITY servicepane.title.label "Servicepanel">
+<!ENTITY menu.tools "Verktyg">
 <!ENTITY menu.tools.getartwork "Hämta skivomslag">
 <!ENTITY menu.tools.exportmedia "Exportera biblioteksändringar">
-
-<!ENTITY menu.help          "Hjälp" >
-<!ENTITY menu.help.homepage "&brandShortName; Hemsida" >
-<!ENTITY menu.help.bugz     "Rapportera fel…" >
-<!ENTITY menu.help.topics   "Hjälpkategorier" >
+<!ENTITY menu.help "Hjälp">
+<!ENTITY menu.help.homepage "&brandShortName; Hemsida">
+<!ENTITY menu.help.bugz "Rapportera fel…">
+<!ENTITY menu.help.topics "Hjälpkategorier">
 <!ENTITY menu.help.keyboard "Kortkommandon">
-<!ENTITY menu.help.about    "Om &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Equalizer…" >
-<!ENTITY menu.preferences   "Inställningar" >
-<!ENTITY menu.extensions    "Tillägg" >
+<!ENTITY menu.help.about "Om &brandShortName;">
+<!ENTITY menu.equalizer "Equalizer…">
+<!ENTITY menu.preferences "Inställningar">
+<!ENTITY menu.extensions "Tillägg">
 <!ENTITY menu.clearprivatedata "Ta bort privata data…">
 <!ENTITY menu.errorconsole "Felkonsol">
-<!ENTITY menu.downloadmgr   "Filhämtning" >
-<!ENTITY menu.switchplayercontrols  "Spelarekontroll" >
-<!ENTITY menu.controllerontop       "Visa upptill">
-<!ENTITY menu.controlleronbottom    "Visa längst ner">
-
-<!ENTITY menu.fullscreen            "Helskärm">
-<!ENTITY menu.videotofront          "Video till framsidan">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Väntar på enheter.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Väntar på att alla åtgärder ska utföras. Klicka på &quot;Avsluta&quot; för att avbryta och avsluta programmet.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Avbryt">
-
-<!ENTITY tooltip.minimize         "Minimera" >
-<!ENTITY tooltip.maximize         "Maximera/Återställ" >
-<!ENTITY tooltip.exit             "Stäng" >
-<!ENTITY tooltip.close            "Stäng" >
-<!ENTITY tooltip.hide             "Dölj" >
-<!ENTITY tooltip.fullscreen       "Helskärm" >
-<!ENTITY tooltip.control.back     "Föregående spår" >
-<!ENTITY tooltip.control.play     "Spela upp" >
-<!ENTITY tooltip.control.pause    "Paus" >
-<!ENTITY tooltip.control.resume   "Återuppta" >
-<!ENTITY tooltip.control.stop     "Stoppa" >
-<!ENTITY tooltip.control.fwd      "Nästa spår" >
-<!ENTITY tooltip.control.mute     "Ljud av" >
-<!ENTITY tooltip.control.volume   "Volym" >
-<!ENTITY tooltip.control.shuffle  "Slumpmässig uppspelning" >
-<!ENTITY tooltip.control.shuf_off "Normal spelning" >
-<!ENTITY tooltip.control.curtrack "Hitta aktuellt spår" >
-<!ENTITY tooltip.search           "Sök" >
-<!ENTITY tooltip.browser.back     "Bläddra bakåt" >
-<!ENTITY tooltip.browser.fwd      "Bläddra framåt" >
-<!ENTITY tooltip.browser.stop     "Stoppa webbläsaren" >
-<!ENTITY tooltip.browser.home     "Hem" >
-<!ENTITY tooltip.browser.refresh  "Uppdatera" >
-<!ENTITY tooltip.browser.subscription "Prenumerera på denna sida" >
-<!ENTITY tooltip.browser.mediapages.list "Listvy" >
-<!ENTITY tooltip.browser.mediapages.filter "Filtervy" >
-<!ENTITY tooltip.browser.mediapages "Byt mediavy…" >
-<!ENTITY tooltip.servicepane.show    "Visa servicepanel" >
-<!ENTITY tooltip.servicepane.collapse    "Komprimera Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "Ny spellista" >
+<!ENTITY menu.downloadmgr "Filhämtning">
+<!ENTITY menu.switchplayercontrols "Spelarekontroll">
+<!ENTITY menu.controllerontop "Visa upptill">
+<!ENTITY menu.controlleronbottom "Visa längst ner">
+<!ENTITY menu.fullscreen "Helskärm">
+<!ENTITY menu.videotofront "Video till framsidan">
+<!ENTITY device.dialog.wait_for_completion.title "Väntar på enheter.">
+<!ENTITY device.dialog.wait_for_completion.msg "Väntar på att alla åtgärder ska utföras. Klicka på &quot;Avsluta&quot; för att avbryta och avsluta programmet.">
+<!ENTITY device.dialog.wait_for_completion.quit "Avbryt">
+<!ENTITY tooltip.minimize "Minimera">
+<!ENTITY tooltip.maximize "Maximera/Återställ">
+<!ENTITY tooltip.exit "Stäng">
+<!ENTITY tooltip.close "Stäng">
+<!ENTITY tooltip.hide "Dölj">
+<!ENTITY tooltip.fullscreen "Helskärm">
+<!ENTITY tooltip.control.back "Föregående spår">
+<!ENTITY tooltip.control.play "Spela upp">
+<!ENTITY tooltip.control.pause "Paus">
+<!ENTITY tooltip.control.resume "Återuppta">
+<!ENTITY tooltip.control.stop "Stoppa">
+<!ENTITY tooltip.control.fwd "Nästa spår">
+<!ENTITY tooltip.control.mute "Ljud av">
+<!ENTITY tooltip.control.volume "Volym">
+<!ENTITY tooltip.control.shuffle "Slumpmässig uppspelning">
+<!ENTITY tooltip.control.shuf_off "Normal spelning">
+<!ENTITY tooltip.control.curtrack "Hitta aktuellt spår">
+<!ENTITY tooltip.search "Sök">
+<!ENTITY tooltip.browser.back "Bläddra bakåt">
+<!ENTITY tooltip.browser.fwd "Bläddra framåt">
+<!ENTITY tooltip.browser.stop "Stoppa webbläsaren">
+<!ENTITY tooltip.browser.home "Hem">
+<!ENTITY tooltip.browser.refresh "Uppdatera">
+<!ENTITY tooltip.browser.subscription "Prenumerera på denna sida">
+<!ENTITY tooltip.browser.mediapages.list "Listvy">
+<!ENTITY tooltip.browser.mediapages.filter "Filtervy">
+<!ENTITY tooltip.browser.mediapages "Byt mediavy…">
+<!ENTITY tooltip.servicepane.show "Visa servicepanel">
+<!ENTITY tooltip.servicepane.collapse "Komprimera Service Pane">
+<!ENTITY tooltip.servicepane.newnode "Ny spellista">
 <!ENTITY tooltip.displaypane.options "Alternativ för panel">
-
-<!ENTITY smart.window             "Skapa smart spellista" >
-<!ENTITY smart.limit              "Begränsa till" >
-<!ENTITY smart.match              "Matcha" >
-<!ENTITY smart.matchsingle        "Matcha följande villkor:" >
-<!ENTITY smart.any                "någon" >
-<!ENTITY smart.all                "alla" >
-<!ENTITY smart.following          "på följande villkor:" >
-<!ENTITY smart.random             "slumpvis" >
-<!ENTITY smart.album              "album" >
-<!ENTITY smart.artist             "artist" >
-<!ENTITY smart.genre              "genre" >
-<!ENTITY smart.title              "titel" >
-<!ENTITY smart.high_rating        "högsta betyg" >
-<!ENTITY smart.low_rating         "lägsta betyg" >
-<!ENTITY smart.most_recent        "senast spelad" >
-<!ENTITY smart.least_recent       "minst nyligen spelade" >
-<!ENTITY smart.most_often         "mest spelade" >
-<!ENTITY smart.least_often        "minst spelade" >
-<!ENTITY smart.most_added         "senast tillagd" >
-<!ENTITY smart.least_added        "minst nyligen inlagt" >
-<!ENTITY smart.minutes            "minuter" >
-<!ENTITY smart.hours              "timmar" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "spår" >
-<!ENTITY smart.selectedby         "vald efter" >
-<!ENTITY smart.to                 "till" >
-<!ENTITY smart.autoupdate         "Uppdatera automatiskt">
+<!ENTITY smart.window "Skapa smart spellista">
+<!ENTITY smart.limit "Begränsa till">
+<!ENTITY smart.match "Matcha">
+<!ENTITY smart.matchsingle "Matcha följande villkor:">
+<!ENTITY smart.any "någon">
+<!ENTITY smart.all "alla">
+<!ENTITY smart.following "på följande villkor:">
+<!ENTITY smart.random "slumpvis">
+<!ENTITY smart.album "album">
+<!ENTITY smart.artist "artist">
+<!ENTITY smart.genre "genre">
+<!ENTITY smart.title "titel">
+<!ENTITY smart.high_rating "högsta betyg">
+<!ENTITY smart.low_rating "lägsta betyg">
+<!ENTITY smart.most_recent "senast spelad">
+<!ENTITY smart.least_recent "minst nyligen spelade">
+<!ENTITY smart.most_often "mest spelade">
+<!ENTITY smart.least_often "minst spelade">
+<!ENTITY smart.most_added "senast tillagd">
+<!ENTITY smart.least_added "minst nyligen inlagt">
+<!ENTITY smart.minutes "minuter">
+<!ENTITY smart.hours "timmar">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "spår">
+<!ENTITY smart.selectedby "vald efter">
+<!ENTITY smart.to "till">
+<!ENTITY smart.autoupdate "Uppdatera automatiskt">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Musik">
-
 <!ENTITY textbox.songbird_open_url "Ange URL eller mediasökväg som leder till det du vill spela upp:">
-
-<!ENTITY open_url.title           "Öppna URL">
-<!ENTITY subscribe.title          "Prenumerera">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "minut(er)">
-<!ENTITY subscribe.hours          "timma(r)">
-<!ENTITY subscribe.days           "dag">
-<!ENTITY subscribe.autocheck      "Uppdatera automatiskt var">
-<!ENTITY subscribe.destinationfolder      "Välj målmapp:">
-
-<!ENTITY feed.subscribe.label     "Prenumerera">
-<!ENTITY feed.subscribe.dontask   "Visa inte denna dialogruta igen">
-<!ENTITY feed.subscribe.close     "Stäng">
-
-<!ENTITY podcast.creation_dialog.title       "Ny podsändning">
+<!ENTITY open_url.title "Öppna URL">
+<!ENTITY subscribe.title "Prenumerera">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "minut(er)">
+<!ENTITY subscribe.hours "timma(r)">
+<!ENTITY subscribe.days "dag">
+<!ENTITY subscribe.autocheck "Uppdatera automatiskt var">
+<!ENTITY subscribe.destinationfolder "Välj målmapp:">
+<!ENTITY feed.subscribe.label "Prenumerera">
+<!ENTITY feed.subscribe.dontask "Visa inte denna dialogruta igen">
+<!ENTITY feed.subscribe.close "Stäng">
+<!ENTITY podcast.creation_dialog.title "Ny podsändning">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Bevaka mappar">
-<!ENTITY watchfolder.folderlist   "Mappar för bevakning av förekommande  nytt media:">
-
-<!ENTITY locale.language          "Språk" >
-<!ENTITY menu.view                "Visa" >
-<!ENTITY about.version            "Version" >
-<!ENTITY about.buttons.credits    "Ett stort tack…" >
-
-<!ENTITY equalizer.title          "Equalizer" >
-<!ENTITY equalizer.on.checkbox    "På" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Anpassad" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Live" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Party" >
-<!ENTITY equalizer.preset.classical   "Klassisk" >
-<!ENTITY equalizer.preset.large_hall  "Stor hall" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Soft" >
-<!ENTITY equalizer.preset.small_speakers   "Laptop/Hörlurar" >
-<!ENTITY equalizer.preset.full_bass_treble "Full bas och diskant" >
-<!ENTITY equalizer.preset.full_treble "Full diskant" >
-<!ENTITY equalizer.preset.full_bass   "Full bas" >
-
-
-<!ENTITY setupprogress.pleasewait "Vänta…" >
-<!ENTITY setupprogress.cancel     "Avbryt">
-
-<!ENTITY menu.file.accesskey              "A" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "P" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "E" >
-<!ENTITY menu.file.url.accesskey          "R" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "Y" >
-<!ENTITY menu.file.newtab.accesskey       "L" >
-<!ENTITY menu.file.closetab.accesskey     "T" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "K" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "I" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "T" >
-<!ENTITY menu.clearprivatedata.accesskey  "B" >
-<!ENTITY menu.errorconsole.accesskey      "K" >
-<!ENTITY menu.file.exit.accesskey         "A" >
-<!ENTITY menu.downloadmgr.accesskey       "F" >
-
-<!ENTITY menu.edit.accesskey          "R" >
-<!ENTITY menu.edit.undo.accesskey     "Å" >
-<!ENTITY menu.edit.redo.accesskey     "G" >
-<!ENTITY menu.edit.cut.accesskey      "K" >
-<!ENTITY menu.edit.copy.accesskey     "O" >
-<!ENTITY menu.edit.paste.accesskey    "I" >
-<!ENTITY menu.edit.delete.accesskey   "T" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "S" >
-<!ENTITY menu.edit.findagain.accesskey   "N" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "F" >
-<!ENTITY menu.control.shuf.accesskey  "B" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "U" >
-<!ENTITY menu.control.repx.accesskey  "I" >
-<!ENTITY menu.control.jumpto.accesskey "H" >
-
-
-<!ENTITY menu.tools.accesskey            "E" >
-<!ENTITY menu.tools.getartwork.accesskey "H" >
-
-<!ENTITY menu.tools.reveal             "Visa fil" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "R" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "O" >
-
-
+<!ENTITY watchfolder.title "Bevaka mappar">
+<!ENTITY watchfolder.folderlist "Mappar för bevakning av förekommande  nytt media:">
+<!ENTITY locale.language "Språk">
+<!ENTITY menu.view "Visa">
+<!ENTITY about.version "Version">
+<!ENTITY about.buttons.credits "Ett stort tack…">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY equalizer.on.checkbox "På">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Anpassad">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Klassisk">
+<!ENTITY equalizer.preset.large_hall "Stor hall">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY equalizer.preset.small_speakers "Laptop/Hörlurar">
+<!ENTITY equalizer.preset.full_bass_treble "Full bas och diskant">
+<!ENTITY equalizer.preset.full_treble "Full diskant">
+<!ENTITY equalizer.preset.full_bass "Full bas">
+<!ENTITY setupprogress.pleasewait "Vänta…">
+<!ENTITY setupprogress.cancel "Avbryt">
+<!ENTITY menu.file.accesskey "A">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "P">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "E">
+<!ENTITY menu.file.url.accesskey "R">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY menu.file.newtab.accesskey "L">
+<!ENTITY menu.file.closetab.accesskey "T">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "K">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "I">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "T">
+<!ENTITY menu.clearprivatedata.accesskey "B">
+<!ENTITY menu.errorconsole.accesskey "K">
+<!ENTITY menu.file.exit.accesskey "A">
+<!ENTITY menu.downloadmgr.accesskey "F">
+<!ENTITY menu.edit.accesskey "R">
+<!ENTITY menu.edit.undo.accesskey "Å">
+<!ENTITY menu.edit.redo.accesskey "G">
+<!ENTITY menu.edit.cut.accesskey "K">
+<!ENTITY menu.edit.copy.accesskey "O">
+<!ENTITY menu.edit.paste.accesskey "I">
+<!ENTITY menu.edit.delete.accesskey "T">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "S">
+<!ENTITY menu.edit.findagain.accesskey "N">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "F">
+<!ENTITY menu.control.shuf.accesskey "B">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "U">
+<!ENTITY menu.control.repx.accesskey "I">
+<!ENTITY menu.control.jumpto.accesskey "H">
+<!ENTITY menu.tools.accesskey "E">
+<!ENTITY menu.tools.getartwork.accesskey "H">
+<!ENTITY menu.tools.reveal "Visa fil">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "R">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "O">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Redigera metadata" >
-<!ENTITY trackeditor.tab.summary.title            "Sammanställning" >
-<!ENTITY trackeditor.tab.edit.title               "Egenskaper" >
-<!ENTITY trackeditor.tab.lyrics.title             "Sångtext" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Redigera metadata">
+<!ENTITY trackeditor.tab.summary.title "Sammanställning">
+<!ENTITY trackeditor.tab.edit.title "Egenskaper">
+<!ENTITY trackeditor.tab.lyrics.title "Sångtext">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Lägg till tagg" >
-<!ENTITY trackeditor.addtag.tag       "Tagg:" >
-
-<!ENTITY jumptofile.title             "Hoppa till" >
-<!ENTITY jumptofile.search            "Sök:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Använd globala kortkommandon" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "A" >
-<!ENTITY hotkeys.action               "Funktion" >
-<!ENTITY hotkeys.hotkey               "Kortkommando" >
-<!ENTITY hotkeys.add                  "Lägg till" >
-<!ENTITY hotkeys.set                  "Ange" >
-<!ENTITY hotkeys.remove               "Ta bort" >
-<!ENTITY hotkeys.prefpane             "Kortkommandon" >
-<!ENTITY hotkeys.info                 "Globala kortkommandon medger att du kan komma åt funktioner i &brandShortName; även om &brandShortName; inte är det aktiva programmet. Vissa kortkommandon måste innehålla modifierare för att inte störa andra program." >
-
-<!ENTITY rapi.prefpane.title             "Webbintegrering" >
-<!ENTITY rapi.prefpane.access.caption    "Rättigheter till webbintegrering" >
-<!ENTITY rapi.prefpane.access.text       "Du kan tillåta webbsidor att integrera med brandShortName; för att skapa närmare koppling mellan webben och ditt media. Vänligen konfigurera brandShortName; att tillåta eller hindra följande integrering." >
-<!ENTITY rapi.whitelist.label            "Undantag…" >
-<!ENTITY rapi.restore_defaults.label      "Återställ till grundläge" >
-<!ENTITY rapi.playback_control_disable.label "Hindra webbsidor från att kontrollera uppspelning av media" >
-<!ENTITY rapi.playback_read_disable.label    "Hindra webbsidor från information om uppspelat media" >
-<!ENTITY rapi.library_read_disable.label     "Hindra webbsidor att se information om media i mitt bibliotek och mina enheter" >
-<!ENTITY rapi.library_write_disable.label    "Hindra webbsidor att lägga till/ändra media och spellistor i mitt bibliotek och mina enheter" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Tillägg">
-<!ENTITY prefpane.content.label       "Webbinnehåll">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Inga USB-enheter för lagring anslutna." >
-<!ENTITY umsd.music.tab                     "Musik" >
-<!ENTITY umsd.music.music_files_group       "Musikfiler" >
-<!ENTITY umsd.music.music_path_desc         "När musikfiler kopieras till enheten, placera dem i följande mapp:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Välj enhetsbibliotek för att lagra musikfiler. " >
-<!ENTITY umsd.music.music_ext_desc          "Kopiera musikfiler med följande filändelser till enheten:" >
-<!ENTITY umsd.video.tab                     "Video" >
-<!ENTITY umsd.video.video_files_group       "Videofiler" >
-<!ENTITY umsd.video.video_path_desc         "När videofiler kopieras till enheten, placera dem i följande mapp: " >
-<!ENTITY umsd.video.video_path_browse_msg   "Välj enhetsbibliotek för videofiler. " >
-<!ENTITY umsd.video.video_ext_desc          "Kopiera videofiler med följande filändelser till enheten: " >
-
-<!ENTITY device.error.dialog.link           "Visa detaljerad felrapport" >
-
-<!ENTITY restartbox.restartnow        "Starta om nu" >
-<!ENTITY restartbox.restartonplaybackend "Starta om efter uppspelning" >
-<!ENTITY restartbox.restartlater      "Starta om senare" >
-
-<!ENTITY setupprogress.installingextensions "Installerar tillägg" >
-
-<!ENTITY jobprogress.details "Detaljer" >
-
-<!ENTITY menu.updateCmd.label          "Sök efter uppdateringar…">
-<!ENTITY menu.updateCmd.accessKey      "S">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "DELETE" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Mellanslag" >
-
+<!ENTITY trackeditor.addtag.title "Lägg till tagg">
+<!ENTITY trackeditor.addtag.tag "Tagg:">
+<!ENTITY jumptofile.title "Hoppa till">
+<!ENTITY jumptofile.search "Sök:">
+<!ENTITY hotkeys.useglobalhotkeys "Använd globala kortkommandon">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "A">
+<!ENTITY hotkeys.action "Funktion">
+<!ENTITY hotkeys.hotkey "Kortkommando">
+<!ENTITY hotkeys.add "Lägg till">
+<!ENTITY hotkeys.set "Ange">
+<!ENTITY hotkeys.remove "Ta bort">
+<!ENTITY hotkeys.prefpane "Kortkommandon">
+<!ENTITY hotkeys.info "Globala kortkommandon medger att du kan komma åt funktioner i &brandShortName; även om &brandShortName; inte är det aktiva programmet. Vissa kortkommandon måste innehålla modifierare för att inte störa andra program.">
+<!ENTITY rapi.prefpane.title "Webbintegrering">
+<!ENTITY rapi.prefpane.access.caption "Rättigheter till webbintegrering">
+<!ENTITY rapi.prefpane.access.text "Du kan tillåta webbsidor att integrera med brandShortName; för att skapa närmare koppling mellan webben och ditt media. Vänligen konfigurera brandShortName; att tillåta eller hindra följande integrering.">
+<!ENTITY rapi.whitelist.label "Undantag…">
+<!ENTITY rapi.restore_defaults.label "Återställ till grundläge">
+<!ENTITY rapi.playback_control_disable.label "Hindra webbsidor från att kontrollera uppspelning av media">
+<!ENTITY rapi.playback_read_disable.label "Hindra webbsidor från information om uppspelat media">
+<!ENTITY rapi.library_read_disable.label "Hindra webbsidor att se information om media i mitt bibliotek och mina enheter">
+<!ENTITY rapi.library_write_disable.label "Hindra webbsidor att lägga till/ändra media och spellistor i mitt bibliotek och mina enheter">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Tillägg">
+<!ENTITY prefpane.content.label "Webbinnehåll">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Inga USB-enheter för lagring anslutna.">
+<!ENTITY umsd.music.tab "Musik">
+<!ENTITY umsd.music.music_files_group "Musikfiler">
+<!ENTITY umsd.music.music_path_desc "När musikfiler kopieras till enheten, placera dem i följande mapp:">
+<!ENTITY umsd.music.music_path_browse_msg "Välj enhetsbibliotek för att lagra musikfiler. ">
+<!ENTITY umsd.music.music_ext_desc "Kopiera musikfiler med följande filändelser till enheten:">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Videofiler">
+<!ENTITY umsd.video.video_path_desc "När videofiler kopieras till enheten, placera dem i följande mapp: ">
+<!ENTITY umsd.video.video_path_browse_msg "Välj enhetsbibliotek för videofiler. ">
+<!ENTITY umsd.video.video_ext_desc "Kopiera videofiler med följande filändelser till enheten: ">
+<!ENTITY device.error.dialog.link "Visa detaljerad felrapport">
+<!ENTITY restartbox.restartnow "Starta om nu">
+<!ENTITY restartbox.restartonplaybackend "Starta om efter uppspelning">
+<!ENTITY restartbox.restartlater "Starta om senare">
+<!ENTITY setupprogress.installingextensions "Installerar tillägg">
+<!ENTITY jobprogress.details "Detaljer">
+<!ENTITY menu.updateCmd.label "Sök efter uppdateringar…">
+<!ENTITY menu.updateCmd.accessKey "S">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "DELETE">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Mellanslag">
 <!ENTITY tabs.closeTab "Stäng flik">
 <!ENTITY tabs.listAllTabs "Lista alla flikar">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator " - " >
-<!ENTITY window.browser.titlepreface       " " >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY window.browser.titlepreface " ">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Startsida" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Installation av tillägg" >
-
+<!ENTITY prefs.homepage.label "Startsida">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Installation av tillägg">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Avbryt">
-<!ENTITY command.device.cancel.accesskey                "S">
-<!ENTITY command.device.canceldevicecopy                "Avbryt kopiering">
-<!ENTITY command.device.canceldevicecopy.accesskey      "S">
-<!ENTITY command.device.canceldevicedelete              "Avbryt radering">
-<!ENTITY command.device.canceldevicedelete.accesskey    "S">
-<!ENTITY command.device.canceldevicesync                "Avbryt synkronisering">
-<!ENTITY command.device.canceldevicesync.accesskey      "S">
-<!ENTITY command.device.canceldeviceupdate              "Avbryt uppdatering">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "S">
-<!ENTITY command.device.ejectdevice                     "Mata ut">
-<!ENTITY command.device.ejectdevice.accesskey           "M">
-<!ENTITY command.device.formatdevice                    "Format">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Ignorera">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Hämta info">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Byt namn">
-<!ENTITY command.device.renamedevice.accesskey          "D">
-<!ENTITY command.device.devicesync                      "Synkronisera">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Avbryt">
+<!ENTITY command.device.cancel.accesskey "S">
+<!ENTITY command.device.canceldevicecopy "Avbryt kopiering">
+<!ENTITY command.device.canceldevicecopy.accesskey "S">
+<!ENTITY command.device.canceldevicedelete "Avbryt radering">
+<!ENTITY command.device.canceldevicedelete.accesskey "S">
+<!ENTITY command.device.canceldevicesync "Avbryt synkronisering">
+<!ENTITY command.device.canceldevicesync.accesskey "S">
+<!ENTITY command.device.canceldeviceupdate "Avbryt uppdatering">
+<!ENTITY command.device.canceldeviceupdate.accesskey "S">
+<!ENTITY command.device.ejectdevice "Mata ut">
+<!ENTITY command.device.ejectdevice.accesskey "M">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Ignorera">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Hämta info">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Byt namn">
+<!ENTITY command.device.renamedevice.accesskey "D">
+<!ENTITY command.device.devicesync "Synkronisera">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Rippa CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Stoppa rippning">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Sök CD-information">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Mata ut CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Reparera min enhet">
-
-<!ENTITY device.firmware.wizard.title                     "Uppdatera firmware">
-<!ENTITY device.firmware.wizard.check.page.title          "Sök efter ny firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Söker efter ny firmware…">
+<!ENTITY command.device.rip "Rippa CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Stoppa rippning">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Sök CD-information">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Mata ut CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Reparera min enhet">
+<!ENTITY device.firmware.wizard.title "Uppdatera firmware">
+<!ENTITY device.firmware.wizard.check.page.title "Sök efter ny firmware">
+<!ENTITY device.firmware.wizard.check.progress.title "Söker efter ny firmware…">
 <!ENTITY device.firmware.wizard.check.install.description "Installering av ny firmware borde ta mindre än 10 minuter. Du kan alltid välja att genomföra uppdateringen vid ett senare tillfälle.">
 <!ENTITY device.firmware.wizard.check.already.description "Din enhets firmware är redan uppdaterad.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Release-anteckningar">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Enheten måste vara ansluten i firmware-mode för att fortsätta. Följ instruktionerna nedan för att ställa om enheten till firmware-mode.">
-<!ENTITY device.firmware.wizard.download.title            "Laddar ner ny firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "Återställning av enhet bör ta mindre än fem minuter.">
-<!ENTITY device.firmware.wizard.repair.warning            "Olyckligtvis kommer allt befintligt innehåll på din enhet &lt;strong class=&quot;loss-of-data-text&quot;&gt;att raderas&lt;/strong&gt;. Du råds synka om &brandShortName; så snart reparationen är klar.">
-<!ENTITY device.firmware.wizard.install.title             "Installerar firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "Det verkar som att enheten är upptagen. Firmware kan bara installeras när enheten inte är upptagen.">
+<!ENTITY device.firmware.wizard.download.title "Laddar ner ny firmware…">
+<!ENTITY device.firmware.wizard.repair.time.description "Återställning av enhet bör ta mindre än fem minuter.">
+<!ENTITY device.firmware.wizard.repair.warning "Olyckligtvis kommer allt befintligt innehåll på din enhet &lt;strong class=&quot;loss-of-data-text&quot;&gt;att raderas&lt;/strong&gt;. Du råds synka om &brandShortName; så snart reparationen är klar.">
+<!ENTITY device.firmware.wizard.install.title "Installerar firmware…">
+<!ENTITY device.firmware.wizard.busy.description "Det verkar som att enheten är upptagen. Firmware kan bara installeras när enheten inte är upptagen.">
 <!ENTITY device.firmware.wizard.retry.description "Var god försök igen när enheten är klar att användas.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "Ett fel uppstod under sökning efter ny firmware. Undersök statusen på din nätverksuppkoppling och försök igen.">
+<!ENTITY device.firmware.wizard.check.error.description "Ett fel uppstod under sökning efter ny firmware. Undersök statusen på din nätverksuppkoppling och försök igen.">
 <!ENTITY device.firmware.wizard.download.error.description "Ett fel uppstod vid nedladdningen av ny firmware. Undersök statusen på din nätverksuppkoppling och försök igen.">
-<!ENTITY device.firmware.wizard.support.description        "Hjälpresurser som FAQs och felsökningstips kan hittas på">
-
-<!ENTITY device.info.icon.device            "Generell enhetsikon">
-<!ENTITY device.info.icon.readonly          "Ikon för skrivskyddslås">
-<!ENTITY device.info.model.label            "Modell">
-<!ENTITY device.info.capacity.label         "Kapacitet">
-<!ENTITY device.info.product.label          "Produkt">
-<!ENTITY device.info.friendly_name.label    "Namn">
-<!ENTITY device.info.serial_number.label    "Serienummer">
-<!ENTITY device.info.vendor.label           "Tillverkare">
-<!ENTITY device.info.access.label           "Accepterad tillgång">
+<!ENTITY device.firmware.wizard.support.description "Hjälpresurser som FAQs och felsökningstips kan hittas på">
+<!ENTITY device.info.icon.device "Generell enhetsikon">
+<!ENTITY device.info.icon.readonly "Ikon för skrivskyddslås">
+<!ENTITY device.info.model.label "Modell">
+<!ENTITY device.info.capacity.label "Kapacitet">
+<!ENTITY device.info.product.label "Produkt">
+<!ENTITY device.info.friendly_name.label "Namn">
+<!ENTITY device.info.serial_number.label "Serienummer">
+<!ENTITY device.info.vendor.label "Tillverkare">
+<!ENTITY device.info.access.label "Accepterad tillgång">
 <!ENTITY device.info.playback_formats.label "Filformat">
-<!ENTITY device.info.battery.label          "Batteri">
+<!ENTITY device.info.battery.label "Batteri">
 <!ENTITY device.info.firmware_version.label "Firmware-version">
-
-<!ENTITY device.progress.sync               "Synkronisera">
-
-<!ENTITY device.capacity.music.label    "Musik">
-<!ENTITY device.capacity.video.label    "Video">
-<!ENTITY device.capacity.image.label    "Foton">
-<!ENTITY device.capacity.other.label    "Annat">
-<!ENTITY device.capacity.free.label     "Ledigt">
-
-<!ENTITY device.unsupported_media.dialog.title  "Inkompatibla filer upptäckta">
+<!ENTITY device.progress.sync "Synkronisera">
+<!ENTITY device.capacity.music.label "Musik">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Foton">
+<!ENTITY device.capacity.other.label "Annat">
+<!ENTITY device.capacity.free.label "Ledigt">
+<!ENTITY device.unsupported_media.dialog.title "Inkompatibla filer upptäckta">
 <!ENTITY device.unsupported_media.dialog.enable "Meddela när inkompatibla filer upptäcks">
-
 <!ENTITY device.sync.header.label "Inställningar för synkronisering">
 <!ENTITY device.import.header.label "Importera">
 <!ENTITY device.sync.auto_sync.label "Synkronisera">
@@ -510,7 +449,6 @@
 <!ENTITY device.sync.images.selected.label "Valda undermappar">
 <!ENTITY device.sync.images.foldername "Mappnamn">
 <!ENTITY device.sync.images.filecount "Foton">
-
 <!ENTITY device.settings.header.label "Inställningar">
 <!ENTITY device.settings.general.label "Generellt">
 <!ENTITY device.settings.auto_launch.checkbox.label "Öppna &brandShortName; när enheten ansluts">
@@ -520,219 +458,183 @@
 <!ENTITY device.settings.disk.label "Diskhantering">
 <!ENTITY device.settings.disk.management.label "Anpassa katalogstruktur">
 <!ENTITY device.settings.disk.management.filename "Låtfiler">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Konfigurera omkodning automatiskt">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Specificera bitrate och format manuellt">
 <!ENTITY device.settings.music.transcoding.format.label "Kodningsformat">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Musik">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY device.management.tabs.image.label "Foton">
 <!ENTITY device.management.tabs.tools.label "Verktyg">
 <!ENTITY device.management.tabs.settings.label "Inställningar">
-
 <!ENTITY device.tools.product_registration.title "Produktregistrering">
 <!ENTITY device.tools.product_registration.description "Vill du försäkra dig om köpbevis, utökade medlemskapsförmåner, eller om att få säkerhetsmeddelanden?">
 <!ENTITY device.tools.product_registration.label "Registrera produkt">
-
 <!ENTITY device.tools.update_firmware.title "Uppdatera firmware">
 <!ENTITY device.tools.update_firmware.description "Din enhet kontrolleras av ett internt program kallat firmware. Det är möjligt att nyare firmware-versioner släppts sedan du senast anslöt enheten till datorn.">
 <!ENTITY device.tools.update_firmware.label "Sök efter ny firmware">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Nuvarande firmwareversion">
-
 <!ENTITY device.tools.restore_device.title "Återställ Enheten">
 <!ENTITY device.tools.restore_device.description "Återställa enheten till fabriksinställningarna raderar alla medier på enheten, samt att återställa fabriken programvaran och inställningar">
 <!ENTITY device.tools.restore_device.label "Återställ enheten till fabriksinställningar">
-
 <!ENTITY device.tools.format_device.title "Formatera enhet">
 <!ENTITY device.tools.format_device.description "Formatering raderar allt (media och data) på enheten.">
 <!ENTITY device.tools.format_device.label "Formatera enhet">
 <!ENTITY device.tools.format_volume.button.label "Format">
-
 <!ENTITY device.tools.support.title "Support">
 <!ENTITY device.tools.support.description "Se de senaste supportnyheterna, användarmanualer, dokumentation, FAQs och produktinformation. Supportservice är tillgängligt för kunder som har registrerat sin produkt.">
 <!ENTITY device.tools.support.label "Se supportresurser">
-
 <!ENTITY device.tools.reset_warnings.title "Nollställ varningar">
 <!ENTITY device.tools.reset_warnings.description "Återställning av varningsdialoger gör det möjligt för dessa dialoger att be om din bekräftelse för olika jobb du vill utföra.">
 <!ENTITY device.tools.reset_warnings.label "Nollställ varningsmeddelanden">
-
 <!ENTITY device.dialog.setup.title "Enhetsinställningar">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Välj vilken lagringsmedia du vill att &brandShortName; ska hantera:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignorera denna enhet">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Markera endast om du vill att &brandShortName; inte ska hantera denna enhet.">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Om du inte vill att &brandShortName; ska hantera den här enheten så kan du">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorera den här enheten">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Öppna länk i förvald webbläsare">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Öppna sida i förvald webbläsare">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Öppna ram i förvald webbläsare">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Öppna bild i förvald webbläsare">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Kopiera markerad text">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "Spela upp">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Hämtning till bibliotek">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Lägg till i spellistan">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Inga spellistor&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Ny spellista">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Prenumerera på denna sida…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Prenumerera på denna ram…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Hjälp till att göra &brandShortName; bätttre!">
-<!ENTITY feedback.dialog.yes        "Ja">
-<!ENTITY feedback.dialog.no         "Nej">
-<!ENTITY feedback.dialog.sentence1  "Vill du hjälpa oss förbättra &brandShortName; genom att anonymt svara på några få frågor?">
-<!ENTITY feedback.dialog.sentence2  "Om du inte är intresserad, kommer vi inte att fråga dig senare. Tack för ditt beslut! Vi uppskattar att du använder &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Hälsningar">
-<!ENTITY feedback.dialog.sentence4  "&brandShortName;-teamet">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Öppna länk i förvald webbläsare">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Öppna sida i förvald webbläsare">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Öppna ram i förvald webbläsare">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Öppna bild i förvald webbläsare">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Kopiera markerad text">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Spela upp">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Hämtning till bibliotek">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Lägg till i spellistan">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Inga spellistor&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Ny spellista">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Prenumerera på denna sida…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Prenumerera på denna ram…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Hjälp till att göra &brandShortName; bätttre!">
+<!ENTITY feedback.dialog.yes "Ja">
+<!ENTITY feedback.dialog.no "Nej">
+<!ENTITY feedback.dialog.sentence1 "Vill du hjälpa oss förbättra &brandShortName; genom att anonymt svara på några få frågor?">
+<!ENTITY feedback.dialog.sentence2 "Om du inte är intresserad, kommer vi inte att fråga dig senare. Tack för ditt beslut! Vi uppskattar att du använder &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "Hälsningar">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName;-teamet">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Välkommen till &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "Välkommen till &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "Inställningar för &brandShortName;">
-
+<!ENTITY first_run.title "Inställningar för &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Rekommenderade tillägg">
+<!ENTITY first_run.add_ons.header.label "Rekommenderade tillägg">
 <!ENTITY first_run.add_ons.description.line1 "Tillägg utökar funktionerna i &brandShortName; och ger dig möjlighet att anpassa din upplevelse av mediaspelaren. Nedanstående alternativ rekommenderas starkt.">
 <!ENTITY first_run.add_ons.description.line2 "Tillägg kan integreras med andra program och tjänster, stödja koppling till externa enheter, ändra utseende på programmet och mycket mer! Du kan hämta hem fler på &brandShortName;s webb för Add-ons.">
-<!ENTITY first_run.add_ons.loading.label     "Hämtar rekommenderade tillägg.">
+<!ENTITY first_run.add_ons.loading.label "Hämtar rekommenderade tillägg.">
 <!ENTITY first_run.add_ons.load_failed.label "Kunde inte hämta rekommenderade tillägg.">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Uppdatering Klar att installera.">
 <!ENTITY first_run.app_update.finished.text "Uppdateringen kommer att installeras när &brandShortName; startas om">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; kan inte ansluta till Internet">
-<!ENTITY first_run.connection.description          "Kolla dina inställningar för anslutning eller fortsätt med hjälp av assistenten för inställningar.">
-<!ENTITY first_run.connection.settings.button      "Inställningar för anslutning…">
+<!ENTITY first_run.connection.header.label "&brandShortName; kan inte ansluta till Internet">
+<!ENTITY first_run.connection.description "Kolla dina inställningar för anslutning eller fortsätt med hjälp av assistenten för inställningar.">
+<!ENTITY first_run.connection.settings.button "Inställningar för anslutning…">
 <!ENTITY first_run.connection.settings.description "Är din dator eller ditt nätverk skyddat av brandvägg eller proxy? Rätta till felaktiga inställningar för anslutning kan lösa kända nätverksproblem.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Licensavtal">
+<!ENTITY first_run.eula.header.label "Licensavtal">
 <!ENTITY first_run.eula.accept_checkbox.label "Jag har läst och accepterar villkoren i licensavtalet.">
-<!ENTITY first_run.eula.language.label        "Språk:">
-
+<!ENTITY first_run.eula.language.label "Språk:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Hjälp till att göra &brandShortName; bättre">
-<!ENTITY first_run.feedback.description             "Vill du hjälpa oss att göra &brandShortName; bättre genom att sända oss anonyma uppgifter om hur du använder programmet?">
-<!ENTITY first_run.feedback.metrics.label           "Samla in och skicka mina uppgifter till &brandShortName;-teamet">
-<!ENTITY first_run.feedback.metrics.description     "Uppgifterna är helt anonyma och ingen personlig information samlas in.">
-<!ENTITY first_run.feedback.email.header.label      "Håll mig uppdaterad">
-<!ENTITY first_run.feedback.email.description       "Prenumenera på vårt nyhetsbrev för att läsa om nya versioner och viktiga uppdateringar.">
+<!ENTITY first_run.feedback.header.label "Hjälp till att göra &brandShortName; bättre">
+<!ENTITY first_run.feedback.description "Vill du hjälpa oss att göra &brandShortName; bättre genom att sända oss anonyma uppgifter om hur du använder programmet?">
+<!ENTITY first_run.feedback.metrics.label "Samla in och skicka mina uppgifter till &brandShortName;-teamet">
+<!ENTITY first_run.feedback.metrics.description "Uppgifterna är helt anonyma och ingen personlig information samlas in.">
+<!ENTITY first_run.feedback.email.header.label "Håll mig uppdaterad">
+<!ENTITY first_run.feedback.email.description "Prenumenera på vårt nyhetsbrev för att läsa om nya versioner och viktiga uppdateringar.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "Ange din e-postadress för att hålla dig uppdaterad">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes Importera/Exportera">
-<!ENTITY first_run.itunes.description                   "Det verkar som att du har iTunes installerat. &brandShortName; kan konfigureras till att importera och/eller exportera låtar mellan &brandShortName; och iTunes så att dina bibliotek hålls synkroniserade.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Importera musikspår och spellistor från iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podradio och musik som är köpt via iTunes Store kan importeras till &brandShortName;. Denna funktion fungerar bra om du tänker använda &brandShortName; som primär musikspelare.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Exportera nya musikspår och spellistor till iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Musik som lagts till via &brandShortName; kan exporteras till iTunes så det kan föras över till iPod eller iPhone.">
-
+<!ENTITY first_run.itunes.header.label "iTunes Importera/Exportera">
+<!ENTITY first_run.itunes.description "Det verkar som att du har iTunes installerat. &brandShortName; kan konfigureras till att importera och/eller exportera låtar mellan &brandShortName; och iTunes så att dina bibliotek hålls synkroniserade.">
+<!ENTITY first_run.itunes.checkbox.import.label "Importera musikspår och spellistor från iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "Podradio och musik som är köpt via iTunes Store kan importeras till &brandShortName;. Denna funktion fungerar bra om du tänker använda &brandShortName; som primär musikspelare.">
+<!ENTITY first_run.itunes.checkbox.export.label "Exportera nya musikspår och spellistor till iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "Musik som lagts till via &brandShortName; kan exporteras till iTunes så det kan föras över till iPod eller iPhone.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Importera media">
-<!ENTITY first_run.import_media.description                  "Välj vilka media du vill importera till &brandShortName;. När &brandShortName; har gått igång kan du lägga till mer media på flera olika sätt.">
+<!ENTITY first_run.import_media.header.label "Importera media">
+<!ENTITY first_run.import_media.description "Välj vilka media du vill importera till &brandShortName;. När &brandShortName; har gått igång kan du lägga till mer media på flera olika sätt.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Sök igenom mappar på min dator">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Importera inte media nu">
+<!ENTITY first_run.import_media.radio.dont_import.label "Importera inte media nu">
 <!ENTITY first_run.import_media.scan_directories.description "Vill du att &brandShortName; ska försöka importera media genom att söka igenom utvalda mappar i din dator?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Bevaka ändringar i denna mapp">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Hämtar tillägg">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Välkommen till &brandShortName;">
+<!ENTITY first_run.welcome.header.label "Välkommen till &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; är ett mycket anpassningsbart alternativ till traditionella mediaspelare.">
 <!ENTITY first_run.welcome.description.line2 "Assistenten erbjuder ett snabbt och effektivt sätt för att komma igång med &brandShortName;.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Import av media">
-
+<!ENTITY import_media.prefs.title "Import av media">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Importera ett bibliotek">
-<!ENTITY import_library.prefs.title                       "iTunes import/export">
-<!ENTITY import_library.library_file_label                "Biblioteksfil:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Meddela när spår eller spellistor som inte stöds inte kan importeras">
-<!ENTITY import_library.prefs.path_group_caption          "Sökväg till biblioteket för musik i iTunes ">
-<!ENTITY import_library.prefs.options_group_caption       "Inställningar för import/export">
-<!ENTITY import_library.import_command                    "Importera bibliotek">
-<!ENTITY import_tracks_itunes_checkbox                    "Importera musikspår från iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Importera musikspellistor">
-<!ENTITY export_tracks_itunes_checkbox                    "Exportera musikspår till iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Exportera musikspellistor">
-<!ENTITY export_subscriptions_itunes_checkbox             "Exportera prenumerationer">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Exportera smarta musikspellistor">
-<!ENTITY importexport_show_notifications_checkbox         "Visa meddelande när import/export är klar">
-
+<!ENTITY import_library.dialog.title "Importera ett bibliotek">
+<!ENTITY import_library.prefs.title "iTunes import/export">
+<!ENTITY import_library.library_file_label "Biblioteksfil:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Meddela när spår eller spellistor som inte stöds inte kan importeras">
+<!ENTITY import_library.prefs.path_group_caption "Sökväg till biblioteket för musik i iTunes ">
+<!ENTITY import_library.prefs.options_group_caption "Inställningar för import/export">
+<!ENTITY import_library.import_command "Importera bibliotek">
+<!ENTITY import_tracks_itunes_checkbox "Importera musikspår från iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Importera musikspellistor">
+<!ENTITY export_tracks_itunes_checkbox "Exportera musikspår till iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Exportera musikspellistor">
+<!ENTITY export_subscriptions_itunes_checkbox "Exportera prenumerationer">
+<!ENTITY export_smartplaylists_itunes_checkbox "Exportera smarta musikspellistor">
+<!ENTITY importexport_show_notifications_checkbox "Visa meddelande när import/export är klar">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Spellistan ändrad">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Behåll aktuell spellista i  &brandShortName;(importera inte den här spellistan)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Slå samman aktuella spellistor i &brandShortName; och iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Byt ut spellistan i &brandShortName; mot den aktuella spellistan iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Obs! Sammanslagning och utbyte kan inte ångras.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Använd detta för alla spellistor">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Spellistan ändrad">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Behåll aktuell spellista i  &brandShortName;(importera inte den här spellistan)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Slå samman aktuella spellistor i &brandShortName; och iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Byt ut spellistan i &brandShortName; mot den aktuella spellistan iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note "Obs! Sammanslagning och utbyte kan inte ångras.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Använd detta för alla spellistor">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Bevakning av mappar">
+<!ENTITY watch_folder.prefs.title "Bevakning av mappar">
 <!ENTITY watch_folder.prefs.settings_group_caption "Inställningar för bevakning av mapp">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; kan övervaka innehållet i en mapp och automatiskt lägga till eller ta bort poster.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Sök automatiskt efter ändringar i följande mapp">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Mapp:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; kan övervaka innehållet i en mapp och automatiskt lägga till eller ta bort poster.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Sök automatiskt efter ändringar i följande mapp">
+<!ENTITY watch_folder.prefs.watch_folder_label "Mapp:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Rekommenderade tillägg">
+<!ENTITY enable_recommended_addons_update.label "Rekommenderade tillägg">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "Inställningar för &brandShortName;">
-
+<!ENTITY recommended_add_ons.title "Inställningar för &brandShortName;">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Detaljer">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Detaljer">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Inget spelas" >
-<!ENTITY albumart.displaypane.not_selected_message  "Inget valt" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Dra skivomslaget hit" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Visa markerad" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Visa nu spelande" >
+<!ENTITY albumart.displaypane.not_playing_message "Inget spelas">
+<!ENTITY albumart.displaypane.not_selected_message "Inget valt">
+<!ENTITY albumart.displaypane.drag_and_drop "Dra skivomslaget hit">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Visa markerad">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Visa nu spelande">
 <!ENTITY albumart.displaypane.selected.menu.cut "Klipp ut">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopiera">
 <!ENTITY albumart.displaypane.selected.menu.paste "Klistra in">
 <!ENTITY albumart.displaypane.selected.menu.clear "Töm">
 <!ENTITY albumart.coverpreview.title "Skivomslag">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Omslagsbild">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Lägg till omslagsbild i metadata">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Det här kommer att tillåta &brandShortName; att bädda in omslagsbilder i kompatibla taggar för mediafiler.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Sök filnamn:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Ange kommaseparerad lista av filnamn här">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Sök filändelser:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Skriv in en kommaseparerad lista av förlängningar här">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Hämtarens prioriteringar">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Beställ listan av hämtare som du önskar att använda först längst upp.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Upp">
@@ -740,62 +642,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nollställ">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Hämta automatiskt skivomslag">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Hämta automatiskt albumbilder när en låt spelas eller valts, beroende vilket läge på skivomslag rutan. Prestanda kan påverkas När funktionen är aktiverad.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Tillbaka">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "Ångra">
-<!ENTITY wizard.button.next.label      "Fortsätt">
-<!ENTITY wizard.button.next.accesskey  "F">
-<!ENTITY wizard.button.finish.label    "Avsluta">
-
+<!ENTITY wizard.button.back.label "Tillbaka">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Ångra">
+<!ENTITY wizard.button.next.label "Fortsätt">
+<!ENTITY wizard.button.next.accesskey "F">
+<!ENTITY wizard.button.finish.label "Avsluta">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Uppspelningsfel">
-<!ENTITY mediacore.error.preface  "&brandShortName; råkade ut för följande uppspelningsfel:">
+<!ENTITY mediacore.error.title "Uppspelningsfel">
+<!ENTITY mediacore.error.preface "&brandShortName; råkade ut för följande uppspelningsfel:">
 <!ENTITY mediacore.error.continue "Fortsätt">
-<!ENTITY mediacore.error.stop     "Stoppa uppspelning">
+<!ENTITY mediacore.error.stop "Stoppa uppspelning">
 <!ENTITY mediacore.error.dontshowme "Visa inte fler uppspelningsfel">
 <!ENTITY mediacore.error.codec_not_found.text.pre "För mer information om försvunna koder, var vänlig se">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Media Import Meddelande">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "För mer information om försvunna codec, var vänlig se:">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Meddela inte mig om videofiler som inte stöds under importera igen">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Uppspelning">
-
-<!ENTITY playback.prefpane.audio_output.label   "Ljudutgång">
-<!ENTITY playback.prefpane.audio_output.buffer  "Buffert för utdata:">
-
-<!ENTITY playback.prefpane.streaming.label      "Nätverk och streaming">
-<!ENTITY playback.prefpane.streaming.buffer     "Buffert för streaming:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalisering">
+<!ENTITY playback.prefpane.label "Uppspelning">
+<!ENTITY playback.prefpane.audio_output.label "Ljudutgång">
+<!ENTITY playback.prefpane.audio_output.buffer "Buffert för utdata:">
+<!ENTITY playback.prefpane.streaming.label "Nätverk och streaming">
+<!ENTITY playback.prefpane.streaming.buffer "Buffert för streaming:">
+<!ENTITY playback.prefpane.normalization.label "Normalisering">
 <!ENTITY playback.prefpane.normalization.enable "Använd om möjligt normalisering av ljud">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Önskad spårvolym:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Spår">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Betyg Metadata">
 <!ENTITY playback.prefpane.ratings.enablewriting "Övergripande betyg info inom varje fil akt metadata">
-
 <!ENTITY fetch_album_art.dialog.title "Hämta skivomslag">
 <!ENTITY fetch_album_art.dialog.message "För närvarande inte genomfört. (Se bugg 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Artist">
-<!ENTITY cdrip.lookup.info_not_found.album  "Album">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD information hittades inte">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Du kan lägga till artist och album namn här. Du kan ändra kvarvarande information inom CD Rip spellistan">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY cdrip.lookup.info_not_found.title "CD information hittades inte">
+<!ENTITY cdrip.lookup.info_not_found.descr "Du kan lägga till artist och album namn här. Du kan ändra kvarvarande information inom CD Rip spellistan">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Titel">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "CD importering">
 <!ENTITY cdrip.prefpane.format "Format">
@@ -805,33 +694,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Spela systemljud när CD-importeringen är färdig">
 <!ENTITY cdrip.prefpane.providers.title "Tillhandahållare av CD-information">
 <!ENTITY cdrip.prefpane.quality_desc "En högre kbps-kvalitet resulterar i bättre ljudkvalitet och större filstorlekar.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Inställningar för CD-importering">
-<!ENTITY cdrip.mediaview.format_label              "Format:">
-<!ENTITY cdrip.mediaview.quality_label             "Kvalité:">
-<!ENTITY cdrip.mediaview.settings_button           "Inställningar">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Rippa CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Avbryt importeringen">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Visa Spår">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Mata ut CD">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Inställningar för CD-importering">
+<!ENTITY cdrip.mediaview.format_label "Format:">
+<!ENTITY cdrip.mediaview.quality_label "Kvalité:">
+<!ENTITY cdrip.mediaview.settings_button "Inställningar">
+<!ENTITY cdrip.mediaview.rip_cd_button "Rippa CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "Avbryt importeringen">
+<!ENTITY cdrip.mediaview.view_tracks_button "Visa Spår">
+<!ENTITY cdrip.mediaview.eject_cd_button "Mata ut CD">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Videofönster">
 <!ENTITY videowindow.actualsize "Faktisk storlek">
 <!ENTITY videowindow.fullscreen "Fullskärm">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Vi vill tacka alla som bidragit och gjort Songbird till vad det nu är. Som har hjälpt till genom att skriva kod, dokumentation och testat. Som har skapat och underhållt produkten med tillhörande utvecklingsverktyg, våra byggredskap och våra webbplatser.  Namnen följs av eventuella IRC-namn. Kom in på #songbird på servern irc.mozilla.org och säg hej!">
 <!ENTITY about.credits.footer.beforeLink "Givetvis har inget av detta varit möjligt utan hårt arbete och insatser av">
@@ -842,15 +726,12 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird-mästarna är luttrade Songbird-användare och -fans som har gått långt bortom vad plikten kräver för att hjälpa andra Songbird-användare på vårt">
 <!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Supportforum">
 <!ENTITY about.credits.description.champs.link.post "De är de mest produktiva människorna på vårt forum och jobbar oförtröttligt för att se till att varje Songbird-användare är en nöjd Songbird-användare.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Flera CD-skivor funna">
+<!ENTITY cdrip.lookup.multiple.title "Flera CD-skivor funna">
 <!ENTITY cdrip.lookup.multiple.description "Välj en av följande eller lägg till egen info.">
-<!ENTITY cdinfo.other.label                "Lägg till din egen artist och album info">
-
+<!ENTITY cdinfo.other.label "Lägg till din egen artist och album info">
 <!ENTITY playqueue.label "Spela Kö">
 <!ENTITY playqueue.instructions "Dra och släpp låtar eller spellistor här för att skapa en on-the-fly lyssnar kö">
 <!ENTITY playqueue.inprogress "Lägger till spår">
-
 <!ENTITY mediamanagement.removed.dialog.title "Meddelande om mediahanteringen">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahanteringen har tagits bort från &brandShortName; fr o m version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "Detta har gjorts som en del i ansträngningen att förenkla produkten och öka känslan av lätt-användhet." >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediahanteringen har tagits bort från &brandShortName; fr o m version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Detta har gjorts som en del i ansträngningen att förenkla produkten och öka känslan av lätt-användhet.">

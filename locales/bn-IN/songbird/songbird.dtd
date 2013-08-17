@@ -1,837 +1,422 @@
-<!ENTITY songbird           "সংবার্ড" >
-<!ENTITY window.ok          "ঠিক" >
-<!ENTITY window.cancel      "রদ" >
-<!ENTITY window.apply       "Apply" >
-<!ENTITY window.browse      "বিচরণ…" >
-<!ENTITY window.save        "সংরক্ষণ">
-<!ENTITY window.yes         "হ্যাঁ">
-<!ENTITY window.no          "না">
-
+<!ENTITY songbird "সংবার্ড">
+<!ENTITY window.ok "ঠিক">
+<!ENTITY window.cancel "রদ">
+<!ENTITY window.browse "বিচরণ…">
+<!ENTITY window.save "সংরক্ষণ">
+<!ENTITY window.yes "হ্যাঁ">
+<!ENTITY window.no "না">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "পরিত্যাগ &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "প্রিয় নির্ধারণমানসমূহ">
-<!ENTITY menu.mac.preferences.key       ",">
-<!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "পরিষেবাগুলি">
-<!ENTITY menu.mac.hide                  "গোপন &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "অন্যান্যগুলি গোপন">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "সব প্রদর্শন">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "সঞ্চিকা" >
-<!ENTITY menu.file.new          "নতুন বাদনতালিকা…" >
-<!ENTITY menu.file.smart        "নতুন চতুর বাদনতালিকা…" >
-<!ENTITY menu.file.remote       "নতুন গ্রাহকী…" >
-<!ENTITY menu.file.podcast      "New Podcast…" >
-<!ENTITY menu.file.open         "সঞ্চিকা উন্মীলন…" >
-<!ENTITY menu.file.url          "ইউআরএল থেকে উন্মীলন…" >
-<!ENTITY menu.file.playlist     "বাদনতালিকা আমদানি কর…" >
-<!ENTITY menu.file.library      "একটি সংগ্রহ আমদানি করুন…" >
-<!ENTITY menu.file.newtab       "নতুন সারণপট" >
-<!ENTITY menu.file.closetab     "সারণপট বন্ধ" >
-<!ENTITY menu.file.metadata     "View Metadata">
-<!ENTITY menu.file.scan         "বহুমাধ্যমের জন্য সমীক্ষণ কর…" >
-<!ENTITY menu.file.exit         "প্রস্থান" >
-
-<!ENTITY menu.edit          "সম্পাদনা" >
-<!ENTITY menu.edit.undo     "অকৃতকরণ" >
-<!ENTITY menu.edit.redo     "পুনঃকরণ" >
-<!ENTITY menu.edit.cut      "বিধ্বংসী প্রতিলিপি" >
-<!ENTITY menu.edit.copy     "প্রতিলিপি" >
-<!ENTITY menu.edit.paste    "প্রতিলেপন" >
-<!ENTITY menu.edit.delete   "অপসারণ" >
-<!ENTITY menu.edit.selall   "পরিপূর্ণ নির্বাচন" >
-<!ENTITY menu.edit.find        "অনুসন্ধান" >
-<!ENTITY menu.edit.findagain   "পুনঃ অনুসন্ধান" >
-
+<!ENTITY menu.mac.exit "পরিত্যাগ &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.preferences "প্রিয় নির্ধারণমানসমূহ">
+<!ENTITY menu.mac.services "পরিষেবাগুলি">
+<!ENTITY menu.mac.hide "গোপন &brandShortName;">
+<!ENTITY menu.mac.hideothers "অন্যান্যগুলি গোপন">
+<!ENTITY menu.mac.showall "সব প্রদর্শন">
+<!ENTITY menu.file "সঞ্চিকা">
+<!ENTITY menu.file.new "নতুন বাদনতালিকা…">
+<!ENTITY menu.file.smart "নতুন চতুর বাদনতালিকা…">
+<!ENTITY menu.file.remote "নতুন গ্রাহকী…">
+<!ENTITY menu.file.open "সঞ্চিকা উন্মীলন…">
+<!ENTITY menu.file.url "ইউআরএল থেকে উন্মীলন…">
+<!ENTITY menu.file.playlist "বাদনতালিকা আমদানি কর…">
+<!ENTITY menu.file.library "একটি সংগ্রহ আমদানি করুন…">
+<!ENTITY menu.file.newtab "নতুন সারণপট">
+<!ENTITY menu.file.closetab "সারণপট বন্ধ">
+<!ENTITY menu.file.scan "বহুমাধ্যমের জন্য সমীক্ষণ কর…">
+<!ENTITY menu.file.exit "প্রস্থান">
+<!ENTITY menu.edit "সম্পাদনা">
+<!ENTITY menu.edit.undo "অকৃতকরণ">
+<!ENTITY menu.edit.redo "পুনঃকরণ">
+<!ENTITY menu.edit.cut "বিধ্বংসী প্রতিলিপি">
+<!ENTITY menu.edit.copy "প্রতিলিপি">
+<!ENTITY menu.edit.paste "প্রতিলেপন">
+<!ENTITY menu.edit.delete "অপসারণ">
+<!ENTITY menu.edit.selall "পরিপূর্ণ নির্বাচন">
+<!ENTITY menu.edit.find "অনুসন্ধান">
+<!ENTITY menu.edit.findagain "পুনঃ অনুসন্ধান">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "প্রিয় নির্ধারণমানসমূহ…">
-<!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "নিয়ন্ত্রণসমূহ" >
-<!ENTITY menu.control.play  "বাদন/বিঘ্ন" >
-<!ENTITY menu.control.pause "বিঘ্ন" >
-<!ENTITY menu.control.next  "পরবর্তী গীতধারা" >
-<!ENTITY menu.control.prev  "পূর্ববর্তী গীতধারা" >
-<!ENTITY menu.control.shuf  "অক্রমিকানুসারে" >
-<!ENTITY menu.control.repa  "সবকটির পুনরাবৃত্তি" >
-<!ENTITY menu.control.rep1  "একটি গানের পুনরাবৃত্তি" >
-<!ENTITY menu.control.repx  "কোন পুনরাবৃত্তি নয়" >
-<!ENTITY menu.control.jumpto "লাফিয়ে যান এতে…" >
-
-<!ENTITY menu.control.play.button      "বাদন" >
-<!ENTITY menu.control.pause.button     "বিঘ্ন" >
-<!ENTITY menu.control.stop.button      "বন্ধ" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY displaypane.default.link.pre "">
-<!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY displaypane.name.servicepane   "নিম্নাংশে পরিষেবা পাট">
-<!ENTITY displaypane.name.browser       "নিম্নাংশে তত্ত্বোপাদান পাট">
-<!ENTITY displaypane.name.sidebar       "ডান পার্শ্বপট্টি">
-<!ENTITY servicepane.title.label        "পরিষেবা পাট">
-
-<!ENTITY menu.tools            "উপকরণসমূহ" >
-<!ENTITY menu.tools.getartwork "Get Artwork">
-<!ENTITY menu.tools.exportmedia "Export Library Changes">
-
-<!ENTITY menu.help          "সহায়তা" >
-<!ENTITY menu.help.homepage "সংবার্ড ওয়েবসাইট" >
-<!ENTITY menu.help.bugz     "ত্রুটির বার্তা পাঠাও…" >
-<!ENTITY menu.help.topics   "সহায়তার প্রসঙ্গগুলি…" >
-<!ENTITY menu.help.keyboard "Keyboard Shortcuts">
-<!ENTITY menu.help.about    "সংবার্ড সম্পর্কে" >
-
-<!ENTITY menu.equalizer     "ইকুয়ালাইজার" >
-<!ENTITY menu.preferences   "প্রিয় নির্ধারণমানসমূহ" >
-<!ENTITY menu.extensions    "বিস্তারকসমূহ" >
+<!ENTITY menu.linux.preferences "প্রিয় নির্ধারণমানসমূহ…">
+<!ENTITY menu.controls "নিয়ন্ত্রণসমূহ">
+<!ENTITY menu.control.play "বাদন/বিঘ্ন">
+<!ENTITY menu.control.pause "বিঘ্ন">
+<!ENTITY menu.control.next "পরবর্তী গীতধারা">
+<!ENTITY menu.control.prev "পূর্ববর্তী গীতধারা">
+<!ENTITY menu.control.shuf "অক্রমিকানুসারে">
+<!ENTITY menu.control.repa "সবকটির পুনরাবৃত্তি">
+<!ENTITY menu.control.rep1 "একটি গানের পুনরাবৃত্তি">
+<!ENTITY menu.control.repx "কোন পুনরাবৃত্তি নয়">
+<!ENTITY menu.control.jumpto "লাফিয়ে যান এতে…">
+<!ENTITY menu.control.play.button "বাদন">
+<!ENTITY menu.control.pause.button "বিঘ্ন">
+<!ENTITY menu.control.stop.button "বন্ধ">
+<!ENTITY displaypane.name.servicepane "নিম্নাংশে পরিষেবা পাট">
+<!ENTITY displaypane.name.browser "নিম্নাংশে তত্ত্বোপাদান পাট">
+<!ENTITY displaypane.name.sidebar "ডান পার্শ্বপট্টি">
+<!ENTITY servicepane.title.label "পরিষেবা পাট">
+<!ENTITY menu.tools "উপকরণসমূহ">
+<!ENTITY menu.help "সহায়তা">
+<!ENTITY menu.help.homepage "সংবার্ড ওয়েবসাইট">
+<!ENTITY menu.help.bugz "ত্রুটির বার্তা পাঠাও…">
+<!ENTITY menu.help.topics "সহায়তার প্রসঙ্গগুলি…">
+<!ENTITY menu.help.about "সংবার্ড সম্পর্কে">
+<!ENTITY menu.equalizer "ইকুয়ালাইজার">
+<!ENTITY menu.preferences "প্রিয় নির্ধারণমানসমূহ">
+<!ENTITY menu.extensions "বিস্তারকসমূহ">
 <!ENTITY menu.clearprivatedata "ব্যক্তিগত তথ্য অপসারণ কর…">
 <!ENTITY menu.errorconsole "ত্রুটির কনসোল">
-<!ENTITY menu.downloadmgr   "সঞ্চিকা অধঃভরণগুলি" >
-<!ENTITY menu.switchplayercontrols  "বাদনচালক নির্ধারণসমূহ" >
-<!ENTITY menu.controllerontop       "উচ্চে প্রদর্শন">
-<!ENTITY menu.controlleronbottom    "নিম্নে প্রদর্শন">
-
-<!ENTITY menu.fullscreen            "Full Screen">
-<!ENTITY menu.videotofront          "Video to Front">
-
-<!ENTITY device.dialog.wait_for_completion.title  "যুক্তোপকরণের জন্য অপেক্ষা হচ্ছে।">
-<!ENTITY device.dialog.wait_for_completion.msg    "সব যুক্তোপকরণের কার্যপ্রণালী সমাপ্ত হওয়ার জন্য অপেক্ষা হচ্ছে। &quot;পরিত্যাগ&quot; টিপুন অপেক্ষা বন্ধ এবং অনুপ্রয়োগ পরিত্যাগ করার জন্য।">
-<!ENTITY device.dialog.wait_for_completion.quit   "পরিত্যাগ">
-
-<!ENTITY tooltip.minimize         "ক্ষুদ্রায়ন" >
-<!ENTITY tooltip.maximize         "বৃহদায়ন/প্রত্যাবর্তন" >
-<!ENTITY tooltip.exit             "প্রস্থান" >
-<!ENTITY tooltip.close            "Close" >
-<!ENTITY tooltip.hide             "গোপন" >
-<!ENTITY tooltip.fullscreen       "পূর্ণপর্দা" >
-<!ENTITY tooltip.control.back     "পুর্ববর্তী গীতধারা" >
-<!ENTITY tooltip.control.play     "বাদন" >
-<!ENTITY tooltip.control.pause    "বিঘ্ন" >
-<!ENTITY tooltip.control.resume   "পুনরারম্ভ" >
-<!ENTITY tooltip.control.stop     "বন্ধ" >
-<!ENTITY tooltip.control.fwd      "পরবর্তী গীতধারা" >
-<!ENTITY tooltip.control.mute     "নিঃশব্দ" >
-<!ENTITY tooltip.control.volume   "প্রবলতা" >
-<!ENTITY tooltip.control.shuffle  "অক্রমিকানুসারে" >
-<!ENTITY tooltip.control.shuf_off "অক্রমিকানুসারে বন্ধ" >
-<!ENTITY tooltip.control.curtrack "বর্তমান গীতধারার অনুসন্ধান" >
-<!ENTITY tooltip.search           "অনুসন্ধান" >
-<!ENTITY tooltip.browser.back     "পশ্চাদ্বর্তী বিচরণ" >
-<!ENTITY tooltip.browser.fwd      "অগ্রবর্তী বিচরণ" >
-<!ENTITY tooltip.browser.stop     "বিচরণ বন্ধ" >
-<!ENTITY tooltip.browser.home     "গৃহ পৃষ্ঠা" >
-<!ENTITY tooltip.browser.refresh  "উজ্জীবন" >
-<!ENTITY tooltip.browser.subscription "গ্রাহকীর সৃষ্টিকরণ" >
-<!ENTITY tooltip.browser.mediapages.list "List View" >
-<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
-<!ENTITY tooltip.browser.mediapages "দর্শন…" >
-<!ENTITY tooltip.servicepane.show    "পরিষেবা পাট প্রদর্শন" >
-<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "নতুন বাদনতালিকা" >
-<!ENTITY tooltip.displaypane.options "Content Pane Options">
-
-<!ENTITY smart.window             "চতুর বাদনতালিকা রচয়িতা" >
-<!ENTITY smart.limit              "এতদ্বারা সীমিতবদ্ধ" >
-<!ENTITY smart.match              "তুলনা" >
-<!ENTITY smart.matchsingle        "নিম্নলিখিত শর্তটি মিলিয়ে:" >
-<!ENTITY smart.any                "যেকোন" >
-<!ENTITY smart.all                "সব" >
-<!ENTITY smart.following          "তথা নিয়ম(সমূহ):" >
-<!ENTITY smart.random             "যথেচ্ছিক" >
-<!ENTITY smart.album              "সংকলন" >
-<!ENTITY smart.artist             "শিল্পী" >
-<!ENTITY smart.genre              "শৈলী" >
-<!ENTITY smart.title              "শিরোনাম" >
-<!ENTITY smart.high_rating        "উচ্চ গুণাঙ্কিত" >
-<!ENTITY smart.low_rating         "নিম্ন গুণাঙ্কিত" >
-<!ENTITY smart.most_recent        "অতি সাম্প্রতিক" >
-<!ENTITY smart.least_recent       "ন্যূনতম সাম্প্রতিক" >
-<!ENTITY smart.most_often         "বেশীক্ষণ" >
-<!ENTITY smart.least_often        "অল্পক্ষণ" >
-<!ENTITY smart.most_added         "সর্বাধিক যুক্ত" >
-<!ENTITY smart.least_added        "সর্বনিম্ন যুক্ত" >
-<!ENTITY smart.minutes            "মিনিট" >
-<!ENTITY smart.hours              "ঘন্টা" >
-<!ENTITY smart.mb                 "মেঃবাঃ" >
-<!ENTITY smart.gb                 "গিঃবাঃ" >
-<!ENTITY smart.songs              "গীতগুলি" >
-<!ENTITY smart.selectedby         "এতদ্বারা নির্বাচিত" >
-<!ENTITY smart.to                 "একে" >
-<!ENTITY smart.autoupdate         "আধুনিকীকরণ">
+<!ENTITY menu.downloadmgr "সঞ্চিকা অধঃভরণগুলি">
+<!ENTITY menu.switchplayercontrols "বাদনচালক নির্ধারণসমূহ">
+<!ENTITY menu.controllerontop "উচ্চে প্রদর্শন">
+<!ENTITY menu.controlleronbottom "নিম্নে প্রদর্শন">
+<!ENTITY device.dialog.wait_for_completion.title "যুক্তোপকরণের জন্য অপেক্ষা হচ্ছে।">
+<!ENTITY device.dialog.wait_for_completion.msg "সব যুক্তোপকরণের কার্যপ্রণালী সমাপ্ত হওয়ার জন্য অপেক্ষা হচ্ছে। &quot;পরিত্যাগ&quot; টিপুন অপেক্ষা বন্ধ এবং অনুপ্রয়োগ পরিত্যাগ করার জন্য।">
+<!ENTITY device.dialog.wait_for_completion.quit "পরিত্যাগ">
+<!ENTITY tooltip.minimize "ক্ষুদ্রায়ন">
+<!ENTITY tooltip.maximize "বৃহদায়ন/প্রত্যাবর্তন">
+<!ENTITY tooltip.exit "প্রস্থান">
+<!ENTITY tooltip.hide "গোপন">
+<!ENTITY tooltip.fullscreen "পূর্ণপর্দা">
+<!ENTITY tooltip.control.back "পুর্ববর্তী গীতধারা">
+<!ENTITY tooltip.control.play "বাদন">
+<!ENTITY tooltip.control.pause "বিঘ্ন">
+<!ENTITY tooltip.control.resume "পুনরারম্ভ">
+<!ENTITY tooltip.control.stop "বন্ধ">
+<!ENTITY tooltip.control.fwd "পরবর্তী গীতধারা">
+<!ENTITY tooltip.control.mute "নিঃশব্দ">
+<!ENTITY tooltip.control.volume "প্রবলতা">
+<!ENTITY tooltip.control.shuffle "অক্রমিকানুসারে">
+<!ENTITY tooltip.control.shuf_off "অক্রমিকানুসারে বন্ধ">
+<!ENTITY tooltip.control.curtrack "বর্তমান গীতধারার অনুসন্ধান">
+<!ENTITY tooltip.search "অনুসন্ধান">
+<!ENTITY tooltip.browser.back "পশ্চাদ্বর্তী বিচরণ">
+<!ENTITY tooltip.browser.fwd "অগ্রবর্তী বিচরণ">
+<!ENTITY tooltip.browser.stop "বিচরণ বন্ধ">
+<!ENTITY tooltip.browser.home "গৃহ পৃষ্ঠা">
+<!ENTITY tooltip.browser.refresh "উজ্জীবন">
+<!ENTITY tooltip.browser.subscription "গ্রাহকীর সৃষ্টিকরণ">
+<!ENTITY tooltip.browser.mediapages "দর্শন…">
+<!ENTITY tooltip.servicepane.show "পরিষেবা পাট প্রদর্শন">
+<!ENTITY tooltip.servicepane.newnode "নতুন বাদনতালিকা">
+<!ENTITY smart.window "চতুর বাদনতালিকা রচয়িতা">
+<!ENTITY smart.limit "এতদ্বারা সীমিতবদ্ধ">
+<!ENTITY smart.match "তুলনা">
+<!ENTITY smart.matchsingle "নিম্নলিখিত শর্তটি মিলিয়ে:">
+<!ENTITY smart.any "যেকোন">
+<!ENTITY smart.all "সব">
+<!ENTITY smart.following "তথা নিয়ম(সমূহ):">
+<!ENTITY smart.random "যথেচ্ছিক">
+<!ENTITY smart.album "সংকলন">
+<!ENTITY smart.artist "শিল্পী">
+<!ENTITY smart.genre "শৈলী">
+<!ENTITY smart.title "শিরোনাম">
+<!ENTITY smart.high_rating "উচ্চ গুণাঙ্কিত">
+<!ENTITY smart.low_rating "নিম্ন গুণাঙ্কিত">
+<!ENTITY smart.most_recent "অতি সাম্প্রতিক">
+<!ENTITY smart.least_recent "ন্যূনতম সাম্প্রতিক">
+<!ENTITY smart.most_often "বেশীক্ষণ">
+<!ENTITY smart.least_often "অল্পক্ষণ">
+<!ENTITY smart.most_added "সর্বাধিক যুক্ত">
+<!ENTITY smart.least_added "সর্বনিম্ন যুক্ত">
+<!ENTITY smart.minutes "মিনিট">
+<!ENTITY smart.hours "ঘন্টা">
+<!ENTITY smart.mb "মেঃবাঃ">
+<!ENTITY smart.gb "গিঃবাঃ">
+<!ENTITY smart.songs "গীতগুলি">
+<!ENTITY smart.selectedby "এতদ্বারা নির্বাচিত">
+<!ENTITY smart.to "একে">
+<!ENTITY smart.autoupdate "আধুনিকীকরণ">
 <!ENTITY smart.playlistcondition.library "সংগ্রহ">
 <!ENTITY smart.contenttypecondition.video "চলচ্চিত্র">
 <!ENTITY smart.contenttypecondition.audio "সংগীত">
-
 <!ENTITY textbox.songbird_open_url "যে তথ্যমাধ্যমটি আপনি বাজাতে চান তার ইউআরএল বা পথ প্রবেশ করুন:">
-
-<!ENTITY open_url.title           "ইউআরএল  উন্মীলন">
-<!ENTITY subscribe.title          "গ্রাহক হন">
-<!ENTITY subscribe.url            "ইউআরএল:">
-<!ENTITY subscribe.minutes        "মিনিট(গুলি)">
-<!ENTITY subscribe.hours          "ঘন্টা(গুলি)">
-<!ENTITY subscribe.days           "দিন(গুলি)">
-<!ENTITY subscribe.autocheck      "স্বয়ংক্রিয়ভাবে আধুনিকীকরণ প্রতি">
-<!ENTITY subscribe.destinationfolder      "গন্তব্য ভাঁজক নির্বাচন:">
-
-<!ENTITY feed.subscribe.label     "Subscribe">
-<!ENTITY feed.subscribe.dontask   "Don't automatically show this dialog again">
-<!ENTITY feed.subscribe.close     "Close">
-
-<!ENTITY podcast.creation_dialog.title       "New Podcast">
+<!ENTITY open_url.title "ইউআরএল  উন্মীলন">
+<!ENTITY subscribe.title "গ্রাহক হন">
+<!ENTITY subscribe.url "ইউআরএল:">
+<!ENTITY subscribe.minutes "মিনিট(গুলি)">
+<!ENTITY subscribe.hours "ঘন্টা(গুলি)">
+<!ENTITY subscribe.days "দিন(গুলি)">
+<!ENTITY subscribe.autocheck "স্বয়ংক্রিয়ভাবে আধুনিকীকরণ প্রতি">
+<!ENTITY subscribe.destinationfolder "গন্তব্য ভাঁজক নির্বাচন:">
 <!ENTITY podcast.creation_dialog.url.heading "ইউআরএল:">
-
-
-<!ENTITY watchfolder.title        "নিরীক্ষিত ভাঁজকগুলি">
-<!ENTITY watchfolder.folderlist   "নতুন বহুমাধ্যমের জন্য এই ভাঁজকগুলিকে নিরীক্ষণ করুন:">
-
-<!ENTITY locale.language          "ভাষা" >
-<!ENTITY menu.view                "দর্শন" >
-<!ENTITY about.version            "সংস্করণ" >
-<!ENTITY about.buttons.credits    "অবদানে" >
-
-<!ENTITY equalizer.title          "Equalizer" >
-<!ENTITY equalizer.on.checkbox    "On" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Custom" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Live" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Party" >
-<!ENTITY equalizer.preset.classical   "Classical" >
-<!ENTITY equalizer.preset.large_hall  "Large Hall" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Soft" >
-<!ENTITY equalizer.preset.small_speakers   "Laptop/Headphones" >
-<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
-<!ENTITY equalizer.preset.full_treble "Full treble" >
-<!ENTITY equalizer.preset.full_bass   "Full bass" >
-
-
-<!ENTITY setupprogress.pleasewait "অনুগ্রহ করে অপেক্ষা করুন…" >
-<!ENTITY setupprogress.cancel     "রদ">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "Y" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "C" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "নির্বাচিত সঞ্চিকা প্রদর্শন" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "নিরীক্ষিত ভাঁজকগুলি">
+<!ENTITY watchfolder.folderlist "নতুন বহুমাধ্যমের জন্য এই ভাঁজকগুলিকে নিরীক্ষণ করুন:">
+<!ENTITY locale.language "ভাষা">
+<!ENTITY menu.view "দর্শন">
+<!ENTITY about.version "সংস্করণ">
+<!ENTITY about.buttons.credits "অবদানে">
+<!ENTITY setupprogress.pleasewait "অনুগ্রহ করে অপেক্ষা করুন…">
+<!ENTITY setupprogress.cancel "রদ">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.reveal "নির্বাচিত সঞ্চিকা প্রদর্শন">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "গীতধারা সম্পাদক" >
-<!ENTITY trackeditor.tab.summary.title            "সারাংশ" >
-<!ENTITY trackeditor.tab.edit.title               "সম্পাদন" >
-<!ENTITY trackeditor.tab.lyrics.title             "গীতকথা" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "গীতধারা সম্পাদক">
+<!ENTITY trackeditor.tab.summary.title "সারাংশ">
+<!ENTITY trackeditor.tab.edit.title "সম্পাদন">
+<!ENTITY trackeditor.tab.lyrics.title "গীতকথা">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "পরিচয়চিহ্ন যোগ" >
-<!ENTITY trackeditor.addtag.tag       "পরিচয়চিহ্ন:" >
-
-<!ENTITY jumptofile.title             "লাফিয়ে যান এতে" >
-<!ENTITY jumptofile.search            "অনুসন্ধান:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "সার্বিক সক্রিয়কুঞ্জীর ব্যবহার" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "কার্য" >
-<!ENTITY hotkeys.hotkey               "সক্রিয়কুঞ্জী" >
-<!ENTITY hotkeys.add                  "যোগ" >
-<!ENTITY hotkeys.set                  "নির্ধারণ" >
-<!ENTITY hotkeys.remove               "অপসারণ" >
-<!ENTITY hotkeys.prefpane             "সক্রিয়কুঞ্জীগুলি" >
-<!ENTITY hotkeys.info                 "সার্বিক সক্রিয়কুঞ্জীগুলি আপনাকে সংবার্ডের প্রকার্যকে অভিগমন করতে অনুমতি দেয় যদিও সংবার্ড সক্রিয় অনুপ্রয়োগ নয়। কিছু সক্রিয়কুঞ্জীর সমাহারগুলিতে পরিবর্তন কুঞ্জী অন্তর্গত করা হয়েছে অন্যান্য অনুপ্রয়োগগুলির সাথে অযাচিত বাধা কম করতে।" >
-
-<!ENTITY rapi.prefpane.title             "সুদূর এপিআই" >
-<!ENTITY rapi.prefpane.access.caption    "অন্তর্জালপৃষ্ঠা" >
-<!ENTITY rapi.prefpane.access.text       "আপনি অন্তর্জালস্থানগুলির সঙ্গে সংবার্ডের সংহতি কে অনুমতি দিতে পারেন, অন্তর্জাল এবং আপনার বহুমাধ্যমের মধ্যে আরও দৃঢ়তর সংযোগ সৃষ্টি করার জন্য। নিম্নোক্ত সংহতির স্থানগুলির, অন্তর্জালস্থানগুলির দ্বারা ব্যবহার কে, অনুমতি বা অবরোধ করার জন্য অনুগ্রহ সংবার্ডের উ" >
-<!ENTITY rapi.whitelist.label            "বিন্যাস" >
-<!ENTITY rapi.restore_defaults.label      "স্বাভাবিকরূপে প্রত্যাবর্তন" >
-<!ENTITY rapi.playback_control_disable.label "অন্তর্জালস্থানের দ্বারা বহুমাধ্যমের বাদনচালনা নিয়ন্ত্রণ অবরোধ কর" >
-<!ENTITY rapi.playback_read_disable.label    "অন্তর্জালস্থানের দ্বারা চালিত বহুমাধ্যম সম্পর্কিত তথ্য দেখা অবরোধ কর" >
-<!ENTITY rapi.library_read_disable.label     "অন্তর্জালস্থানের দ্বারা আমার সংবার্ডের মধ্যে বহুমাধ্যম সম্পর্কিত তথ্য দেখা অবরোধ কর" >
-<!ENTITY rapi.library_write_disable.label    "অন্তর্জালস্থানের দ্বারা আমার সংগ্রহে আর যুক্তোপকরণগুলির মধ্যে বহুমাধ্যম যোগ/সম্পাদন করা অবরোধ কর" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "বিস্তারকগুলি">
-<!ENTITY prefpane.content.label       "Web Content">
-
-<!ENTITY umsd.prefpane                      "ইউএসবি" >
-<!ENTITY umsd.no_devices_present            "কোন ইউএসবি বিপুল ভান্ডার যুক্তোপকরণ সংযুক্ত নেই।" >
-<!ENTITY umsd.music.tab                     "সংগীত" >
-<!ENTITY umsd.music.music_files_group       "সংগীত সঞ্চিকাগুলি" >
-<!ENTITY umsd.music.music_path_desc         "সংগীত সঞ্চিকাগুলি যুক্তোপকরণে প্রতিলেখন করার সময়, এই ভাঁজকের মধ্যে অবস্থান করা হবে: " >
-<!ENTITY umsd.music.music_path_browse_msg   "যুক্তোপকরণের মধ্যে কোন ভাঁজকের মধ্যে সঞ্চিকাগুলি অবস্থান করা হবে তার নির্বাচন করুন।" >
-<!ENTITY umsd.music.music_ext_desc          "এই প্রকারের সংগীত সঞ্চিকার বিস্তৃতিগুলি যুক্তোপকরণে প্রতিলেখন করা হবে:" >
-<!ENTITY umsd.video.tab                     "চলচ্চিত্র" >
-<!ENTITY umsd.video.video_files_group       "চলচ্চিত্র সঞ্চিকাগুলি" >
-<!ENTITY umsd.video.video_path_desc         "চলচ্চিত্র সঞ্চিকাগুলি যুক্তোপকরণে প্রতিলেখন করার সময়, এই ভাঁজকের মধ্যে অবস্থান করা হবে:" >
-<!ENTITY umsd.video.video_path_browse_msg   "যুক্তোপকরণের মধ্যে কোন ভাঁজকের মধ্যে চলচ্চিত্র সঞ্চিকাগুলি অবস্থান করা হবে তার নির্বাচন করুন।" >
-<!ENTITY umsd.video.video_ext_desc          "এই প্রকারের চলচ্চিত্র সঞ্চিকার বিস্তৃতিগুলি যুক্তোপকরণে প্রতিলেখন করা হবে:" >
-
-<!ENTITY device.error.dialog.link           "View Error Details" >
-
-<!ENTITY restartbox.restartnow        "এখন পুনঃসূচনা" >
-<!ENTITY restartbox.restartonplaybackend "বাদ্যচালনার শেষে পুনঃসূচনা" >
-<!ENTITY restartbox.restartlater      "পরে পুনঃসূচনা" >
-
-<!ENTITY setupprogress.installingextensions "বিস্তারকের স্থাপনা চলছে" >
-
-<!ENTITY jobprogress.details "বৃত্তান্ত" >
-
-<!ENTITY menu.updateCmd.label          "আধুনিকীকারকের জন্য পরীক্ষা…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "ডি" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "অপনোদন" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Spacebar" >
-
+<!ENTITY trackeditor.addtag.title "পরিচয়চিহ্ন যোগ">
+<!ENTITY trackeditor.addtag.tag "পরিচয়চিহ্ন:">
+<!ENTITY jumptofile.title "লাফিয়ে যান এতে">
+<!ENTITY jumptofile.search "অনুসন্ধান:">
+<!ENTITY hotkeys.useglobalhotkeys "সার্বিক সক্রিয়কুঞ্জীর ব্যবহার">
+<!ENTITY hotkeys.action "কার্য">
+<!ENTITY hotkeys.hotkey "সক্রিয়কুঞ্জী">
+<!ENTITY hotkeys.add "যোগ">
+<!ENTITY hotkeys.set "নির্ধারণ">
+<!ENTITY hotkeys.remove "অপসারণ">
+<!ENTITY hotkeys.prefpane "সক্রিয়কুঞ্জীগুলি">
+<!ENTITY hotkeys.info "সার্বিক সক্রিয়কুঞ্জীগুলি আপনাকে সংবার্ডের প্রকার্যকে অভিগমন করতে অনুমতি দেয় যদিও সংবার্ড সক্রিয় অনুপ্রয়োগ নয়। কিছু সক্রিয়কুঞ্জীর সমাহারগুলিতে পরিবর্তন কুঞ্জী অন্তর্গত করা হয়েছে অন্যান্য অনুপ্রয়োগগুলির সাথে অযাচিত বাধা কম করতে।">
+<!ENTITY rapi.prefpane.title "সুদূর এপিআই">
+<!ENTITY rapi.prefpane.access.caption "অন্তর্জালপৃষ্ঠা">
+<!ENTITY rapi.prefpane.access.text "আপনি অন্তর্জালস্থানগুলির সঙ্গে সংবার্ডের সংহতি কে অনুমতি দিতে পারেন, অন্তর্জাল এবং আপনার বহুমাধ্যমের মধ্যে আরও দৃঢ়তর সংযোগ সৃষ্টি করার জন্য। নিম্নোক্ত সংহতির স্থানগুলির, অন্তর্জালস্থানগুলির দ্বারা ব্যবহার কে, অনুমতি বা অবরোধ করার জন্য অনুগ্রহ সংবার্ডের উ">
+<!ENTITY rapi.whitelist.label "বিন্যাস">
+<!ENTITY rapi.restore_defaults.label "স্বাভাবিকরূপে প্রত্যাবর্তন">
+<!ENTITY rapi.playback_control_disable.label "অন্তর্জালস্থানের দ্বারা বহুমাধ্যমের বাদনচালনা নিয়ন্ত্রণ অবরোধ কর">
+<!ENTITY rapi.playback_read_disable.label "অন্তর্জালস্থানের দ্বারা চালিত বহুমাধ্যম সম্পর্কিত তথ্য দেখা অবরোধ কর">
+<!ENTITY rapi.library_read_disable.label "অন্তর্জালস্থানের দ্বারা আমার সংবার্ডের মধ্যে বহুমাধ্যম সম্পর্কিত তথ্য দেখা অবরোধ কর">
+<!ENTITY rapi.library_write_disable.label "অন্তর্জালস্থানের দ্বারা আমার সংগ্রহে আর যুক্তোপকরণগুলির মধ্যে বহুমাধ্যম যোগ/সম্পাদন করা অবরোধ কর">
+<!ENTITY prefpane.addons.label "বিস্তারকগুলি">
+<!ENTITY umsd.prefpane "ইউএসবি">
+<!ENTITY umsd.no_devices_present "কোন ইউএসবি বিপুল ভান্ডার যুক্তোপকরণ সংযুক্ত নেই।">
+<!ENTITY umsd.music.tab "সংগীত">
+<!ENTITY umsd.music.music_files_group "সংগীত সঞ্চিকাগুলি">
+<!ENTITY umsd.music.music_path_desc "সংগীত সঞ্চিকাগুলি যুক্তোপকরণে প্রতিলেখন করার সময়, এই ভাঁজকের মধ্যে অবস্থান করা হবে: ">
+<!ENTITY umsd.music.music_path_browse_msg "যুক্তোপকরণের মধ্যে কোন ভাঁজকের মধ্যে সঞ্চিকাগুলি অবস্থান করা হবে তার নির্বাচন করুন।">
+<!ENTITY umsd.music.music_ext_desc "এই প্রকারের সংগীত সঞ্চিকার বিস্তৃতিগুলি যুক্তোপকরণে প্রতিলেখন করা হবে:">
+<!ENTITY umsd.video.tab "চলচ্চিত্র">
+<!ENTITY umsd.video.video_files_group "চলচ্চিত্র সঞ্চিকাগুলি">
+<!ENTITY umsd.video.video_path_desc "চলচ্চিত্র সঞ্চিকাগুলি যুক্তোপকরণে প্রতিলেখন করার সময়, এই ভাঁজকের মধ্যে অবস্থান করা হবে:">
+<!ENTITY umsd.video.video_path_browse_msg "যুক্তোপকরণের মধ্যে কোন ভাঁজকের মধ্যে চলচ্চিত্র সঞ্চিকাগুলি অবস্থান করা হবে তার নির্বাচন করুন।">
+<!ENTITY umsd.video.video_ext_desc "এই প্রকারের চলচ্চিত্র সঞ্চিকার বিস্তৃতিগুলি যুক্তোপকরণে প্রতিলেখন করা হবে:">
+<!ENTITY restartbox.restartnow "এখন পুনঃসূচনা">
+<!ENTITY restartbox.restartonplaybackend "বাদ্যচালনার শেষে পুনঃসূচনা">
+<!ENTITY restartbox.restartlater "পরে পুনঃসূচনা">
+<!ENTITY setupprogress.installingextensions "বিস্তারকের স্থাপনা চলছে">
+<!ENTITY jobprogress.details "বৃত্তান্ত">
+<!ENTITY menu.updateCmd.label "আধুনিকীকারকের জন্য পরীক্ষা…">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "ডি">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "অপনোদন">
 <!ENTITY tabs.closeTab "সারণপট বন্ধ">
 <!ENTITY tabs.listAllTabs "সব সারণপটের তালিকা">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "সংবার্ড" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titlemodifier "সংবার্ড">
+<!ENTITY window.browser.titlemenuseparator "-">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "গৃহ পৃষ্ঠা" >
-<!ENTITY prefs.homepage.url.label          "ইউআরএল:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "বিস্তারক স্থাপনা" >
-
+<!ENTITY prefs.homepage.label "গৃহ পৃষ্ঠা">
+<!ENTITY prefs.homepage.url.label "ইউআরএল:">
+<!ENTITY prefs.security.addons.label "বিস্তারক স্থাপনা">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "বাতিল করুন">
-<!ENTITY command.device.cancel.accesskey                "সি">
-<!ENTITY command.device.canceldevicecopy                "প্রতিলেখন রদ">
-<!ENTITY command.device.canceldevicecopy.accesskey      "সি">
-<!ENTITY command.device.canceldevicedelete              "অপসারণ রদ">
-<!ENTITY command.device.canceldevicedelete.accesskey    "সি">
-<!ENTITY command.device.canceldevicesync                "সংকালন রদ">
-<!ENTITY command.device.canceldevicesync.accesskey      "সি">
-<!ENTITY command.device.canceldeviceupdate              "আধুনিকীকরণ রদ">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "সি">
-<!ENTITY command.device.ejectdevice                     "বর্জন">
-<!ENTITY command.device.ejectdevice.accesskey           "ই">
-<!ENTITY command.device.formatdevice                    "ফরমেট করুন">
-<!ENTITY command.device.formatdevice.accesskey          "এফ">
-<!ENTITY command.device.ignoredevice                    "উপেক্ষা">
-<!ENTITY command.device.ignoredevice.accesskey          "আই">
-<!ENTITY command.device.getdeviceinfo                   "তথ্য আনাও">
-<!ENTITY command.device.getdeviceinfo.accesskey         "আই">
-<!ENTITY command.device.renamedevice                    "পুনঃনামকরণ">
-<!ENTITY command.device.renamedevice.accesskey          "আর">
-<!ENTITY command.device.devicesync                      "সংকালন">
-<!ENTITY command.device.devicesync.accesskey            "এস">
-<!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Rip CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "সিডি থেকে গান কপি থামান">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Lookup CD Information">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Eject CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Repair my device">
-
-<!ENTITY device.firmware.wizard.title                     "Update Firmware">
-<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
-<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
-
-<!ENTITY device.info.icon.device            "Generic device icon">
-<!ENTITY device.info.icon.readonly          "Read-only lock icon">
-<!ENTITY device.info.model.label            "গঠন">
-<!ENTITY device.info.capacity.label         "আয়তন">
-<!ENTITY device.info.product.label          "Product">
-<!ENTITY device.info.friendly_name.label    "নাম">
-<!ENTITY device.info.serial_number.label    "ক্রমিক সংখ্যা">
-<!ENTITY device.info.vendor.label           "নির্মাতা">
-<!ENTITY device.info.access.label           "অভিগমন অনুকূলতা">
+<!ENTITY command.device.cancel "বাতিল করুন">
+<!ENTITY command.device.cancel.accesskey "সি">
+<!ENTITY command.device.canceldevicecopy "প্রতিলেখন রদ">
+<!ENTITY command.device.canceldevicecopy.accesskey "সি">
+<!ENTITY command.device.canceldevicedelete "অপসারণ রদ">
+<!ENTITY command.device.canceldevicedelete.accesskey "সি">
+<!ENTITY command.device.canceldevicesync "সংকালন রদ">
+<!ENTITY command.device.canceldevicesync.accesskey "সি">
+<!ENTITY command.device.canceldeviceupdate "আধুনিকীকরণ রদ">
+<!ENTITY command.device.canceldeviceupdate.accesskey "সি">
+<!ENTITY command.device.ejectdevice "বর্জন">
+<!ENTITY command.device.ejectdevice.accesskey "ই">
+<!ENTITY command.device.formatdevice "ফরমেট করুন">
+<!ENTITY command.device.formatdevice.accesskey "এফ">
+<!ENTITY command.device.ignoredevice "উপেক্ষা">
+<!ENTITY command.device.ignoredevice.accesskey "আই">
+<!ENTITY command.device.getdeviceinfo "তথ্য আনাও">
+<!ENTITY command.device.getdeviceinfo.accesskey "আই">
+<!ENTITY command.device.renamedevice "পুনঃনামকরণ">
+<!ENTITY command.device.renamedevice.accesskey "আর">
+<!ENTITY command.device.devicesync "সংকালন">
+<!ENTITY command.device.devicesync.accesskey "এস">
+<!ENTITY command.device.stoprip "সিডি থেকে গান কপি থামান">
+<!ENTITY device.info.model.label "গঠন">
+<!ENTITY device.info.capacity.label "আয়তন">
+<!ENTITY device.info.friendly_name.label "নাম">
+<!ENTITY device.info.serial_number.label "ক্রমিক সংখ্যা">
+<!ENTITY device.info.vendor.label "নির্মাতা">
+<!ENTITY device.info.access.label "অভিগমন অনুকূলতা">
 <!ENTITY device.info.playback_formats.label "বাদনচালনাযোগ্য সংরূপগুলি">
-<!ENTITY device.info.battery.label          "ব্যাটারী">
-<!ENTITY device.info.firmware_version.label "Firmware Version">
-
-<!ENTITY device.progress.sync               "সংকালন">
-
-<!ENTITY device.capacity.music.label    "সংগীত">
-<!ENTITY device.capacity.video.label    "চলচ্চিত্র">
-<!ENTITY device.capacity.image.label    "Photos">
-<!ENTITY device.capacity.other.label    "অন্য">
-<!ENTITY device.capacity.free.label     "মুক্ত">
-
-<!ENTITY device.unsupported_media.dialog.title  "অননুকূল সঞ্চিকার সন্ধান পাওয়া গেছে">
+<!ENTITY device.info.battery.label "ব্যাটারী">
+<!ENTITY device.progress.sync "সংকালন">
+<!ENTITY device.capacity.music.label "সংগীত">
+<!ENTITY device.capacity.video.label "চলচ্চিত্র">
+<!ENTITY device.capacity.other.label "অন্য">
+<!ENTITY device.capacity.free.label "মুক্ত">
+<!ENTITY device.unsupported_media.dialog.title "অননুকূল সঞ্চিকার সন্ধান পাওয়া গেছে">
 <!ENTITY device.unsupported_media.dialog.enable "আমাকে জানাও যখন অননুকূল সঞ্চিকার সন্ধান পাওয়া যায়">
-
 <!ENTITY device.sync.header.label "সংকালন নির্ধারণমানগুলি">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "সংকালন">
 <!ENTITY device.sync.sync_all.label "সব সংগীত, চলচ্চিত্র ও বাদনতালিকা">
 <!ENTITY device.sync.sync_selected.label "নির্বাচিত বাদনতালিকা:">
 <!ENTITY device.sync.playlist.title "শিরোনাম">
-<!ENTITY device.sync.playlist.video.duration "Video Duration">
-<!ENTITY device.sync.images.from.label "Sync Photos From:">
-<!ENTITY device.sync.images.browse "Choose folder…">
-<!ENTITY device.sync.images.all.label "All photos">
-<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Selected sub-folders">
-<!ENTITY device.sync.images.foldername "Folder Name">
-<!ENTITY device.sync.images.filecount "Photos">
-
 <!ENTITY device.settings.header.label "সেটিংস">
-<!ENTITY device.settings.general.label "General">
-<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
-<!ENTITY device.settings.music.transcoding.label "Music Conversion">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
-<!ENTITY device.settings.disk.label "Disk Management">
-<!ENTITY device.settings.disk.management.label "Customize directory structure">
-<!ENTITY device.settings.disk.management.filename "Song files">
-
-<!ENTITY device.settings.disk.100percent.label "100&#37;">
-<!ENTITY device.settings.disk.0percent.label "0&#37;">
-
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
-<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "সংগীত">
 <!ENTITY device.management.tabs.video.label "চলচ্চিত্র">
-<!ENTITY device.management.tabs.image.label "Photos">
 <!ENTITY device.management.tabs.tools.label "উপকরণগুলি">
 <!ENTITY device.management.tabs.settings.label "সেটিংস">
-
-<!ENTITY device.tools.product_registration.title "Product Registration">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
-<!ENTITY device.tools.product_registration.label "Register product">
-
-<!ENTITY device.tools.update_firmware.title "Update Firmware">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
-<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
-
-<!ENTITY device.tools.restore_device.title "Restore Device">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-
 <!ENTITY device.tools.format_device.title "যন্ত্র ফরমেট করুন">
-<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
 <!ENTITY device.tools.format_device.label "যন্ত্র ফরমেট করুন">
 <!ENTITY device.tools.format_volume.button.label "ফরমেট করুন">
-
-<!ENTITY device.tools.support.title "Support">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
-<!ENTITY device.tools.support.label "View support resources">
-
-<!ENTITY device.tools.reset_warnings.title "Reset warnings">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
-<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
-
-<!ENTITY device.dialog.setup.title "Device Setup">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
-<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
-<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "স্বাভাবিক বিচরকে সংযোগ উন্মীলন">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "স্বাভাবিক বিচরকে পৃষ্ঠা উন্মীলন">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "স্বাভাবিক বিচরকে ফ্রেম উন্মীলন">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "স্বাভাবিক বিচরকে চিত্র উন্মীলন">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "নির্বাচিত পাঠের প্রতিলেখন">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "বাদন">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "অধঃভরণ">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "বাদনতালিকায় যোগ কর">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "এ">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;বাদনতালিকা নেই&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "নতুন বাদনতালিকা">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "এন">
-<!ENTITY subscribeMediaPageCmd.label                    "এই পৃষ্ঠার গ্রাহকী হন…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "এই কাঠামোর গ্রাহকী হন…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "সংবার্ডকে উন্নততর করতে সাহায্য করুন!">
-<!ENTITY feedback.dialog.yes        "হ্যাঁ">
-<!ENTITY feedback.dialog.no         "না">
-<!ENTITY feedback.dialog.sentence1  "সংবার্ডকে উন্নততর বানাতে সাহায্য করতে আপনি কি একটি দ্রুত, অনামী পরিমাপ নিতে চান?">
-<!ENTITY feedback.dialog.sentence2  "আপনার যদি অনিচ্ছা থাকে, তাহলে আমরা আপনাকে আবার জিজ্ঞাসা করব না। আপনার বিবেচনার জন্য আমরা কৃতজ্ঞ এবং আমরা আপনার সংবার্ডের ব্যবহারকে সমাদর করি!">
-<!ENTITY feedback.dialog.sentence3  "ভাল থাকুন,">
-<!ENTITY feedback.dialog.sentence4  "সংবার্ড দল">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে সংযোগ উন্মীলন">
+<!ENTITY openPageCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে পৃষ্ঠা উন্মীলন">
+<!ENTITY openFrameCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে ফ্রেম উন্মীলন">
+<!ENTITY openImageCmdInDefaultBrowser.label "স্বাভাবিক বিচরকে চিত্র উন্মীলন">
+<!ENTITY copySelectionCmd.label "নির্বাচিত পাঠের প্রতিলেখন">
+<!ENTITY playMediaCmd.label "বাদন">
+<!ENTITY downloadMediaCmd.label "অধঃভরণ">
+<!ENTITY addMediaToPlaylistCmd.label "বাদনতালিকায় যোগ কর">
+<!ENTITY addMediaToPlaylistCmd.accesskey "এ">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;বাদনতালিকা নেই&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "নতুন বাদনতালিকা">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "এন">
+<!ENTITY subscribeMediaPageCmd.label "এই পৃষ্ঠার গ্রাহকী হন…">
+<!ENTITY subscribeMediaFrameCmd.label "এই কাঠামোর গ্রাহকী হন…">
+<!ENTITY feedback.dialog.title "সংবার্ডকে উন্নততর করতে সাহায্য করুন!">
+<!ENTITY feedback.dialog.yes "হ্যাঁ">
+<!ENTITY feedback.dialog.no "না">
+<!ENTITY feedback.dialog.sentence1 "সংবার্ডকে উন্নততর বানাতে সাহায্য করতে আপনি কি একটি দ্রুত, অনামী পরিমাপ নিতে চান?">
+<!ENTITY feedback.dialog.sentence2 "আপনার যদি অনিচ্ছা থাকে, তাহলে আমরা আপনাকে আবার জিজ্ঞাসা করব না। আপনার বিবেচনার জন্য আমরা কৃতজ্ঞ এবং আমরা আপনার সংবার্ডের ব্যবহারকে সমাদর করি!">
+<!ENTITY feedback.dialog.sentence3 "ভাল থাকুন,">
+<!ENTITY feedback.dialog.sentence4 "সংবার্ড দল">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "&brandShortName;-এ স্বাগত ">
-
+<!ENTITY mediapages.firstrun.title "&brandShortName;-এ স্বাগত ">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName;-এর স্থাপন">
-
+<!ENTITY first_run.title "&brandShortName;-এর স্থাপন">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "উপরোধিত বিস্তারকগুলি">
+<!ENTITY first_run.add_ons.header.label "উপরোধিত বিস্তারকগুলি">
 <!ENTITY first_run.add_ons.description.line1 "বিস্তারকগুলি &brandShortName;এর কার্য্যকরীতা কে সম্প্রসার করে, আর আপনাকে অনুমতি দেয় আপনার মাধ্যমচালকের অভিজ্ঞতাকে স্বেচ্ছানুসারে রূপায়ন করতে পারার জন্য।">
 <!ENTITY first_run.add_ons.description.line2 "এটি অন্যান্য অনুপ্রয়োগ এবং পরিষেবাগুলির সাথে একত্রীকরণ করতে পারে, বাহ্যিক যুক্তোপকরণের সঙ্গে সংযোগ সমর্থন করে,  আবর্তন পরিবর্তন করতে পারে এবং আরও অনেক কিছু!">
-<!ENTITY first_run.add_ons.loading.label     "উপরোধিত বিস্তারকগুলি প্রাপ্ত করা হচ্ছে">
+<!ENTITY first_run.add_ons.loading.label "উপরোধিত বিস্তারকগুলি প্রাপ্ত করা হচ্ছে">
 <!ENTITY first_run.add_ons.load_failed.label "উপরোধিত বিস্তারকগুলি প্রাপ্ত করতে ব্যর্থ।">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; অন্তর্জালের সাথে সংযোগ স্থাপন করতে পারছে না।">
-<!ENTITY first_run.connection.description          "আপনার সংযোগ নির্ধারণমানসমূহ নিরীক্ষা করুন এবং স্থাপনা সাহায্যকারীর সাথে অগ্রসর হন।">
-<!ENTITY first_run.connection.settings.button      "সংযোগ নির্ধারণমানসমূহ…">
+<!ENTITY first_run.connection.header.label "&brandShortName; অন্তর্জালের সাথে সংযোগ স্থাপন করতে পারছে না।">
+<!ENTITY first_run.connection.description "আপনার সংযোগ নির্ধারণমানসমূহ নিরীক্ষা করুন এবং স্থাপনা সাহায্যকারীর সাথে অগ্রসর হন।">
+<!ENTITY first_run.connection.settings.button "সংযোগ নির্ধারণমানসমূহ…">
 <!ENTITY first_run.connection.settings.description "আপনার কম্প্যুটার বা ক্রিয়াজাল কি অগ্নিপ্রাচীর বা প্রতিনিধি দ্বারা সুরক্ষিত? ভুল সংযোগ নির্ধারণমানসমূহ সংশোধন করলে সাধারণ ক্রিয়াজাল সম্পর্কিত সমস্যাগুলির সমাধান করা যায়।">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "অধিকারপত্র চুক্তি">
+<!ENTITY first_run.eula.header.label "অধিকারপত্র চুক্তি">
 <!ENTITY first_run.eula.accept_checkbox.label "আমি পড়েছি এবং অধিকারপত্রের শর্তাবলী গ্রহণ করেছি।">
-<!ENTITY first_run.eula.language.label        "ভাষা:">
-
+<!ENTITY first_run.eula.language.label "ভাষা:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "সংবার্ডকে উন্নুততর বানাতে সাহায্য করুন">
-<!ENTITY first_run.feedback.description             "আমাদেরকে এই অনুপ্রয়োগের আপনার ব্যবহার সম্পর্কিত পরিসংখ্যা ও পরিমাপ রূপে প্রতিপুষ্টি পাঠিয়ে, আপনি কি এই &brandShortName;কে উন্নতর করতে সাহায্য করতে চান?">
-<!ENTITY first_run.feedback.metrics.label           "&brandShortName;এর ব্যবহার পরিসংখ্যা যোগাড় করুন ও পাঠান">
-<!ENTITY first_run.feedback.metrics.description     "পরিসংখ্যাগুলি সম্পূর্ণভাবে অনামী এবং কোন ব্যক্তিগত তথ্য যোগাড় করা হয় না।">
-<!ENTITY first_run.feedback.email.header.label      "আমাকে জানিয়ে রাখুন">
-<!ENTITY first_run.feedback.email.description       "আমাদের সংবাদপত্রের গ্রাহকী হন নতুন সংস্করণ বা আধুনিকীকরণ সম্পর্কিত তথ্য জানার জন্য।">
+<!ENTITY first_run.feedback.header.label "সংবার্ডকে উন্নুততর বানাতে সাহায্য করুন">
+<!ENTITY first_run.feedback.description "আমাদেরকে এই অনুপ্রয়োগের আপনার ব্যবহার সম্পর্কিত পরিসংখ্যা ও পরিমাপ রূপে প্রতিপুষ্টি পাঠিয়ে, আপনি কি এই &brandShortName;কে উন্নতর করতে সাহায্য করতে চান?">
+<!ENTITY first_run.feedback.metrics.label "&brandShortName;এর ব্যবহার পরিসংখ্যা যোগাড় করুন ও পাঠান">
+<!ENTITY first_run.feedback.metrics.description "পরিসংখ্যাগুলি সম্পূর্ণভাবে অনামী এবং কোন ব্যক্তিগত তথ্য যোগাড় করা হয় না।">
+<!ENTITY first_run.feedback.email.header.label "আমাকে জানিয়ে রাখুন">
+<!ENTITY first_run.feedback.email.description "আমাদের সংবাদপত্রের গ্রাহকী হন নতুন সংস্করণ বা আধুনিকীকরণ সম্পর্কিত তথ্য জানার জন্য।">
 <!ENTITY first_run.feedback.email.textbox.emptytext "আপনার ই-মেল ঠিকানা প্রবেশ করুন সাম্প্রতিক সংবাদ সম্পর্কে অবগত থাকবার জন্য">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "আমদানি">
-<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Export new music tracks and playlists to iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
-
+<!ENTITY first_run.itunes.header.label "আমদানি">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "বহুমাধ্যম আমদানি">
-<!ENTITY first_run.import_media.description                  "এই পৃষ্ঠাটি &brandShortName;-এ বহুমাধ্যম সঞ্চিকা আমদানি করতে সাহায্য করবে স্থানীয় বহুমাধ্যম সন্ধান করার চেষ্টা করে। একবার সংবার্ড আরম্ভ হওয়ার পর আপনি বিভিন্ন উপায়ে আরও বহুমাধ্যম যোগ করতে পারবেন।">
+<!ENTITY first_run.import_media.header.label "বহুমাধ্যম আমদানি">
+<!ENTITY first_run.import_media.description "এই পৃষ্ঠাটি &brandShortName;-এ বহুমাধ্যম সঞ্চিকা আমদানি করতে সাহায্য করবে স্থানীয় বহুমাধ্যম সন্ধান করার চেষ্টা করে। একবার সংবার্ড আরম্ভ হওয়ার পর আপনি বিভিন্ন উপায়ে আরও বহুমাধ্যম যোগ করতে পারবেন।">
 <!ENTITY first_run.import_media.radio.scan_directories.label "আমার কম্প্যুটারের নির্দেশিকাগুলি সমীক্ষণ করুন">
-<!ENTITY first_run.import_media.radio.dont_import.label      "এখন বহুমাধ্যম আমদানি করা হবে না">
+<!ENTITY first_run.import_media.radio.dont_import.label "এখন বহুমাধ্যম আমদানি করা হবে না">
 <!ENTITY first_run.import_media.scan_directories.description "আপনি কি চান &brandShortName;কে বহুমাধ্যম আমদানি করার জন্য আপনার কম্প্যুটারের নির্দিষ্ট নির্দেশিকাগুলি সমীক্ষণ করার প্রচেষ্টা করে?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "পরিবর্তনের জন্য এই ভাঁজকটি নিরীক্ষণ করুন">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "বিস্তারকগুলির অধঃভরণ হচ্ছে">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "&brandShortName;-এ সুস্বাগতম্‌">
+<!ENTITY first_run.welcome.header.label "&brandShortName;-এ সুস্বাগতম্‌">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; একটি অন্তর্জালের সঙ্গে সংহত ডেস্কটপ মাধ্যমচালক।">
 <!ENTITY first_run.welcome.description.line2 "এই সহায়কটি &brandShortName;এর প্রাথমিক উপস্থাপনা সামলায় এবং অনুপ্রয়োগের কার্যকারিতা সম্বন্ধে একটি সামান্য পরিচয় দেয়।">
-
-<!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Media Importer">
-
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "একটি সংগ্রহ আমদানি করুন">
-<!ENTITY import_library.prefs.title                       "আমদানি">
-<!ENTITY import_library.library_file_label                "সংগ্রহ সঞ্চিকা:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "আমায় সূচিত করুন যখন অসমর্থিত গীতধারার বা বাদনতালিকার আমদানি না করা হয়।">
-<!ENTITY import_library.prefs.path_group_caption          "সংগ্রহ পথ">
-<!ENTITY import_library.prefs.options_group_caption       "আমদানির বিকল্পগুলি">
-<!ENTITY import_library.import_command                    "সংগ্রহ আমদানি">
-<!ENTITY import_tracks_itunes_checkbox                    "Import music tracks from iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Import music playlists">
-<!ENTITY export_tracks_itunes_checkbox                    "Export music tracks to iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Export music playlists">
-<!ENTITY export_subscriptions_itunes_checkbox             "Export subscriptions">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Export music smart playlists">
-<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
-
+<!ENTITY import_library.dialog.title "একটি সংগ্রহ আমদানি করুন">
+<!ENTITY import_library.prefs.title "আমদানি">
+<!ENTITY import_library.library_file_label "সংগ্রহ সঞ্চিকা:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "আমায় সূচিত করুন যখন অসমর্থিত গীতধারার বা বাদনতালিকার আমদানি না করা হয়।">
+<!ENTITY import_library.prefs.path_group_caption "সংগ্রহ পথ">
+<!ENTITY import_library.prefs.options_group_caption "আমদানির বিকল্পগুলি">
+<!ENTITY import_library.import_command "সংগ্রহ আমদানি">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "বাদনতালিকা পরিবর্তিত">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "&brandShortName; বর্তমান বাদনতালিকা রাখুন এই বাদনতালিকাটি আমদানি করা হবে না)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "বর্তমান &brandShortName; বাদনতালিকার সাথে আইট্যুন্স বাদনতালিকা মেশান">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "এই &brandShortName; বাদনতালিকার পরিবর্তে বর্তমান আইট্যুন্স বাদনতালিকা">
-<!ENTITY import_library.dirty_playlist_dialog.note         "দ্রষ্টব্য: মিশ্রণ এবং পরিবর্তন অকরণ করা যাবে না।">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "নির্বাচনের সব বাদনতালিকার প্রতি প্রয়োগ">
-
-<!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "বাদনতালিকা পরিবর্তিত">
+<!ENTITY import_library.dirty_playlist_dialog.keep "&brandShortName; বর্তমান বাদনতালিকা রাখুন এই বাদনতালিকাটি আমদানি করা হবে না)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "বর্তমান &brandShortName; বাদনতালিকার সাথে আইট্যুন্স বাদনতালিকা মেশান">
+<!ENTITY import_library.dirty_playlist_dialog.replace "এই &brandShortName; বাদনতালিকার পরিবর্তে বর্তমান আইট্যুন্স বাদনতালিকা">
+<!ENTITY import_library.dirty_playlist_dialog.note "দ্রষ্টব্য: মিশ্রণ এবং পরিবর্তন অকরণ করা যাবে না।">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "নির্বাচনের সব বাদনতালিকার প্রতি প্রয়োগ">
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "নিরীক্ষিত ভাঁজকগুলি">
-<!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Automatically watch for changes in the following folder">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Folder:">
-
+<!ENTITY watch_folder.prefs.title "নিরীক্ষিত ভাঁজকগুলি">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "উপরোধকৃত বিস্তারকগুলি">
-<!ENTITY enable_recommended_addons_update.accesskey "r">
-
-<!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; Setup">
-
+<!ENTITY enable_recommended_addons_update.label "উপরোধকৃত বিস্তারকগুলি">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "বর্ননা">
-
+<!ENTITY add_on_bundle_installer.error_box.label "বর্ননা">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "কিছই বাজছে না" >
-<!ENTITY albumart.displaypane.not_selected_message  "কিছু ই বাছাই করা হয়নি" >
-<!ENTITY albumart.displaypane.drag_and_drop  "অ্যালবাম আর্টটি এখানে তেনে আনুন" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Show Now Selected" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Show Now Playing" >
+<!ENTITY albumart.displaypane.not_playing_message "কিছই বাজছে না">
+<!ENTITY albumart.displaypane.not_selected_message "কিছু ই বাছাই করা হয়নি">
+<!ENTITY albumart.displaypane.drag_and_drop "অ্যালবাম আর্টটি এখানে তেনে আনুন">
 <!ENTITY albumart.displaypane.selected.menu.cut "কাট">
 <!ENTITY albumart.displaypane.selected.menu.copy "কপি">
 <!ENTITY albumart.displaypane.selected.menu.paste "পেস্ট">
 <!ENTITY albumart.displaypane.selected.menu.clear "পরিষ্কার">
 <!ENTITY albumart.coverpreview.title "অ্যালবাম আর্ট">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "অ্যালবাম আর্টওয়ার্ক">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "অ্যালবাম আর্টওয়ার্ক থেকে মেটা ডেটা লেখুন।">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "এইটি মিডিয়া ফাইলের জন্য সঙ্গতিপূর্ণ ট্যাগে আর্টওয়ার্ক সন্নিবেশ করতে &brandShortName; কে অনুমোদন করবে।">
-
-<!ENTITY albumartpreferences.prefpane.search_file_names.label "Search file names:">
-<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher অগ্রাধিকার">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "উপরে">
 <!ENTITY albumartpreferences.prefpane.priorities.down "নিচে">
 <!ENTITY albumartpreferences.prefpane.priorities.reset " রিসেট">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
-<!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Go Back">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "রদ">
-<!ENTITY wizard.button.next.label      "Continue">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "সমাপ্ত">
-
-<!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Playback Error">
-<!ENTITY mediacore.error.preface  "&brandShortName; has encountered the following playback error(s):">
-<!ENTITY mediacore.error.continue "Continue">
-<!ENTITY mediacore.error.stop     "Stop Playback">
-<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
-<!ENTITY mediacore.error.codec_not_found.text.post "">
-
-<!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
+<!ENTITY wizard.button.cancel.label "রদ">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "সমাপ্ত">
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "বাদনচালনা">
-
-<!ENTITY playback.prefpane.audio_output.label   "Audio Output">
-<!ENTITY playback.prefpane.audio_output.buffer  "Output Buffer:">
-
-<!ENTITY playback.prefpane.streaming.label      "Network and Streaming">
-<!ENTITY playback.prefpane.streaming.buffer     "Streaming Buffer:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalization">
-<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
-
-<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY playback.prefpane.label "বাদনচালনা">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "অ্যালবাম্‌">
-<!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
-<!ENTITY fetch_album_art.dialog.title "Get Artwork">
-<!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "শিল্পী">
-<!ENTITY cdrip.lookup.info_not_found.album  "অ্যালবাম্‌">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD Information Not Found">
-<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY cdrip.lookup.info_not_found.album "অ্যালবাম্‌">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "শিরোনাম">
-
-<!-- CD Rip Pref Pane entities -->
-<!ENTITY cdrip.prefpane.label "CD Rip">
 <!ENTITY cdrip.prefpane.format "ফরমেট করুন">
-<!ENTITY cdrip.prefpane.quality "Quality">
-<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
 <!ENTITY cdrip.prefpane.eject_after_rip "গান কপি শেষ হলে সিডি বার করুন">
-<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
-<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "সিডি থেকে গান কপি করার সেটিংস">
-<!ENTITY cdrip.mediaview.format_label              "ফরমেট করুন:">
-<!ENTITY cdrip.mediaview.quality_label             "Quality: ">
-<!ENTITY cdrip.mediaview.settings_button           "সেটিংস">
-<!ENTITY cdrip.mediaview.rip_cd_button             "সিডি থেকে গান কপি করুন">
-<!ENTITY cdrip.mediaview.stop_rip_button           "সিডি থেকে গান কপি থামান">
-<!ENTITY cdrip.mediaview.view_tracks_button        "View Tracks">
-<!ENTITY cdrip.mediaview.eject_cd_button           "সিডি বার করুন">
-
-<!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
-<!-- Video Window entities -->
-<!ENTITY videowindow.title "Video Window">
-<!ENTITY videowindow.actualsize "Actual Size">
-<!ENTITY videowindow.fullscreen "Full Screen">
-
-<!ENTITY videowindow.fullscreen.key   "F">
-<!ENTITY videowindow.bringtofront.key "T">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "সিডি থেকে গান কপি করার সেটিংস">
+<!ENTITY cdrip.mediaview.format_label "ফরমেট করুন:">
+<!ENTITY cdrip.mediaview.settings_button "সেটিংস">
+<!ENTITY cdrip.mediaview.rip_cd_button "সিডি থেকে গান কপি করুন">
+<!ENTITY cdrip.mediaview.stop_rip_button "সিডি থেকে গান কপি থামান">
+<!ENTITY cdrip.mediaview.eject_cd_button "সিডি বার করুন">
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "আমরা ধন্যবাদ জানাই আমাদের অবদানকারিদের, যাদের প্রচেষ্টার ফসল আজকের সংবার্ড। এঁরা কোড আর ডকুমেন্টেশন লিখে এবং পরিক্ষা নিরিক্ষা করে সাহায্য করেছেন। তাঁরা এই পন্যটি, এর সাথে সংশ্লিষ্ট উন্নয়ন পন্থা গুলো, আমাদের উন্নয়ন কৌশল এবং আমাদের ওয়েবসাইট তৈরি এবং রক্ষনাবেক্ষন করেছেন। নামগুলো IRC নাম অনুযায়ি দেয়া হল, চলে আসুননা #songbird, irc.mozilla.or এ!">
 <!ENTITY about.credits.footer.beforeLink "অবশ্যই, যাদের কঠোর পরিশ্রম ছাড়া এসবের কোনকিছুই সম্ভব হত না তাঁরা হলেন">
@@ -839,18 +424,3 @@
 <!ENTITY about.credits.footer.afterLink "মজিলা প্রজেক্টকে">
 <!ENTITY about.credits.heading.translators "অনুবাদকরা">
 <!ENTITY about.credits.heading.champs "বিজয়ীরা">
-<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Multiple CD Records Found">
-<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
-<!ENTITY cdinfo.other.label                "Add your own Artist and Album Info">
-
-<!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

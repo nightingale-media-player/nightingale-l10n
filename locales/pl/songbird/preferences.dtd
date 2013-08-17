@@ -1,17 +1,15 @@
 <!-- override chrome://browser/locale/preferences/preferences.dtd -->
-
-<!ENTITY  prefWindow.titleWin     "Opcje">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; – ustawienia">
+<!ENTITY prefWindow.titleWin "Opcje">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; – ustawienia">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2       "">
-<!ENTITY  prefWinMinSize.styleMac        "">
-<!ENTITY  prefWinMinSize.styleGNOME      "">
-
-<!ENTITY  paneGeneral.title       "Główny">
-<!ENTITY  paneTabs.title          "Karty">
-<!ENTITY  paneContent.title       "Treść">
-<!ENTITY  paneApplications.title  "Programy">
-<!ENTITY  panePrivacy.title       "Prywatność">
-<!ENTITY  paneSecurity.title      "Bezpieczeństwo">
-<!ENTITY  paneAdvanced.title      "Zaawansowane">
+<!ENTITY prefWinMinSize.styleWin2 "">
+<!ENTITY prefWinMinSize.styleMac "">
+<!ENTITY prefWinMinSize.styleGNOME "">
+<!ENTITY paneGeneral.title "Główny">
+<!ENTITY paneTabs.title "Karty">
+<!ENTITY paneContent.title "Treść">
+<!ENTITY paneApplications.title "Programy">
+<!ENTITY panePrivacy.title "Prywatność">
+<!ENTITY paneSecurity.title "Bezpieczeństwo">
+<!ENTITY paneAdvanced.title "Zaawansowane">

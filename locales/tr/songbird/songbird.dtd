@@ -1,501 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "Tamam" >
-<!ENTITY window.cancel      "İptal" >
-<!ENTITY window.apply       "Uygula" >
-<!ENTITY window.browse      "Gözat…" >
-<!ENTITY window.save        "Kaydet">
-<!ENTITY window.yes         "Evet">
-<!ENTITY window.no          "Hayır">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "Tamam">
+<!ENTITY window.cancel "İptal">
+<!ENTITY window.apply "Uygula">
+<!ENTITY window.browse "Gözat…">
+<!ENTITY window.save "Kaydet">
+<!ENTITY window.yes "Evet">
+<!ENTITY window.no "Hayır">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "&brandShortName;&apos;den Çık" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Tercihler">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "&brandShortName;&apos;den Çık">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Tercihler">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Hizmetler">
-<!ENTITY menu.mac.hide                  "&brandShortName;&apos;ü Gizle">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Diğerlerini Gizle">
-<!ENTITY menu.mac.hideothers.key        "Ğ">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Tümünü Göster">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Dosya" >
-<!ENTITY menu.file.new          "Yeni Çalma Listesi…" >
-<!ENTITY menu.file.smart        "Yeni Akıllı Çalma Listesi…" >
-<!ENTITY menu.file.remote       "Yeni Abonelik…" >
-<!ENTITY menu.file.podcast      "Yeni Podcast …" >
-<!ENTITY menu.file.open         "Dosya Aç…" >
-<!ENTITY menu.file.url          "Konum Aç…" >
-<!ENTITY menu.file.playlist     "Çalma Listesi Al…" >
-<!ENTITY menu.file.library      "Kitaplık Ekle…" >
-<!ENTITY menu.file.newtab       "Yeni Sekme" >
-<!ENTITY menu.file.closetab     "Sekmeyi Kapat" >
-<!ENTITY menu.file.metadata     "Metadatayı gör">
-<!ENTITY menu.file.scan         "Ortam Al…" >
-<!ENTITY menu.file.exit         "Çıkış" >
-
-<!ENTITY menu.edit          "Düzen" >
-<!ENTITY menu.edit.undo     "Geri Al" >
-<!ENTITY menu.edit.redo     "Yenile" >
-<!ENTITY menu.edit.cut      "Kes" >
-<!ENTITY menu.edit.copy     "Kopyala" >
-<!ENTITY menu.edit.paste    "Yapıştır" >
-<!ENTITY menu.edit.delete   "Sil" >
-<!ENTITY menu.edit.selall   "Hepsini Seç" >
-<!ENTITY menu.edit.find        "Bul" >
-<!ENTITY menu.edit.findagain   "Tekrar Bul" >
-
+<!ENTITY menu.mac.services "Hizmetler">
+<!ENTITY menu.mac.hide "&brandShortName;&apos;ü Gizle">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Diğerlerini Gizle">
+<!ENTITY menu.mac.hideothers.key "Ğ">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Tümünü Göster">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Dosya">
+<!ENTITY menu.file.new "Yeni Çalma Listesi…">
+<!ENTITY menu.file.smart "Yeni Akıllı Çalma Listesi…">
+<!ENTITY menu.file.remote "Yeni Abonelik…">
+<!ENTITY menu.file.podcast "Yeni Podcast …">
+<!ENTITY menu.file.open "Dosya Aç…">
+<!ENTITY menu.file.url "Konum Aç…">
+<!ENTITY menu.file.playlist "Çalma Listesi Al…">
+<!ENTITY menu.file.library "Kitaplık Ekle…">
+<!ENTITY menu.file.newtab "Yeni Sekme">
+<!ENTITY menu.file.closetab "Sekmeyi Kapat">
+<!ENTITY menu.file.metadata "Metadatayı gör">
+<!ENTITY menu.file.scan "Ortam Al…">
+<!ENTITY menu.file.exit "Çıkış">
+<!ENTITY menu.edit "Düzen">
+<!ENTITY menu.edit.undo "Geri Al">
+<!ENTITY menu.edit.redo "Yenile">
+<!ENTITY menu.edit.cut "Kes">
+<!ENTITY menu.edit.copy "Kopyala">
+<!ENTITY menu.edit.paste "Yapıştır">
+<!ENTITY menu.edit.delete "Sil">
+<!ENTITY menu.edit.selall "Hepsini Seç">
+<!ENTITY menu.edit.find "Bul">
+<!ENTITY menu.edit.findagain "Tekrar Bul">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Tercihler">
+<!ENTITY menu.linux.preferences "Tercihler">
 <!ENTITY menu.linux.preferences.accesskey "T">
-
-<!ENTITY menu.controls      "Denetimler" >
-<!ENTITY menu.control.play  "Yürüt" >
-<!ENTITY menu.control.pause "Duraklat" >
-<!ENTITY menu.control.next  "Sonraki Parça" >
-<!ENTITY menu.control.prev  "Önceki Parça" >
-<!ENTITY menu.control.shuf  "Karışık" >
-<!ENTITY menu.control.repa  "Tümünü Tekrar Çal" >
-<!ENTITY menu.control.rep1  "Birini Tekrar Çal" >
-<!ENTITY menu.control.repx  "Tekrar Çalma" >
-<!ENTITY menu.control.jumpto "Atla…" >
-
-<!ENTITY menu.control.play.button      "Yürüt" >
-<!ENTITY menu.control.pause.button     "Duraklat" >
-<!ENTITY menu.control.stop.button      "Durdur" >
-
+<!ENTITY menu.controls "Denetimler">
+<!ENTITY menu.control.play "Yürüt">
+<!ENTITY menu.control.pause "Duraklat">
+<!ENTITY menu.control.next "Sonraki Parça">
+<!ENTITY menu.control.prev "Önceki Parça">
+<!ENTITY menu.control.shuf "Karışık">
+<!ENTITY menu.control.repa "Tümünü Tekrar Çal">
+<!ENTITY menu.control.rep1 "Birini Tekrar Çal">
+<!ENTITY menu.control.repx "Tekrar Çalma">
+<!ENTITY menu.control.jumpto "Atla…">
+<!ENTITY menu.control.play.button "Yürüt">
+<!ENTITY menu.control.pause.button "Duraklat">
+<!ENTITY menu.control.stop.button "Durdur">
 <!ENTITY displaypane.default.image.pre "Eklenti seç">
 <!ENTITY displaypane.default.image.tooltip "Eklenti İkonu">
 <!ENTITY displaypane.default.image.post "Menü veya ziyaret et">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Eklenti Sitesi">
 <!ENTITY displaypane.default.link.post "Eklentilere Gözat.">
-<!ENTITY displaypane.name.servicepane   "Alt Servis Paneli">
-<!ENTITY displaypane.name.browser       "Alt İçerik Paneli">
-<!ENTITY displaypane.name.sidebar       "Sağ Kenar Çubuğu">
-<!ENTITY servicepane.title.label        "Servis Paneli">
-
-<!ENTITY menu.tools            "Araçlar" >
+<!ENTITY displaypane.name.servicepane "Alt Servis Paneli">
+<!ENTITY displaypane.name.browser "Alt İçerik Paneli">
+<!ENTITY displaypane.name.sidebar "Sağ Kenar Çubuğu">
+<!ENTITY servicepane.title.label "Servis Paneli">
+<!ENTITY menu.tools "Araçlar">
 <!ENTITY menu.tools.getartwork "Albüm Kapak Resmini Al">
 <!ENTITY menu.tools.exportmedia "Kitaplıktaki değişiklikleri dışarı aktar">
-
-<!ENTITY menu.help          "Yardım" >
-<!ENTITY menu.help.homepage "&brandShortName; Sitesi" >
-<!ENTITY menu.help.bugz     "Hata Bildirme…" >
-<!ENTITY menu.help.topics   "Yardım Konuları" >
+<!ENTITY menu.help "Yardım">
+<!ENTITY menu.help.homepage "&brandShortName; Sitesi">
+<!ENTITY menu.help.bugz "Hata Bildirme…">
+<!ENTITY menu.help.topics "Yardım Konuları">
 <!ENTITY menu.help.keyboard "Klavye Kısayolları">
-<!ENTITY menu.help.about    "&brandShortName; Hakkında" >
-
-<!ENTITY menu.equalizer     "Ekolayzır" >
-<!ENTITY menu.preferences   "Seçenekler" >
-<!ENTITY menu.extensions    "Eklentiler" >
+<!ENTITY menu.help.about "&brandShortName; Hakkında">
+<!ENTITY menu.equalizer "Ekolayzır">
+<!ENTITY menu.preferences "Seçenekler">
+<!ENTITY menu.extensions "Eklentiler">
 <!ENTITY menu.clearprivatedata "Kişisel Verileri Temizle…">
 <!ENTITY menu.errorconsole "Hata Konsolu">
-<!ENTITY menu.downloadmgr   "İndirilen Dosyalar" >
-<!ENTITY menu.switchplayercontrols  "Yürütücü Denetimleri" >
-<!ENTITY menu.controllerontop       "Üstte Göster">
-<!ENTITY menu.controlleronbottom    "Altta Göster">
-
-<!ENTITY menu.fullscreen            "Tam Ekran">
-<!ENTITY menu.videotofront          "Video Öne">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Aygıtlar bekleniyor.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Tüm aygıt işlemlerinin tamamlanması için bekliniyor. Beklemeyi durdurmak ve uygulamadan çıkmak için &quot;Çık&quot; a tıklayınız.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Çık">
-
-<!ENTITY tooltip.minimize         "Simge Durumuna Küçült" >
-<!ENTITY tooltip.maximize         "Ekranı Kapla/Geri Küçült" >
-<!ENTITY tooltip.exit             "Çıkış" >
-<!ENTITY tooltip.close            "Kapat" >
-<!ENTITY tooltip.hide             "Gizle" >
-<!ENTITY tooltip.fullscreen       "Tam Ekran" >
-<!ENTITY tooltip.control.back     "Önceki Parça" >
-<!ENTITY tooltip.control.play     "Çal" >
-<!ENTITY tooltip.control.pause    "Duraklat" >
-<!ENTITY tooltip.control.resume   "Sürdür" >
-<!ENTITY tooltip.control.stop     "Durdur" >
-<!ENTITY tooltip.control.fwd      "Sonraki Parça" >
-<!ENTITY tooltip.control.mute     "Sessiz" >
-<!ENTITY tooltip.control.volume   "Ses Seviyesi" >
-<!ENTITY tooltip.control.shuffle  "Karıştır" >
-<!ENTITY tooltip.control.shuf_off "Karıştırma Kapalı" >
-<!ENTITY tooltip.control.curtrack "Şu Anki Parçayı Bul" >
-<!ENTITY tooltip.search           "Ara" >
-<!ENTITY tooltip.browser.back     "Geri Git" >
-<!ENTITY tooltip.browser.fwd      "İleri Git" >
-<!ENTITY tooltip.browser.stop     "Tarayıcıyı Durdur" >
-<!ENTITY tooltip.browser.home     "Başlangıç" >
-<!ENTITY tooltip.browser.refresh  "Yenile" >
-<!ENTITY tooltip.browser.subscription "Bu sayfaya abone ol" >
-<!ENTITY tooltip.browser.mediapages.list "Liste Görünümü" >
-<!ENTITY tooltip.browser.mediapages.filter "Filtre Bölmesi Görünümü" >
-<!ENTITY tooltip.browser.mediapages "Ortam Görünümünü Değiştir…" >
-<!ENTITY tooltip.servicepane.show    "Servis Penceresini Göster" >
-<!ENTITY tooltip.servicepane.collapse    "Servis Penceresini Kapat" >
-<!ENTITY tooltip.servicepane.newnode "Yeni Çalma Listesi" >
+<!ENTITY menu.downloadmgr "İndirilen Dosyalar">
+<!ENTITY menu.switchplayercontrols "Yürütücü Denetimleri">
+<!ENTITY menu.controllerontop "Üstte Göster">
+<!ENTITY menu.controlleronbottom "Altta Göster">
+<!ENTITY menu.fullscreen "Tam Ekran">
+<!ENTITY menu.videotofront "Video Öne">
+<!ENTITY device.dialog.wait_for_completion.title "Aygıtlar bekleniyor.">
+<!ENTITY device.dialog.wait_for_completion.msg "Tüm aygıt işlemlerinin tamamlanması için bekliniyor. Beklemeyi durdurmak ve uygulamadan çıkmak için &quot;Çık&quot; a tıklayınız.">
+<!ENTITY device.dialog.wait_for_completion.quit "Çık">
+<!ENTITY tooltip.minimize "Simge Durumuna Küçült">
+<!ENTITY tooltip.maximize "Ekranı Kapla/Geri Küçült">
+<!ENTITY tooltip.exit "Çıkış">
+<!ENTITY tooltip.close "Kapat">
+<!ENTITY tooltip.hide "Gizle">
+<!ENTITY tooltip.fullscreen "Tam Ekran">
+<!ENTITY tooltip.control.back "Önceki Parça">
+<!ENTITY tooltip.control.play "Çal">
+<!ENTITY tooltip.control.pause "Duraklat">
+<!ENTITY tooltip.control.resume "Sürdür">
+<!ENTITY tooltip.control.stop "Durdur">
+<!ENTITY tooltip.control.fwd "Sonraki Parça">
+<!ENTITY tooltip.control.mute "Sessiz">
+<!ENTITY tooltip.control.volume "Ses Seviyesi">
+<!ENTITY tooltip.control.shuffle "Karıştır">
+<!ENTITY tooltip.control.shuf_off "Karıştırma Kapalı">
+<!ENTITY tooltip.control.curtrack "Şu Anki Parçayı Bul">
+<!ENTITY tooltip.search "Ara">
+<!ENTITY tooltip.browser.back "Geri Git">
+<!ENTITY tooltip.browser.fwd "İleri Git">
+<!ENTITY tooltip.browser.stop "Tarayıcıyı Durdur">
+<!ENTITY tooltip.browser.home "Başlangıç">
+<!ENTITY tooltip.browser.refresh "Yenile">
+<!ENTITY tooltip.browser.subscription "Bu sayfaya abone ol">
+<!ENTITY tooltip.browser.mediapages.list "Liste Görünümü">
+<!ENTITY tooltip.browser.mediapages.filter "Filtre Bölmesi Görünümü">
+<!ENTITY tooltip.browser.mediapages "Ortam Görünümünü Değiştir…">
+<!ENTITY tooltip.servicepane.show "Servis Penceresini Göster">
+<!ENTITY tooltip.servicepane.collapse "Servis Penceresini Kapat">
+<!ENTITY tooltip.servicepane.newnode "Yeni Çalma Listesi">
 <!ENTITY tooltip.displaypane.options "İçerik Paneli Seçenekleri">
-
-<!ENTITY smart.window             "Akıllı Çalma Listesi" >
-<!ENTITY smart.limit              "Sınırla" >
-<!ENTITY smart.match              "Aşağıdaki koşulların" >
-<!ENTITY smart.matchsingle        "Şu koşulları sağla:" >
-<!ENTITY smart.any                "bir kısmı" >
-<!ENTITY smart.all                "hepsi" >
-<!ENTITY smart.following          "sağlansın:" >
-<!ENTITY smart.random             "rasgele" >
-<!ENTITY smart.album              "albüm" >
-<!ENTITY smart.artist             "sanatçı" >
-<!ENTITY smart.genre              "tarz" >
-<!ENTITY smart.title              "başlık" >
-<!ENTITY smart.high_rating        "en yüksek puanlı" >
-<!ENTITY smart.low_rating         "en düşük puanlı" >
-<!ENTITY smart.most_recent        "en yakınlarda çalınan" >
-<!ENTITY smart.least_recent       "en uzun süredir çalınmayan" >
-<!ENTITY smart.most_often         "en sıklıkla çalınan" >
-<!ENTITY smart.least_often        "en az sıklıkla çalınan" >
-<!ENTITY smart.most_added         "en son eklenen" >
-<!ENTITY smart.least_added        "ilk eklenen" >
-<!ENTITY smart.minutes            "dakika" >
-<!ENTITY smart.hours              "saat" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "öğe" >
-<!ENTITY smart.selectedby         "Seçme mantığı" >
-<!ENTITY smart.to                 "ila" >
-<!ENTITY smart.autoupdate         "Otomatik güncelle">
+<!ENTITY smart.window "Akıllı Çalma Listesi">
+<!ENTITY smart.limit "Sınırla">
+<!ENTITY smart.match "Aşağıdaki koşulların">
+<!ENTITY smart.matchsingle "Şu koşulları sağla:">
+<!ENTITY smart.any "bir kısmı">
+<!ENTITY smart.all "hepsi">
+<!ENTITY smart.following "sağlansın:">
+<!ENTITY smart.random "rasgele">
+<!ENTITY smart.album "albüm">
+<!ENTITY smart.artist "sanatçı">
+<!ENTITY smart.genre "tarz">
+<!ENTITY smart.title "başlık">
+<!ENTITY smart.high_rating "en yüksek puanlı">
+<!ENTITY smart.low_rating "en düşük puanlı">
+<!ENTITY smart.most_recent "en yakınlarda çalınan">
+<!ENTITY smart.least_recent "en uzun süredir çalınmayan">
+<!ENTITY smart.most_often "en sıklıkla çalınan">
+<!ENTITY smart.least_often "en az sıklıkla çalınan">
+<!ENTITY smart.most_added "en son eklenen">
+<!ENTITY smart.least_added "ilk eklenen">
+<!ENTITY smart.minutes "dakika">
+<!ENTITY smart.hours "saat">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "öğe">
+<!ENTITY smart.selectedby "Seçme mantığı">
+<!ENTITY smart.to "ila">
+<!ENTITY smart.autoupdate "Otomatik güncelle">
 <!ENTITY smart.playlistcondition.library "Kütüphane">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Müzik">
-
 <!ENTITY textbox.songbird_open_url "Çalmak istediğiniz ortam dosyasının URL&apos;sini ya da dosya yolunu girin:">
-
-<!ENTITY open_url.title           "URL&apos;yi Aç">
-<!ENTITY subscribe.title          "Abone Ol">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Dakika">
-<!ENTITY subscribe.hours          "Saat">
-<!ENTITY subscribe.days           "Gün">
-<!ENTITY subscribe.autocheck      "Şu sıklıkla otomatik olarak güncelle">
-<!ENTITY subscribe.destinationfolder      "Hedef klasörü seç:">
-
-<!ENTITY feed.subscribe.label     "Üye Ol">
-<!ENTITY feed.subscribe.dontask   "Bu diyalogu tekrar otomatik olarak gösterme">
-<!ENTITY feed.subscribe.close     "Kapat">
-
-<!ENTITY podcast.creation_dialog.title       "Yeni Podcast">
+<!ENTITY open_url.title "URL&apos;yi Aç">
+<!ENTITY subscribe.title "Abone Ol">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Dakika">
+<!ENTITY subscribe.hours "Saat">
+<!ENTITY subscribe.days "Gün">
+<!ENTITY subscribe.autocheck "Şu sıklıkla otomatik olarak güncelle">
+<!ENTITY subscribe.destinationfolder "Hedef klasörü seç:">
+<!ENTITY feed.subscribe.label "Üye Ol">
+<!ENTITY feed.subscribe.dontask "Bu diyalogu tekrar otomatik olarak gösterme">
+<!ENTITY feed.subscribe.close "Kapat">
+<!ENTITY podcast.creation_dialog.title "Yeni Podcast">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Klasörleri İzle">
-<!ENTITY watchfolder.folderlist   "Yeni ortam dosyaları için bu klasörleri izle:">
-
-<!ENTITY locale.language          "Dil" >
-<!ENTITY menu.view                "Görünüm" >
-<!ENTITY about.version            "Sürüm" >
-<!ENTITY about.buttons.credits    "Ekip" >
-
-<!ENTITY equalizer.title          "Ekolayzır" >
-<!ENTITY equalizer.on.checkbox    "Açık" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Özel" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Yumuşak Rock" >
-<!ENTITY equalizer.preset.techno      "Tekno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Canlı" >
-<!ENTITY equalizer.preset.club        "kulüb" >
-<!ENTITY equalizer.preset.party       "Parti" >
-<!ENTITY equalizer.preset.classical   "Klasik" >
-<!ENTITY equalizer.preset.large_hall  "Büyük Hol" >
-<!ENTITY equalizer.preset.dance       "Dans" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Yumuşak" >
-<!ENTITY equalizer.preset.small_speakers   "Dizüsüt/Kulaklık" >
-<!ENTITY equalizer.preset.full_bass_treble "Tamamen Bas ve Tiz" >
-<!ENTITY equalizer.preset.full_treble "Full Tiz" >
-<!ENTITY equalizer.preset.full_bass   "Tamamen Bass" >
-
-
-<!ENTITY setupprogress.pleasewait "Lütfen bekleyin…" >
-<!ENTITY setupprogress.cancel     "İptal">
-
-<!ENTITY menu.file.accesskey              "D" >
-<!ENTITY menu.file.new.accesskey          "L" >
-<!ENTITY menu.file.smart.accesskey        "A" >
-<!ENTITY menu.file.remote.accesskey       "B" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "U" >
-<!ENTITY menu.file.playlist.accesskey     "T" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "M" >
-<!ENTITY menu.file.closetab.accesskey     "A" >
-<!ENTITY menu.file.scan.accesskey         "R" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "G" >
-<!ENTITY menu.preferences.accesskey       "S" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "E" >
-<!ENTITY menu.clearprivatedata.accesskey  "V" >
-<!ENTITY menu.errorconsole.accesskey      "H" >
-<!ENTITY menu.file.exit.accesskey         "Ç" >
-<!ENTITY menu.downloadmgr.accesskey       "İ" >
-
-<!ENTITY menu.edit.accesskey          "Ü" >
-<!ENTITY menu.edit.undo.accesskey     "G" >
-<!ENTITY menu.edit.redo.accesskey     "N" >
-<!ENTITY menu.edit.cut.accesskey      "E" >
-<!ENTITY menu.edit.copy.accesskey     "K" >
-<!ENTITY menu.edit.paste.accesskey    "Y" >
-<!ENTITY menu.edit.delete.accesskey   "S" >
-<!ENTITY menu.edit.selall.accesskey   "H" >
-<!ENTITY menu.edit.find.accesskey        "B" >
-<!ENTITY menu.edit.findagain.accesskey   "U" >
-
-<!ENTITY menu.controls.accesskey      "E" >
-<!ENTITY menu.control.play.accesskey  "Y" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "S" >
-<!ENTITY menu.control.prev.accesskey  "Ö" >
-<!ENTITY menu.control.shuf.accesskey  "K" >
-<!ENTITY menu.control.repa.accesskey  "T" >
-<!ENTITY menu.control.rep1.accesskey  "B" >
-<!ENTITY menu.control.repx.accesskey  "Ç" >
-<!ENTITY menu.control.jumpto.accesskey "A" >
-
-
-<!ENTITY menu.tools.accesskey            "A" >
-<!ENTITY menu.tools.getartwork.accesskey "B" >
-
-<!ENTITY menu.tools.reveal             "Dosyayı Görüntüle" >
-<!ENTITY menu.tools.reveal.accesskey   "O" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "Y" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "N" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "Klasörleri İzle">
+<!ENTITY watchfolder.folderlist "Yeni ortam dosyaları için bu klasörleri izle:">
+<!ENTITY locale.language "Dil">
+<!ENTITY menu.view "Görünüm">
+<!ENTITY about.version "Sürüm">
+<!ENTITY about.buttons.credits "Ekip">
+<!ENTITY equalizer.title "Ekolayzır">
+<!ENTITY equalizer.on.checkbox "Açık">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Özel">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Yumuşak Rock">
+<!ENTITY equalizer.preset.techno "Tekno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Canlı">
+<!ENTITY equalizer.preset.club "kulüb">
+<!ENTITY equalizer.preset.party "Parti">
+<!ENTITY equalizer.preset.classical "Klasik">
+<!ENTITY equalizer.preset.large_hall "Büyük Hol">
+<!ENTITY equalizer.preset.dance "Dans">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Yumuşak">
+<!ENTITY equalizer.preset.small_speakers "Dizüsüt/Kulaklık">
+<!ENTITY equalizer.preset.full_bass_treble "Tamamen Bas ve Tiz">
+<!ENTITY equalizer.preset.full_treble "Full Tiz">
+<!ENTITY equalizer.preset.full_bass "Tamamen Bass">
+<!ENTITY setupprogress.pleasewait "Lütfen bekleyin…">
+<!ENTITY setupprogress.cancel "İptal">
+<!ENTITY menu.file.accesskey "D">
+<!ENTITY menu.file.new.accesskey "L">
+<!ENTITY menu.file.smart.accesskey "A">
+<!ENTITY menu.file.remote.accesskey "B">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY menu.file.playlist.accesskey "T">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "M">
+<!ENTITY menu.file.closetab.accesskey "A">
+<!ENTITY menu.file.scan.accesskey "R">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "G">
+<!ENTITY menu.preferences.accesskey "S">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "E">
+<!ENTITY menu.clearprivatedata.accesskey "V">
+<!ENTITY menu.errorconsole.accesskey "H">
+<!ENTITY menu.file.exit.accesskey "Ç">
+<!ENTITY menu.downloadmgr.accesskey "İ">
+<!ENTITY menu.edit.accesskey "Ü">
+<!ENTITY menu.edit.undo.accesskey "G">
+<!ENTITY menu.edit.redo.accesskey "N">
+<!ENTITY menu.edit.cut.accesskey "E">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY menu.edit.paste.accesskey "Y">
+<!ENTITY menu.edit.delete.accesskey "S">
+<!ENTITY menu.edit.selall.accesskey "H">
+<!ENTITY menu.edit.find.accesskey "B">
+<!ENTITY menu.edit.findagain.accesskey "U">
+<!ENTITY menu.controls.accesskey "E">
+<!ENTITY menu.control.play.accesskey "Y">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "S">
+<!ENTITY menu.control.prev.accesskey "Ö">
+<!ENTITY menu.control.shuf.accesskey "K">
+<!ENTITY menu.control.repa.accesskey "T">
+<!ENTITY menu.control.rep1.accesskey "B">
+<!ENTITY menu.control.repx.accesskey "Ç">
+<!ENTITY menu.control.jumpto.accesskey "A">
+<!ENTITY menu.tools.accesskey "A">
+<!ENTITY menu.tools.getartwork.accesskey "B">
+<!ENTITY menu.tools.reveal "Dosyayı Görüntüle">
+<!ENTITY menu.tools.reveal.accesskey "O">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "Y">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "N">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Meta Bilgisi Düzenleyici" >
-<!ENTITY trackeditor.tab.summary.title            "Özet" >
-<!ENTITY trackeditor.tab.edit.title               "Özellikler" >
-<!ENTITY trackeditor.tab.lyrics.title             "Şarkı Sözleri" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Meta Bilgisi Düzenleyici">
+<!ENTITY trackeditor.tab.summary.title "Özet">
+<!ENTITY trackeditor.tab.edit.title "Özellikler">
+<!ENTITY trackeditor.tab.lyrics.title "Şarkı Sözleri">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Etiket Ekle" >
-<!ENTITY trackeditor.addtag.tag       "Etiket:" >
-
-<!ENTITY jumptofile.title             "Atla" >
-<!ENTITY jumptofile.search            "Ara:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Sistem genelinde geçerli olan kısayol tuşlarını kullan" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Eylem" >
-<!ENTITY hotkeys.hotkey               "Kısayol" >
-<!ENTITY hotkeys.add                  "Ekle" >
-<!ENTITY hotkeys.set                  "Ayarla" >
-<!ENTITY hotkeys.remove               "Kaldır" >
-<!ENTITY hotkeys.prefpane             "Kısayollar" >
-<!ENTITY hotkeys.info                 "Sistem genelinde geçerli olan kısayol toşları &brandShortName; açık değilken bile &brandShortName;&apos;e ulaşmanızı sağlar. Diğer programların kısayollarıyla karışmaması için bazı kısayol kombinasyonlarının ayırt edici tuşlar içermesi gerekir." >
-
-<!ENTITY rapi.prefpane.title             "Web Bütünleşmesi" >
-<!ENTITY rapi.prefpane.access.caption    "Web Bütünleşmesi İzinleri" >
-<!ENTITY rapi.prefpane.access.text       "Web ile ortam dosyalarınızın daha sıkı ilişkilenmesi için web sitelerine &brandShortName; ile bütünleşmesi için izin verebilirsiniz. Lütfen &brandShortName; ayarlarını aşağıdaki bütünleşme noktaları için izin verecek ya da engelleyecek şekilde ayarlayın." >
-<!ENTITY rapi.whitelist.label            "İstisnalar…" >
-<!ENTITY rapi.restore_defaults.label      "Varsayılan Ayarlara Dön" >
-<!ENTITY rapi.playback_control_disable.label "Ortam yürütme denetimini ele alan siteleri engelle" >
-<!ENTITY rapi.playback_read_disable.label    "Web sitelerinin çalan ortam dosyaları hakkındaki bilgileri görmesini engelle" >
-<!ENTITY rapi.library_read_disable.label     "Web sitelerinin Kütüphane ve aygıtlarımdaki ortam dosyaları hakkındaki bilgileri görüntülemesini engelle" >
-<!ENTITY rapi.library_write_disable.label    "Web sitelerinin kütüphane ve aygıtlarımdaki ortam ve çalma listelerini değiştirmesini/düzenlemesini engelle" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Eklentiler">
-<!ENTITY prefpane.content.label       "Web İçeriği">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "USB depolama aygıtı bağlanmadı." >
-<!ENTITY umsd.music.tab                     "Müzik" >
-<!ENTITY umsd.music.music_files_group       "Müzik dosyaları" >
-<!ENTITY umsd.music.music_path_desc         "Aygıta müzik kopyalarken, onları şu klasöre yerleştir:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Müzik dosyalarının yerleştirileceği aygıt klasörünü seçin." >
-<!ENTITY umsd.music.music_ext_desc          "Bu uzantıya sahip müzikleri aygıta kopyala:" >
-<!ENTITY umsd.video.tab                     "Video" >
-<!ENTITY umsd.video.video_files_group       "Video dosyaları" >
-<!ENTITY umsd.video.video_path_desc         "Aygıta video kopyalarken, onları şu klasöre yerleştir:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Video dosyalarının yerleştireceği aygıt klasörünü seçin." >
-<!ENTITY umsd.video.video_ext_desc          "Bu uzantıya sahip videoları aygıta kopyala:" >
-
-<!ENTITY device.error.dialog.link           "Hata Detaylarını Göster" >
-
-<!ENTITY restartbox.restartnow        "Şimdi Yeniden Başlat" >
-<!ENTITY restartbox.restartonplaybackend "Çalma Bittiğinde Yeniden Başlat" >
-<!ENTITY restartbox.restartlater      "Daha Sonra Yeniden Başlat" >
-
-<!ENTITY setupprogress.installingextensions "Eklentiler Yükleniyor" >
-
-<!ENTITY jobprogress.details "Ayrıntılar" >
-
-<!ENTITY menu.updateCmd.label          "Güncellemeleri Kontrol Et…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "M" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "G" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Sil" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Boşluk Tuşu" >
-
+<!ENTITY trackeditor.addtag.title "Etiket Ekle">
+<!ENTITY trackeditor.addtag.tag "Etiket:">
+<!ENTITY jumptofile.title "Atla">
+<!ENTITY jumptofile.search "Ara:">
+<!ENTITY hotkeys.useglobalhotkeys "Sistem genelinde geçerli olan kısayol tuşlarını kullan">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Eylem">
+<!ENTITY hotkeys.hotkey "Kısayol">
+<!ENTITY hotkeys.add "Ekle">
+<!ENTITY hotkeys.set "Ayarla">
+<!ENTITY hotkeys.remove "Kaldır">
+<!ENTITY hotkeys.prefpane "Kısayollar">
+<!ENTITY hotkeys.info "Sistem genelinde geçerli olan kısayol toşları &brandShortName; açık değilken bile &brandShortName;&apos;e ulaşmanızı sağlar. Diğer programların kısayollarıyla karışmaması için bazı kısayol kombinasyonlarının ayırt edici tuşlar içermesi gerekir.">
+<!ENTITY rapi.prefpane.title "Web Bütünleşmesi">
+<!ENTITY rapi.prefpane.access.caption "Web Bütünleşmesi İzinleri">
+<!ENTITY rapi.prefpane.access.text "Web ile ortam dosyalarınızın daha sıkı ilişkilenmesi için web sitelerine &brandShortName; ile bütünleşmesi için izin verebilirsiniz. Lütfen &brandShortName; ayarlarını aşağıdaki bütünleşme noktaları için izin verecek ya da engelleyecek şekilde ayarlayın.">
+<!ENTITY rapi.whitelist.label "İstisnalar…">
+<!ENTITY rapi.restore_defaults.label "Varsayılan Ayarlara Dön">
+<!ENTITY rapi.playback_control_disable.label "Ortam yürütme denetimini ele alan siteleri engelle">
+<!ENTITY rapi.playback_read_disable.label "Web sitelerinin çalan ortam dosyaları hakkındaki bilgileri görmesini engelle">
+<!ENTITY rapi.library_read_disable.label "Web sitelerinin Kütüphane ve aygıtlarımdaki ortam dosyaları hakkındaki bilgileri görüntülemesini engelle">
+<!ENTITY rapi.library_write_disable.label "Web sitelerinin kütüphane ve aygıtlarımdaki ortam ve çalma listelerini değiştirmesini/düzenlemesini engelle">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Eklentiler">
+<!ENTITY prefpane.content.label "Web İçeriği">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "USB depolama aygıtı bağlanmadı.">
+<!ENTITY umsd.music.tab "Müzik">
+<!ENTITY umsd.music.music_files_group "Müzik dosyaları">
+<!ENTITY umsd.music.music_path_desc "Aygıta müzik kopyalarken, onları şu klasöre yerleştir:">
+<!ENTITY umsd.music.music_path_browse_msg "Müzik dosyalarının yerleştirileceği aygıt klasörünü seçin.">
+<!ENTITY umsd.music.music_ext_desc "Bu uzantıya sahip müzikleri aygıta kopyala:">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Video dosyaları">
+<!ENTITY umsd.video.video_path_desc "Aygıta video kopyalarken, onları şu klasöre yerleştir:">
+<!ENTITY umsd.video.video_path_browse_msg "Video dosyalarının yerleştireceği aygıt klasörünü seçin.">
+<!ENTITY umsd.video.video_ext_desc "Bu uzantıya sahip videoları aygıta kopyala:">
+<!ENTITY device.error.dialog.link "Hata Detaylarını Göster">
+<!ENTITY restartbox.restartnow "Şimdi Yeniden Başlat">
+<!ENTITY restartbox.restartonplaybackend "Çalma Bittiğinde Yeniden Başlat">
+<!ENTITY restartbox.restartlater "Daha Sonra Yeniden Başlat">
+<!ENTITY setupprogress.installingextensions "Eklentiler Yükleniyor">
+<!ENTITY jobprogress.details "Ayrıntılar">
+<!ENTITY menu.updateCmd.label "Güncellemeleri Kontrol Et…">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "M">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "G">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Sil">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Boşluk Tuşu">
 <!ENTITY tabs.closeTab "Sekmeyi kapat">
 <!ENTITY tabs.listAllTabs "Sekmeleri listele">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator " - " >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Ana Sayfa" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Eklenti Yükleme" >
-
+<!ENTITY prefs.homepage.label "Ana Sayfa">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Eklenti Yükleme">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "İptal">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "Kopyalamayı İptal Et">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "Silmeyi İptal Et">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "Eşitlemeyi İptal Et">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "Güncellemeyi İptal Et">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "Çıkar">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Biçim">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Yoksay">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Bilgi Edin">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Yeniden Adlandır">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Eşitle">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "İptal">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Kopyalamayı İptal Et">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Silmeyi İptal Et">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Eşitlemeyi İptal Et">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Güncellemeyi İptal Et">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Çıkar">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Biçim">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Yoksay">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Bilgi Edin">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Yeniden Adlandır">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Eşitle">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "CD Kaydet">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Kaydı Durdur">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "CD Bilgisine Bak">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "CD Çıkart">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Cihazımı onar">
-
-<!ENTITY device.firmware.wizard.title                     "Cihaz Yazılımını Güncelle">
-<!ENTITY device.firmware.wizard.check.page.title          "Yeni Yazılım Kontrolü">
-<!ENTITY device.firmware.wizard.check.progress.title      "Yazılımın yeni sürümü kontrol ediliyor…">
+<!ENTITY command.device.rip "CD Kaydet">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Kaydı Durdur">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "CD Bilgisine Bak">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "CD Çıkart">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Cihazımı onar">
+<!ENTITY device.firmware.wizard.title "Cihaz Yazılımını Güncelle">
+<!ENTITY device.firmware.wizard.check.page.title "Yeni Yazılım Kontrolü">
+<!ENTITY device.firmware.wizard.check.progress.title "Yazılımın yeni sürümü kontrol ediliyor…">
 <!ENTITY device.firmware.wizard.check.install.description "Yeni donanım yazılımı güncellemesi 10 dk &apos;dan daha az sürer.  Güncellemeleri daha sonra yapabilirsiniz .">
 <!ENTITY device.firmware.wizard.check.already.description "Aygıtınızda bulunan aygıt yazılımı en güncel versiyonudur.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Sürüm Notları">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Devam edebilmesi için cihazınızın firmware modunda bağlanması gerekiyor. Firmware modu almak için lütfen aşağıdaki talimatlara uyun. ">
-<!ENTITY device.firmware.wizard.download.title            "Yeni Sürüm İndiriliyor.">
-<!ENTITY device.firmware.wizard.repair.time.description   "Cihazı tekrar eski yazılıma geri almak 5 dk &apos;dan az sürecektir.">
-<!ENTITY device.firmware.wizard.repair.warning            "Cihazı geri yükleme  içerisindeki tüm bilgileri silecektir. İşleme başlamadan tüm bilgilerinizi yedeğini alın.">
-<!ENTITY device.firmware.wizard.install.title             "Yazılım Kuruluyor">
-
-<!ENTITY device.firmware.wizard.busy.description  "Cihazınız meşgul gözüküyor , Donanım yazılımı sadece cihaz boşta iken yüklenebilir.">
+<!ENTITY device.firmware.wizard.download.title "Yeni Sürüm İndiriliyor.">
+<!ENTITY device.firmware.wizard.repair.time.description "Cihazı tekrar eski yazılıma geri almak 5 dk &apos;dan az sürecektir.">
+<!ENTITY device.firmware.wizard.repair.warning "Cihazı geri yükleme  içerisindeki tüm bilgileri silecektir. İşleme başlamadan tüm bilgilerinizi yedeğini alın.">
+<!ENTITY device.firmware.wizard.install.title "Yazılım Kuruluyor">
+<!ENTITY device.firmware.wizard.busy.description "Cihazınız meşgul gözüküyor , Donanım yazılımı sadece cihaz boşta iken yüklenebilir.">
 <!ENTITY device.firmware.wizard.retry.description "Lütfen cihaz şuanki operasyonunu tamamladıktan sonra tekrar deneyin.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "Yeni aygıt yazılımı kontrol edilirken bir sorun oluştu.Lütfen bağlantınızı doğrulayın ve tekrar deneyin.">
+<!ENTITY device.firmware.wizard.check.error.description "Yeni aygıt yazılımı kontrol edilirken bir sorun oluştu.Lütfen bağlantınızı doğrulayın ve tekrar deneyin.">
 <!ENTITY device.firmware.wizard.download.error.description "Yeni güncelleme indirilirken bir hata oluştu. Ağ ayarlarınız kontrol edip tekrar deneyiniz.">
-<!ENTITY device.firmware.wizard.support.description        "Sıkça Sorulan Sorular gibi Destek kaynakları ve sorun giderme ipuçları bulabilirsiniz">
-
-<!ENTITY device.info.icon.device            "Genel cihaz simgesi">
-<!ENTITY device.info.icon.readonly          "Salt-okunur  kilit simgesi">
-<!ENTITY device.info.model.label            "Model">
-<!ENTITY device.info.capacity.label         "Kapasite">
-<!ENTITY device.info.product.label          "Ürün">
-<!ENTITY device.info.friendly_name.label    "Adı">
-<!ENTITY device.info.serial_number.label    "Seri Numarası">
-<!ENTITY device.info.vendor.label           "Üretici">
-<!ENTITY device.info.access.label           "Erişim Uyumluluğu">
+<!ENTITY device.firmware.wizard.support.description "Sıkça Sorulan Sorular gibi Destek kaynakları ve sorun giderme ipuçları bulabilirsiniz">
+<!ENTITY device.info.icon.device "Genel cihaz simgesi">
+<!ENTITY device.info.icon.readonly "Salt-okunur  kilit simgesi">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY device.info.capacity.label "Kapasite">
+<!ENTITY device.info.product.label "Ürün">
+<!ENTITY device.info.friendly_name.label "Adı">
+<!ENTITY device.info.serial_number.label "Seri Numarası">
+<!ENTITY device.info.vendor.label "Üretici">
+<!ENTITY device.info.access.label "Erişim Uyumluluğu">
 <!ENTITY device.info.playback_formats.label "Yürütme Biçimleri">
-<!ENTITY device.info.battery.label          "Pil">
+<!ENTITY device.info.battery.label "Pil">
 <!ENTITY device.info.firmware_version.label "Cihaz Yazılımı Versiyonu">
-
-<!ENTITY device.progress.sync               "Eşitle">
-
-<!ENTITY device.capacity.music.label    "Müzik">
-<!ENTITY device.capacity.video.label    "Video">
-<!ENTITY device.capacity.image.label    "Fotoğraf">
-<!ENTITY device.capacity.other.label    "Diğer">
-<!ENTITY device.capacity.free.label     "Boş">
-
-<!ENTITY device.unsupported_media.dialog.title  "Uyumsuz Dosyalar Bulundu">
+<!ENTITY device.progress.sync "Eşitle">
+<!ENTITY device.capacity.music.label "Müzik">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Fotoğraf">
+<!ENTITY device.capacity.other.label "Diğer">
+<!ENTITY device.capacity.free.label "Boş">
+<!ENTITY device.unsupported_media.dialog.title "Uyumsuz Dosyalar Bulundu">
 <!ENTITY device.unsupported_media.dialog.enable "Uyumsuz dosyalar bulunduğunda bana haber ver">
-
 <!ENTITY device.sync.header.label "Eşitleme Ayarları">
 <!ENTITY device.import.header.label "Al">
 <!ENTITY device.sync.auto_sync.label "Eşitle">
@@ -510,7 +449,6 @@
 <!ENTITY device.sync.images.selected.label "Seçilmiş alt klasörler">
 <!ENTITY device.sync.images.foldername "Klasör Adı">
 <!ENTITY device.sync.images.filecount "Fotoğraf">
-
 <!ENTITY device.settings.header.label "Ayarlar">
 <!ENTITY device.settings.general.label "Genel">
 <!ENTITY device.settings.auto_launch.checkbox.label "Algılandığında , &brandShortName; adlı cihazı aç">
@@ -520,219 +458,183 @@
 <!ENTITY device.settings.disk.label "Disk Yönetimi">
 <!ENTITY device.settings.disk.management.label "Dizin yapısını özelleştir">
 <!ENTITY device.settings.disk.management.filename "Şarkı Dosyaları">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Kodlamayı otomatik ayarla">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Elle bitrate ve format tanımı">
 <!ENTITY device.settings.music.transcoding.format.label "Kodlama formatı">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Müzik">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY device.management.tabs.image.label "Fotoğraflar">
 <!ENTITY device.management.tabs.tools.label "Araçlar">
 <!ENTITY device.management.tabs.settings.label "Ayarlar">
-
 <!ENTITY device.tools.product_registration.title "Ürün Kaydı">
 <!ENTITY device.tools.product_registration.description "Satın alma kanıtı sağlamak, ek ürün üyeliği fardaları ya da güvenlik bildirimleri almak ister misiniz?">
 <!ENTITY device.tools.product_registration.label "Ürünü Kadet">
-
 <!ENTITY device.tools.update_firmware.title "Yazılım Güncellendi">
 <!ENTITY device.tools.update_firmware.description "Cihazınız firmware adı verilen bir yazılımla kontrol edilir. Bilgisayarınıza en son bağladığınızdan beri yeni bir sürümü çıkmış olabilir.">
 <!ENTITY device.tools.update_firmware.label "Yazılımı güncellemek içinkontrol et ">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Şuanki Yazılımın Versiyonu">
-
 <!ENTITY device.tools.restore_device.title "Yedekleme Cihazı">
 <!ENTITY device.tools.restore_device.description "Cihazı fabrika ayarlarına geri yüklemek cihazınızdaki firmware ve ayarların yanı sıra tüm medyayı siler.">
 <!ENTITY device.tools.restore_device.label "Yedekleme Cihazından Fabrika Ayarlarına">
-
 <!ENTITY device.tools.format_device.title "Cihazı Biçimlendir.">
 <!ENTITY device.tools.format_device.description "Cihaz biçimlendirmek cihazdaki tüm verileri silecek.">
 <!ENTITY device.tools.format_device.label "Cihazı Biçimlendir.">
 <!ENTITY device.tools.format_volume.button.label "Biçimlendir">
-
 <!ENTITY device.tools.support.title "Destek">
 <!ENTITY device.tools.support.description "En son destek haberleri, kullanım kılavuzları, belgeler, sık sorulan sorular ve ürün bilgilerine bakın. Destek hizmetleri kendi ürünü kayıtlı olan müşteriler için kullanılabilir.">
 <!ENTITY device.tools.support.label "Destek kaynakların gör">
-
 <!ENTITY device.tools.reset_warnings.title "Uyarıları sıfırla">
 <!ENTITY device.tools.reset_warnings.description "Uyarı balonlarını sıfırlamakla, tamamlamayı düşündüğünüz belli işlerde balonların sizi uyarmasını sağlar. ">
 <!ENTITY device.tools.reset_warnings.label "Uyarı mesajlarını sıfırla">
-
 <!ENTITY device.dialog.setup.title "Cihaz Kurulumu">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "&brandShortName; Yönetmek istediğiniz depolama birimini seçin:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Bu cihazı engelle/yoksay">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Fosters others growth by identifying specific developmental and learning opportunities ">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Eğer &brandShortName; bu cihazı yönetmesini istemiyorsanız, şunu yapın">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "Bu cihazı yoksay">
 <!ENTITY device.dialog.setup.explainIgnore.afterText " .">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Bağlantıyı Varsayılan Web Tarayıcısı ile Aç">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Sayfayı Varsayılan Web Tarayıcısı ile Aç">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Çerçeveyi Varsayılan Web Tarayıcısı ile Aç">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Resmi Varsayılan Web Tarayıcısı ile Aç">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Seçili Metni Kopyala">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "Yürüt">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Kütüphaneye İndir">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Çalma listesine indir">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Çalma Listesi Yok&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Yeni Çalma Listesi">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Bu Sayfaya Abone Ol…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Bu Çerçeveye Abone Ol…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "&brandShortName;&apos;ün Geliştirilmesine Yardımcı Olun!">
-<!ENTITY feedback.dialog.yes        "Evet">
-<!ENTITY feedback.dialog.no         "Hayır">
-<!ENTITY feedback.dialog.sentence1  "&brandShortName;&apos;ü geliştirmemize yardımcı olacak kısa bir ankete katılmak ister misiniz?">
-<!ENTITY feedback.dialog.sentence2  "İlgilenmiyorsanız bir daha sormayacağız. &brandShortName;&apos;ü kullandığınız için teşekkür ederiz!">
-<!ENTITY feedback.dialog.sentence3  "İyi dileklerle,">
-<!ENTITY feedback.dialog.sentence4  "&brandShortName; Takımı">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Bağlantıyı Varsayılan Web Tarayıcısı ile Aç">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Sayfayı Varsayılan Web Tarayıcısı ile Aç">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Çerçeveyi Varsayılan Web Tarayıcısı ile Aç">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Resmi Varsayılan Web Tarayıcısı ile Aç">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Seçili Metni Kopyala">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Yürüt">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Kütüphaneye İndir">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Çalma listesine indir">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Çalma Listesi Yok&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Yeni Çalma Listesi">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Bu Sayfaya Abone Ol…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Bu Çerçeveye Abone Ol…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "&brandShortName;&apos;ün Geliştirilmesine Yardımcı Olun!">
+<!ENTITY feedback.dialog.yes "Evet">
+<!ENTITY feedback.dialog.no "Hayır">
+<!ENTITY feedback.dialog.sentence1 "&brandShortName;&apos;ü geliştirmemize yardımcı olacak kısa bir ankete katılmak ister misiniz?">
+<!ENTITY feedback.dialog.sentence2 "İlgilenmiyorsanız bir daha sormayacağız. &brandShortName;&apos;ü kullandığınız için teşekkür ederiz!">
+<!ENTITY feedback.dialog.sentence3 "İyi dileklerle,">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; Takımı">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "&brandShortName; Hoşgeldiniz">
-
+<!ENTITY mediapages.firstrun.title "&brandShortName; Hoşgeldiniz">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName; Kurulumu">
-
+<!ENTITY first_run.title "&brandShortName; Kurulumu">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Önerilen Eklentiler">
+<!ENTITY first_run.add_ons.header.label "Önerilen Eklentiler">
 <!ENTITY first_run.add_ons.description.line1 "Eklentiler ortam yürütücünüzü kişiselleştirerek &brandShortName;&apos;ün işlevselliğini artırır. Aşağıdaki seçenekler şiddetle tavsiye edilir.">
 <!ENTITY first_run.add_ons.description.line2 "Eklentilerle &brandShortName;&apos;ü diğer uygulama ve servislerle bütünleştirebilir, harici aygıtlara bağlayabilir, uygulamanın görünümünü değiştirebilir ve daha fazlasını yapabilirsiniz. &brandShortName; Eklenti sitesinden çeşitli eklentiler indirebilirsiniz.">
-<!ENTITY first_run.add_ons.loading.label     "Önerilen eklentiler alınıyor.">
+<!ENTITY first_run.add_ons.loading.label "Önerilen eklentiler alınıyor.">
 <!ENTITY first_run.add_ons.load_failed.label "Önerilen eklentiler alınamadı.">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Yükseltgenme Kurulum için Hazır">
 <!ENTITY first_run.app_update.finished.text "Güncelleme &brandShortName; yeniden başlatıldığında kurulacak.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; İnternete Bağlanamıyor">
-<!ENTITY first_run.connection.description          "Bağlantı Ayarlarınızı kontrol edin yada Kurulum yardımcısına Danışın.">
-<!ENTITY first_run.connection.settings.button      "Bağlantı Ayarları…">
+<!ENTITY first_run.connection.header.label "&brandShortName; İnternete Bağlanamıyor">
+<!ENTITY first_run.connection.description "Bağlantı Ayarlarınızı kontrol edin yada Kurulum yardımcısına Danışın.">
+<!ENTITY first_run.connection.settings.button "Bağlantı Ayarları…">
 <!ENTITY first_run.connection.settings.description "Bilgisayarınız ya da ağınız bir güvenlik duvarı ya da proxy tarafından korunuyor mu? Hatalı Bağlantı Ayarlarını düzeltmek genel ağ sorunlarını çözmenize yardımcı olabilir.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Lisans Anlaşması">
+<!ENTITY first_run.eula.header.label "Lisans Anlaşması">
 <!ENTITY first_run.eula.accept_checkbox.label "Lisans anlaşmasının maddelerini okudum ve kabul ediyorum.">
-<!ENTITY first_run.eula.language.label        "Dil:">
-
+<!ENTITY first_run.eula.language.label "Dil:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "&brandShortName;&apos;ün Geliştirilmesine Yardımcı Olun!">
-<!ENTITY first_run.feedback.description             "Bize uygulamayı nasıl kullandığınıza dair anonim istatistikler göndererek &brandShortName;&apos;ü geliştirmemize yardımcı olur musunuz?">
-<!ENTITY first_run.feedback.metrics.label           "Kullanım istatistiğini topla ve &brandShortName; ekibine gönder">
-<!ENTITY first_run.feedback.metrics.description     "Toplanan isatistik ölçümleri tamamen anonimdir ve kesinlikle kişisel bilgi toplanmaz.">
-<!ENTITY first_run.feedback.email.header.label      "Beni Haberdar Et">
-<!ENTITY first_run.feedback.email.description       "Yeni sürümlerden ve önemli güncellemelerden haberdar olmak için bültenimize abone olun.">
+<!ENTITY first_run.feedback.header.label "&brandShortName;&apos;ün Geliştirilmesine Yardımcı Olun!">
+<!ENTITY first_run.feedback.description "Bize uygulamayı nasıl kullandığınıza dair anonim istatistikler göndererek &brandShortName;&apos;ü geliştirmemize yardımcı olur musunuz?">
+<!ENTITY first_run.feedback.metrics.label "Kullanım istatistiğini topla ve &brandShortName; ekibine gönder">
+<!ENTITY first_run.feedback.metrics.description "Toplanan isatistik ölçümleri tamamen anonimdir ve kesinlikle kişisel bilgi toplanmaz.">
+<!ENTITY first_run.feedback.email.header.label "Beni Haberdar Et">
+<!ENTITY first_run.feedback.email.description "Yeni sürümlerden ve önemli güncellemelerden haberdar olmak için bültenimize abone olun.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "güncel kalmak için e-posta adresinizi girin">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "İTunes İçeAktar/DışaAktar">
-<!ENTITY first_run.itunes.description                   "iTunes&apos;u yüklemiş gözüküyorsunuz. &brandShortName; ile iTunes ve &brandShortName;  arasında parçaları alıp verebilir böylelikle kütüphanenizi senkronize edebilirsiniz. ">
-<!ENTITY first_run.itunes.checkbox.import.label         "Parçaları ve Çalma listelerini iTunes&apos;ten al.">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts ve müzik iTunes&apos;dan satın alınabilinir. Mağaza &brandShortName; import edilebilinir. Eğer ki ana müzik oynatıcısı olarak kullanılması düşünülüyorsa bu özellik çok iyi çalışacaktır.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Yeni parçaları ve listeleri iTunes&apos;a aktar">
-<!ENTITY first_run.itunes.checkbox.export.description   "&brandShortName; elde edilen müzik, iTunes&apos;a gönderilebilinir böylelikle iPod ve iPhone&apos;a transfer edilebilinir. ">
-
+<!ENTITY first_run.itunes.header.label "İTunes İçeAktar/DışaAktar">
+<!ENTITY first_run.itunes.description "iTunes&apos;u yüklemiş gözüküyorsunuz. &brandShortName; ile iTunes ve &brandShortName;  arasında parçaları alıp verebilir böylelikle kütüphanenizi senkronize edebilirsiniz. ">
+<!ENTITY first_run.itunes.checkbox.import.label "Parçaları ve Çalma listelerini iTunes&apos;ten al.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts ve müzik iTunes&apos;dan satın alınabilinir. Mağaza &brandShortName; import edilebilinir. Eğer ki ana müzik oynatıcısı olarak kullanılması düşünülüyorsa bu özellik çok iyi çalışacaktır.">
+<!ENTITY first_run.itunes.checkbox.export.label "Yeni parçaları ve listeleri iTunes&apos;a aktar">
+<!ENTITY first_run.itunes.checkbox.export.description "&brandShortName; elde edilen müzik, iTunes&apos;a gönderilebilinir böylelikle iPod ve iPhone&apos;a transfer edilebilinir. ">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Ortamı İçe Aktar">
-<!ENTITY first_run.import_media.description                  "Hangi ortamı &brandShortName;&apos;e aktarmak istediğinizi seçiniz. &brandShortName; açıldıktan sonra ortam ekleyebilirsiniz.">
+<!ENTITY first_run.import_media.header.label "Ortamı İçe Aktar">
+<!ENTITY first_run.import_media.description "Hangi ortamı &brandShortName;&apos;e aktarmak istediğinizi seçiniz. &brandShortName; açıldıktan sonra ortam ekleyebilirsiniz.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Bilgisayarımdaki klasörleri tara">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Ortamı içe aktarma">
+<!ENTITY first_run.import_media.radio.dont_import.label "Ortamı içe aktarma">
 <!ENTITY first_run.import_media.scan_directories.description "&brandShortName;&apos;ün bilgisayarınızdaki belirtilen klasörleri tarayıp ortam dosyalarını kütüphaneye aktarmasını istiyor musunuz?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Bu klasördeki değişiklikleri takip et">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Eklenti İndirme">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "&brandShortName;&apos;e Hoş Geldiniz">
+<!ENTITY first_run.welcome.header.label "&brandShortName;&apos;e Hoş Geldiniz">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; geleneksel masaüstü ortam yürütücülerine istenilen şekilde kişiselleştirilebilen bir alternatiftir.">
 <!ENTITY first_run.welcome.description.line2 "Birazdan uygulamayı çalıştırmak için hızlıca ayarlar yapabileceğiniz seçenekler gelecektir.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Ortam İçe Aktarıcısı">
-
+<!ENTITY import_media.prefs.title "Ortam İçe Aktarıcısı">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Bir kütüphaneyi içe aktar">
-<!ENTITY import_library.prefs.title                       "iTunes">
-<!ENTITY import_library.library_file_label                "Kütüphane Dosyası:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Desteklenmeyen parçalar ve çalma listeleri olduğunda beni uyar">
-<!ENTITY import_library.prefs.path_group_caption          "iTunes Müzik Kütüphanesi Konumu">
-<!ENTITY import_library.prefs.options_group_caption       "Seçenekleri İçe Aktar/Dışa Aktar">
-<!ENTITY import_library.import_command                    "Kütüphaneyi Aktar">
-<!ENTITY import_tracks_itunes_checkbox                    "iTunes&apos;den şarkıları içe aktar">
-<!ENTITY import_playlists_itunes_checkbox                 "Çalma Listesini İçe Aktar">
-<!ENTITY export_tracks_itunes_checkbox                    "Parçaları iTunes&apos;a aktar">
-<!ENTITY export_playlists_itunes_checkbox                 "Çalma listelerini dışarıya aktar">
-<!ENTITY export_subscriptions_itunes_checkbox             "Abonelikleri aktar">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Akıllı listeleri aktar">
-<!ENTITY importexport_show_notifications_checkbox         "İçeAktarma/DışaAktarma bittiği zaman uyarıyı göster.">
-
+<!ENTITY import_library.dialog.title "Bir kütüphaneyi içe aktar">
+<!ENTITY import_library.prefs.title "iTunes">
+<!ENTITY import_library.library_file_label "Kütüphane Dosyası:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Desteklenmeyen parçalar ve çalma listeleri olduğunda beni uyar">
+<!ENTITY import_library.prefs.path_group_caption "iTunes Müzik Kütüphanesi Konumu">
+<!ENTITY import_library.prefs.options_group_caption "Seçenekleri İçe Aktar/Dışa Aktar">
+<!ENTITY import_library.import_command "Kütüphaneyi Aktar">
+<!ENTITY import_tracks_itunes_checkbox "iTunes&apos;den şarkıları içe aktar">
+<!ENTITY import_playlists_itunes_checkbox "Çalma Listesini İçe Aktar">
+<!ENTITY export_tracks_itunes_checkbox "Parçaları iTunes&apos;a aktar">
+<!ENTITY export_playlists_itunes_checkbox "Çalma listelerini dışarıya aktar">
+<!ENTITY export_subscriptions_itunes_checkbox "Abonelikleri aktar">
+<!ENTITY export_smartplaylists_itunes_checkbox "Akıllı listeleri aktar">
+<!ENTITY importexport_show_notifications_checkbox "İçeAktarma/DışaAktarma bittiği zaman uyarıyı göster.">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Çalma listesi değiştirildi">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Şu anki &brandShortName; çalma listesini koru (Bu çalma listesini aktarma)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "&brandShortName; çalma listeleriyle iTunes çalma listelerini birleştir">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Bu &brandShortName; çalma listesini şu anki iTunes çalma listesiyle değiştir">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Not: Birleştirme ve yer değiştirme geri alınamaz.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Seçimi tüm çalma listelerine uygula">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Çalma listesi değiştirildi">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Şu anki &brandShortName; çalma listesini koru (Bu çalma listesini aktarma)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "&brandShortName; çalma listeleriyle iTunes çalma listelerini birleştir">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Bu &brandShortName; çalma listesini şu anki iTunes çalma listesiyle değiştir">
+<!ENTITY import_library.dirty_playlist_dialog.note "Not: Birleştirme ve yer değiştirme geri alınamaz.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Seçimi tüm çalma listelerine uygula">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "Müzik Kontrol klasörüyle klasör gözetleme aynı dizinde izin vermeyin. Aksi takdirde kütüphanenizde de kopyalanır.">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Klasörleri İzle">
+<!ENTITY watch_folder.prefs.title "Klasörleri İzle">
 <!ENTITY watch_folder.prefs.settings_group_caption "Klasör İzleme Seçenekleri">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; bir klasörün içeriğini izleyebilir ve otomatik olarak içindeki nesneleri ekleyip çıkarabilir.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Bu klasördeki değişiklikleri otomatik olarak izle">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Klasör:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; bir klasörün içeriğini izleyebilir ve otomatik olarak içindeki nesneleri ekleyip çıkarabilir.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Bu klasördeki değişiklikleri otomatik olarak izle">
+<!ENTITY watch_folder.prefs.watch_folder_label "Klasör:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Önerilen Eklentiler">
+<!ENTITY enable_recommended_addons_update.label "Önerilen Eklentiler">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; Yapılandırma">
-
+<!ENTITY recommended_add_ons.title "&brandShortName; Yapılandırma">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Ayrıntılar">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Ayrıntılar">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Çalan şarkı yok" >
-<!ENTITY albumart.displaypane.not_selected_message  "Seçili öğe yok" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Albüm kapağını buraya sürükleyin" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Seçileni Göster" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Yürütüleni Göster" >
+<!ENTITY albumart.displaypane.not_playing_message "Çalan şarkı yok">
+<!ENTITY albumart.displaypane.not_selected_message "Seçili öğe yok">
+<!ENTITY albumart.displaypane.drag_and_drop "Albüm kapağını buraya sürükleyin">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Seçileni Göster">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Yürütüleni Göster">
 <!ENTITY albumart.displaypane.selected.menu.cut "Kes">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopyala">
 <!ENTITY albumart.displaypane.selected.menu.paste "Yapıştır">
 <!ENTITY albumart.displaypane.selected.menu.clear "Temizle">
 <!ENTITY albumart.coverpreview.title "Albüm Kapak Resmi">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Albüm Kapağı">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Albüm Kapağını Şarkıya Göm">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "&brandShortName; uygun medya dosyalarının tag&apos;lerinde albüm kapağını gömmesine izin verecektir.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Dosya isimlerini ara :">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Dosya isimlerini aralarına virgül koyarak girin">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Dosya uzantılarını ara">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Uzantı isimlerini aralarına virgül koyarak girin">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Arama Öncelikleri">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Öncelikli olarak kullanılacak arama motorlarını üste koy.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Yukarı">
@@ -740,62 +642,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Sıfırla">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Albüm Kapağını Otomatik-Alma ">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Albüm kapağı bulma işlevi; seçtiğiniz ayarlara göre, çalınan ya da seçilen şarkının albüm kapağını bulur. Bu özellik etkinleştirildiğinde program performansını etkileyebilir.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Geri Git">
-<!ENTITY wizard.button.back.accesskey  "G">
-<!ENTITY wizard.button.cancel.label    "İptal">
-<!ENTITY wizard.button.next.label      "Devam">
-<!ENTITY wizard.button.next.accesskey  "D">
-<!ENTITY wizard.button.finish.label    "Son">
-
+<!ENTITY wizard.button.back.label "Geri Git">
+<!ENTITY wizard.button.back.accesskey "G">
+<!ENTITY wizard.button.cancel.label "İptal">
+<!ENTITY wizard.button.next.label "Devam">
+<!ENTITY wizard.button.next.accesskey "D">
+<!ENTITY wizard.button.finish.label "Son">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Ortam Çekirdeği Hatası">
-<!ENTITY mediacore.error.preface  "&brandShortName; şu ortam çekirdeği hatasıyla karşılaştı:">
+<!ENTITY mediacore.error.title "Ortam Çekirdeği Hatası">
+<!ENTITY mediacore.error.preface "&brandShortName; şu ortam çekirdeği hatasıyla karşılaştı:">
 <!ENTITY mediacore.error.continue "Devam et">
-<!ENTITY mediacore.error.stop     "Yürütmeyi Durdur">
+<!ENTITY mediacore.error.stop "Yürütmeyi Durdur">
 <!ENTITY mediacore.error.dontshowme "Artık ortam çekirdeği hatalarını gösterme">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Lütfen eksik codecler hakkında daha fazla bilgi için">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Medya Alma Uyarısı">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Lütfen eksik codecler hakkında daha fazla bilgi için">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Desteklenmeyen video dosyalarını alırken bir daha beni uyarma.">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Kayıttan Yürütme">
-
-<!ENTITY playback.prefpane.audio_output.label   "Ses Çıktısı">
-<!ENTITY playback.prefpane.audio_output.buffer  "Çıkış Tampon Belleği">
-
-<!ENTITY playback.prefpane.streaming.label      "Ağ ve Akış">
-<!ENTITY playback.prefpane.streaming.buffer     "Akış Tampon Belleği:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalleştirme">
+<!ENTITY playback.prefpane.label "Kayıttan Yürütme">
+<!ENTITY playback.prefpane.audio_output.label "Ses Çıktısı">
+<!ENTITY playback.prefpane.audio_output.buffer "Çıkış Tampon Belleği">
+<!ENTITY playback.prefpane.streaming.label "Ağ ve Akış">
+<!ENTITY playback.prefpane.streaming.buffer "Akış Tampon Belleği:">
+<!ENTITY playback.prefpane.normalization.label "Normalleştirme">
 <!ENTITY playback.prefpane.normalization.enable "Mevcutsa ses normalleştirme verisini kullan">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Tercih edilen kazanç verisi:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Albüm">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Parça">
-
-<!ENTITY playback.prefpane.units.kilobytes  "KB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "KB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Metadata Derecelendirmesi">
 <!ENTITY playback.prefpane.ratings.enablewriting "Rating bilgilerini her dosyanın kendi metadata&apos;larında sakla">
-
 <!ENTITY fetch_album_art.dialog.title "Albüm Kapak Resmini Al">
 <!ENTITY fetch_album_art.dialog.message "Henüz hayata geçirilmedi. (Hata 14281&apos;e bakın)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Sanatçı">
-<!ENTITY cdrip.lookup.info_not_found.album  "Albüm">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD Bilgisi Bulunamadı">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Sanatçı ve Albüm bilgisini buraya ekleyebilirsiniz. Kalan bilgileri CD kayıt çalma listesinden düzenleyebilirsiniz.">
+<!ENTITY cdrip.lookup.info_not_found.album "Albüm">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Bilgisi Bulunamadı">
+<!ENTITY cdrip.lookup.info_not_found.descr "Sanatçı ve Albüm bilgisini buraya ekleyebilirsiniz. Kalan bilgileri CD kayıt çalma listesinden düzenleyebilirsiniz.">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Başlık">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "CD Rip">
 <!ENTITY cdrip.prefpane.format "Biçim">
@@ -805,33 +694,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "CD Riplenmesi bittiğinde sistem alarmını çal">
 <!ENTITY cdrip.prefpane.providers.title "CD Sağlayıcısına Bak">
 <!ENTITY cdrip.prefpane.quality_desc "Yüksek kbps kalite tanımları , daha kaliteli ses ve daha büyük dosya boyu sonucunu doğurur.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD rip ayarları">
-<!ENTITY cdrip.mediaview.format_label              "Biçim:">
-<!ENTITY cdrip.mediaview.quality_label             "Kalite:">
-<!ENTITY cdrip.mediaview.settings_button           "Ayarlar">
-<!ENTITY cdrip.mediaview.rip_cd_button             "CD Rip">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Kaydı Durdur">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Parçaları Gör">
-<!ENTITY cdrip.mediaview.eject_cd_button           "CD&apos;yi Çıkart">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD rip ayarları">
+<!ENTITY cdrip.mediaview.format_label "Biçim:">
+<!ENTITY cdrip.mediaview.quality_label "Kalite:">
+<!ENTITY cdrip.mediaview.settings_button "Ayarlar">
+<!ENTITY cdrip.mediaview.rip_cd_button "CD Rip">
+<!ENTITY cdrip.mediaview.stop_rip_button "Kaydı Durdur">
+<!ENTITY cdrip.mediaview.view_tracks_button "Parçaları Gör">
+<!ENTITY cdrip.mediaview.eject_cd_button "CD&apos;yi Çıkart">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "ivme değişimi">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "ivme değişimi">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "ivme değişimi">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "ivme değişimi">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "ivme değişimi">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "ivme değişimi">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Video Penceresi">
 <!ENTITY videowindow.actualsize "Gerçek Boyutu">
 <!ENTITY videowindow.fullscreen "Tam Ekran">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Kod yazma, dokümantasyon ve test süreçlerinde emeklerini esirgemeyen tüm katılımcılara teşekkürü bir borç biliriz. Songbird ürünümüzü geliştiren ve yöneten sizler sayesinde, üretim ve geliştirme araçlarımız ile web sitemiz meydana geldi.">
 <!ENTITY about.credits.footer.beforeLink "Mozilla projesine">
@@ -842,15 +726,12 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird Şampiyonları, kullanıcılara yardımlarını esirgemeyen ensesi kalın destekçilerimizdir.">
 <!ENTITY about.credits.description.champs.link.text "Songbird Memnuniyet Destek Formu">
 <!ENTITY about.credits.description.champs.link.post "Herbir Songbird kullanıcısını mutlu etmek için forumumuzun en verimli ve de yorulmak nedir bilmeyen calışkan üyeleri">
-
-<!ENTITY cdrip.lookup.multiple.title       "Birden fazla CD Kaydı Bulundu">
+<!ENTITY cdrip.lookup.multiple.title "Birden fazla CD Kaydı Bulundu">
 <!ENTITY cdrip.lookup.multiple.description "Bir tanesini seçin veya kendinizinkini ekleyin">
-<!ENTITY cdinfo.other.label                "Kendi Albüm ve Sanatçı bilginizi Ekleyin">
-
+<!ENTITY cdinfo.other.label "Kendi Albüm ve Sanatçı bilginizi Ekleyin">
 <!ENTITY playqueue.label "Sıradakini Çal">
 <!ENTITY playqueue.instructions "Anında dinleme kuyruğu oluşturmak için şarkı veya oynatma listesini buraya sürükleyip bırakın">
 <!ENTITY playqueue.inprogress "Parçalar ekleniyor">
-
 <!ENTITY mediamanagement.removed.dialog.title "Medya Yönetimi kaldırıldı">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Ortam Yönetimi Sonbird&apos;den 1.10 versiynu itibariyle kaldırılmıştır." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "Bu değişiklik ürünümüzü sadeleştirme ve kullanımı kolay bir arayüz sağlama çabasının bir parçasıdır." >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Ortam Yönetimi Sonbird&apos;den 1.10 versiynu itibariyle kaldırılmıştır.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Bu değişiklik ürünümüzü sadeleştirme ve kullanımı kolay bir arayüz sağlama çabasının bir parçasıdır.">

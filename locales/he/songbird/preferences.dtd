@@ -1,17 +1,10 @@
 <!-- override chrome://browser/locale/preferences/preferences.dtd -->
-
-<!ENTITY  prefWindow.titleWin     "אפשרויות">
-<!ENTITY  prefWindow.titleGNOME   "הגדרות &brandShortName;">
-<!-- When making changes to prefWindow.styleWin test both Windows Classic and
-     Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2       "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
-<!ENTITY  prefWinMinSize.styleMac        "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
-<!ENTITY  prefWinMinSize.styleGNOME      "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
-
-<!ENTITY  paneGeneral.title       "ראשי">
-<!ENTITY  paneTabs.title          "כרטיסיות">
-<!ENTITY  paneContent.title       "תוכן">
-<!ENTITY  paneApplications.title  "יישומים">
-<!ENTITY  panePrivacy.title       "פרטיות">
-<!ENTITY  paneSecurity.title      "אבטחה">
-<!ENTITY  paneAdvanced.title      "מתקדם">
+<!ENTITY prefWindow.titleWin "אפשרויות">
+<!ENTITY prefWindow.titleGNOME "הגדרות &brandShortName;">
+<!ENTITY paneGeneral.title "ראשי">
+<!ENTITY paneTabs.title "כרטיסיות">
+<!ENTITY paneContent.title "תוכן">
+<!ENTITY paneApplications.title "יישומים">
+<!ENTITY panePrivacy.title "פרטיות">
+<!ENTITY paneSecurity.title "אבטחה">
+<!ENTITY paneAdvanced.title "מתקדם">

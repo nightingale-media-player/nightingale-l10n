@@ -1,131 +1,118 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "Shkurtoret e tastierës së &brandShortName;-it" >
-<!ENTITY help.keyboard.subtitle           "Shkurtoret e tastierës" >
-<!ENTITY help.keyboard.description        "Shkurtoret e tastierën mund të bëjnë veprimet me &brandShortName;-in shumë më të lehta. Mëposhtë gjendet një listë me komandat e disponueshme të ndjekura nga shkurtoret që i përshtaten.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Komanda" >
-<!ENTITY help.keyboard.heading.shortcut   "Shkurtorja" >
-<!ENTITY help.keyboard.section.playback   "Komandat e riprodhimit" >
-<!ENTITY help.keyboard.section.library    "Biblioteka dhe Listat e Riprodhimit" >
-<!ENTITY help.keyboard.section.editing    "Ndryshim" >
-<!ENTITY help.keyboard.section.navigation "Shfletimi" >
-<!ENTITY help.keyboard.section.browser    "Shfletuesi" >
-<!ENTITY help.keyboard.section.windows    "Dritaret dhe skedat" >
-<!ENTITY help.keyboard.section.search     "Kërko" >
-<!ENTITY help.keyboard.section.video      "Video" >
-<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
-<!ENTITY help.keyboard.section.misc       "Të ndryshme" >
-
-<!ENTITY help.keyboard.key.left           "Shigjetë majtas" >
-<!ENTITY help.keyboard.key.right          "Shigjetë djathtas" >
-<!ENTITY help.keyboard.key.up             "Shigjetë lart" >
-<!ENTITY help.keyboard.key.down           "Shigjetë poshtë" >
-<!ENTITY help.keyboard.key.pgup           "Faqe më lart" >
-<!ENTITY help.keyboard.key.pgdn           "Faqe më poshtë" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Skedë" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Klik" >
-<!ENTITY help.keyboard.mouse.click.middle "Klik me butonin e mesit" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Fshij" >
-
+<!ENTITY help.keyboard.title "Shkurtoret e tastierës së &brandShortName;-it">
+<!ENTITY help.keyboard.subtitle "Shkurtoret e tastierës">
+<!ENTITY help.keyboard.description "Shkurtoret e tastierën mund të bëjnë veprimet me &brandShortName;-in shumë më të lehta. Mëposhtë gjendet një listë me komandat e disponueshme të ndjekura nga shkurtoret që i përshtaten.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Komanda">
+<!ENTITY help.keyboard.heading.shortcut "Shkurtorja">
+<!ENTITY help.keyboard.section.playback "Komandat e riprodhimit">
+<!ENTITY help.keyboard.section.library "Biblioteka dhe Listat e Riprodhimit">
+<!ENTITY help.keyboard.section.editing "Ndryshim">
+<!ENTITY help.keyboard.section.navigation "Shfletimi">
+<!ENTITY help.keyboard.section.browser "Shfletuesi">
+<!ENTITY help.keyboard.section.windows "Dritaret dhe skedat">
+<!ENTITY help.keyboard.section.search "Kërko">
+<!ENTITY help.keyboard.section.misc "Të ndryshme">
+<!ENTITY help.keyboard.key.left "Shigjetë majtas">
+<!ENTITY help.keyboard.key.right "Shigjetë djathtas">
+<!ENTITY help.keyboard.key.up "Shigjetë lart">
+<!ENTITY help.keyboard.key.down "Shigjetë poshtë">
+<!ENTITY help.keyboard.key.pgup "Faqe më lart">
+<!ENTITY help.keyboard.key.pgdn "Faqe më poshtë">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Skedë">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Klik">
+<!ENTITY help.keyboard.mouse.click.middle "Klik me butonin e mesit">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Fshij">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Riprodho/Pauzë elementin e selektuar" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Riprodho elementin e mëparshëm në listë" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Riprodho elementin e mëpasshëm në listë" >
-<!ENTITY help.keyboard.name.volume.down         "Ule zërin" >
-<!ENTITY help.keyboard.name.volume.up           "Ngrije zërin" >
-<!ENTITY help.keyboard.name.volume.mute         "Pa zë" >
-<!ENTITY help.keyboard.name.volume.max          "Zëri në maksimum" >
-<!ENTITY help.keyboard.name.jumpto              "Dritarja Kalo Tek" >
-<!ENTITY help.keyboard.name.equalizer           "Open the Equalizer" >
-<!ENTITY help.keyboard.name.new.playlist        "Listë Riprodhimi e re" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Listë Riprodhimi Inteligjente e re" >
-<!ENTITY help.keyboard.name.import              "Importo media" >
-<!ENTITY help.keyboard.name.currenttrack        " Gjej elementin që po riprodhohet" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Ndrysho pamjen e listës së skedarëve" >
-<!ENTITY help.keyboard.name.feather.switch      "Ndrysho pozicionet e Puplave" >
-<!ENTITY help.keyboard.name.trackeditor         "Përpunuesi i Metadata-ve" >
-<!ENTITY help.keyboard.name.edit.undo           "Zhbëj" >
-<!ENTITY help.keyboard.name.edit.redo           "Bëj përsëri" >
-<!ENTITY help.keyboard.name.edit.selectall      "Selekto gjithçka" >
-<!ENTITY help.keyboard.name.edit.cut            "Prit" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopjo" >
-<!ENTITY help.keyboard.name.edit.paste          "Ngjit" >
-<!ENTITY help.keyboard.name.edit.delete         "Fshij" >
-<!ENTITY help.keyboard.name.browser.back        "Mbrapa" >
-<!ENTITY help.keyboard.name.browser.forward     "Përpara" >
-<!ENTITY help.keyboard.name.browser.reload      "Ringarko" >
-<!ENTITY help.keyboard.name.browser.stop        "Ndalo ngarkimin" >
-<!ENTITY help.keyboard.name.open.file           "Hap një skedar" >
-<!ENTITY help.keyboard.name.open.url            "Hap një pozicion" >
-<!ENTITY help.keyboard.name.tab.open.link       "Hape lidhjen në një skedë të re" >
-<!ENTITY help.keyboard.name.save.link           "Ruaj Lidhjen" >
-<!ENTITY help.keyboard.name.file.print          "Printo" >
-<!ENTITY help.keyboard.name.view.source         "Trego burimin" >
-<!ENTITY help.keyboard.name.view.zoomin         "Zmadho" >
-<!ENTITY help.keyboard.name.view.zoomout        "Zvogëlo" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Rivendos zmadhimin" >
-<!ENTITY help.keyboard.name.subscribe           "Abonohu" >
-<!ENTITY help.keyboard.name.locationbar         "Kutia e pozicionit në plan të parë" >
-<!ENTITY help.keyboard.name.tab.new             "Skedë e re" >
-<!ENTITY help.keyboard.name.tab.close           "Mbylle skedën" >
-<!ENTITY help.keyboard.name.tab.next            "Skeda e mëpasshme" >
-<!ENTITY help.keyboard.name.tab.previous        "Skeda e mëparshme" >
-<!ENTITY help.keyboard.name.tab.1               "Kalo tek skeda 1" >
-<!ENTITY help.keyboard.name.tab.2               "Kalo tek skeda 2" >
-<!ENTITY help.keyboard.name.tab.3               "Kalo tek skeda 3" >
-<!ENTITY help.keyboard.name.tab.4               "Kalo tek skeda 4" >
-<!ENTITY help.keyboard.name.tab.5               "Kalo tek skeda 5" >
-<!ENTITY help.keyboard.name.tab.6               "Kalo tek skeda 6" >
-<!ENTITY help.keyboard.name.tab.7               "Kalo tek skeda 7" >
-<!ENTITY help.keyboard.name.tab.8               "Kalo tek skeda 8" >
-<!ENTITY help.keyboard.name.tab.9               "Kalo tek skeda 9" >
-<!ENTITY help.keyboard.name.page.top            "Çoje tek koka e faqes" >
-<!ENTITY help.keyboard.name.page.bottom         "Çoje tek fundi i faqes" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Me ekran të plotë" >
-<!ENTITY help.keyboard.name.mac.minimize        "Minimizoje tek Dock-u" >
-<!ENTITY help.keyboard.name.mac.hide            "Fshihe dritaren" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Fshih programet e tjera" >
-<!ENTITY help.keyboard.name.downloads           "Shkarkimet" >
-<!ENTITY help.keyboard.name.find                "Gjej" >
-<!ENTITY help.keyboard.name.find.again          "Gjej përsëri" >
-<!ENTITY help.keyboard.name.find.text           "Gjej tekstin që po shkruan" >
-<!ENTITY help.keyboard.name.find.link           "Gjej lidhjen që po shkruan" >
-<!ENTITY help.keyboard.name.search.focus        "Kutia e Kërkimit në plan të parë" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Full Screen" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video on Top" >
-<!ENTITY help.keyboard.name.video.escape        "Escape from Full Screen" >
-<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Eject CD" >
-<!ENTITY help.keyboard.name.quit                "Dil" >
-<!ENTITY help.keyboard.name.preferences         "Preferencat" >
-<!ENTITY help.keyboard.name.help                "Temat e Ndihmës" >
-<!ENTITY help.keyboard.name.sanitize            "Parstro të dhënat e tua personale" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Riprodho/Pauzë elementin e selektuar">
+<!ENTITY help.keyboard.name.playcontrol.prev "Riprodho elementin e mëparshëm në listë">
+<!ENTITY help.keyboard.name.playcontrol.next "Riprodho elementin e mëpasshëm në listë">
+<!ENTITY help.keyboard.name.volume.down "Ule zërin">
+<!ENTITY help.keyboard.name.volume.up "Ngrije zërin">
+<!ENTITY help.keyboard.name.volume.mute "Pa zë">
+<!ENTITY help.keyboard.name.volume.max "Zëri në maksimum">
+<!ENTITY help.keyboard.name.jumpto "Dritarja Kalo Tek">
+<!ENTITY help.keyboard.name.new.playlist "Listë Riprodhimi e re">
+<!ENTITY help.keyboard.name.new.smartplaylist "Listë Riprodhimi Inteligjente e re">
+<!ENTITY help.keyboard.name.import "Importo media">
+<!ENTITY help.keyboard.name.currenttrack " Gjej elementin që po riprodhohet">
+<!ENTITY help.keyboard.name.mediapage.switch "Ndrysho pamjen e listës së skedarëve">
+<!ENTITY help.keyboard.name.feather.switch "Ndrysho pozicionet e Puplave">
+<!ENTITY help.keyboard.name.trackeditor "Përpunuesi i Metadata-ve">
+<!ENTITY help.keyboard.name.edit.undo "Zhbëj">
+<!ENTITY help.keyboard.name.edit.redo "Bëj përsëri">
+<!ENTITY help.keyboard.name.edit.selectall "Selekto gjithçka">
+<!ENTITY help.keyboard.name.edit.cut "Prit">
+<!ENTITY help.keyboard.name.edit.copy "Kopjo">
+<!ENTITY help.keyboard.name.edit.paste "Ngjit">
+<!ENTITY help.keyboard.name.edit.delete "Fshij">
+<!ENTITY help.keyboard.name.browser.back "Mbrapa">
+<!ENTITY help.keyboard.name.browser.forward "Përpara">
+<!ENTITY help.keyboard.name.browser.reload "Ringarko">
+<!ENTITY help.keyboard.name.browser.stop "Ndalo ngarkimin">
+<!ENTITY help.keyboard.name.open.file "Hap një skedar">
+<!ENTITY help.keyboard.name.open.url "Hap një pozicion">
+<!ENTITY help.keyboard.name.tab.open.link "Hape lidhjen në një skedë të re">
+<!ENTITY help.keyboard.name.save.link "Ruaj Lidhjen">
+<!ENTITY help.keyboard.name.file.print "Printo">
+<!ENTITY help.keyboard.name.view.source "Trego burimin">
+<!ENTITY help.keyboard.name.view.zoomin "Zmadho">
+<!ENTITY help.keyboard.name.view.zoomout "Zvogëlo">
+<!ENTITY help.keyboard.name.view.zoomreset "Rivendos zmadhimin">
+<!ENTITY help.keyboard.name.subscribe "Abonohu">
+<!ENTITY help.keyboard.name.locationbar "Kutia e pozicionit në plan të parë">
+<!ENTITY help.keyboard.name.tab.new "Skedë e re">
+<!ENTITY help.keyboard.name.tab.close "Mbylle skedën">
+<!ENTITY help.keyboard.name.tab.next "Skeda e mëpasshme">
+<!ENTITY help.keyboard.name.tab.previous "Skeda e mëparshme">
+<!ENTITY help.keyboard.name.tab.1 "Kalo tek skeda 1">
+<!ENTITY help.keyboard.name.tab.2 "Kalo tek skeda 2">
+<!ENTITY help.keyboard.name.tab.3 "Kalo tek skeda 3">
+<!ENTITY help.keyboard.name.tab.4 "Kalo tek skeda 4">
+<!ENTITY help.keyboard.name.tab.5 "Kalo tek skeda 5">
+<!ENTITY help.keyboard.name.tab.6 "Kalo tek skeda 6">
+<!ENTITY help.keyboard.name.tab.7 "Kalo tek skeda 7">
+<!ENTITY help.keyboard.name.tab.8 "Kalo tek skeda 8">
+<!ENTITY help.keyboard.name.tab.9 "Kalo tek skeda 9">
+<!ENTITY help.keyboard.name.page.top "Çoje tek koka e faqes">
+<!ENTITY help.keyboard.name.page.bottom "Çoje tek fundi i faqes">
+<!ENTITY help.keyboard.name.view.fullscreen "Me ekran të plotë">
+<!ENTITY help.keyboard.name.mac.minimize "Minimizoje tek Dock-u">
+<!ENTITY help.keyboard.name.mac.hide "Fshihe dritaren">
+<!ENTITY help.keyboard.name.mac.hideothers "Fshih programet e tjera">
+<!ENTITY help.keyboard.name.downloads "Shkarkimet">
+<!ENTITY help.keyboard.name.find "Gjej">
+<!ENTITY help.keyboard.name.find.again "Gjej përsëri">
+<!ENTITY help.keyboard.name.find.text "Gjej tekstin që po shkruan">
+<!ENTITY help.keyboard.name.find.link "Gjej lidhjen që po shkruan">
+<!ENTITY help.keyboard.name.search.focus "Kutia e Kërkimit në plan të parë">
+<!ENTITY help.keyboard.name.quit "Dil">
+<!ENTITY help.keyboard.name.preferences "Preferencat">
+<!ENTITY help.keyboard.name.help "Temat e Ndihmës">
+<!ENTITY help.keyboard.name.sanitize "Parstro të dhënat e tua personale">

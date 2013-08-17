@@ -1,17 +1,15 @@
 <!-- override chrome://browser/locale/preferences/preferences.dtd -->
-
-<!ENTITY  prefWindow.titleWin     "Ընտրանքներ">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName;- կարգավորումները">
+<!ENTITY prefWindow.titleWin "Ընտրանքներ">
+<!ENTITY prefWindow.titleGNOME "&brandShortName;- կարգավորումները">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2       "width: 70em; min-height: 55em;">
-<!ENTITY  prefWinMinSize.styleMac        "width: 73em; min-height: 58em;">
-<!ENTITY  prefWinMinSize.styleGNOME      "width: 70em; min-height: 55em;">
-
-<!ENTITY  paneGeneral.title       "Հիմնական">
-<!ENTITY  paneTabs.title          "Էջեր">
-<!ENTITY  paneContent.title       "Բովանակությունը">
-<!ENTITY  paneApplications.title  "Ծրագրեր">
-<!ENTITY  panePrivacy.title       "Գաղտնիության">
-<!ENTITY  paneSecurity.title      "Անվտանգության">
-<!ENTITY  paneAdvanced.title      "Ընդլայնված">
+<!ENTITY prefWinMinSize.styleWin2 "width: 70em; min-height: 55em;">
+<!ENTITY prefWinMinSize.styleMac "width: 73em; min-height: 58em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 70em; min-height: 55em;">
+<!ENTITY paneGeneral.title "Հիմնական">
+<!ENTITY paneTabs.title "Էջեր">
+<!ENTITY paneContent.title "Բովանակությունը">
+<!ENTITY paneApplications.title "Ծրագրեր">
+<!ENTITY panePrivacy.title "Գաղտնիության">
+<!ENTITY paneSecurity.title "Անվտանգության">
+<!ENTITY paneAdvanced.title "Ընդլայնված">

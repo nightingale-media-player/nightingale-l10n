@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "&brandShortName;-ohjelmiston pikanäppäimet" >
-<!ENTITY help.keyboard.subtitle           "Pikanäppäimet" >
-<!ENTITY help.keyboard.description        "Pikanäppäimet helpottavat &brandShortName;-ohjelmiston käyttämistä. Seuraavat komennot ja pikanäppäimet ovat käytettävissä.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Komento" >
-<!ENTITY help.keyboard.heading.shortcut   "Pikanäppäin" >
-<!ENTITY help.keyboard.section.playback   "Toiston hallinta" >
-<!ENTITY help.keyboard.section.library    "Kirjasto ja soittolistat" >
-<!ENTITY help.keyboard.section.editing    "Muokataan" >
-<!ENTITY help.keyboard.section.navigation "Navigaatio" >
-<!ENTITY help.keyboard.section.browser    "Selain" >
-<!ENTITY help.keyboard.section.windows    "Ikkunat ja välilehdet" >
-<!ENTITY help.keyboard.section.search     "Haku" >
-<!ENTITY help.keyboard.section.video      "Video" >
-<!ENTITY help.keyboard.section.cdrip      "CD-kopiointi" >
-<!ENTITY help.keyboard.section.misc       "Muut" >
-
-<!ENTITY help.keyboard.key.left           "Vasen nuoli" >
-<!ENTITY help.keyboard.key.right          "Oikea nuoli" >
-<!ENTITY help.keyboard.key.up             "Ylänuoli" >
-<!ENTITY help.keyboard.key.down           "Alanuoli" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Napsautus" >
-<!ENTITY help.keyboard.mouse.click.middle "Hiiren keskipainikkeen napsautus" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Delete" >
-
+<!ENTITY help.keyboard.title "&brandShortName;-ohjelmiston pikanäppäimet">
+<!ENTITY help.keyboard.subtitle "Pikanäppäimet">
+<!ENTITY help.keyboard.description "Pikanäppäimet helpottavat &brandShortName;-ohjelmiston käyttämistä. Seuraavat komennot ja pikanäppäimet ovat käytettävissä.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Komento">
+<!ENTITY help.keyboard.heading.shortcut "Pikanäppäin">
+<!ENTITY help.keyboard.section.playback "Toiston hallinta">
+<!ENTITY help.keyboard.section.library "Kirjasto ja soittolistat">
+<!ENTITY help.keyboard.section.editing "Muokataan">
+<!ENTITY help.keyboard.section.navigation "Navigaatio">
+<!ENTITY help.keyboard.section.browser "Selain">
+<!ENTITY help.keyboard.section.windows "Ikkunat ja välilehdet">
+<!ENTITY help.keyboard.section.search "Haku">
+<!ENTITY help.keyboard.section.video "Video">
+<!ENTITY help.keyboard.section.cdrip "CD-kopiointi">
+<!ENTITY help.keyboard.section.misc "Muut">
+<!ENTITY help.keyboard.key.left "Vasen nuoli">
+<!ENTITY help.keyboard.key.right "Oikea nuoli">
+<!ENTITY help.keyboard.key.up "Ylänuoli">
+<!ENTITY help.keyboard.key.down "Alanuoli">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Napsautus">
+<!ENTITY help.keyboard.mouse.click.middle "Hiiren keskipainikkeen napsautus">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Delete">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Toista/pysäytä valittu mediatiedosto" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Toista luettelon edellinen mediatiedosto" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Toista luettelon seuraava mediatiedosto" >
-<!ENTITY help.keyboard.name.volume.down         "Vähennä äänenvoimakkuutta" >
-<!ENTITY help.keyboard.name.volume.up           "Lisää äänenvoimakkuutta" >
-<!ENTITY help.keyboard.name.volume.mute         "Mykistä" >
-<!ENTITY help.keyboard.name.volume.max          "Enimmäisäänenvoimakkuus" >
-<!ENTITY help.keyboard.name.jumpto              "Siirry ikkunaan" >
-<!ENTITY help.keyboard.name.equalizer           "Avaa ekvalisaattori" >
-<!ENTITY help.keyboard.name.new.playlist        "Uusi soittolista" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Uusi älykäs soittolista" >
-<!ENTITY help.keyboard.name.import              "Tuo mediatiedostoja" >
-<!ENTITY help.keyboard.name.currenttrack        "Etsi nyt soiva mediatiedosto" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Vaihda medianäkymää" >
-<!ENTITY help.keyboard.name.feather.switch      "Vaihda ulkoasua" >
-<!ENTITY help.keyboard.name.trackeditor         "Metatietoeditori" >
-<!ENTITY help.keyboard.name.edit.undo           "Kumoa" >
-<!ENTITY help.keyboard.name.edit.redo           "Tee uudelleen" >
-<!ENTITY help.keyboard.name.edit.selectall      "Valitse kaikki" >
-<!ENTITY help.keyboard.name.edit.cut            "Leikkaa" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopioi" >
-<!ENTITY help.keyboard.name.edit.paste          "Liitä" >
-<!ENTITY help.keyboard.name.edit.delete         "Poista" >
-<!ENTITY help.keyboard.name.browser.back        "Takaisin" >
-<!ENTITY help.keyboard.name.browser.forward     "Seuraava" >
-<!ENTITY help.keyboard.name.browser.reload      "Päivitä" >
-<!ENTITY help.keyboard.name.browser.stop        "Pysäytä lataus" >
-<!ENTITY help.keyboard.name.open.file           "Avaa tiedosto" >
-<!ENTITY help.keyboard.name.open.url            "Avaa URL:n sijainti" >
-<!ENTITY help.keyboard.name.tab.open.link       "Avaa linkki uuteen välilehteen" >
-<!ENTITY help.keyboard.name.save.link           "Tallenna linkki" >
-<!ENTITY help.keyboard.name.file.print          "Tulosta" >
-<!ENTITY help.keyboard.name.view.source         "Näytä lähdekoodi" >
-<!ENTITY help.keyboard.name.view.zoomin         "Lähennä" >
-<!ENTITY help.keyboard.name.view.zoomout        "Loitonna" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Zoomauksen nollaus" >
-<!ENTITY help.keyboard.name.subscribe           "Tilaa" >
-<!ENTITY help.keyboard.name.locationbar         "Kohdista sijaintiriville" >
-<!ENTITY help.keyboard.name.tab.new             "Uusi välilehti" >
-<!ENTITY help.keyboard.name.tab.close           "Sulje välilehti" >
-<!ENTITY help.keyboard.name.tab.next            "Seuraava välilehti" >
-<!ENTITY help.keyboard.name.tab.previous        "Edellinen välilehti" >
-<!ENTITY help.keyboard.name.tab.1               "Siirry välilehteen 1" >
-<!ENTITY help.keyboard.name.tab.2               "Siirry välilehteen 2" >
-<!ENTITY help.keyboard.name.tab.3               "Siirry välilehteen 3" >
-<!ENTITY help.keyboard.name.tab.4               "Siirry välilehteen 4" >
-<!ENTITY help.keyboard.name.tab.5               "Siirry välilehteen 5" >
-<!ENTITY help.keyboard.name.tab.6               "Siirry välilehteen 6" >
-<!ENTITY help.keyboard.name.tab.7               "Siirry välilehteen 7" >
-<!ENTITY help.keyboard.name.tab.8               "Siirry välilehteen 8" >
-<!ENTITY help.keyboard.name.tab.9               "Siirry välilehteen 9" >
-<!ENTITY help.keyboard.name.page.top            "Siirry sivun yläreunaan" >
-<!ENTITY help.keyboard.name.page.bottom         "Siirry sivun alareunaan" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Koko näyttö" >
-<!ENTITY help.keyboard.name.mac.minimize        "Pienennä dockiin" >
-<!ENTITY help.keyboard.name.mac.hide            "Piilota ikkuna" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Piilota muut sovellukset" >
-<!ENTITY help.keyboard.name.downloads           "Lataukset" >
-<!ENTITY help.keyboard.name.find                "Etsi" >
-<!ENTITY help.keyboard.name.find.again          "Etsi uudelleen" >
-<!ENTITY help.keyboard.name.find.text           "Etsi kirjoitettaessa tekstiä" >
-<!ENTITY help.keyboard.name.find.link           "Etsi kirjoitettaessa linkkiä" >
-<!ENTITY help.keyboard.name.search.focus        "Kohdista hakukenttään" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Koko näyttö" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video päällimmäisenä" >
-<!ENTITY help.keyboard.name.video.escape        "Poistu koko näyttö -tilasta" >
-<!ENTITY help.keyboard.name.cdrip.start         "Kopioi CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Lopeta CD-kopiointi" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Poista CD" >
-<!ENTITY help.keyboard.name.quit                "Lopeta" >
-<!ENTITY help.keyboard.name.preferences         "Asetukset" >
-<!ENTITY help.keyboard.name.help                "Ohjeaiheet" >
-<!ENTITY help.keyboard.name.sanitize            "Poista yksityiset tiedot" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Toista/pysäytä valittu mediatiedosto">
+<!ENTITY help.keyboard.name.playcontrol.prev "Toista luettelon edellinen mediatiedosto">
+<!ENTITY help.keyboard.name.playcontrol.next "Toista luettelon seuraava mediatiedosto">
+<!ENTITY help.keyboard.name.volume.down "Vähennä äänenvoimakkuutta">
+<!ENTITY help.keyboard.name.volume.up "Lisää äänenvoimakkuutta">
+<!ENTITY help.keyboard.name.volume.mute "Mykistä">
+<!ENTITY help.keyboard.name.volume.max "Enimmäisäänenvoimakkuus">
+<!ENTITY help.keyboard.name.jumpto "Siirry ikkunaan">
+<!ENTITY help.keyboard.name.equalizer "Avaa ekvalisaattori">
+<!ENTITY help.keyboard.name.new.playlist "Uusi soittolista">
+<!ENTITY help.keyboard.name.new.smartplaylist "Uusi älykäs soittolista">
+<!ENTITY help.keyboard.name.import "Tuo mediatiedostoja">
+<!ENTITY help.keyboard.name.currenttrack "Etsi nyt soiva mediatiedosto">
+<!ENTITY help.keyboard.name.mediapage.switch "Vaihda medianäkymää">
+<!ENTITY help.keyboard.name.feather.switch "Vaihda ulkoasua">
+<!ENTITY help.keyboard.name.trackeditor "Metatietoeditori">
+<!ENTITY help.keyboard.name.edit.undo "Kumoa">
+<!ENTITY help.keyboard.name.edit.redo "Tee uudelleen">
+<!ENTITY help.keyboard.name.edit.selectall "Valitse kaikki">
+<!ENTITY help.keyboard.name.edit.cut "Leikkaa">
+<!ENTITY help.keyboard.name.edit.copy "Kopioi">
+<!ENTITY help.keyboard.name.edit.paste "Liitä">
+<!ENTITY help.keyboard.name.edit.delete "Poista">
+<!ENTITY help.keyboard.name.browser.back "Takaisin">
+<!ENTITY help.keyboard.name.browser.forward "Seuraava">
+<!ENTITY help.keyboard.name.browser.reload "Päivitä">
+<!ENTITY help.keyboard.name.browser.stop "Pysäytä lataus">
+<!ENTITY help.keyboard.name.open.file "Avaa tiedosto">
+<!ENTITY help.keyboard.name.open.url "Avaa URL:n sijainti">
+<!ENTITY help.keyboard.name.tab.open.link "Avaa linkki uuteen välilehteen">
+<!ENTITY help.keyboard.name.save.link "Tallenna linkki">
+<!ENTITY help.keyboard.name.file.print "Tulosta">
+<!ENTITY help.keyboard.name.view.source "Näytä lähdekoodi">
+<!ENTITY help.keyboard.name.view.zoomin "Lähennä">
+<!ENTITY help.keyboard.name.view.zoomout "Loitonna">
+<!ENTITY help.keyboard.name.view.zoomreset "Zoomauksen nollaus">
+<!ENTITY help.keyboard.name.subscribe "Tilaa">
+<!ENTITY help.keyboard.name.locationbar "Kohdista sijaintiriville">
+<!ENTITY help.keyboard.name.tab.new "Uusi välilehti">
+<!ENTITY help.keyboard.name.tab.close "Sulje välilehti">
+<!ENTITY help.keyboard.name.tab.next "Seuraava välilehti">
+<!ENTITY help.keyboard.name.tab.previous "Edellinen välilehti">
+<!ENTITY help.keyboard.name.tab.1 "Siirry välilehteen 1">
+<!ENTITY help.keyboard.name.tab.2 "Siirry välilehteen 2">
+<!ENTITY help.keyboard.name.tab.3 "Siirry välilehteen 3">
+<!ENTITY help.keyboard.name.tab.4 "Siirry välilehteen 4">
+<!ENTITY help.keyboard.name.tab.5 "Siirry välilehteen 5">
+<!ENTITY help.keyboard.name.tab.6 "Siirry välilehteen 6">
+<!ENTITY help.keyboard.name.tab.7 "Siirry välilehteen 7">
+<!ENTITY help.keyboard.name.tab.8 "Siirry välilehteen 8">
+<!ENTITY help.keyboard.name.tab.9 "Siirry välilehteen 9">
+<!ENTITY help.keyboard.name.page.top "Siirry sivun yläreunaan">
+<!ENTITY help.keyboard.name.page.bottom "Siirry sivun alareunaan">
+<!ENTITY help.keyboard.name.view.fullscreen "Koko näyttö">
+<!ENTITY help.keyboard.name.mac.minimize "Pienennä dockiin">
+<!ENTITY help.keyboard.name.mac.hide "Piilota ikkuna">
+<!ENTITY help.keyboard.name.mac.hideothers "Piilota muut sovellukset">
+<!ENTITY help.keyboard.name.downloads "Lataukset">
+<!ENTITY help.keyboard.name.find "Etsi">
+<!ENTITY help.keyboard.name.find.again "Etsi uudelleen">
+<!ENTITY help.keyboard.name.find.text "Etsi kirjoitettaessa tekstiä">
+<!ENTITY help.keyboard.name.find.link "Etsi kirjoitettaessa linkkiä">
+<!ENTITY help.keyboard.name.search.focus "Kohdista hakukenttään">
+<!ENTITY help.keyboard.name.video.fullscreen "Koko näyttö">
+<!ENTITY help.keyboard.name.video.bringtofront "Video päällimmäisenä">
+<!ENTITY help.keyboard.name.video.escape "Poistu koko näyttö -tilasta">
+<!ENTITY help.keyboard.name.cdrip.start "Kopioi CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Lopeta CD-kopiointi">
+<!ENTITY help.keyboard.name.cdrip.eject "Poista CD">
+<!ENTITY help.keyboard.name.quit "Lopeta">
+<!ENTITY help.keyboard.name.preferences "Asetukset">
+<!ENTITY help.keyboard.name.help "Ohjeaiheet">
+<!ENTITY help.keyboard.name.sanitize "Poista yksityiset tiedot">

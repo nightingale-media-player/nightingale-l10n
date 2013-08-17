@@ -1,856 +1,577 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "Tá go maith" >
-<!ENTITY window.cancel      "Cealaigh" >
-<!ENTITY window.apply       "Cuir i bhfeidhm" >
-<!ENTITY window.browse      "Siortaigh…" >
-<!ENTITY window.save        "Taisc">
-<!ENTITY window.yes         "Tá">
-<!ENTITY window.no          "Níl">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "Tá go maith">
+<!ENTITY window.cancel "Cealaigh">
+<!ENTITY window.apply "Cuir i bhfeidhm">
+<!ENTITY window.browse "Siortaigh…">
+<!ENTITY window.save "Taisc">
+<!ENTITY window.yes "Tá">
+<!ENTITY window.no "Níl">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Scoir o &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Sainroghanna">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Scoir o &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Sainroghanna">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Seirbhísí">
-<!ENTITY menu.mac.hide                  "Folaigh &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Folaigh Eile">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Taispeáin Uile">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Comhad" >
-<!ENTITY menu.file.new          "Seinnréim Nua…" >
-<!ENTITY menu.file.smart        "Seinnréim Chliste Nua…" >
-<!ENTITY menu.file.remote       "Síntiús Nua…" >
-<!ENTITY menu.file.podcast      "Podchraoladh Nua" >
-<!ENTITY menu.file.open         "Oscail Comhad…" >
-<!ENTITY menu.file.url          "Oscail ó URL…" >
-<!ENTITY menu.file.playlist     "Tabhair Isteach Seinnréim…" >
-<!ENTITY menu.file.library      "Tabhair Isteach Leabharlann…" >
-<!ENTITY menu.file.newtab       "Cluaisín Nua" >
-<!ENTITY menu.file.closetab     "Dún an Cluaisín" >
-<!ENTITY menu.file.metadata     "View Metadata">
-<!ENTITY menu.file.scan         "Siortaigh le haghaidh Meán…" >
-<!ENTITY menu.file.exit         "Scoir" >
-
-<!ENTITY menu.edit          "Eagar" >
-<!ENTITY menu.edit.undo     "Cealaigh" >
-<!ENTITY menu.edit.redo     "Athdhéan" >
-<!ENTITY menu.edit.cut      "Gearr" >
-<!ENTITY menu.edit.copy     "Macasamhlaigh" >
-<!ENTITY menu.edit.paste    "Greamaigh" >
-<!ENTITY menu.edit.delete   "Scrios" >
-<!ENTITY menu.edit.selall   "Roghnaigh Uile" >
-<!ENTITY menu.edit.find        "Aimsigh" >
-<!ENTITY menu.edit.findagain   "Aimsigh Arís" >
-
+<!ENTITY menu.mac.services "Seirbhísí">
+<!ENTITY menu.mac.hide "Folaigh &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Folaigh Eile">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Taispeáin Uile">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Comhad">
+<!ENTITY menu.file.new "Seinnréim Nua…">
+<!ENTITY menu.file.smart "Seinnréim Chliste Nua…">
+<!ENTITY menu.file.remote "Síntiús Nua…">
+<!ENTITY menu.file.podcast "Podchraoladh Nua">
+<!ENTITY menu.file.open "Oscail Comhad…">
+<!ENTITY menu.file.url "Oscail ó URL…">
+<!ENTITY menu.file.playlist "Tabhair Isteach Seinnréim…">
+<!ENTITY menu.file.library "Tabhair Isteach Leabharlann…">
+<!ENTITY menu.file.newtab "Cluaisín Nua">
+<!ENTITY menu.file.closetab "Dún an Cluaisín">
+<!ENTITY menu.file.scan "Siortaigh le haghaidh Meán…">
+<!ENTITY menu.file.exit "Scoir">
+<!ENTITY menu.edit "Eagar">
+<!ENTITY menu.edit.undo "Cealaigh">
+<!ENTITY menu.edit.redo "Athdhéan">
+<!ENTITY menu.edit.cut "Gearr">
+<!ENTITY menu.edit.copy "Macasamhlaigh">
+<!ENTITY menu.edit.paste "Greamaigh">
+<!ENTITY menu.edit.delete "Scrios">
+<!ENTITY menu.edit.selall "Roghnaigh Uile">
+<!ENTITY menu.edit.find "Aimsigh">
+<!ENTITY menu.edit.findagain "Aimsigh Arís">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Sainroghanna">
+<!ENTITY menu.linux.preferences "Sainroghanna">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Rialtáin" >
-<!ENTITY menu.control.play  "Seinn" >
-<!ENTITY menu.control.pause "Cur Ar Sos" >
-<!ENTITY menu.control.next  "An Rian Ar Aghaidh" >
-<!ENTITY menu.control.prev  "An Rian Roimhe" >
-<!ENTITY menu.control.shuf  "Athsheinn go Fánach" >
-<!ENTITY menu.control.repa  "Athsheinn Uile" >
-<!ENTITY menu.control.rep1  "Athsheinn Ceann Amháin" >
-<!ENTITY menu.control.repx  "Ná Athsheinn Ceann Ar Bith" >
-<!ENTITY menu.control.jumpto "Léim Chuig…" >
-
-<!ENTITY menu.control.play.button      "Seinn" >
-<!ENTITY menu.control.pause.button     "Cur Ar Sos" >
-<!ENTITY menu.control.stop.button      "Stad" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY displaypane.default.link.pre "">
-<!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY displaypane.name.servicepane   "Service Pane Bottom">
-<!ENTITY displaypane.name.browser       "Content Pane Bottom">
-<!ENTITY displaypane.name.sidebar       "Taobh-bharra Ar Dheis">
-<!ENTITY servicepane.title.label        "Service Pane">
-
-<!ENTITY menu.tools            "Uirlisí" >
+<!ENTITY menu.controls "Rialtáin">
+<!ENTITY menu.control.play "Seinn">
+<!ENTITY menu.control.pause "Cur Ar Sos">
+<!ENTITY menu.control.next "An Rian Ar Aghaidh">
+<!ENTITY menu.control.prev "An Rian Roimhe">
+<!ENTITY menu.control.shuf "Athsheinn go Fánach">
+<!ENTITY menu.control.repa "Athsheinn Uile">
+<!ENTITY menu.control.rep1 "Athsheinn Ceann Amháin">
+<!ENTITY menu.control.repx "Ná Athsheinn Ceann Ar Bith">
+<!ENTITY menu.control.jumpto "Léim Chuig…">
+<!ENTITY menu.control.play.button "Seinn">
+<!ENTITY menu.control.pause.button "Cur Ar Sos">
+<!ENTITY menu.control.stop.button "Stad">
+<!ENTITY displaypane.name.sidebar "Taobh-bharra Ar Dheis">
+<!ENTITY menu.tools "Uirlisí">
 <!ENTITY menu.tools.getartwork "Faigh Ealaíon na nAlbam">
-<!ENTITY menu.tools.exportmedia "Export Library Changes">
-
-<!ENTITY menu.help          "Cabhair" >
-<!ENTITY menu.help.homepage "Láithreán Gréasáin &brandShortName;" >
-<!ENTITY menu.help.bugz     "Fógraigh Fabht…" >
-<!ENTITY menu.help.topics   "Ábhair Cabhair…" >
+<!ENTITY menu.help "Cabhair">
+<!ENTITY menu.help.homepage "Láithreán Gréasáin &brandShortName;">
+<!ENTITY menu.help.bugz "Fógraigh Fabht…">
+<!ENTITY menu.help.topics "Ábhair Cabhair…">
 <!ENTITY menu.help.keyboard "Aicearraí an Mhéarchláir">
-<!ENTITY menu.help.about    "Maidir le &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Cothromóir…" >
-<!ENTITY menu.preferences   "Roghanna" >
-<!ENTITY menu.extensions    "Breiseáin" >
+<!ENTITY menu.help.about "Maidir le &brandShortName;">
+<!ENTITY menu.equalizer "Cothromóir…">
+<!ENTITY menu.preferences "Roghanna">
+<!ENTITY menu.extensions "Breiseáin">
 <!ENTITY menu.clearprivatedata "Glan na Sonraí Caonda…">
 <!ENTITY menu.errorconsole "Eallóg na mBotún">
-<!ENTITY menu.downloadmgr   "Íosluchtuithe Comhaid" >
-<!ENTITY menu.switchplayercontrols  "Rialtáin an tSeinnteora" >
-<!ENTITY menu.controllerontop       "Taispeáin Ar Bharr">
-<!ENTITY menu.controlleronbottom    "Taispeáin ag an Bun">
-
-<!ENTITY menu.fullscreen            "Lánscáileán">
-<!ENTITY menu.videotofront          "Físeán chun Tosach">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Ag feitheamh ar ghléasanna.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Ag feitheamh ar gach oibríochtaí gléis le críochnú. Brúigh &quot;Scoir&quot; chun éirí as bheith ag feitheamh agus scoir ón bhfeidhmchlár.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Scoir">
-
-<!ENTITY tooltip.minimize         "Íoslaghdaigh" >
-<!ENTITY tooltip.maximize         "Uasmhéadaigh/Athchur" >
-<!ENTITY tooltip.exit             "Scoir" >
-<!ENTITY tooltip.close            "Dún" >
-<!ENTITY tooltip.hide             "Folaigh" >
-<!ENTITY tooltip.fullscreen       "Lánscáileáin" >
-<!ENTITY tooltip.control.back     "An Rian Roimhe" >
-<!ENTITY tooltip.control.play     "Seinn" >
-<!ENTITY tooltip.control.pause    "Moilligh" >
-<!ENTITY tooltip.control.resume   "Atosaigh" >
-<!ENTITY tooltip.control.stop     "Stad" >
-<!ENTITY tooltip.control.fwd      "An Rian Ar Aghaidh" >
-<!ENTITY tooltip.control.mute     "Balbhaigh" >
-<!ENTITY tooltip.control.volume   "Airde" >
-<!ENTITY tooltip.control.shuffle  "Athsheinn go Fánach" >
-<!ENTITY tooltip.control.shuf_off "Athsheinn go Fánach As" >
-<!ENTITY tooltip.control.curtrack "Aimsigh an Rian Reatha" >
-<!ENTITY tooltip.search           "Cuardaigh" >
-<!ENTITY tooltip.browser.back     "Siortaigh Siar" >
-<!ENTITY tooltip.browser.fwd      "Siortaigh Ar Aghaidh" >
-<!ENTITY tooltip.browser.stop     "Stad an Siortaitheoir" >
-<!ENTITY tooltip.browser.home     "Clár Cinn" >
-<!ENTITY tooltip.browser.refresh  "Athnuaigh" >
-<!ENTITY tooltip.browser.subscription "Subscribe to this page" >
-<!ENTITY tooltip.browser.mediapages.list "List View" >
-<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
-<!ENTITY tooltip.browser.mediapages "Switch Media Views…" >
-<!ENTITY tooltip.servicepane.show    "Show Service Pane" >
-<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "Seinnréim Nua" >
-<!ENTITY tooltip.displaypane.options "Content Pane Options">
-
-<!ENTITY smart.window             "Cruthaitheoir Seinnréim Chliste" >
-<!ENTITY smart.limit              "Teorannaigh go" >
-<!ENTITY smart.match              "Comhoiriúnaigh" >
-<!ENTITY smart.matchsingle        "Match the following condition:" >
-<!ENTITY smart.any                "ceann ar bith" >
-<!ENTITY smart.all                "uile" >
-<!ENTITY smart.following          "of the following conditions:" >
-<!ENTITY smart.random             "fánach" >
-<!ENTITY smart.album              "albam" >
-<!ENTITY smart.artist             "ealaíontóir" >
-<!ENTITY smart.genre              "aicme" >
-<!ENTITY smart.title              "teideal" >
-<!ENTITY smart.high_rating        "highest rating" >
-<!ENTITY smart.low_rating         "lowest rating" >
-<!ENTITY smart.most_recent        "is mó seinnte le déanaí" >
-<!ENTITY smart.least_recent       "is lú seinnte le déanaí" >
-<!ENTITY smart.most_often         "is mó seinnte" >
-<!ENTITY smart.least_often        "is lú seinnte" >
-<!ENTITY smart.most_added         "churtha leis le déanaí" >
-<!ENTITY smart.least_added        "least recently added" >
-<!ENTITY smart.minutes            "nóiméid" >
-<!ENTITY smart.hours              "uaireanta" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "amhráin" >
-<!ENTITY smart.selectedby         "Roghnaithe ag" >
-<!ENTITY smart.to                 "go" >
-<!ENTITY smart.autoupdate         "Nuashonraigh go hUathoibríoch">
+<!ENTITY menu.downloadmgr "Íosluchtuithe Comhaid">
+<!ENTITY menu.switchplayercontrols "Rialtáin an tSeinnteora">
+<!ENTITY menu.controllerontop "Taispeáin Ar Bharr">
+<!ENTITY menu.controlleronbottom "Taispeáin ag an Bun">
+<!ENTITY menu.fullscreen "Lánscáileán">
+<!ENTITY menu.videotofront "Físeán chun Tosach">
+<!ENTITY device.dialog.wait_for_completion.title "Ag feitheamh ar ghléasanna.">
+<!ENTITY device.dialog.wait_for_completion.msg "Ag feitheamh ar gach oibríochtaí gléis le críochnú. Brúigh &quot;Scoir&quot; chun éirí as bheith ag feitheamh agus scoir ón bhfeidhmchlár.">
+<!ENTITY device.dialog.wait_for_completion.quit "Scoir">
+<!ENTITY tooltip.minimize "Íoslaghdaigh">
+<!ENTITY tooltip.maximize "Uasmhéadaigh/Athchur">
+<!ENTITY tooltip.exit "Scoir">
+<!ENTITY tooltip.close "Dún">
+<!ENTITY tooltip.hide "Folaigh">
+<!ENTITY tooltip.fullscreen "Lánscáileáin">
+<!ENTITY tooltip.control.back "An Rian Roimhe">
+<!ENTITY tooltip.control.play "Seinn">
+<!ENTITY tooltip.control.pause "Moilligh">
+<!ENTITY tooltip.control.resume "Atosaigh">
+<!ENTITY tooltip.control.stop "Stad">
+<!ENTITY tooltip.control.fwd "An Rian Ar Aghaidh">
+<!ENTITY tooltip.control.mute "Balbhaigh">
+<!ENTITY tooltip.control.volume "Airde">
+<!ENTITY tooltip.control.shuffle "Athsheinn go Fánach">
+<!ENTITY tooltip.control.shuf_off "Athsheinn go Fánach As">
+<!ENTITY tooltip.control.curtrack "Aimsigh an Rian Reatha">
+<!ENTITY tooltip.search "Cuardaigh">
+<!ENTITY tooltip.browser.back "Siortaigh Siar">
+<!ENTITY tooltip.browser.fwd "Siortaigh Ar Aghaidh">
+<!ENTITY tooltip.browser.stop "Stad an Siortaitheoir">
+<!ENTITY tooltip.browser.home "Clár Cinn">
+<!ENTITY tooltip.browser.refresh "Athnuaigh">
+<!ENTITY tooltip.servicepane.newnode "Seinnréim Nua">
+<!ENTITY smart.window "Cruthaitheoir Seinnréim Chliste">
+<!ENTITY smart.limit "Teorannaigh go">
+<!ENTITY smart.match "Comhoiriúnaigh">
+<!ENTITY smart.any "ceann ar bith">
+<!ENTITY smart.all "uile">
+<!ENTITY smart.random "fánach">
+<!ENTITY smart.album "albam">
+<!ENTITY smart.artist "ealaíontóir">
+<!ENTITY smart.genre "aicme">
+<!ENTITY smart.title "teideal">
+<!ENTITY smart.most_recent "is mó seinnte le déanaí">
+<!ENTITY smart.least_recent "is lú seinnte le déanaí">
+<!ENTITY smart.most_often "is mó seinnte">
+<!ENTITY smart.least_often "is lú seinnte">
+<!ENTITY smart.most_added "churtha leis le déanaí">
+<!ENTITY smart.minutes "nóiméid">
+<!ENTITY smart.hours "uaireanta">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "amhráin">
+<!ENTITY smart.selectedby "Roghnaithe ag">
+<!ENTITY smart.to "go">
+<!ENTITY smart.autoupdate "Nuashonraigh go hUathoibríoch">
 <!ENTITY smart.playlistcondition.library "Leabharlann">
 <!ENTITY smart.contenttypecondition.video "Físeán">
 <!ENTITY smart.contenttypecondition.audio "Ceol">
-
-<!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
-
-<!ENTITY open_url.title           "Oscail an URL">
-<!ENTITY subscribe.title          "Liostáil">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Nóiméad">
-<!ENTITY subscribe.hours          "Uair(eanta)">
-<!ENTITY subscribe.days           "Laethanta">
-<!ENTITY subscribe.autocheck      "Nuashonraigh go huathoibríoch gach">
-<!ENTITY subscribe.destinationfolder      "Roghnaigh an fillteán sprice:">
-
-<!ENTITY feed.subscribe.label     "Subscribe">
-<!ENTITY feed.subscribe.dontask   "Don't automatically show this dialog again">
-<!ENTITY feed.subscribe.close     "Dún">
-
-<!ENTITY podcast.creation_dialog.title       "Podchraoladh Nua">
+<!ENTITY open_url.title "Oscail an URL">
+<!ENTITY subscribe.title "Liostáil">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Nóiméad">
+<!ENTITY subscribe.hours "Uair(eanta)">
+<!ENTITY subscribe.days "Laethanta">
+<!ENTITY subscribe.autocheck "Nuashonraigh go huathoibríoch gach">
+<!ENTITY subscribe.destinationfolder "Roghnaigh an fillteán sprice:">
+<!ENTITY feed.subscribe.close "Dún">
+<!ENTITY podcast.creation_dialog.title "Podchraoladh Nua">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Féach Ar Fhillteáin">
-<!ENTITY watchfolder.folderlist   "Féach ar na fillteáin seo le haghaidh meáin nua:">
-
-<!ENTITY locale.language          "Teanga" >
-<!ENTITY menu.view                "Amharc" >
-<!ENTITY about.version            "Leagan" >
-<!ENTITY about.buttons.credits    "Buíochas" >
-
-<!ENTITY equalizer.title          "Cothromóir" >
-<!ENTITY equalizer.on.checkbox    "Ar Siúl" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Saincheaptha" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Beo" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Cóisir" >
-<!ENTITY equalizer.preset.classical   "Classical" >
-<!ENTITY equalizer.preset.large_hall  "Halla Mór" >
-<!ENTITY equalizer.preset.dance       "Damhsa" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Bog" >
-<!ENTITY equalizer.preset.small_speakers   "Ríomhaire glúine/Cluasáin" >
-<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
-<!ENTITY equalizer.preset.full_treble "Full treble" >
-<!ENTITY equalizer.preset.full_bass   "Full bass" >
-
-
-<!ENTITY setupprogress.pleasewait "Fan le do thoil…" >
-<!ENTITY setupprogress.cancel     "Cealaigh">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "W" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "Taispeáin an Comhad Roghnaithe" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "Féach Ar Fhillteáin">
+<!ENTITY watchfolder.folderlist "Féach ar na fillteáin seo le haghaidh meáin nua:">
+<!ENTITY locale.language "Teanga">
+<!ENTITY menu.view "Amharc">
+<!ENTITY about.version "Leagan">
+<!ENTITY about.buttons.credits "Buíochas">
+<!ENTITY equalizer.title "Cothromóir">
+<!ENTITY equalizer.on.checkbox "Ar Siúl">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Saincheaptha">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Beo">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.party "Cóisir">
+<!ENTITY equalizer.preset.large_hall "Halla Mór">
+<!ENTITY equalizer.preset.dance "Damhsa">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Bog">
+<!ENTITY equalizer.preset.small_speakers "Ríomhaire glúine/Cluasáin">
+<!ENTITY setupprogress.pleasewait "Fan le do thoil…">
+<!ENTITY setupprogress.cancel "Cealaigh">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "W">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "Taispeáin an Comhad Roghnaithe">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Eagarthóir Meiteashonraí" >
-<!ENTITY trackeditor.tab.summary.title            "Achoimre" >
-<!ENTITY trackeditor.tab.edit.title               "Airíonna" >
-<!ENTITY trackeditor.tab.lyrics.title             "Liricí" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Eagarthóir Meiteashonraí">
+<!ENTITY trackeditor.tab.summary.title "Achoimre">
+<!ENTITY trackeditor.tab.edit.title "Airíonna">
+<!ENTITY trackeditor.tab.lyrics.title "Liricí">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Cuir Clib Leis" >
-<!ENTITY trackeditor.addtag.tag       "Clib:" >
-
-<!ENTITY jumptofile.title             "Léim go" >
-<!ENTITY jumptofile.search            "Cuardaigh:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Use Global Hotkeys" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Gníomh" >
-<!ENTITY hotkeys.hotkey               "Aicearra" >
-<!ENTITY hotkeys.add                  "Cuir Leis" >
-<!ENTITY hotkeys.set                  "Socruigh" >
-<!ENTITY hotkeys.remove               "Bain" >
-<!ENTITY hotkeys.prefpane             "Cnaipí aicearra" >
-<!ENTITY hotkeys.info                 "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.&#10;&#10;Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications." >
-
-<!ENTITY rapi.prefpane.title             "Comhtháthú Gréasáin" >
-<!ENTITY rapi.prefpane.access.caption    "Láithreán gréasáin" >
-<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
-<!ENTITY rapi.whitelist.label            "Cumraigh" >
-<!ENTITY rapi.restore_defaults.label      "Athchur chuig an Réamhshocrú" >
-<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback" >
-<!ENTITY rapi.playback_read_disable.label    "Block websites from viewing information about playing media" >
-<!ENTITY rapi.library_read_disable.label     "Cuir bac ar shuíomhanna idirlín breathnú ar fhaisnéis faoi meáin i mo Leabharlann agus gléasanna" >
-<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Breiseáin">
-<!ENTITY prefpane.content.label       "Inneachar Gréasáin">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "No USB mass-storage devices are connected." >
-<!ENTITY umsd.music.tab                     "Ceol" >
-<!ENTITY umsd.music.music_files_group       "Comhaid ceoil" >
-<!ENTITY umsd.music.music_path_desc         "When copying music files to the device, place them within the following directory:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Roghnaigh an chomhadlann ghléis leis na comhaid ceoil a chur ann." >
-<!ENTITY umsd.music.music_ext_desc          "Macasamhlaigh comhaid ceoil leis na hiarmhíreanna seo a leanas chuig an gléas:" >
-<!ENTITY umsd.video.tab                     "Físeáin" >
-<!ENTITY umsd.video.video_files_group       "Comhaid físeáin" >
-<!ENTITY umsd.video.video_path_desc         "Nuair atá comhaid físeáin a mhacasamhlú chuig an gléas, cuir sa chomhadlann seo a leanas iad:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Roghnaigh an chomhadlann chun comhaid físeáin a chur ann." >
-<!ENTITY umsd.video.video_ext_desc          "Macasamhlaigh na comhaid físeáin leis na hiarmhíreanna seo a leanas chuig an gléas:" >
-
-<!ENTITY device.error.dialog.link           "View Error Details" >
-
-<!ENTITY restartbox.restartnow        "Atosaigh Anois" >
-<!ENTITY restartbox.restartonplaybackend "Atosaigh Ag Críoch an Seinm" >
-<!ENTITY restartbox.restartlater      "Atosaigh Ar Ball" >
-
-<!ENTITY setupprogress.installingextensions "Ag Suiteáil Breiseáin" >
-
-<!ENTITY jobprogress.details "Sonraí" >
-
-<!ENTITY menu.updateCmd.label          "Téigh ar thóir Nuashonruithe…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Spásbharra" >
-
+<!ENTITY trackeditor.addtag.title "Cuir Clib Leis">
+<!ENTITY trackeditor.addtag.tag "Clib:">
+<!ENTITY jumptofile.title "Léim go">
+<!ENTITY jumptofile.search "Cuardaigh:">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Gníomh">
+<!ENTITY hotkeys.hotkey "Aicearra">
+<!ENTITY hotkeys.add "Cuir Leis">
+<!ENTITY hotkeys.set "Socruigh">
+<!ENTITY hotkeys.remove "Bain">
+<!ENTITY hotkeys.prefpane "Cnaipí aicearra">
+<!ENTITY rapi.prefpane.title "Comhtháthú Gréasáin">
+<!ENTITY rapi.prefpane.access.caption "Láithreán gréasáin">
+<!ENTITY rapi.whitelist.label "Cumraigh">
+<!ENTITY rapi.restore_defaults.label "Athchur chuig an Réamhshocrú">
+<!ENTITY rapi.library_read_disable.label "Cuir bac ar shuíomhanna idirlín breathnú ar fhaisnéis faoi meáin i mo Leabharlann agus gléasanna">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Breiseáin">
+<!ENTITY prefpane.content.label "Inneachar Gréasáin">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.tab "Ceol">
+<!ENTITY umsd.music.music_files_group "Comhaid ceoil">
+<!ENTITY umsd.music.music_path_browse_msg "Roghnaigh an chomhadlann ghléis leis na comhaid ceoil a chur ann.">
+<!ENTITY umsd.music.music_ext_desc "Macasamhlaigh comhaid ceoil leis na hiarmhíreanna seo a leanas chuig an gléas:">
+<!ENTITY umsd.video.tab "Físeáin">
+<!ENTITY umsd.video.video_files_group "Comhaid físeáin">
+<!ENTITY umsd.video.video_path_desc "Nuair atá comhaid físeáin a mhacasamhlú chuig an gléas, cuir sa chomhadlann seo a leanas iad:">
+<!ENTITY umsd.video.video_path_browse_msg "Roghnaigh an chomhadlann chun comhaid físeáin a chur ann.">
+<!ENTITY umsd.video.video_ext_desc "Macasamhlaigh na comhaid físeáin leis na hiarmhíreanna seo a leanas chuig an gléas:">
+<!ENTITY restartbox.restartnow "Atosaigh Anois">
+<!ENTITY restartbox.restartonplaybackend "Atosaigh Ag Críoch an Seinm">
+<!ENTITY restartbox.restartlater "Atosaigh Ar Ball">
+<!ENTITY setupprogress.installingextensions "Ag Suiteáil Breiseáin">
+<!ENTITY jobprogress.details "Sonraí">
+<!ENTITY menu.updateCmd.label "Téigh ar thóir Nuashonruithe…">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Spásbharra">
 <!ENTITY tabs.closeTab "Dún an cluaisín">
 <!ENTITY tabs.listAllTabs "Taispeáin gach cluaisín">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator " - " >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Clár Cinn" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Suiteáil an Bhreiseáin" >
-
+<!ENTITY prefs.homepage.label "Clár Cinn">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Suiteáil an Bhreiseáin">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Cealaigh">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "Cealaigh an Macasamhlú">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "Cealaigh an Scriosadh">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "Cealaigh an Comhaimsearú">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "Cealaigh an Nuashonrú">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "Díchur">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Format">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Déan neamhaird de">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Faigh Eolas">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Athainmnigh">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Comhaimsearaigh">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Cealaigh">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Cealaigh an Macasamhlú">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Cealaigh an Scriosadh">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Cealaigh an Comhaimsearú">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Cealaigh an Nuashonrú">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Díchur">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Déan neamhaird de">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Faigh Eolas">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Athainmnigh">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Comhaimsearaigh">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Conlaigh CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Stad an Conlú">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Lookup CD Information">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Díchur an CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Deisigh mo ghléas">
-
-<!ENTITY device.firmware.wizard.title                     "Nuashonraigh an dochtearraí">
-<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "Ag íosluchtú dochtearraí nua…">
-<!ENTITY device.firmware.wizard.repair.time.description   "Ní thógfaidh an oibríocht seo níos mó ná 5 nóiméad.">
-<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY device.firmware.wizard.install.title             "Ag suiteáil na dochtearraí…">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.support.description        "Is féidir acmhainní tacaíochta ar nós Ceisteanna Coitianta agus leideanna um fhabhtcheartú a fháil ag">
-
-<!ENTITY device.info.icon.device            "Generic device icon">
-<!ENTITY device.info.icon.readonly          "Read-only lock icon">
-<!ENTITY device.info.model.label            "Samhail">
-<!ENTITY device.info.capacity.label         "Toilleadh">
-<!ENTITY device.info.product.label          "Táirge">
-<!ENTITY device.info.friendly_name.label    "Ainm">
-<!ENTITY device.info.serial_number.label    "Sraithuimhir">
-<!ENTITY device.info.vendor.label           "Déantúsóir">
-<!ENTITY device.info.access.label           "Access Compatibility">
-<!ENTITY device.info.playback_formats.label "File Formats">
-<!ENTITY device.info.battery.label          "Cadhnaire">
-<!ENTITY device.info.firmware_version.label "Firmware Version">
-
-<!ENTITY device.progress.sync               "Comhaimsearaigh">
-
-<!ENTITY device.capacity.music.label    "Ceol">
-<!ENTITY device.capacity.video.label    "Físeán">
-<!ENTITY device.capacity.image.label    "Grianghraif">
-<!ENTITY device.capacity.other.label    "Eile">
-<!ENTITY device.capacity.free.label     "Saor">
-
-<!ENTITY device.unsupported_media.dialog.title  "Bhraitheadh Comhaid Neamh-chomhoiriúnacha">
+<!ENTITY command.device.rip "Conlaigh CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Stad an Conlú">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Díchur an CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Deisigh mo ghléas">
+<!ENTITY device.firmware.wizard.title "Nuashonraigh an dochtearraí">
+<!ENTITY device.firmware.wizard.download.title "Ag íosluchtú dochtearraí nua…">
+<!ENTITY device.firmware.wizard.repair.time.description "Ní thógfaidh an oibríocht seo níos mó ná 5 nóiméad.">
+<!ENTITY device.firmware.wizard.install.title "Ag suiteáil na dochtearraí…">
+<!ENTITY device.firmware.wizard.support.description "Is féidir acmhainní tacaíochta ar nós Ceisteanna Coitianta agus leideanna um fhabhtcheartú a fháil ag">
+<!ENTITY device.info.model.label "Samhail">
+<!ENTITY device.info.capacity.label "Toilleadh">
+<!ENTITY device.info.product.label "Táirge">
+<!ENTITY device.info.friendly_name.label "Ainm">
+<!ENTITY device.info.serial_number.label "Sraithuimhir">
+<!ENTITY device.info.vendor.label "Déantúsóir">
+<!ENTITY device.info.battery.label "Cadhnaire">
+<!ENTITY device.progress.sync "Comhaimsearaigh">
+<!ENTITY device.capacity.music.label "Ceol">
+<!ENTITY device.capacity.video.label "Físeán">
+<!ENTITY device.capacity.image.label "Grianghraif">
+<!ENTITY device.capacity.other.label "Eile">
+<!ENTITY device.capacity.free.label "Saor">
+<!ENTITY device.unsupported_media.dialog.title "Bhraitheadh Comhaid Neamh-chomhoiriúnacha">
 <!ENTITY device.unsupported_media.dialog.enable "Inis dom nuair a bhraitear comhaid neamhoiriúnacha">
-
 <!ENTITY device.sync.header.label "Socruithe an Chomhaimsirigh">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Comhaimsearaigh">
 <!ENTITY device.sync.sync_all.label "Ceol, físeán agus seinnréimeanna uile">
 <!ENTITY device.sync.sync_selected.label "Seinnréimeanna roghnaithe:">
 <!ENTITY device.sync.playlist.title "Teideal">
 <!ENTITY device.sync.playlist.video.duration "Fad an Fhíseáin">
-<!ENTITY device.sync.images.from.label "Sync Photos From:">
 <!ENTITY device.sync.images.browse "Roghnaigh fillteán…">
 <!ENTITY device.sync.images.all.label "Gach grianghraf">
 <!ENTITY device.sync.images.all.template "Gach grianghraf (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Selected sub-folders">
 <!ENTITY device.sync.images.foldername "Ainm an Fhillteáin">
 <!ENTITY device.sync.images.filecount "Grianghraif">
-
 <!ENTITY device.settings.header.label "Socruithe">
 <!ENTITY device.settings.general.label "Coiteann">
 <!ENTITY device.settings.auto_launch.checkbox.label "Oscail &brandShortName; nuair a aimsítear an gléas seo">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Téigh ar thóir dochtearraí nua go huathoibríoch">
-<!ENTITY device.settings.music.transcoding.label "Music Conversion">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
 <!ENTITY device.settings.disk.label "Bainistiú an Diosca">
 <!ENTITY device.settings.disk.management.label "Saincheap comhdhéanamh na comhadlainne">
 <!ENTITY device.settings.disk.management.filename "Comhaid amhráin">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Beartráta">
 <!ENTITY device.settings.music.transcoding.bitrate.units " kbps">
-
 <!ENTITY device.management.tabs.music.label "Ceol">
 <!ENTITY device.management.tabs.video.label "Físeán">
 <!ENTITY device.management.tabs.image.label "Grianghraif">
 <!ENTITY device.management.tabs.tools.label "Uirlisí">
 <!ENTITY device.management.tabs.settings.label "Socruithe">
-
 <!ENTITY device.tools.product_registration.title "Clárú an Táirge">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
 <!ENTITY device.tools.product_registration.label "Ceartaigh táirge">
-
 <!ENTITY device.tools.update_firmware.title "Nuashonraigh Dochtearraí">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
 <!ENTITY device.tools.update_firmware.label "Lorg dochtearraí nuashonraithe">
 <!ENTITY device.tools.update_firmware.current_firmware.title "An leagan reatha den dochtearraí:">
-
 <!ENTITY device.tools.restore_device.title "Cuir an gléas ar ais">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
 <!ENTITY device.tools.restore_device.label "Cuir socruithe na monarchan ar ais i bhfeidhm ar an ngléas">
-
-<!ENTITY device.tools.format_device.title "Format Device">
-<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
-<!ENTITY device.tools.format_device.label "Format device">
-<!ENTITY device.tools.format_volume.button.label "Format">
-
 <!ENTITY device.tools.support.title "Tacaíocht">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
 <!ENTITY device.tools.support.label "Féach ar acmhainní tacaíochta">
-
 <!ENTITY device.tools.reset_warnings.title "Athshocraigh na rabhaidh">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
-<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
-
 <!ENTITY device.dialog.setup.title "Socrú an Ghléis">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Déan neamhaird den gléas seo">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Roghnaigh amháin mura mian leat go mbeidh &brandShortName; ag bainistiú an gléas seo">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ná bac leis an ngléas seo">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Oscail an Nasc Sa Líonléitheoir Réamhshocraithe">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Oscail an Leathanach Sa Líonléitheoir Réamhshocraithe">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Oscail an Fráma sa Líonléitheoir Réamhshocraithe">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Oscail an Íomhá Sa Líonléitheoir Réamhshocraithe">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Macasamhlaigh an Téacs Roghnaithe">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "Seinn">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Íosluchtaigh">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Cuir Leis an Seinnréim">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Gan Seinnréimeanna&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Seinnréim Nua">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Subscribe To This Page…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Subscribe To This Frame…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Cuidigh Linn &brandShortName; A Fheabhsú!">
-<!ENTITY feedback.dialog.yes        "Ta">
-<!ENTITY feedback.dialog.no         "Níl">
-<!ENTITY feedback.dialog.sentence1  "An gcabhrófá linn &brandShortName; a fheabhsú trí meas gasta a chomhlíonadh?">
-<!ENTITY feedback.dialog.sentence2  "If you're not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Le meas,">
-<!ENTITY feedback.dialog.sentence4  "Foireann &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Oscail an Nasc Sa Líonléitheoir Réamhshocraithe">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Oscail an Leathanach Sa Líonléitheoir Réamhshocraithe">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Oscail an Fráma sa Líonléitheoir Réamhshocraithe">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Oscail an Íomhá Sa Líonléitheoir Réamhshocraithe">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Macasamhlaigh an Téacs Roghnaithe">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Seinn">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Íosluchtaigh">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Cuir Leis an Seinnréim">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Gan Seinnréimeanna&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Seinnréim Nua">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Cuidigh Linn &brandShortName; A Fheabhsú!">
+<!ENTITY feedback.dialog.yes "Ta">
+<!ENTITY feedback.dialog.no "Níl">
+<!ENTITY feedback.dialog.sentence1 "An gcabhrófá linn &brandShortName; a fheabhsú trí meas gasta a chomhlíonadh?">
+<!ENTITY feedback.dialog.sentence3 "Le meas,">
+<!ENTITY feedback.dialog.sentence4 "Foireann &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Fáilte go &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "Fáilte go &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName; Socrú">
-
+<!ENTITY first_run.title "&brandShortName; Socrú">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Breiseáin Molta">
+<!ENTITY first_run.add_ons.header.label "Breiseáin Molta">
 <!ENTITY first_run.add_ons.description.line1 "Cuireann breiseáin le feidhmíocht &brandShortName; ligeann sé duit do sheinnteoir meáin a shaincheapadh. Moltar go mór na roghanna thíos.">
-<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application's appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY first_run.add_ons.loading.label     "Ag aisghabháil na breiseáin molta.">
+<!ENTITY first_run.add_ons.loading.label "Ag aisghabháil na breiseáin molta.">
 <!ENTITY first_run.add_ons.load_failed.label "Níorbh fhéidir na breiseáin molta a aisghabháil.">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Tá an nuashonrú réidh le suiteáil.">
 <!ENTITY first_run.app_update.finished.text "Suiteálfar an nuashonrú nuair a atosófar &brandShortName;.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "Ní Féidir le &brandShortName; Nascadh leis an t-Idirlíon">
-<!ENTITY first_run.connection.description          "Check your Connection Settings or Continue with the Setup assistant.">
-<!ENTITY first_run.connection.settings.button      "Socruithe an Naisc…">
-<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
-
+<!ENTITY first_run.connection.header.label "Ní Féidir le &brandShortName; Nascadh leis an t-Idirlíon">
+<!ENTITY first_run.connection.settings.button "Socruithe an Naisc…">
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Aontú an Cheadúnais">
+<!ENTITY first_run.eula.header.label "Aontú an Cheadúnais">
 <!ENTITY first_run.eula.accept_checkbox.label "Léigh mé agus ghlac mé leis na coinníollacha a bhaineann leis an ceadúnas seo.">
-<!ENTITY first_run.eula.language.label        "Béarla:">
-
+<!ENTITY first_run.eula.language.label "Béarla:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Cuidigh Linn &brandShortName; A Fheabhsú">
-<!ENTITY first_run.feedback.description             "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
-<!ENTITY first_run.feedback.metrics.label           "Bailigh agus seol mo mhéadracha chuig fhoireann &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "Tá méadrachtaí go huile is go hiomlán anaithnid agus ní bailítear sonraí pearsanta ar bith.">
-<!ENTITY first_run.feedback.email.header.label      "Coinnigh Ar An Eolas Me">
-<!ENTITY first_run.feedback.email.description       "Faigh síntiúis lenár nuacht litir chun a bheith ar an eolas faoinár leagain nua agus nuashonruithe.">
+<!ENTITY first_run.feedback.header.label "Cuidigh Linn &brandShortName; A Fheabhsú">
+<!ENTITY first_run.feedback.metrics.label "Bailigh agus seol mo mhéadracha chuig fhoireann &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "Tá méadrachtaí go huile is go hiomlán anaithnid agus ní bailítear sonraí pearsanta ar bith.">
+<!ENTITY first_run.feedback.email.header.label "Coinnigh Ar An Eolas Me">
+<!ENTITY first_run.feedback.email.description "Faigh síntiúis lenár nuacht litir chun a bheith ar an eolas faoinár leagain nua agus nuashonruithe.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "cuir isteach do sheoladh ríomhphoist chun a bheith ar an eolas">
-
-<!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes Import/Export">
-<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Export new music tracks and playlists to iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
-
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Tabhair Isteach an Meán">
-<!ENTITY first_run.import_media.description                  "Roghnaigh cén meáin ar mian leat a thabhairt isteach i &brandShortName;. Nuair a thosaíonn &brandShortName;, tig leat breis meáin a chuir leis ar bhealaí éagsúla.">
+<!ENTITY first_run.import_media.header.label "Tabhair Isteach an Meán">
+<!ENTITY first_run.import_media.description "Roghnaigh cén meáin ar mian leat a thabhairt isteach i &brandShortName;. Nuair a thosaíonn &brandShortName;, tig leat breis meáin a chuir leis ar bhealaí éagsúla.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Scrúdaigh comhadlanna ar mo ríomhaire">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Ná tabhair isteach meán anois">
-<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
+<!ENTITY first_run.import_media.radio.dont_import.label "Ná tabhair isteach meán anois">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Coinnigh súil ar an bhfillteán seo le haghaidh athruithe">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Ag Íosluchtú Breiseáin">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Fáilte go &brandShortName;">
-<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
+<!ENTITY first_run.welcome.header.label "Fáilte go &brandShortName;">
 <!ENTITY first_run.welcome.description.line2 "Tugann an cúntóir seo bealach gasta agus feidhmiúil chun &brandShortName; a chur ar siúl.">
-
-<!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Media Importer">
-
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Tabhair isteach leabharlann">
-<!ENTITY import_library.prefs.title                       "Tabhair Isteach">
-<!ENTITY import_library.library_file_label                "Comhad Leabharlainne:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Alert me when unsupported tracks or playlists are not imported">
-<!ENTITY import_library.prefs.path_group_caption          "Conair na Leabharlainne">
-<!ENTITY import_library.prefs.options_group_caption       "Roghanna Allmhairiú">
-<!ENTITY import_library.import_command                    "Tabhair Isteach an Leabharlann">
-<!ENTITY import_tracks_itunes_checkbox                    "Tabhair isteach rianta ceoil ó iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Import music playlists">
-<!ENTITY export_tracks_itunes_checkbox                    "Export music tracks to iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Export music playlists">
-<!ENTITY export_subscriptions_itunes_checkbox             "Export subscriptions">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Export music smart playlists">
-<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
-
+<!ENTITY import_library.dialog.title "Tabhair isteach leabharlann">
+<!ENTITY import_library.prefs.title "Tabhair Isteach">
+<!ENTITY import_library.library_file_label "Comhad Leabharlainne:">
+<!ENTITY import_library.prefs.path_group_caption "Conair na Leabharlainne">
+<!ENTITY import_library.prefs.options_group_caption "Roghanna Allmhairiú">
+<!ENTITY import_library.import_command "Tabhair Isteach an Leabharlann">
+<!ENTITY import_tracks_itunes_checkbox "Tabhair isteach rianta ceoil ó iTunes">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Athraíodh an seinnréim">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Keep the current &brandShortName; playlist (Do not import this playlist)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Merge the current &brandShortName; and iTunes playlists">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Replace this &brandShortName; playlist with the current iTunes playlist">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Aire: Ní féidir cumasc agus athchuir a chealú.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Apply selection to all playlists">
-
-<!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-
-<!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Watch Folders">
-<!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Faire amach go huathoibríoch do athruithe sa bhfillteán seo a leanas">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Fillteán:">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Athraíodh an seinnréim">
+<!ENTITY import_library.dirty_playlist_dialog.note "Aire: Ní féidir cumasc agus athchuir a chealú.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Faire amach go huathoibríoch do athruithe sa bhfillteán seo a leanas">
+<!ENTITY watch_folder.prefs.watch_folder_label "Fillteán:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Breiseáin Molta">
+<!ENTITY enable_recommended_addons_update.label "Breiseáin Molta">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; Socrú">
-
+<!ENTITY recommended_add_ons.title "&brandShortName; Socrú">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Sonraí">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Sonraí">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Níl faic á seinm" >
-<!ENTITY albumart.displaypane.not_selected_message  "Níor roghnaíodh rud ar bith" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Tarraing ealaíon albaim anseo" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Taispeáin Cad Atá Roghnaithe Anois" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Taispeáin Cad Atá Á Sheinm Anois" >
+<!ENTITY albumart.displaypane.not_playing_message "Níl faic á seinm">
+<!ENTITY albumart.displaypane.not_selected_message "Níor roghnaíodh rud ar bith">
+<!ENTITY albumart.displaypane.drag_and_drop "Tarraing ealaíon albaim anseo">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Taispeáin Cad Atá Roghnaithe Anois">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Taispeáin Cad Atá Á Sheinm Anois">
 <!ENTITY albumart.displaypane.selected.menu.cut "Gearr">
 <!ENTITY albumart.displaypane.selected.menu.copy "Cóip">
 <!ENTITY albumart.displaypane.selected.menu.paste "Greamaigh">
 <!ENTITY albumart.displaypane.selected.menu.clear "Glan">
 <!ENTITY albumart.coverpreview.title "Ealaíon Albaim">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Obair Ealaíne">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file's metadata">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Cuardaigh na comhadainmneacha:">
-<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cuardaigh iarmhíreanna na gcomhad:">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
-
-<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Suas">
 <!ENTITY albumartpreferences.prefpane.priorities.down "Síos">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Athshocraigh">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Fill">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "Cealaigh">
-<!ENTITY wizard.button.next.label      "Lean Ar Aghaidh">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "Críochnaigh">
-
+<!ENTITY wizard.button.back.label "Fill">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Cealaigh">
+<!ENTITY wizard.button.next.label "Lean Ar Aghaidh">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Críochnaigh">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Botún Mediacore">
-<!ENTITY mediacore.error.preface  "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY mediacore.error.title "Botún Mediacore">
 <!ENTITY mediacore.error.continue "Lean Ar Aghaidh">
-<!ENTITY mediacore.error.stop     "Stad an Athsheinm">
-<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
+<!ENTITY mediacore.error.stop "Stad an Athsheinm">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
-<!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Athsheinm">
-
-<!ENTITY playback.prefpane.audio_output.label   "Aschur Fuaime">
-<!ENTITY playback.prefpane.audio_output.buffer  "Maolán Aschurtha:">
-
-<!ENTITY playback.prefpane.streaming.label      "Líonra agus Sruthú">
-<!ENTITY playback.prefpane.streaming.buffer     "Maolán Sruthaithe:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalú">
-<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
-
-<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY playback.prefpane.label "Athsheinm">
+<!ENTITY playback.prefpane.audio_output.label "Aschur Fuaime">
+<!ENTITY playback.prefpane.audio_output.buffer "Maolán Aschurtha:">
+<!ENTITY playback.prefpane.streaming.label "Líonra agus Sruthú">
+<!ENTITY playback.prefpane.streaming.buffer "Maolán Sruthaithe:">
+<!ENTITY playback.prefpane.normalization.label "Normalú">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Albam">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Rian">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY fetch_album_art.dialog.title "Faigh Ealaíon an Albaim">
 <!ENTITY fetch_album_art.dialog.message "Níl sé curtha i bhfeidhm faoi láthair. (Féach Fabht 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Ealaíontóir">
-<!ENTITY cdrip.lookup.info_not_found.album  "Albam">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD Information Not Found">
-<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY cdrip.lookup.info_not_found.album "Albam">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Teideal">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Conlú CD">
-<!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY cdrip.prefpane.quality "Cáilíocht">
 <!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
-<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
-<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
-<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
-<!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Settings">
-<!ENTITY cdrip.mediaview.format_label              "Format: ">
-<!ENTITY cdrip.mediaview.quality_label             "Cáilíocht">
-<!ENTITY cdrip.mediaview.settings_button           "Socruithe">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Conlaigh CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Stad an Conlú">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Féach na Rianta">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Díchuir CD">
-
+<!ENTITY cdrip.mediaview.quality_label "Cáilíocht">
+<!ENTITY cdrip.mediaview.settings_button "Socruithe">
+<!ENTITY cdrip.mediaview.rip_cd_button "Conlaigh CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stad an Conlú">
+<!ENTITY cdrip.mediaview.view_tracks_button "Féach na Rianta">
+<!ENTITY cdrip.mediaview.eject_cd_button "Díchuir CD">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Fuinneog an Fhíseáin">
 <!ENTITY videowindow.actualsize "Fíormhéid">
 <!ENTITY videowindow.fullscreen "Lánscáileán">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
-<!-- about:credits entities. -->
-<!ENTITY about.credits.intro "We would like to thank our contributors, whose efforts make Songbird what it is. These people have helped by writing code and documentation, and by testing. They have created and maintained this product, its associated development kits, our build tools and our web sites.  Names are followed by IRC nicks, come by #songbird on irc.mozilla.org and say hello!">
 <!ENTITY about.credits.footer.beforeLink "Gan amhras, ní bheadh sé seo ann murach dianobair">
 <!ENTITY about.credits.footer.linkText "na rannpháirtithe.">
 <!ENTITY about.credits.footer.afterLink "do thionscnamh Mozilla.">
 <!ENTITY about.credits.heading.translators "Aistritheoirí">
 <!ENTITY about.credits.heading.champs "Curaidh">
-<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Multiple CD Records Found">
-<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
-<!ENTITY cdinfo.other.label                "Add your own Artist and Album Info">
-
 <!ENTITY playqueue.label "Seinn Scuaine">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

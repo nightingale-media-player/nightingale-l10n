@@ -1,17 +1,15 @@
 <!-- override chrome://browser/locale/preferences/preferences.dtd -->
-
-<!ENTITY  prefWindow.titleWin     "Opciones">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Preferencias">
+<!ENTITY prefWindow.titleWin "Opciones">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Preferencias">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2       "width: 60em; min-height: 45em;">
-<!ENTITY  prefWinMinSize.styleMac        "width: 63em; min-height: 43em;">
-<!ENTITY  prefWinMinSize.styleGNOME      "width: 60em; min-height: 45em;">
-
-<!ENTITY  paneGeneral.title       "Principal">
-<!ENTITY  paneTabs.title          "Pestañas">
-<!ENTITY  paneContent.title       "Contenido">
-<!ENTITY  paneApplications.title  "Aplicaciones">
-<!ENTITY  panePrivacy.title       "Privacidad">
-<!ENTITY  paneSecurity.title      "Seguridad">
-<!ENTITY  paneAdvanced.title      "Avanzado">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em;">
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em;">
+<!ENTITY paneGeneral.title "Principal">
+<!ENTITY paneTabs.title "Pestañas">
+<!ENTITY paneContent.title "Contenido">
+<!ENTITY paneApplications.title "Aplicaciones">
+<!ENTITY panePrivacy.title "Privacidad">
+<!ENTITY paneSecurity.title "Seguridad">
+<!ENTITY paneAdvanced.title "Avanzado">

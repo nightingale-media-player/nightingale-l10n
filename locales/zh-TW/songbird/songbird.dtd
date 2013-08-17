@@ -1,501 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "確定" >
-<!ENTITY window.cancel      "取消" >
-<!ENTITY window.apply       "套用" >
-<!ENTITY window.browse      "瀏覽…" >
-<!ENTITY window.save        "儲存">
-<!ENTITY window.yes         "是">
-<!ENTITY window.no          "否">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "確定">
+<!ENTITY window.cancel "取消">
+<!ENTITY window.apply "套用">
+<!ENTITY window.browse "瀏覽…">
+<!ENTITY window.save "儲存">
+<!ENTITY window.yes "是">
+<!ENTITY window.no "否">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "結束 &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "偏好設定">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "結束 &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "偏好設定">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "服務">
-<!ENTITY menu.mac.hide                  "隱藏 &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "隱藏其他">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "顯示全部">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "檔案" >
-<!ENTITY menu.file.new          "新增播放清單…" >
-<!ENTITY menu.file.smart        "新增智慧型播放清單…" >
-<!ENTITY menu.file.remote       "新增訂閱…" >
-<!ENTITY menu.file.podcast      "新Podcast…" >
-<!ENTITY menu.file.open         "開啟檔案…" >
-<!ENTITY menu.file.url          "開啟位置…" >
-<!ENTITY menu.file.playlist     "匯入播放清單…" >
-<!ENTITY menu.file.library      "匯入一個媒體庫…" >
-<!ENTITY menu.file.newtab       "新增分頁" >
-<!ENTITY menu.file.closetab     "關閉分頁" >
-<!ENTITY menu.file.metadata     "檢視標籤">
-<!ENTITY menu.file.scan         "匯入媒體…" >
-<!ENTITY menu.file.exit         "離開" >
-
-<!ENTITY menu.edit          "編輯" >
-<!ENTITY menu.edit.undo     "復原" >
-<!ENTITY menu.edit.redo     "取消「復原」" >
-<!ENTITY menu.edit.cut      "剪下" >
-<!ENTITY menu.edit.copy     "複製" >
-<!ENTITY menu.edit.paste    "貼上" >
-<!ENTITY menu.edit.delete   "刪除" >
-<!ENTITY menu.edit.selall   "全選" >
-<!ENTITY menu.edit.find        "尋找" >
-<!ENTITY menu.edit.findagain   "找下一個" >
-
+<!ENTITY menu.mac.services "服務">
+<!ENTITY menu.mac.hide "隱藏 &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "隱藏其他">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "顯示全部">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "檔案">
+<!ENTITY menu.file.new "新增播放清單…">
+<!ENTITY menu.file.smart "新增智慧型播放清單…">
+<!ENTITY menu.file.remote "新增訂閱…">
+<!ENTITY menu.file.podcast "新Podcast…">
+<!ENTITY menu.file.open "開啟檔案…">
+<!ENTITY menu.file.url "開啟位置…">
+<!ENTITY menu.file.playlist "匯入播放清單…">
+<!ENTITY menu.file.library "匯入一個媒體庫…">
+<!ENTITY menu.file.newtab "新增分頁">
+<!ENTITY menu.file.closetab "關閉分頁">
+<!ENTITY menu.file.metadata "檢視標籤">
+<!ENTITY menu.file.scan "匯入媒體…">
+<!ENTITY menu.file.exit "離開">
+<!ENTITY menu.edit "編輯">
+<!ENTITY menu.edit.undo "復原">
+<!ENTITY menu.edit.redo "取消「復原」">
+<!ENTITY menu.edit.cut "剪下">
+<!ENTITY menu.edit.copy "複製">
+<!ENTITY menu.edit.paste "貼上">
+<!ENTITY menu.edit.delete "刪除">
+<!ENTITY menu.edit.selall "全選">
+<!ENTITY menu.edit.find "尋找">
+<!ENTITY menu.edit.findagain "找下一個">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "偏好設定">
+<!ENTITY menu.linux.preferences "偏好設定">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "控制" >
-<!ENTITY menu.control.play  "播放/暫停" >
-<!ENTITY menu.control.pause "暫停" >
-<!ENTITY menu.control.next  "下一首歌" >
-<!ENTITY menu.control.prev  "上一首歌" >
-<!ENTITY menu.control.shuf  "隨機" >
-<!ENTITY menu.control.repa  "重複全部" >
-<!ENTITY menu.control.rep1  "重複單曲" >
-<!ENTITY menu.control.repx  "不重複" >
-<!ENTITY menu.control.jumpto "跳至…" >
-
-<!ENTITY menu.control.play.button      "播放" >
-<!ENTITY menu.control.pause.button     "暫停" >
-<!ENTITY menu.control.stop.button      "停止" >
-
+<!ENTITY menu.controls "控制">
+<!ENTITY menu.control.play "播放/暫停">
+<!ENTITY menu.control.pause "暫停">
+<!ENTITY menu.control.next "下一首歌">
+<!ENTITY menu.control.prev "上一首歌">
+<!ENTITY menu.control.shuf "隨機">
+<!ENTITY menu.control.repa "重複全部">
+<!ENTITY menu.control.rep1 "重複單曲">
+<!ENTITY menu.control.repx "不重複">
+<!ENTITY menu.control.jumpto "跳至…">
+<!ENTITY menu.control.play.button "播放">
+<!ENTITY menu.control.pause.button "暫停">
+<!ENTITY menu.control.stop.button "停止">
 <!ENTITY displaypane.default.image.pre "從選單中選擇一個套件">
 <!ENTITY displaypane.default.image.tooltip "套件挑選器圖示">
 <!ENTITY displaypane.default.image.post "或前往">
 <!ENTITY displaypane.default.link.pre "從">
 <!ENTITY displaypane.default.link.text "套件網站">
 <!ENTITY displaypane.default.link.post "前往瀏覽套件">
-<!ENTITY displaypane.name.servicepane   "服務窗格底部">
-<!ENTITY displaypane.name.browser       "內容窗格底部">
-<!ENTITY displaypane.name.sidebar       "右側邊列">
-<!ENTITY servicepane.title.label        "服務台">
-
-<!ENTITY menu.tools            "工具" >
+<!ENTITY displaypane.name.servicepane "服務窗格底部">
+<!ENTITY displaypane.name.browser "內容窗格底部">
+<!ENTITY displaypane.name.sidebar "右側邊列">
+<!ENTITY servicepane.title.label "服務台">
+<!ENTITY menu.tools "工具">
 <!ENTITY menu.tools.getartwork "讀取專輯封面">
 <!ENTITY menu.tools.exportmedia "匯出媒體庫的變更">
-
-<!ENTITY menu.help          "說明" >
-<!ENTITY menu.help.homepage "&brandShortName; 網站" >
-<!ENTITY menu.help.bugz     "回報臭蟲…" >
-<!ENTITY menu.help.topics   "說明主題" >
+<!ENTITY menu.help "說明">
+<!ENTITY menu.help.homepage "&brandShortName; 網站">
+<!ENTITY menu.help.bugz "回報臭蟲…">
+<!ENTITY menu.help.topics "說明主題">
 <!ENTITY menu.help.keyboard "鍵盤捷徑">
-<!ENTITY menu.help.about    "關於&brandShortName;" >
-
-<!ENTITY menu.equalizer     "平衡器…" >
-<!ENTITY menu.preferences   "選項" >
-<!ENTITY menu.extensions    "附加元件" >
+<!ENTITY menu.help.about "關於&brandShortName;">
+<!ENTITY menu.equalizer "平衡器…">
+<!ENTITY menu.preferences "選項">
+<!ENTITY menu.extensions "附加元件">
 <!ENTITY menu.clearprivatedata "清除隱私資料…">
 <!ENTITY menu.errorconsole "錯誤主控台">
-<!ENTITY menu.downloadmgr   "檔案下載" >
-<!ENTITY menu.switchplayercontrols  "撥放控制器" >
-<!ENTITY menu.controllerontop       "顯示在上方">
-<!ENTITY menu.controlleronbottom    "顯示在下方">
-
-<!ENTITY menu.fullscreen            "全螢幕">
-<!ENTITY menu.videotofront          "影片置頂">
-
-<!ENTITY device.dialog.wait_for_completion.title  "等待裝置中。">
-<!ENTITY device.dialog.wait_for_completion.msg    "正在等待所有的裝置操作完成。點選「結束」以停止等待並結束應用程式。">
-<!ENTITY device.dialog.wait_for_completion.quit   "結束">
-
-<!ENTITY tooltip.minimize         "最小化" >
-<!ENTITY tooltip.maximize         "最大化/復原" >
-<!ENTITY tooltip.exit             "關閉" >
-<!ENTITY tooltip.close            "關閉" >
-<!ENTITY tooltip.hide             "隱藏" >
-<!ENTITY tooltip.fullscreen       "全螢幕" >
-<!ENTITY tooltip.control.back     "上一首音軌" >
-<!ENTITY tooltip.control.play     "播放" >
-<!ENTITY tooltip.control.pause    "暫停" >
-<!ENTITY tooltip.control.resume   "繼續" >
-<!ENTITY tooltip.control.stop     "停止" >
-<!ENTITY tooltip.control.fwd      "下一首音軌" >
-<!ENTITY tooltip.control.mute     "靜音" >
-<!ENTITY tooltip.control.volume   "音量" >
-<!ENTITY tooltip.control.shuffle  "隨機播放" >
-<!ENTITY tooltip.control.shuf_off "關閉隨機播放" >
-<!ENTITY tooltip.control.curtrack "尋找目前音軌" >
-<!ENTITY tooltip.search           "搜尋" >
-<!ENTITY tooltip.browser.back     "瀏覽上一頁" >
-<!ENTITY tooltip.browser.fwd      "瀏覽下一頁" >
-<!ENTITY tooltip.browser.stop     "停止瀏覽器" >
-<!ENTITY tooltip.browser.home     "首頁" >
-<!ENTITY tooltip.browser.refresh  "重新整理" >
-<!ENTITY tooltip.browser.subscription "建立訂閱" >
-<!ENTITY tooltip.browser.mediapages.list "清單檢視" >
-<!ENTITY tooltip.browser.mediapages.filter "濾鏡瀏覽模式" >
-<!ENTITY tooltip.browser.mediapages "檢視…" >
-<!ENTITY tooltip.servicepane.show    "顯示服務台" >
-<!ENTITY tooltip.servicepane.collapse    "摺叠服務台" >
-<!ENTITY tooltip.servicepane.newnode "新的播放清單" >
+<!ENTITY menu.downloadmgr "檔案下載">
+<!ENTITY menu.switchplayercontrols "撥放控制器">
+<!ENTITY menu.controllerontop "顯示在上方">
+<!ENTITY menu.controlleronbottom "顯示在下方">
+<!ENTITY menu.fullscreen "全螢幕">
+<!ENTITY menu.videotofront "影片置頂">
+<!ENTITY device.dialog.wait_for_completion.title "等待裝置中。">
+<!ENTITY device.dialog.wait_for_completion.msg "正在等待所有的裝置操作完成。點選「結束」以停止等待並結束應用程式。">
+<!ENTITY device.dialog.wait_for_completion.quit "結束">
+<!ENTITY tooltip.minimize "最小化">
+<!ENTITY tooltip.maximize "最大化/復原">
+<!ENTITY tooltip.exit "關閉">
+<!ENTITY tooltip.close "關閉">
+<!ENTITY tooltip.hide "隱藏">
+<!ENTITY tooltip.fullscreen "全螢幕">
+<!ENTITY tooltip.control.back "上一首音軌">
+<!ENTITY tooltip.control.play "播放">
+<!ENTITY tooltip.control.pause "暫停">
+<!ENTITY tooltip.control.resume "繼續">
+<!ENTITY tooltip.control.stop "停止">
+<!ENTITY tooltip.control.fwd "下一首音軌">
+<!ENTITY tooltip.control.mute "靜音">
+<!ENTITY tooltip.control.volume "音量">
+<!ENTITY tooltip.control.shuffle "隨機播放">
+<!ENTITY tooltip.control.shuf_off "關閉隨機播放">
+<!ENTITY tooltip.control.curtrack "尋找目前音軌">
+<!ENTITY tooltip.search "搜尋">
+<!ENTITY tooltip.browser.back "瀏覽上一頁">
+<!ENTITY tooltip.browser.fwd "瀏覽下一頁">
+<!ENTITY tooltip.browser.stop "停止瀏覽器">
+<!ENTITY tooltip.browser.home "首頁">
+<!ENTITY tooltip.browser.refresh "重新整理">
+<!ENTITY tooltip.browser.subscription "建立訂閱">
+<!ENTITY tooltip.browser.mediapages.list "清單檢視">
+<!ENTITY tooltip.browser.mediapages.filter "濾鏡瀏覽模式">
+<!ENTITY tooltip.browser.mediapages "檢視…">
+<!ENTITY tooltip.servicepane.show "顯示服務台">
+<!ENTITY tooltip.servicepane.collapse "摺叠服務台">
+<!ENTITY tooltip.servicepane.newnode "新的播放清單">
 <!ENTITY tooltip.displaypane.options "內容窗格選項">
-
-<!ENTITY smart.window             "智慧型播放清單" >
-<!ENTITY smart.limit              "限制" >
-<!ENTITY smart.match              "符合" >
-<!ENTITY smart.matchsingle        "符合以下的條件：" >
-<!ENTITY smart.any                "任何" >
-<!ENTITY smart.all                "全部" >
-<!ENTITY smart.following          "下列情況之中：" >
-<!ENTITY smart.random             "隨機" >
-<!ENTITY smart.album              "專輯" >
-<!ENTITY smart.artist             "演出者" >
-<!ENTITY smart.genre              "類別" >
-<!ENTITY smart.title              "標題" >
-<!ENTITY smart.high_rating        "最高評分" >
-<!ENTITY smart.low_rating         "最低評分" >
-<!ENTITY smart.most_recent        "最近播放" >
-<!ENTITY smart.least_recent       "早期" >
-<!ENTITY smart.most_often         "最常播放" >
-<!ENTITY smart.least_often        "不常" >
-<!ENTITY smart.most_added         "最近新增" >
-<!ENTITY smart.least_added        "最早加入" >
-<!ENTITY smart.minutes            "分鐘" >
-<!ENTITY smart.hours              "小時" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "項目" >
-<!ENTITY smart.selectedby         "選擇方式" >
-<!ENTITY smart.to                 "到" >
-<!ENTITY smart.autoupdate         "更新">
+<!ENTITY smart.window "智慧型播放清單">
+<!ENTITY smart.limit "限制">
+<!ENTITY smart.match "符合">
+<!ENTITY smart.matchsingle "符合以下的條件：">
+<!ENTITY smart.any "任何">
+<!ENTITY smart.all "全部">
+<!ENTITY smart.following "下列情況之中：">
+<!ENTITY smart.random "隨機">
+<!ENTITY smart.album "專輯">
+<!ENTITY smart.artist "演出者">
+<!ENTITY smart.genre "類別">
+<!ENTITY smart.title "標題">
+<!ENTITY smart.high_rating "最高評分">
+<!ENTITY smart.low_rating "最低評分">
+<!ENTITY smart.most_recent "最近播放">
+<!ENTITY smart.least_recent "早期">
+<!ENTITY smart.most_often "最常播放">
+<!ENTITY smart.least_often "不常">
+<!ENTITY smart.most_added "最近新增">
+<!ENTITY smart.least_added "最早加入">
+<!ENTITY smart.minutes "分鐘">
+<!ENTITY smart.hours "小時">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "項目">
+<!ENTITY smart.selectedby "選擇方式">
+<!ENTITY smart.to "到">
+<!ENTITY smart.autoupdate "更新">
 <!ENTITY smart.playlistcondition.library "媒體庫">
 <!ENTITY smart.contenttypecondition.video "視訊">
 <!ENTITY smart.contenttypecondition.audio "音樂">
-
 <!ENTITY textbox.songbird_open_url "輸入你希望播放的媒體的網址或路徑：">
-
-<!ENTITY open_url.title           "開啟網址">
-<!ENTITY subscribe.title          "訂閱">
-<!ENTITY subscribe.url            "網址：">
-<!ENTITY subscribe.minutes        "分鐘">
-<!ENTITY subscribe.hours          "小時">
-<!ENTITY subscribe.days           "天">
-<!ENTITY subscribe.autocheck      "每天自動更新">
-<!ENTITY subscribe.destinationfolder      "選擇目的地資料夾：">
-
-<!ENTITY feed.subscribe.label     "確認">
-<!ENTITY feed.subscribe.dontask   "不再自動顯示此對話框">
-<!ENTITY feed.subscribe.close     "關閉">
-
-<!ENTITY podcast.creation_dialog.title       "新Podcast">
+<!ENTITY open_url.title "開啟網址">
+<!ENTITY subscribe.title "訂閱">
+<!ENTITY subscribe.url "網址：">
+<!ENTITY subscribe.minutes "分鐘">
+<!ENTITY subscribe.hours "小時">
+<!ENTITY subscribe.days "天">
+<!ENTITY subscribe.autocheck "每天自動更新">
+<!ENTITY subscribe.destinationfolder "選擇目的地資料夾：">
+<!ENTITY feed.subscribe.label "確認">
+<!ENTITY feed.subscribe.dontask "不再自動顯示此對話框">
+<!ENTITY feed.subscribe.close "關閉">
+<!ENTITY podcast.creation_dialog.title "新Podcast">
 <!ENTITY podcast.creation_dialog.url.heading "網址：">
-
-
-<!ENTITY watchfolder.title        "檢視資料夾">
-<!ENTITY watchfolder.folderlist   "監看下列資料夾是否有新媒體：">
-
-<!ENTITY locale.language          "語言" >
-<!ENTITY menu.view                "檢視" >
-<!ENTITY about.version            "版本" >
-<!ENTITY about.buttons.credits    "感謝" >
-
-<!ENTITY equalizer.title          "平衡器" >
-<!ENTITY equalizer.on.checkbox    "啟用" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "民俗(Custom)" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "搖滾(Rock)" >
-<!ENTITY equalizer.preset.soft_rock   "輕搖滾(Soft Rock)" >
-<!ENTITY equalizer.preset.techno      "電子舞曲(Techno)" >
-<!ENTITY equalizer.preset.ska         "斯卡(Ska)" >
-<!ENTITY equalizer.preset.reggae      "雷鬼(Reggae)" >
-<!ENTITY equalizer.preset.live        "現場(Live)" >
-<!ENTITY equalizer.preset.club        "俱樂部(Club)" >
-<!ENTITY equalizer.preset.party       "派對(Party)" >
-<!ENTITY equalizer.preset.classical   "古典(Classical)" >
-<!ENTITY equalizer.preset.large_hall  "大廳(Large Hall)" >
-<!ENTITY equalizer.preset.dance       "舞曲(Dance)" >
-<!ENTITY equalizer.preset.pop         "流行(Pop)" >
-<!ENTITY equalizer.preset.soft        "輕柔(Soft)" >
-<!ENTITY equalizer.preset.small_speakers   "筆電/耳機(Laptop/Headphones)" >
-<!ENTITY equalizer.preset.full_bass_treble "全低音及全高音(Full Bass and Treble)" >
-<!ENTITY equalizer.preset.full_treble "全高音(Full Treble)" >
-<!ENTITY equalizer.preset.full_bass   "全低音(Full Bass)" >
-
-
-<!ENTITY setupprogress.pleasewait "請稍候…" >
-<!ENTITY setupprogress.cancel     "取消">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "U" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "W" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "顯示已選擇的檔案" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "檢視資料夾">
+<!ENTITY watchfolder.folderlist "監看下列資料夾是否有新媒體：">
+<!ENTITY locale.language "語言">
+<!ENTITY menu.view "檢視">
+<!ENTITY about.version "版本">
+<!ENTITY about.buttons.credits "感謝">
+<!ENTITY equalizer.title "平衡器">
+<!ENTITY equalizer.on.checkbox "啟用">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "民俗(Custom)">
+<!ENTITY equalizer.preset.rock "搖滾(Rock)">
+<!ENTITY equalizer.preset.soft_rock "輕搖滾(Soft Rock)">
+<!ENTITY equalizer.preset.techno "電子舞曲(Techno)">
+<!ENTITY equalizer.preset.ska "斯卡(Ska)">
+<!ENTITY equalizer.preset.reggae "雷鬼(Reggae)">
+<!ENTITY equalizer.preset.live "現場(Live)">
+<!ENTITY equalizer.preset.club "俱樂部(Club)">
+<!ENTITY equalizer.preset.party "派對(Party)">
+<!ENTITY equalizer.preset.classical "古典(Classical)">
+<!ENTITY equalizer.preset.large_hall "大廳(Large Hall)">
+<!ENTITY equalizer.preset.dance "舞曲(Dance)">
+<!ENTITY equalizer.preset.pop "流行(Pop)">
+<!ENTITY equalizer.preset.soft "輕柔(Soft)">
+<!ENTITY equalizer.preset.small_speakers "筆電/耳機(Laptop/Headphones)">
+<!ENTITY equalizer.preset.full_bass_treble "全低音及全高音(Full Bass and Treble)">
+<!ENTITY equalizer.preset.full_treble "全高音(Full Treble)">
+<!ENTITY equalizer.preset.full_bass "全低音(Full Bass)">
+<!ENTITY setupprogress.pleasewait "請稍候…">
+<!ENTITY setupprogress.cancel "取消">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "U">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "W">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "顯示已選擇的檔案">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "音樂標籤編輯器" >
-<!ENTITY trackeditor.tab.summary.title            "概要" >
-<!ENTITY trackeditor.tab.edit.title               "內容" >
-<!ENTITY trackeditor.tab.lyrics.title             "歌詞" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "音樂標籤編輯器">
+<!ENTITY trackeditor.tab.summary.title "概要">
+<!ENTITY trackeditor.tab.edit.title "內容">
+<!ENTITY trackeditor.tab.lyrics.title "歌詞">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "新增標籤" >
-<!ENTITY trackeditor.addtag.tag       "標籤：" >
-
-<!ENTITY jumptofile.title             "跳至" >
-<!ENTITY jumptofile.search            "搜尋：" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "使用全域快速鍵" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "動作" >
-<!ENTITY hotkeys.hotkey               "快速鍵" >
-<!ENTITY hotkeys.add                  "新增" >
-<!ENTITY hotkeys.set                  "設定" >
-<!ENTITY hotkeys.remove               "移除" >
-<!ENTITY hotkeys.prefpane             "快速鍵" >
-<!ENTITY hotkeys.info                 "全域快速鍵能夠讓你存取 &brandShortName; 的功能，不管 &brandShortName; 是不是目前作用中的應用程式。  有些快速鍵組合必須包含修改鍵以減低干擾其他應用程式的可能性。" >
-
-<!ENTITY rapi.prefpane.title             "Web 整合" >
-<!ENTITY rapi.prefpane.access.caption    "網站權限" >
-<!ENTITY rapi.prefpane.access.text       "你可以讓網站與 &brandShortName; 整合以讓你的媒體與網路更加緊密結合。請設定 &brandShortName; 以允許或阻擋各網站對於下列整合點的使用。" >
-<!ENTITY rapi.whitelist.label            "例外…" >
-<!ENTITY rapi.restore_defaults.label      "還原至預設值" >
-<!ENTITY rapi.playback_control_disable.label "阻擋網站控制媒體的播放" >
-<!ENTITY rapi.playback_read_disable.label    "阻擋網站讀取播放中媒體的資訊" >
-<!ENTITY rapi.library_read_disable.label     "阻擋網站讀取我的媒體庫和裝置中的媒體資訊" >
-<!ENTITY rapi.library_write_disable.label    "阻擋網站在我的媒體庫或裝置新增/編輯媒體" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "附加元件">
-<!ENTITY prefpane.content.label       "網路內容">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "沒有任何已連接的 USB 大量儲存裝置。" >
-<!ENTITY umsd.music.tab                     "音樂" >
-<!ENTITY umsd.music.music_files_group       "音樂檔案" >
-<!ENTITY umsd.music.music_path_desc         "在複製音樂檔案至裝置時，將檔案放置於下列目錄：" >
-<!ENTITY umsd.music.music_path_browse_msg   "選擇要放置音樂檔案的裝置目錄。" >
-<!ENTITY umsd.music.music_ext_desc          "複製擁有下列副檔名的音樂檔案至裝置上：" >
-<!ENTITY umsd.video.tab                     "視訊" >
-<!ENTITY umsd.video.video_files_group       "視訊檔案" >
-<!ENTITY umsd.video.video_path_desc         "在複製視訊檔案至裝置時，將檔案放置於下列目錄：" >
-<!ENTITY umsd.video.video_path_browse_msg   "選擇要放置視訊檔案的裝置目錄。" >
-<!ENTITY umsd.video.video_ext_desc          "複製擁有下列副檔名的視訊檔案至裝置上：" >
-
-<!ENTITY device.error.dialog.link           "檢視錯誤細節" >
-
-<!ENTITY restartbox.restartnow        "馬上重新啟動" >
-<!ENTITY restartbox.restartonplaybackend "播放完後重新啟動" >
-<!ENTITY restartbox.restartlater      "先不重新啟動" >
-
-<!ENTITY setupprogress.installingextensions "安裝附加元件中…" >
-
-<!ENTITY jobprogress.details "詳細資料" >
-
-<!ENTITY menu.updateCmd.label          "檢查更新…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "空白鍵" >
-
+<!ENTITY trackeditor.addtag.title "新增標籤">
+<!ENTITY trackeditor.addtag.tag "標籤：">
+<!ENTITY jumptofile.title "跳至">
+<!ENTITY jumptofile.search "搜尋：">
+<!ENTITY hotkeys.useglobalhotkeys "使用全域快速鍵">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "動作">
+<!ENTITY hotkeys.hotkey "快速鍵">
+<!ENTITY hotkeys.add "新增">
+<!ENTITY hotkeys.set "設定">
+<!ENTITY hotkeys.remove "移除">
+<!ENTITY hotkeys.prefpane "快速鍵">
+<!ENTITY hotkeys.info "全域快速鍵能夠讓你存取 &brandShortName; 的功能，不管 &brandShortName; 是不是目前作用中的應用程式。  有些快速鍵組合必須包含修改鍵以減低干擾其他應用程式的可能性。">
+<!ENTITY rapi.prefpane.title "Web 整合">
+<!ENTITY rapi.prefpane.access.caption "網站權限">
+<!ENTITY rapi.prefpane.access.text "你可以讓網站與 &brandShortName; 整合以讓你的媒體與網路更加緊密結合。請設定 &brandShortName; 以允許或阻擋各網站對於下列整合點的使用。">
+<!ENTITY rapi.whitelist.label "例外…">
+<!ENTITY rapi.restore_defaults.label "還原至預設值">
+<!ENTITY rapi.playback_control_disable.label "阻擋網站控制媒體的播放">
+<!ENTITY rapi.playback_read_disable.label "阻擋網站讀取播放中媒體的資訊">
+<!ENTITY rapi.library_read_disable.label "阻擋網站讀取我的媒體庫和裝置中的媒體資訊">
+<!ENTITY rapi.library_write_disable.label "阻擋網站在我的媒體庫或裝置新增/編輯媒體">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "附加元件">
+<!ENTITY prefpane.content.label "網路內容">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "沒有任何已連接的 USB 大量儲存裝置。">
+<!ENTITY umsd.music.tab "音樂">
+<!ENTITY umsd.music.music_files_group "音樂檔案">
+<!ENTITY umsd.music.music_path_desc "在複製音樂檔案至裝置時，將檔案放置於下列目錄：">
+<!ENTITY umsd.music.music_path_browse_msg "選擇要放置音樂檔案的裝置目錄。">
+<!ENTITY umsd.music.music_ext_desc "複製擁有下列副檔名的音樂檔案至裝置上：">
+<!ENTITY umsd.video.tab "視訊">
+<!ENTITY umsd.video.video_files_group "視訊檔案">
+<!ENTITY umsd.video.video_path_desc "在複製視訊檔案至裝置時，將檔案放置於下列目錄：">
+<!ENTITY umsd.video.video_path_browse_msg "選擇要放置視訊檔案的裝置目錄。">
+<!ENTITY umsd.video.video_ext_desc "複製擁有下列副檔名的視訊檔案至裝置上：">
+<!ENTITY device.error.dialog.link "檢視錯誤細節">
+<!ENTITY restartbox.restartnow "馬上重新啟動">
+<!ENTITY restartbox.restartonplaybackend "播放完後重新啟動">
+<!ENTITY restartbox.restartlater "先不重新啟動">
+<!ENTITY setupprogress.installingextensions "安裝附加元件中…">
+<!ENTITY jobprogress.details "詳細資料">
+<!ENTITY menu.updateCmd.label "檢查更新…">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "空白鍵">
 <!ENTITY tabs.closeTab "關閉分頁">
 <!ENTITY tabs.listAllTabs "顯示所有分頁">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator " - " >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "首頁" >
-<!ENTITY prefs.homepage.url.label          "網址：" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "附加元件安裝" >
-
+<!ENTITY prefs.homepage.label "首頁">
+<!ENTITY prefs.homepage.url.label "網址：">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "附加元件安裝">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "取消">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "取消複製">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "取消刪除">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "取消同步">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "取消更新">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "退出">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "格式">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "忽略">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "簡介">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "重新命名">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "同步">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "取消">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "取消複製">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "取消刪除">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "取消同步">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "取消更新">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "退出">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "格式">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "忽略">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "簡介">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "重新命名">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "同步">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "轉錄CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "停止轉錄">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "看看CD的詳細資訊">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "退出CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "修理我的裝置">
-
-<!ENTITY device.firmware.wizard.title                     "韌體更新">
-<!ENTITY device.firmware.wizard.check.page.title          "檢查可更新的韌體">
-<!ENTITY device.firmware.wizard.check.progress.title      "正在檢查可更新的韌體…">
+<!ENTITY command.device.rip "轉錄CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "停止轉錄">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "看看CD的詳細資訊">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "退出CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "修理我的裝置">
+<!ENTITY device.firmware.wizard.title "韌體更新">
+<!ENTITY device.firmware.wizard.check.page.title "檢查可更新的韌體">
+<!ENTITY device.firmware.wizard.check.progress.title "正在檢查可更新的韌體…">
 <!ENTITY device.firmware.wizard.check.install.description "安裝新韌體約需要小於10分鐘的時間。你可以在之後執行更新。">
 <!ENTITY device.firmware.wizard.check.already.description "裝置的韌體已經是最新的。">
 <!ENTITY device.firmware.wizard.check.release_notes.label "發行說明">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "此裝置必須在修復模式中連接才能繼續。請遵循此步驟設定你的裝置進入修復模式。">
-<!ENTITY device.firmware.wizard.download.title            "下載新韌體…">
-<!ENTITY device.firmware.wizard.repair.time.description   "此操作應不超過 5分鐘。">
-<!ENTITY device.firmware.wizard.repair.warning            "不幸地，您的設備中的所有內容&lt;strong class=&quot;loss-of-data-text&quot;&gt;將被刪除&lt;/strong&gt;。完成此操作後，我們建議您以&brandShortName;與之重新同步，">
-<!ENTITY device.firmware.wizard.install.title             "安裝韌體中…">
-
-<!ENTITY device.firmware.wizard.busy.description  "你的裝置正在忙碌中。直到你的裝置閒置時韌體才可被安裝。">
+<!ENTITY device.firmware.wizard.download.title "下載新韌體…">
+<!ENTITY device.firmware.wizard.repair.time.description "此操作應不超過 5分鐘。">
+<!ENTITY device.firmware.wizard.repair.warning "不幸地，您的設備中的所有內容&lt;strong class=&quot;loss-of-data-text&quot;&gt;將被刪除&lt;/strong&gt;。完成此操作後，我們建議您以&brandShortName;與之重新同步，">
+<!ENTITY device.firmware.wizard.install.title "安裝韌體中…">
+<!ENTITY device.firmware.wizard.busy.description "你的裝置正在忙碌中。直到你的裝置閒置時韌體才可被安裝。">
 <!ENTITY device.firmware.wizard.retry.description "在你的裝置已經完成正確的操作後再試一次。">
-
-<!ENTITY device.firmware.wizard.check.error.description    "在檢查新韌體時出現錯誤。請確認是否連接上網路並再試一次。">
+<!ENTITY device.firmware.wizard.check.error.description "在檢查新韌體時出現錯誤。請確認是否連接上網路並再試一次。">
 <!ENTITY device.firmware.wizard.download.error.description "下載新韌體時發生錯誤，請檢查你的網路連接並再試一次。">
-<!ENTITY device.firmware.wizard.support.description        "像是FAQ和疑難排解可被找到於">
-
-<!ENTITY device.info.icon.device            "通用設備圖示">
-<!ENTITY device.info.icon.readonly          "唯讀圖示">
-<!ENTITY device.info.model.label            "機型">
-<!ENTITY device.info.capacity.label         "容量">
-<!ENTITY device.info.product.label          "產品">
-<!ENTITY device.info.friendly_name.label    "名稱">
-<!ENTITY device.info.serial_number.label    "序號">
-<!ENTITY device.info.vendor.label           "廠商">
-<!ENTITY device.info.access.label           "存取相容性">
+<!ENTITY device.firmware.wizard.support.description "像是FAQ和疑難排解可被找到於">
+<!ENTITY device.info.icon.device "通用設備圖示">
+<!ENTITY device.info.icon.readonly "唯讀圖示">
+<!ENTITY device.info.model.label "機型">
+<!ENTITY device.info.capacity.label "容量">
+<!ENTITY device.info.product.label "產品">
+<!ENTITY device.info.friendly_name.label "名稱">
+<!ENTITY device.info.serial_number.label "序號">
+<!ENTITY device.info.vendor.label "廠商">
+<!ENTITY device.info.access.label "存取相容性">
 <!ENTITY device.info.playback_formats.label "檔案格式">
-<!ENTITY device.info.battery.label          "電池">
+<!ENTITY device.info.battery.label "電池">
 <!ENTITY device.info.firmware_version.label "韌體版本">
-
-<!ENTITY device.progress.sync               "同步">
-
-<!ENTITY device.capacity.music.label    "音樂">
-<!ENTITY device.capacity.video.label    "視訊">
-<!ENTITY device.capacity.image.label    "照片">
-<!ENTITY device.capacity.other.label    "其他">
-<!ENTITY device.capacity.free.label     "剩餘">
-
-<!ENTITY device.unsupported_media.dialog.title  "偵測到了不相容的檔案">
+<!ENTITY device.progress.sync "同步">
+<!ENTITY device.capacity.music.label "音樂">
+<!ENTITY device.capacity.video.label "視訊">
+<!ENTITY device.capacity.image.label "照片">
+<!ENTITY device.capacity.other.label "其他">
+<!ENTITY device.capacity.free.label "剩餘">
+<!ENTITY device.unsupported_media.dialog.title "偵測到了不相容的檔案">
 <!ENTITY device.unsupported_media.dialog.enable "在偵測到不相容的檔案時告訴我">
-
 <!ENTITY device.sync.header.label "同步設定">
 <!ENTITY device.import.header.label "匯入">
 <!ENTITY device.sync.auto_sync.label "同步">
@@ -510,7 +449,6 @@
 <!ENTITY device.sync.images.selected.label "已選擇的子文件夾">
 <!ENTITY device.sync.images.foldername "資料夾名稱">
 <!ENTITY device.sync.images.filecount "照片">
-
 <!ENTITY device.settings.header.label "設定">
 <!ENTITY device.settings.general.label "一般">
 <!ENTITY device.settings.auto_launch.checkbox.label "當這個裝置被偵測到時，打開 &brandShortName; ">
@@ -520,219 +458,183 @@
 <!ENTITY device.settings.disk.label "磁碟管理">
 <!ENTITY device.settings.disk.management.label "自訂目錄結構">
 <!ENTITY device.settings.disk.management.filename "歌曲檔案">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "自動設定">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "手動設定取樣率及格式">
 <!ENTITY device.settings.music.transcoding.format.label "轉錄格式">
 <!ENTITY device.settings.music.transcoding.bitrate.label "取樣率">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "音樂">
 <!ENTITY device.management.tabs.video.label "視訊">
 <!ENTITY device.management.tabs.image.label "照片">
 <!ENTITY device.management.tabs.tools.label "工具">
 <!ENTITY device.management.tabs.settings.label "設定">
-
 <!ENTITY device.tools.product_registration.title "產品註冊">
 <!ENTITY device.tools.product_registration.description "需要購買後保證書、附加的產品交流利益或安全保證書？">
 <!ENTITY device.tools.product_registration.label "註冊產品">
-
 <!ENTITY device.tools.update_firmware.title "韌體更新">
 <!ENTITY device.tools.update_firmware.description "你的裝置是被一種叫做韌體的程式管理。當你連接裝置到電腦時新的韌體版本已經發佈。">
 <!ENTITY device.tools.update_firmware.label "確認更新韌體">
 <!ENTITY device.tools.update_firmware.current_firmware.title "目前的韌體版本：">
-
 <!ENTITY device.tools.restore_device.title "還原裝置">
 <!ENTITY device.tools.restore_device.description "還原裝置到原廠設定會把該裝置中的所有媒體刪除，裝置的韌體和設定亦會被回復。">
 <!ENTITY device.tools.restore_device.label "還原裝置到原廠設定">
-
 <!ENTITY device.tools.format_device.title "格式化裝置">
 <!ENTITY device.tools.format_device.description "格式化你的裝置將會刪除裝置上的所有媒體。">
 <!ENTITY device.tools.format_device.label "格式化裝置">
 <!ENTITY device.tools.format_volume.button.label "格式化">
-
 <!ENTITY device.tools.support.title "支援">
 <!ENTITY device.tools.support.description "檢視你近期的消息、使用者手冊、使用說明、常見問題和產品資訊。服務會在你完成產品註冊後生效。">
 <!ENTITY device.tools.support.label "檢視可支援的資源">
-
 <!ENTITY device.tools.reset_warnings.title "重置警告">
 <!ENTITY device.tools.reset_warnings.description "重新設定警告訊息後這些訊息將會促使完成你希望的工作。">
 <!ENTITY device.tools.reset_warnings.label "重置警告訊息">
-
 <!ENTITY device.dialog.setup.title "裝置設定">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "請選擇你要&brandShortName;管理的儲存媒體：">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "忽略這項裝置">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "只有你不想讓&brandShortName;管理這項裝置才選擇">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "假如你不想讓 &brandShortName; 管理這項裝置，你可以">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "忽略這項裝置">
 <!ENTITY device.dialog.setup.explainIgnore.afterText "。">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "用預設瀏覽器開啟連結">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "用預設瀏覽器開啟頁面">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "用預設瀏覽器開啟框架">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "用預設瀏覽器開啟影像">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "複製選取的文字">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "播放">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "下載到媒體庫">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "新增到播放清單">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;無播放清單&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "新增播放清單">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "訂閱此頁面…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "訂閱此框架…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "幫助 &brandShortName; 改進！">
-<!ENTITY feedback.dialog.yes        "是">
-<!ENTITY feedback.dialog.no         "否">
-<!ENTITY feedback.dialog.sentence1  "能否請你填一份快速、匿名的問卷調查來幫幫我們改進 &brandShortName;？">
-<!ENTITY feedback.dialog.sentence2  "如果你沒有興趣，我們就不會再問你了。感謝你使用 &brandShortName;！我們祝你使用愉快。">
-<!ENTITY feedback.dialog.sentence3  "此致，">
-<!ENTITY feedback.dialog.sentence4  "&brandShortName; 團隊">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "用預設瀏覽器開啟連結">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "用預設瀏覽器開啟頁面">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "用預設瀏覽器開啟框架">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "用預設瀏覽器開啟影像">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "複製選取的文字">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "播放">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "下載到媒體庫">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "新增到播放清單">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;無播放清單&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "新增播放清單">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "訂閱此頁面…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "訂閱此框架…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "幫助 &brandShortName; 改進！">
+<!ENTITY feedback.dialog.yes "是">
+<!ENTITY feedback.dialog.no "否">
+<!ENTITY feedback.dialog.sentence1 "能否請你填一份快速、匿名的問卷調查來幫幫我們改進 &brandShortName;？">
+<!ENTITY feedback.dialog.sentence2 "如果你沒有興趣，我們就不會再問你了。感謝你使用 &brandShortName;！我們祝你使用愉快。">
+<!ENTITY feedback.dialog.sentence3 "此致，">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; 團隊">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "歡迎使用 &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "歡迎使用 &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName; 設定">
-
+<!ENTITY first_run.title "&brandShortName; 設定">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "建議的附加元件">
+<!ENTITY first_run.add_ons.header.label "建議的附加元件">
 <!ENTITY first_run.add_ons.description.line1 "附加元件可以擴充 &brandShortName; 的功能，讓你自訂你的媒體播放體驗。強烈建議以下選項。">
 <!ENTITY first_run.add_ons.description.line2 "附加元件可以與其他的應用程式和服務整合、支援連接到外部裝置、更可以改變應用程式的外觀！你可以在 &brandShortName; 的附加元件網站上下載更多。">
-<!ENTITY first_run.add_ons.loading.label     "取得建議的附加元件中">
+<!ENTITY first_run.add_ons.loading.label "取得建議的附加元件中">
 <!ENTITY first_run.add_ons.load_failed.label "無法取得建議的附加元件">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "以準備好安裝更新">
 <!ENTITY first_run.app_update.finished.text "更新將會在重新啟動&brandShortName; 後完成。">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; 無法連線到網路">
-<!ENTITY first_run.connection.description          "檢查您的連線設定或是繼續使用設定助理.">
-<!ENTITY first_run.connection.settings.button      "連線設定…">
+<!ENTITY first_run.connection.header.label "&brandShortName; 無法連線到網路">
+<!ENTITY first_run.connection.description "檢查您的連線設定或是繼續使用設定助理.">
+<!ENTITY first_run.connection.settings.button "連線設定…">
 <!ENTITY first_run.connection.settings.description "您的電腦或網路在防火牆或代理伺服器 (Proxy) 的保護之下嗎？修正不正確的網路設定可以幫助您解決大部份的網路問題。">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "授權合約">
+<!ENTITY first_run.eula.header.label "授權合約">
 <!ENTITY first_run.eula.accept_checkbox.label "我已經閱讀並同意這份授權合約的條款。">
-<!ENTITY first_run.eula.language.label        "語言:">
-
+<!ENTITY first_run.eula.language.label "語言:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "幫助 &brandShortName; 改進">
-<!ENTITY first_run.feedback.description             "您願意在 metrics 的表單中傳送回報給我們來讓 &brandShortName; 變的更好及調查您如何使用這個應用程式嗎?">
-<!ENTITY first_run.feedback.metrics.label           "使用 metrics 收集和傳送 &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "Metrics 已完成匿名回報並且不會收集個人資訊">
-<!ENTITY first_run.feedback.email.header.label      "保存我已發佈的">
-<!ENTITY first_run.feedback.email.description       "訂閱我們的電子報來得知新版本的釋出和重大更新">
+<!ENTITY first_run.feedback.header.label "幫助 &brandShortName; 改進">
+<!ENTITY first_run.feedback.description "您願意在 metrics 的表單中傳送回報給我們來讓 &brandShortName; 變的更好及調查您如何使用這個應用程式嗎?">
+<!ENTITY first_run.feedback.metrics.label "使用 metrics 收集和傳送 &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "Metrics 已完成匿名回報並且不會收集個人資訊">
+<!ENTITY first_run.feedback.email.header.label "保存我已發佈的">
+<!ENTITY first_run.feedback.email.description "訂閱我們的電子報來得知新版本的釋出和重大更新">
 <!ENTITY first_run.feedback.email.textbox.emptytext "輸入您的電子郵件來通知更新">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes匯入/匯出">
-<!ENTITY first_run.itunes.description                   "偵測到你已經安裝iTunes。你可以設定 &brandShortName;匯入及匯出音樂，令到&brandShortName;和iTunes的媒體庫同步。">
-<!ENTITY first_run.itunes.checkbox.import.label         "從iTunes匯入音軌和播放清單">
-<!ENTITY first_run.itunes.checkbox.import.description   "從iTunes商店購買Podcast和音樂可以匯入到&brandShortName;中。如果&brandShortName;將會是你主要的音樂播放器，這是一個很有用的功能。">
-<!ENTITY first_run.itunes.checkbox.export.label         "匯出新樂曲及播放清單至iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "透過&brandShortName;取得的音樂可以匯出至iTunes。便於你能轉換到iPod或是iPhone中。">
-
+<!ENTITY first_run.itunes.header.label "iTunes匯入/匯出">
+<!ENTITY first_run.itunes.description "偵測到你已經安裝iTunes。你可以設定 &brandShortName;匯入及匯出音樂，令到&brandShortName;和iTunes的媒體庫同步。">
+<!ENTITY first_run.itunes.checkbox.import.label "從iTunes匯入音軌和播放清單">
+<!ENTITY first_run.itunes.checkbox.import.description "從iTunes商店購買Podcast和音樂可以匯入到&brandShortName;中。如果&brandShortName;將會是你主要的音樂播放器，這是一個很有用的功能。">
+<!ENTITY first_run.itunes.checkbox.export.label "匯出新樂曲及播放清單至iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "透過&brandShortName;取得的音樂可以匯出至iTunes。便於你能轉換到iPod或是iPhone中。">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "匯入媒體">
-<!ENTITY first_run.import_media.description                  "這一頁將引導您試著偵測您本機媒體來匯入媒體檔案到 &brandShortName;. 在執行 &brandShortName; 您就可以用各種方式來新增其他的媒體">
+<!ENTITY first_run.import_media.header.label "匯入媒體">
+<!ENTITY first_run.import_media.description "這一頁將引導您試著偵測您本機媒體來匯入媒體檔案到 &brandShortName;. 在執行 &brandShortName; 您就可以用各種方式來新增其他的媒體">
 <!ENTITY first_run.import_media.radio.scan_directories.label "掃瞄我電腦上的目錄">
-<!ENTITY first_run.import_media.radio.dont_import.label      "現在不要匯入媒體">
+<!ENTITY first_run.import_media.radio.dont_import.label "現在不要匯入媒體">
 <!ENTITY first_run.import_media.scan_directories.description "你想要 &brandShortName; 掃描你電腦上特定的目錄來匯入媒體嗎？">
 <!ENTITY first_run.import_media.scan_directories.watch.label "監看這個資料夾的變更">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "下載附加元件">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "歡迎使用 &brandShortName;">
+<!ENTITY first_run.welcome.header.label "歡迎使用 &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; 是傳統播放器的高自訂性替代品。">
 <!ENTITY first_run.welcome.description.line2 "本助理可以幫你快速並有效率地設定 &brandShortName;。">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "媒體匯入器">
-
+<!ENTITY import_media.prefs.title "媒體匯入器">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "匯入一個媒體庫">
-<!ENTITY import_library.prefs.title                       "匯入">
-<!ENTITY import_library.library_file_label                "媒體庫檔案:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "當不支援的音軌或播放清單沒有匯入時警告我">
-<!ENTITY import_library.prefs.path_group_caption          "媒體庫路徑">
-<!ENTITY import_library.prefs.options_group_caption       "匯入選項">
-<!ENTITY import_library.import_command                    "匯入媒體庫">
-<!ENTITY import_tracks_itunes_checkbox                    "從iTunes匯入樂曲">
-<!ENTITY import_playlists_itunes_checkbox                 "匯入播放清單">
-<!ENTITY export_tracks_itunes_checkbox                    "匯出樂曲至iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "匯出播放清單">
-<!ENTITY export_subscriptions_itunes_checkbox             "匯出訂閱紀錄">
-<!ENTITY export_smartplaylists_itunes_checkbox            "匯出智慧型播放清單">
-<!ENTITY importexport_show_notifications_checkbox         "當完成匯入/匯出時顯示通知">
-
+<!ENTITY import_library.dialog.title "匯入一個媒體庫">
+<!ENTITY import_library.prefs.title "匯入">
+<!ENTITY import_library.library_file_label "媒體庫檔案:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "當不支援的音軌或播放清單沒有匯入時警告我">
+<!ENTITY import_library.prefs.path_group_caption "媒體庫路徑">
+<!ENTITY import_library.prefs.options_group_caption "匯入選項">
+<!ENTITY import_library.import_command "匯入媒體庫">
+<!ENTITY import_tracks_itunes_checkbox "從iTunes匯入樂曲">
+<!ENTITY import_playlists_itunes_checkbox "匯入播放清單">
+<!ENTITY export_tracks_itunes_checkbox "匯出樂曲至iTunes">
+<!ENTITY export_playlists_itunes_checkbox "匯出播放清單">
+<!ENTITY export_subscriptions_itunes_checkbox "匯出訂閱紀錄">
+<!ENTITY export_smartplaylists_itunes_checkbox "匯出智慧型播放清單">
+<!ENTITY importexport_show_notifications_checkbox "當完成匯入/匯出時顯示通知">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "播放清單已改變">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "保持目前的 &brandShortName; 播放清單（不要匯入到這個播放清單）">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "合併目前的 &brandShortName; 及 iTunes 播放清單">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "用現在的 iTunes 來置換這個 &brandShortName; 播放清單">
-<!ENTITY import_library.dirty_playlist_dialog.note         "注意: 合併和替換是不能復原的">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "套用所選的到全部的播放清單">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "播放清單已改變">
+<!ENTITY import_library.dirty_playlist_dialog.keep "保持目前的 &brandShortName; 播放清單（不要匯入到這個播放清單）">
+<!ENTITY import_library.dirty_playlist_dialog.merge "合併目前的 &brandShortName; 及 iTunes 播放清單">
+<!ENTITY import_library.dirty_playlist_dialog.replace "用現在的 iTunes 來置換這個 &brandShortName; 播放清單">
+<!ENTITY import_library.dirty_playlist_dialog.note "注意: 合併和替換是不能復原的">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "套用所選的到全部的播放清單">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "不要將你的「音樂管理」資料夾和「監視」資料夾指定為同一個資料夾。不然將會在你的媒體庫中產生副本。">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "監視資料夾">
+<!ENTITY watch_folder.prefs.title "監視資料夾">
 <!ENTITY watch_folder.prefs.settings_group_caption "監視資料夾設定">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; 可以自動檢查資料夾的內容和新增或移除裡面的項目.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "自動檢查以下的資料夾是否有變更">
-<!ENTITY watch_folder.prefs.watch_folder_label     "資料夾：">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; 可以自動檢查資料夾的內容和新增或移除裡面的項目.">
+<!ENTITY watch_folder.prefs.enable_checkbox "自動檢查以下的資料夾是否有變更">
+<!ENTITY watch_folder.prefs.watch_folder_label "資料夾：">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "推薦的附加元件">
+<!ENTITY enable_recommended_addons_update.label "推薦的附加元件">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "安裝&brandShortName;">
-
+<!ENTITY recommended_add_ons.title "安裝&brandShortName;">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "詳細資料">
-
+<!ENTITY add_on_bundle_installer.error_box.label "詳細資料">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "未播放歌曲" >
-<!ENTITY albumart.displaypane.not_selected_message  "未選擇歌曲" >
-<!ENTITY albumart.displaypane.drag_and_drop  "拖放專輯封面到這裡" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "顯示點選的專輯封面" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "顯示播放中的專輯封面" >
+<!ENTITY albumart.displaypane.not_playing_message "未播放歌曲">
+<!ENTITY albumart.displaypane.not_selected_message "未選擇歌曲">
+<!ENTITY albumart.displaypane.drag_and_drop "拖放專輯封面到這裡">
+<!ENTITY albumart.displaypane.contextmenu.showselected "顯示點選的專輯封面">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "顯示播放中的專輯封面">
 <!ENTITY albumart.displaypane.selected.menu.cut "剪下">
 <!ENTITY albumart.displaypane.selected.menu.copy "複製">
 <!ENTITY albumart.displaypane.selected.menu.paste "貼上">
 <!ENTITY albumart.displaypane.selected.menu.clear "清除">
 <!ENTITY albumart.coverpreview.title "專輯封面">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "專輯封面">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "寫入專輯圖片到音樂標籤中">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "&brandShortName;將會在可相容的標籤中嵌進圖片給媒體檔案。">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "搜尋檔案名稱：">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "在此輸入逗號分隔名稱清單">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "搜尋附加檔案：">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "在此輸入逗號分隔附加清單">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "擷取優先權">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "整理擷取列表，使您優先使用的在最上方。">
 <!ENTITY albumartpreferences.prefpane.priorities.up "向上">
@@ -740,62 +642,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "重設">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "自動擷取專輯封面">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "在播放或點選音軌時自動擷取專輯封面，取決於專輯封面顯示窗格的模式。啟用此功能時性能可能會受到影響。">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "上一步">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "取消">
-<!ENTITY wizard.button.next.label      "繼續">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "完成">
-
+<!ENTITY wizard.button.back.label "上一步">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "取消">
+<!ENTITY wizard.button.next.label "繼續">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "完成">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "媒體核心錯誤">
-<!ENTITY mediacore.error.preface  "&brandShortName;遇到以下的媒體核心錯誤:">
+<!ENTITY mediacore.error.title "媒體核心錯誤">
+<!ENTITY mediacore.error.preface "&brandShortName;遇到以下的媒體核心錯誤:">
 <!ENTITY mediacore.error.continue "繼續">
-<!ENTITY mediacore.error.stop     "停止播放">
+<!ENTITY mediacore.error.stop "停止播放">
 <!ENTITY mediacore.error.dontshowme "不要再顯示關於媒體核心的錯誤">
 <!ENTITY mediacore.error.codec_not_found.text.pre "如欲了解更多有關缺掉的編解碼器，請參閱：">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "匯入媒體通知">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "如欲了解更多有關缺掉的編解碼器，請參閱：">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "匯入時遇到不受支援的視訊文件不要再通知我">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "播放">
-
-<!ENTITY playback.prefpane.audio_output.label   "聲音輸出">
-<!ENTITY playback.prefpane.audio_output.buffer  "聲音輸出暫存">
-
-<!ENTITY playback.prefpane.streaming.label      "網路及串流">
-<!ENTITY playback.prefpane.streaming.buffer     "串流緩衝區：">
-
-<!ENTITY playback.prefpane.normalization.label  "音訊正規化">
+<!ENTITY playback.prefpane.label "播放">
+<!ENTITY playback.prefpane.audio_output.label "聲音輸出">
+<!ENTITY playback.prefpane.audio_output.buffer "聲音輸出暫存">
+<!ENTITY playback.prefpane.streaming.label "網路及串流">
+<!ENTITY playback.prefpane.streaming.buffer "串流緩衝區：">
+<!ENTITY playback.prefpane.normalization.label "音訊正規化">
 <!ENTITY playback.prefpane.normalization.enable "若可以的話套用音訊正規化資料">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "要使用的增益資料：">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "專輯">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "音軌">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "評分標籤">
 <!ENTITY playback.prefpane.ratings.enablewriting "把評級信息儲存在每個檔案的標籤中">
-
 <!ENTITY fetch_album_art.dialog.title "讀取專輯封面">
 <!ENTITY fetch_album_art.dialog.message "此功能還未完成（檢視 Bug 14281）">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "演出者">
-<!ENTITY cdrip.lookup.info_not_found.album  "專輯">
-<!ENTITY cdrip.lookup.info_not_found.title  "找不到CD資訊">
-<!ENTITY cdrip.lookup.info_not_found.descr  "您可以在這裡輸入曲名以及專輯名稱，或是修改撥放清單的內容">
+<!ENTITY cdrip.lookup.info_not_found.album "專輯">
+<!ENTITY cdrip.lookup.info_not_found.title "找不到CD資訊">
+<!ENTITY cdrip.lookup.info_not_found.descr "您可以在這裡輸入曲名以及專輯名稱，或是修改撥放清單的內容">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "標題">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "CD抓取">
 <!ENTITY cdrip.prefpane.format "格式">
@@ -805,33 +694,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "當CD抓取完畢時撥放系統警示聲">
 <!ENTITY cdrip.prefpane.providers.title "查看CD來源">
 <!ENTITY cdrip.prefpane.quality_desc "若提高取樣率，就會有更好的音樂品質，但相對的音樂檔案的大小會變大">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD抓取設定">
-<!ENTITY cdrip.mediaview.format_label              "格式：">
-<!ENTITY cdrip.mediaview.quality_label             "品質：">
-<!ENTITY cdrip.mediaview.settings_button           "設定">
-<!ENTITY cdrip.mediaview.rip_cd_button             "抓取CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "停止抓取">
-<!ENTITY cdrip.mediaview.view_tracks_button        "檢視音軌">
-<!ENTITY cdrip.mediaview.eject_cd_button           "退出CD">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD抓取設定">
+<!ENTITY cdrip.mediaview.format_label "格式：">
+<!ENTITY cdrip.mediaview.quality_label "品質：">
+<!ENTITY cdrip.mediaview.settings_button "設定">
+<!ENTITY cdrip.mediaview.rip_cd_button "抓取CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "停止抓取">
+<!ENTITY cdrip.mediaview.view_tracks_button "檢視音軌">
+<!ENTITY cdrip.mediaview.eject_cd_button "退出CD">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "加速移動">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "加速移動">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "加速移動">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "加速移動">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "加速移動">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "加速移動">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "影片視窗">
 <!ENTITY videowindow.actualsize "實際大小">
 <!ENTITY videowindow.fullscreen "全螢幕">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "我們要感謝我們的貢獻者，是他們的努力讓Songbird得以成為今日的模樣。這些人幫助了我們撰寫程式碼、文件和測試程式。他們建立並管理這個產品、相關的開發工具、我們的建置工具以及我們的網站。名字的後面標示著他們的IRC暱稱，你可以到irc.mozilla.org的#songbird聊天室來打聲招呼！">
 <!ENTITY about.credits.footer.beforeLink "當然，這一切如果少了 Mozilla 專案的">
@@ -842,15 +726,12 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird Champions是Songbird的死忠使用者和粉絲。他們在">
 <!ENTITY about.credits.description.champs.link.text "Songbird「得到解答」支援論壇">
 <!ENTITY about.credits.description.champs.link.post "中超出他們的責任幫助其他Songbird使用者。在我們的論壇中他們是最積極的粉絲，並勤奮地工作，以確保每一位Songbird使用者是一位高興的Songbird使用者。">
-
-<!ENTITY cdrip.lookup.multiple.title       "找到了多個CD">
+<!ENTITY cdrip.lookup.multiple.title "找到了多個CD">
 <!ENTITY cdrip.lookup.multiple.description "選擇以下其中一個內容，或新增你自己的">
-<!ENTITY cdinfo.other.label                "新增您個人的專輯資訊">
-
+<!ENTITY cdinfo.other.label "新增您個人的專輯資訊">
 <!ENTITY playqueue.label "播放佇列">
 <!ENTITY playqueue.instructions "拖曳曲目或播放清單到此以建立即時播放佇列">
 <!ENTITY playqueue.inprogress "加入曲目">
-
 <!ENTITY mediamanagement.removed.dialog.title "媒體管理已被移除">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "媒體管理已在&brandShortName; 版本 1.10 被移除。" >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "此變更是致力於精簡您的產品並提供易使用的使用者經驗。" >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "媒體管理已在&brandShortName; 版本 1.10 被移除。">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "此變更是致力於精簡您的產品並提供易使用的使用者經驗。">

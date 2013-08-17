@@ -1,503 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "OK" >
-<!ENTITY window.cancel      "Ακύρωση" >
-<!ENTITY window.apply       "Εφαρμογή" >
-<!ENTITY window.browse      "Περιήγηση…" >
-<!ENTITY window.save        "Αποθήκευση">
-<!ENTITY window.yes         "Ναι">
-<!ENTITY window.no          "&apos;Οχι">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "OK">
+<!ENTITY window.cancel "Ακύρωση">
+<!ENTITY window.apply "Εφαρμογή">
+<!ENTITY window.browse "Περιήγηση…">
+<!ENTITY window.save "Αποθήκευση">
+<!ENTITY window.yes "Ναι">
+<!ENTITY window.no "&apos;Οχι">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Έξοδος από &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Προτιμήσεις">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Έξοδος από &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Προτιμήσεις">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Υπηρεσίες">
-<!ENTITY menu.mac.hide                  "Απόκρυψη &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Απόκρυψη Υπολοίπων">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Εμφάνιση Όλων">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Αρχείο" >
-<!ENTITY menu.file.new          "Νεά Λίστα Αναπαραγωγής…" >
-<!ENTITY menu.file.smart        "Νέα Έξυπνη Λίστα Αναπαραγωγής" >
-<!ENTITY menu.file.remote       "Νέα Συνδρομή" >
-<!ENTITY menu.file.podcast      "Νέο Podcast…" >
-<!ENTITY menu.file.open         "Άνοιγμα Αρχείου…" >
-<!ENTITY menu.file.url          "Άνοιγμα Τοποθεσίας" >
-<!ENTITY menu.file.playlist     "Εισαγωγή Λίστας Αναπαραγωγής…" >
-<!ENTITY menu.file.library      "Εισαγωγή Συλλογής…" >
-<!ENTITY menu.file.newtab       "Νέα Καρτέλα" >
-<!ENTITY menu.file.closetab     "Κλείσιμο Καρτέλας" >
-<!ENTITY menu.file.metadata     "Εμφάνιση Μεταδεδομένων">
-<!ENTITY menu.file.scan         "Εισαγωγή Πολυμέσων…" >
-<!ENTITY menu.file.exit         "Έξοδος" >
-
-<!ENTITY menu.edit          "Επεξεργασία" >
-<!ENTITY menu.edit.undo     "Αναίρεση" >
-<!ENTITY menu.edit.redo     "Ακύρωση Αναίρεσης" >
-<!ENTITY menu.edit.cut      "Αποκοπή" >
-<!ENTITY menu.edit.copy     "Αντιγραφή" >
-<!ENTITY menu.edit.paste    "Επικόλληση" >
-<!ENTITY menu.edit.delete   "Διαγραφή" >
-<!ENTITY menu.edit.selall   "Επιλογή Όλων" >
-<!ENTITY menu.edit.find        "Αναζήτηση" >
-<!ENTITY menu.edit.findagain   "Αναζήτησε Ξανά" >
-
+<!ENTITY menu.mac.services "Υπηρεσίες">
+<!ENTITY menu.mac.hide "Απόκρυψη &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Απόκρυψη Υπολοίπων">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Εμφάνιση Όλων">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Αρχείο">
+<!ENTITY menu.file.new "Νεά Λίστα Αναπαραγωγής…">
+<!ENTITY menu.file.smart "Νέα Έξυπνη Λίστα Αναπαραγωγής">
+<!ENTITY menu.file.remote "Νέα Συνδρομή">
+<!ENTITY menu.file.podcast "Νέο Podcast…">
+<!ENTITY menu.file.open "Άνοιγμα Αρχείου…">
+<!ENTITY menu.file.url "Άνοιγμα Τοποθεσίας">
+<!ENTITY menu.file.playlist "Εισαγωγή Λίστας Αναπαραγωγής…">
+<!ENTITY menu.file.library "Εισαγωγή Συλλογής…">
+<!ENTITY menu.file.newtab "Νέα Καρτέλα">
+<!ENTITY menu.file.closetab "Κλείσιμο Καρτέλας">
+<!ENTITY menu.file.metadata "Εμφάνιση Μεταδεδομένων">
+<!ENTITY menu.file.scan "Εισαγωγή Πολυμέσων…">
+<!ENTITY menu.file.exit "Έξοδος">
+<!ENTITY menu.edit "Επεξεργασία">
+<!ENTITY menu.edit.undo "Αναίρεση">
+<!ENTITY menu.edit.redo "Ακύρωση Αναίρεσης">
+<!ENTITY menu.edit.cut "Αποκοπή">
+<!ENTITY menu.edit.copy "Αντιγραφή">
+<!ENTITY menu.edit.paste "Επικόλληση">
+<!ENTITY menu.edit.delete "Διαγραφή">
+<!ENTITY menu.edit.selall "Επιλογή Όλων">
+<!ENTITY menu.edit.find "Αναζήτηση">
+<!ENTITY menu.edit.findagain "Αναζήτησε Ξανά">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Προτιμήσεις">
+<!ENTITY menu.linux.preferences "Προτιμήσεις">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Αναπαραγωγή" >
-<!ENTITY menu.control.play  "Αναπαραγωγή" >
-<!ENTITY menu.control.pause "Παύση" >
-<!ENTITY menu.control.next  "Επόμενο Κομμάτι" >
-<!ENTITY menu.control.prev  "Προηγούμενο Κομμάτι" >
-<!ENTITY menu.control.shuf  "Shuffle" >
-<!ENTITY menu.control.repa  "Επανάληψη Όλων" >
-<!ENTITY menu.control.rep1  "Επανάληψη" >
-<!ENTITY menu.control.repx  "Χωρίς Επανάληψη" >
-<!ENTITY menu.control.jumpto "Μετάβαση Σε…" >
-
-<!ENTITY menu.control.play.button      "Αναπαραγωγή" >
-<!ENTITY menu.control.pause.button     "Παύση" >
-<!ENTITY menu.control.stop.button      "Διακοπή" >
-
+<!ENTITY menu.controls "Αναπαραγωγή">
+<!ENTITY menu.control.play "Αναπαραγωγή">
+<!ENTITY menu.control.pause "Παύση">
+<!ENTITY menu.control.next "Επόμενο Κομμάτι">
+<!ENTITY menu.control.prev "Προηγούμενο Κομμάτι">
+<!ENTITY menu.control.shuf "Shuffle">
+<!ENTITY menu.control.repa "Επανάληψη Όλων">
+<!ENTITY menu.control.rep1 "Επανάληψη">
+<!ENTITY menu.control.repx "Χωρίς Επανάληψη">
+<!ENTITY menu.control.jumpto "Μετάβαση Σε…">
+<!ENTITY menu.control.play.button "Αναπαραγωγή">
+<!ENTITY menu.control.pause.button "Παύση">
+<!ENTITY menu.control.stop.button "Διακοπή">
 <!ENTITY displaypane.default.image.pre "Επιλέξτε ένα πρόσθετο από το μενού">
 <!ENTITY displaypane.default.image.tooltip "Εικονίδιο επιλογέα πρόσθετων">
 <!ENTITY displaypane.default.image.post "η επισκεφτείτε το">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Σελίδα Πρόσθετων">
 <!ENTITY displaypane.default.link.post "για περιήγηση πρόσθετων">
-<!ENTITY displaypane.name.servicepane   "Πλαίσιο Υπηρεσιών">
-<!ENTITY displaypane.name.browser       "Πλαίσιο Περιεχομένου">
-<!ENTITY displaypane.name.sidebar       "Δεξιά Πλευρική Μπάρα">
-<!ENTITY servicepane.title.label        "Πλαίσιο Υπηρεσιών">
-
-<!ENTITY menu.tools            "Εργαλεία" >
+<!ENTITY displaypane.name.servicepane "Πλαίσιο Υπηρεσιών">
+<!ENTITY displaypane.name.browser "Πλαίσιο Περιεχομένου">
+<!ENTITY displaypane.name.sidebar "Δεξιά Πλευρική Μπάρα">
+<!ENTITY servicepane.title.label "Πλαίσιο Υπηρεσιών">
+<!ENTITY menu.tools "Εργαλεία">
 <!ENTITY menu.tools.getartwork "Λήψη Εξωφύλλου…">
 <!ENTITY menu.tools.exportmedia "Εξαγωγή αλλαγών Βιβλιοθήκης">
-
-<!ENTITY menu.help          "Βοήθεια" >
-<!ENTITY menu.help.homepage "Ιστοσελίδα του &brandShortName;" >
-<!ENTITY menu.help.bugz     "Αναφορά Σφάλματος…" >
-<!ENTITY menu.help.topics   "Θέματα στη Βοήθεια" >
+<!ENTITY menu.help "Βοήθεια">
+<!ENTITY menu.help.homepage "Ιστοσελίδα του &brandShortName;">
+<!ENTITY menu.help.bugz "Αναφορά Σφάλματος…">
+<!ENTITY menu.help.topics "Θέματα στη Βοήθεια">
 <!ENTITY menu.help.keyboard "Συντομεύσεις Πληκτρολογίου">
-<!ENTITY menu.help.about    "Σχετικά με το &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Equalizer" >
-<!ENTITY menu.preferences   "Ρυθμίσεις" >
-<!ENTITY menu.extensions    "Πρόσθετα" >
+<!ENTITY menu.help.about "Σχετικά με το &brandShortName;">
+<!ENTITY menu.equalizer "Equalizer">
+<!ENTITY menu.preferences "Ρυθμίσεις">
+<!ENTITY menu.extensions "Πρόσθετα">
 <!ENTITY menu.clearprivatedata "Καθαρισμός Προσωπικών Δεδομένων…">
 <!ENTITY menu.errorconsole "Κονσόλα Λαθών">
-<!ENTITY menu.downloadmgr   "Λήψεις Αρχείων" >
-<!ENTITY menu.switchplayercontrols  "Player Controls" >
-<!ENTITY menu.controllerontop       "Προβολή πάνω">
-<!ENTITY menu.controlleronbottom    "Προβολή κάτω">
-
-<!ENTITY menu.fullscreen            "Πλήρης οθόνη">
-<!ENTITY menu.videotofront          "Βίντεο σε πρώτο πλάνο">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Αναμονή για συσκευές.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Αναμονή για ολοκλήρωση λειτουργιών συσκευής. Επιλέξετε &quot;Εγκατάλειψη&quot; για να σταματήσετε την αναμονή και εγκαταλείψετε την εφαρμογή.   ">
-<!ENTITY device.dialog.wait_for_completion.quit   "Εγκατάλειψη">
-
-<!ENTITY tooltip.minimize         "Ελαχιστοποίηση" >
-<!ENTITY tooltip.maximize         "Μεγιστοποίηση/Επαναφορά" >
-<!ENTITY tooltip.exit             "Έξοδος" >
-<!ENTITY tooltip.close            "Κλείσιμο" >
-<!ENTITY tooltip.hide             "Απόκρυψη" >
-<!ENTITY tooltip.fullscreen       "Πλήρης οθόνη" >
-<!ENTITY tooltip.control.back     "Επόμενο Κομμάτι" >
-<!ENTITY tooltip.control.play     "Αναπαραγωγή" >
-<!ENTITY tooltip.control.pause    "Παύση" >
-<!ENTITY tooltip.control.resume   "Συνέχιση" >
-<!ENTITY tooltip.control.stop     "Διακοπή" >
-<!ENTITY tooltip.control.fwd      "Επόμενο Κομμάτι" >
-<!ENTITY tooltip.control.mute     "Σίγαση" >
-<!ENTITY tooltip.control.volume   "Τόμος" >
-<!ENTITY tooltip.control.shuffle  "Shuffle" >
-<!ENTITY tooltip.control.shuf_off "Shuffle Off" >
-<!ENTITY tooltip.control.curtrack "Εύρεση Τρέχοντος Κομματιού" >
-<!ENTITY tooltip.search           "Αναζήτηση" >
-<!ENTITY tooltip.browser.back     "Πλοήγηση Πίσω" >
-<!ENTITY tooltip.browser.fwd      "Πλοήγηση Μπροστά" >
-<!ENTITY tooltip.browser.stop     "Διακοπή Πλοήγησης" >
-<!ENTITY tooltip.browser.home     "Αρχική Σελίδα" >
-<!ENTITY tooltip.browser.refresh  "Ανανέωση" >
-<!ENTITY tooltip.browser.subscription "Συνδρομή σε αυτή την σελίδα" >
-<!ENTITY tooltip.browser.mediapages.list "Εμφάνιση λίστας" >
-<!ENTITY tooltip.browser.mediapages.filter "Προβολή Επιλογής Φίλτρου" >
-<!ENTITY tooltip.browser.mediapages "Αλλαγή Προβολής Πολυμέσων…" >
-<!ENTITY tooltip.servicepane.show    "Εμφάνιση Πλαισίου Υπηρεσιών" >
-<!ENTITY tooltip.servicepane.collapse    "Σύμπτυξη Πλαισίου Υπηρεσιών" >
-<!ENTITY tooltip.servicepane.newnode "Νέα Λίστα Αναπαραγωγής" >
+<!ENTITY menu.downloadmgr "Λήψεις Αρχείων">
+<!ENTITY menu.switchplayercontrols "Player Controls">
+<!ENTITY menu.controllerontop "Προβολή πάνω">
+<!ENTITY menu.controlleronbottom "Προβολή κάτω">
+<!ENTITY menu.fullscreen "Πλήρης οθόνη">
+<!ENTITY menu.videotofront "Βίντεο σε πρώτο πλάνο">
+<!ENTITY device.dialog.wait_for_completion.title "Αναμονή για συσκευές.">
+<!ENTITY device.dialog.wait_for_completion.msg "Αναμονή για ολοκλήρωση λειτουργιών συσκευής. Επιλέξετε &quot;Εγκατάλειψη&quot; για να σταματήσετε την αναμονή και εγκαταλείψετε την εφαρμογή.   ">
+<!ENTITY device.dialog.wait_for_completion.quit "Εγκατάλειψη">
+<!ENTITY tooltip.minimize "Ελαχιστοποίηση">
+<!ENTITY tooltip.maximize "Μεγιστοποίηση/Επαναφορά">
+<!ENTITY tooltip.exit "Έξοδος">
+<!ENTITY tooltip.close "Κλείσιμο">
+<!ENTITY tooltip.hide "Απόκρυψη">
+<!ENTITY tooltip.fullscreen "Πλήρης οθόνη">
+<!ENTITY tooltip.control.back "Επόμενο Κομμάτι">
+<!ENTITY tooltip.control.play "Αναπαραγωγή">
+<!ENTITY tooltip.control.pause "Παύση">
+<!ENTITY tooltip.control.resume "Συνέχιση">
+<!ENTITY tooltip.control.stop "Διακοπή">
+<!ENTITY tooltip.control.fwd "Επόμενο Κομμάτι">
+<!ENTITY tooltip.control.mute "Σίγαση">
+<!ENTITY tooltip.control.volume "Τόμος">
+<!ENTITY tooltip.control.shuffle "Shuffle">
+<!ENTITY tooltip.control.shuf_off "Shuffle Off">
+<!ENTITY tooltip.control.curtrack "Εύρεση Τρέχοντος Κομματιού">
+<!ENTITY tooltip.search "Αναζήτηση">
+<!ENTITY tooltip.browser.back "Πλοήγηση Πίσω">
+<!ENTITY tooltip.browser.fwd "Πλοήγηση Μπροστά">
+<!ENTITY tooltip.browser.stop "Διακοπή Πλοήγησης">
+<!ENTITY tooltip.browser.home "Αρχική Σελίδα">
+<!ENTITY tooltip.browser.refresh "Ανανέωση">
+<!ENTITY tooltip.browser.subscription "Συνδρομή σε αυτή την σελίδα">
+<!ENTITY tooltip.browser.mediapages.list "Εμφάνιση λίστας">
+<!ENTITY tooltip.browser.mediapages.filter "Προβολή Επιλογής Φίλτρου">
+<!ENTITY tooltip.browser.mediapages "Αλλαγή Προβολής Πολυμέσων…">
+<!ENTITY tooltip.servicepane.show "Εμφάνιση Πλαισίου Υπηρεσιών">
+<!ENTITY tooltip.servicepane.collapse "Σύμπτυξη Πλαισίου Υπηρεσιών">
+<!ENTITY tooltip.servicepane.newnode "Νέα Λίστα Αναπαραγωγής">
 <!ENTITY tooltip.displaypane.options "Επιλογές Πλαισίου Περιεχομένου">
-
-<!ENTITY smart.window             "Έξυπνη Λίστα Αναπαραγωγής" >
-<!ENTITY smart.limit              "Περιορισμός σε" >
-<!ENTITY smart.match              "Ταίριασμα" >
-<!ENTITY smart.matchsingle        "Ταίριασμα με την παρακάτω συνθήκη:" >
-<!ENTITY smart.any                "οποιοδήποτε" >
-<!ENTITY smart.all                "όλα" >
-<!ENTITY smart.following          "από τις ακόλουθες συνθήκες:" >
-<!ENTITY smart.random             "τυχαίο" >
-<!ENTITY smart.album              "άλμπουμ" >
-<!ENTITY smart.artist             "καλλιτέχνης" >
-<!ENTITY smart.genre              "είδος" >
-<!ENTITY smart.title              "τίτλος" >
-<!ENTITY smart.high_rating        "υψηλότερη βαθμολογία" >
-<!ENTITY smart.low_rating         "χαμηλότερη βαθμολογία" >
-<!ENTITY smart.most_recent        "το πιο προσφάτως αναπαρηγμένο" >
-<!ENTITY smart.least_recent       "λιγότερο συχνά αναπαραγμένο" >
-<!ENTITY smart.most_often         "το πιο συχνά αναπαραγόμενο" >
-<!ENTITY smart.least_often        "λιγότερο συχνά αναπαραγμένο" >
-<!ENTITY smart.most_added         "Προστέθηκε τελευταίο" >
-<!ENTITY smart.least_added        "Προστέθηκε πριν λίγο" >
-<!ENTITY smart.minutes            "λεπτά" >
-<!ENTITY smart.hours              "ώρες" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "αντικείμενα" >
-<!ENTITY smart.selectedby         "επιλεγμένο από" >
-<!ENTITY smart.to                 "προς" >
-<!ENTITY smart.autoupdate         "Αυτόματη Ενημέρωση">
+<!ENTITY smart.window "Έξυπνη Λίστα Αναπαραγωγής">
+<!ENTITY smart.limit "Περιορισμός σε">
+<!ENTITY smart.match "Ταίριασμα">
+<!ENTITY smart.matchsingle "Ταίριασμα με την παρακάτω συνθήκη:">
+<!ENTITY smart.any "οποιοδήποτε">
+<!ENTITY smart.all "όλα">
+<!ENTITY smart.following "από τις ακόλουθες συνθήκες:">
+<!ENTITY smart.random "τυχαίο">
+<!ENTITY smart.album "άλμπουμ">
+<!ENTITY smart.artist "καλλιτέχνης">
+<!ENTITY smart.genre "είδος">
+<!ENTITY smart.title "τίτλος">
+<!ENTITY smart.high_rating "υψηλότερη βαθμολογία">
+<!ENTITY smart.low_rating "χαμηλότερη βαθμολογία">
+<!ENTITY smart.most_recent "το πιο προσφάτως αναπαρηγμένο">
+<!ENTITY smart.least_recent "λιγότερο συχνά αναπαραγμένο">
+<!ENTITY smart.most_often "το πιο συχνά αναπαραγόμενο">
+<!ENTITY smart.least_often "λιγότερο συχνά αναπαραγμένο">
+<!ENTITY smart.most_added "Προστέθηκε τελευταίο">
+<!ENTITY smart.least_added "Προστέθηκε πριν λίγο">
+<!ENTITY smart.minutes "λεπτά">
+<!ENTITY smart.hours "ώρες">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "αντικείμενα">
+<!ENTITY smart.selectedby "επιλεγμένο από">
+<!ENTITY smart.to "προς">
+<!ENTITY smart.autoupdate "Αυτόματη Ενημέρωση">
 <!ENTITY smart.playlistcondition.library "Συλλογή">
 <!ENTITY smart.contenttypecondition.video "Βίντεο">
 <!ENTITY smart.contenttypecondition.audio "Μουσική">
-
 <!ENTITY textbox.songbird_open_url "Εισάγετε το URL ή τη διαδρομή των πολυμέσων που θέλετε να αναπαράγετε:">
-
-<!ENTITY open_url.title           "Άνοιγμα URL">
-<!ENTITY subscribe.title          "Συνδρομή">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Λεπτό(α)">
-<!ENTITY subscribe.hours          "Ώρα(ες)">
-<!ENTITY subscribe.days           "Μέρα(ες)">
-<!ENTITY subscribe.autocheck      "Ενημέρωση αυτόματα κάθε">
-<!ENTITY subscribe.destinationfolder      "Επιλογή φακέλου προορισμού:">
-
-<!ENTITY feed.subscribe.label     "Εγγραφή">
-<!ENTITY feed.subscribe.dontask   "Μη δείξετε αυτόματα ξανά αυτό το διάλογο">
-<!ENTITY feed.subscribe.close     "Κλείσιμο">
-
-<!ENTITY podcast.creation_dialog.title       "Podcast">
+<!ENTITY open_url.title "Άνοιγμα URL">
+<!ENTITY subscribe.title "Συνδρομή">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Λεπτό(α)">
+<!ENTITY subscribe.hours "Ώρα(ες)">
+<!ENTITY subscribe.days "Μέρα(ες)">
+<!ENTITY subscribe.autocheck "Ενημέρωση αυτόματα κάθε">
+<!ENTITY subscribe.destinationfolder "Επιλογή φακέλου προορισμού:">
+<!ENTITY feed.subscribe.label "Εγγραφή">
+<!ENTITY feed.subscribe.dontask "Μη δείξετε αυτόματα ξανά αυτό το διάλογο">
+<!ENTITY feed.subscribe.close "Κλείσιμο">
+<!ENTITY podcast.creation_dialog.title "Podcast">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Παρακολούθηση φακέλων">
-<!ENTITY watchfolder.folderlist   "Παρακολούθηση αυτών των φακέλων για νέα πολυμέσα:">
-
-<!ENTITY locale.language          "Γλώσσα" >
-<!ENTITY menu.view                "Προβολή" >
-<!ENTITY about.version            "Έκδοση" >
-<!ENTITY about.buttons.credits    "Μνεία" >
-
-<!ENTITY equalizer.title          "Equalizer" >
-<!ENTITY equalizer.on.checkbox    "On" >
-<!ENTITY equalizer.band0.label    "30" >
-<!ENTITY equalizer.band1.label    "60" >
-<!ENTITY equalizer.band2.label    "120" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Προσαρμοσμένο" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Live" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Party" >
-<!ENTITY equalizer.preset.classical   "Κλασική" >
-<!ENTITY equalizer.preset.large_hall  "Μεγάλη Αίθουσα" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Soft" >
-<!ENTITY equalizer.preset.small_speakers   "Ακουστικά/Φορητός" >
-<!ENTITY equalizer.preset.full_bass_treble "Γεμάτο Μπάσα και Πρίμα" >
-<!ENTITY equalizer.preset.full_treble "Γεμάτο Πρίμα" >
-<!ENTITY equalizer.preset.full_bass   "Γεμάτο Μπάσα" >
-
-
-<!ENTITY setupprogress.pleasewait "Παρακαλώ περιμένετε…" >
-<!ENTITY setupprogress.cancel     "Ακύρωση">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "C" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Ι" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "Ρ" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "Εμφάνιση Αρχείου" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "Παρακολούθηση φακέλων">
+<!ENTITY watchfolder.folderlist "Παρακολούθηση αυτών των φακέλων για νέα πολυμέσα:">
+<!ENTITY locale.language "Γλώσσα">
+<!ENTITY menu.view "Προβολή">
+<!ENTITY about.version "Έκδοση">
+<!ENTITY about.buttons.credits "Μνεία">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY equalizer.on.checkbox "On">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Προσαρμοσμένο">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Soft Rock">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Κλασική">
+<!ENTITY equalizer.preset.large_hall "Μεγάλη Αίθουσα">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Soft">
+<!ENTITY equalizer.preset.small_speakers "Ακουστικά/Φορητός">
+<!ENTITY equalizer.preset.full_bass_treble "Γεμάτο Μπάσα και Πρίμα">
+<!ENTITY equalizer.preset.full_treble "Γεμάτο Πρίμα">
+<!ENTITY equalizer.preset.full_bass "Γεμάτο Μπάσα">
+<!ENTITY setupprogress.pleasewait "Παρακαλώ περιμένετε…">
+<!ENTITY setupprogress.cancel "Ακύρωση">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Ι">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "Ρ">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "Εμφάνιση Αρχείου">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Επεξεργαστής Μεταδεδομένων" >
-<!ENTITY trackeditor.tab.summary.title            "Περίληψη" >
-<!ENTITY trackeditor.tab.edit.title               "Ιδιότητες" >
-<!ENTITY trackeditor.tab.lyrics.title             "Στίχοι" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Επεξεργαστής Μεταδεδομένων">
+<!ENTITY trackeditor.tab.summary.title "Περίληψη">
+<!ENTITY trackeditor.tab.edit.title "Ιδιότητες">
+<!ENTITY trackeditor.tab.lyrics.title "Στίχοι">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Προσθήκη Ετικέτας" >
-<!ENTITY trackeditor.addtag.tag       "Ετικέτα:" >
-
-<!ENTITY jumptofile.title             "Μετάβαση σε" >
-<!ENTITY jumptofile.search            "Αναζήτηση:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Χρήση Καθολικών Συντομεύσεων" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Δράση" >
-<!ENTITY hotkeys.hotkey               "Συντόμευση" >
-<!ENTITY hotkeys.add                  "Προσθήκη" >
-<!ENTITY hotkeys.set                  "Αποθήκευση" >
-<!ENTITY hotkeys.remove               "Αφαίρεση" >
-<!ENTITY hotkeys.prefpane             "Συντομεύσεις" >
-<!ENTITY hotkeys.info                 "Οι Καθολικές Συντομεύσεις επιτρέπουν την πρόσβαση στις λειτουργίες του &brandShortName; ακόμη κι αν ο &brandShortName; δεν είναι η ενεργή εφαρμογή. Ορισμένοι συνδυασμοί συντομεύσεων πρέπει να περιέχουν πλήκτρα διαφοροποίησης για να ελαχιστοποιήσουν ανεπιθύμητες παρεμβολές με άλλες εφαρμογές." >
-
-<!ENTITY rapi.prefpane.title             "Ενσωμάτωση με τον Ιστό" >
-<!ENTITY rapi.prefpane.access.caption    "Άδειες ιστοσελίδας" >
-<!ENTITY rapi.prefpane.access.text       "Μπορείτε να επιτρέπετε σε ιστοσελίδες να ενσωματώνονται στο &brandShortName; για να δημιουργήσετε μια ισχυρή σύζευξη μεταξύ του Ιστού και των πολυμέσων σας. Παρακαλώ να ρυθμίσετε το &brandShortName; να επιτρέπει ή να αποτρέπει τα επόμενη σημεία ενσωμάτωσης." >
-<!ENTITY rapi.whitelist.label            "Εξαιρέσεις…" >
-<!ENTITY rapi.restore_defaults.label      "Επαναφορά εργοστασιακών ρυθμίσεων" >
-<!ENTITY rapi.playback_control_disable.label "Αποτροπή ιστοσελίδων από το να ελέγχουν την αναπαραγωγή πολυμέσων." >
-<!ENTITY rapi.playback_read_disable.label    "Αποτροπή ιστοσελίδων από το να βλέπουν πληροφορίες για τα αναπαραγώμενα πολυμέσα." >
-<!ENTITY rapi.library_read_disable.label     "Αποτροπή ιστοσελίδων από το να βλέπουν πληροφορίες για τα πολυμέσα στη Συλλογή και τις συσκευές μου." >
-<!ENTITY rapi.library_write_disable.label    "Αποτροπή ιστοσελίδων από το να προσθέτουν/επεξεργάζονται πληροφορίες για τα πολυμέσα στη Συλλογή και τις συσκευές μου." >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Πρόσθετα">
-<!ENTITY prefpane.content.label       "Περιεχόμενο Ιστοσελίδας">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Δεν ανιχνεύθηκαν συνδεδεμένες USB συσκευές αποθήκευσης." >
-<!ENTITY umsd.music.tab                     "Μουσική" >
-<!ENTITY umsd.music.music_files_group       "Αρχεία μουσικής" >
-<!ENTITY umsd.music.music_path_desc         "Τοποθέτηση των αρχείων μουσικής που αντιγράφονται στη συσκευή στον φάκελο:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Επιλέξτε τον κατάλογο στη συσκευή που θα τοποθετούνται τα μουσικά αρχεία." >
-<!ENTITY umsd.music.music_ext_desc          "Αντιγραφή αρχείων μουσικής με τις παρακάτω προεκτάσεις στη συσκευή:" >
-<!ENTITY umsd.video.tab                     "Βίντεο" >
-<!ENTITY umsd.video.video_files_group       "Αρχεία video" >
-<!ENTITY umsd.video.video_path_desc         "Τοποθέτηση των αρχείων βίντεο που αντιγράφονται στη συσκευή στον φάκελο:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Επιλέξτε τον κατάλογο στη συσκευή που θα τοποθετούνται τα αρχεία βίντεο." >
-<!ENTITY umsd.video.video_ext_desc          "Αντιγραφή αρχείων βίντεο με τις παρακάτω προεκτάσεις στη συσκευή:" >
-
-<!ENTITY device.error.dialog.link           "Προβολή λεπτομερειών σφαλμάτων" >
-
-<!ENTITY restartbox.restartnow        "Επανεκκίνηση Τώρα" >
-<!ENTITY restartbox.restartonplaybackend "Επανεκκίνηση στο Τέλος της Αναπαραγωγής" >
-<!ENTITY restartbox.restartlater      "Επανεκκίνηση Αργότερα" >
-
-<!ENTITY setupprogress.installingextensions "Εγκατάσταση Προσθηκών" >
-
-<!ENTITY jobprogress.details "Λεπτομέρειες" >
-
-<!ENTITY menu.updateCmd.label          "Check for Updates">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Spacebar" >
-
+<!ENTITY trackeditor.addtag.title "Προσθήκη Ετικέτας">
+<!ENTITY trackeditor.addtag.tag "Ετικέτα:">
+<!ENTITY jumptofile.title "Μετάβαση σε">
+<!ENTITY jumptofile.search "Αναζήτηση:">
+<!ENTITY hotkeys.useglobalhotkeys "Χρήση Καθολικών Συντομεύσεων">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Δράση">
+<!ENTITY hotkeys.hotkey "Συντόμευση">
+<!ENTITY hotkeys.add "Προσθήκη">
+<!ENTITY hotkeys.set "Αποθήκευση">
+<!ENTITY hotkeys.remove "Αφαίρεση">
+<!ENTITY hotkeys.prefpane "Συντομεύσεις">
+<!ENTITY hotkeys.info "Οι Καθολικές Συντομεύσεις επιτρέπουν την πρόσβαση στις λειτουργίες του &brandShortName; ακόμη κι αν ο &brandShortName; δεν είναι η ενεργή εφαρμογή. Ορισμένοι συνδυασμοί συντομεύσεων πρέπει να περιέχουν πλήκτρα διαφοροποίησης για να ελαχιστοποιήσουν ανεπιθύμητες παρεμβολές με άλλες εφαρμογές.">
+<!ENTITY rapi.prefpane.title "Ενσωμάτωση με τον Ιστό">
+<!ENTITY rapi.prefpane.access.caption "Άδειες ιστοσελίδας">
+<!ENTITY rapi.prefpane.access.text "Μπορείτε να επιτρέπετε σε ιστοσελίδες να ενσωματώνονται στο &brandShortName; για να δημιουργήσετε μια ισχυρή σύζευξη μεταξύ του Ιστού και των πολυμέσων σας. Παρακαλώ να ρυθμίσετε το &brandShortName; να επιτρέπει ή να αποτρέπει τα επόμενη σημεία ενσωμάτωσης.">
+<!ENTITY rapi.whitelist.label "Εξαιρέσεις…">
+<!ENTITY rapi.restore_defaults.label "Επαναφορά εργοστασιακών ρυθμίσεων">
+<!ENTITY rapi.playback_control_disable.label "Αποτροπή ιστοσελίδων από το να ελέγχουν την αναπαραγωγή πολυμέσων.">
+<!ENTITY rapi.playback_read_disable.label "Αποτροπή ιστοσελίδων από το να βλέπουν πληροφορίες για τα αναπαραγώμενα πολυμέσα.">
+<!ENTITY rapi.library_read_disable.label "Αποτροπή ιστοσελίδων από το να βλέπουν πληροφορίες για τα πολυμέσα στη Συλλογή και τις συσκευές μου.">
+<!ENTITY rapi.library_write_disable.label "Αποτροπή ιστοσελίδων από το να προσθέτουν/επεξεργάζονται πληροφορίες για τα πολυμέσα στη Συλλογή και τις συσκευές μου.">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Πρόσθετα">
+<!ENTITY prefpane.content.label "Περιεχόμενο Ιστοσελίδας">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Δεν ανιχνεύθηκαν συνδεδεμένες USB συσκευές αποθήκευσης.">
+<!ENTITY umsd.music.tab "Μουσική">
+<!ENTITY umsd.music.music_files_group "Αρχεία μουσικής">
+<!ENTITY umsd.music.music_path_desc "Τοποθέτηση των αρχείων μουσικής που αντιγράφονται στη συσκευή στον φάκελο:">
+<!ENTITY umsd.music.music_path_browse_msg "Επιλέξτε τον κατάλογο στη συσκευή που θα τοποθετούνται τα μουσικά αρχεία.">
+<!ENTITY umsd.music.music_ext_desc "Αντιγραφή αρχείων μουσικής με τις παρακάτω προεκτάσεις στη συσκευή:">
+<!ENTITY umsd.video.tab "Βίντεο">
+<!ENTITY umsd.video.video_files_group "Αρχεία video">
+<!ENTITY umsd.video.video_path_desc "Τοποθέτηση των αρχείων βίντεο που αντιγράφονται στη συσκευή στον φάκελο:">
+<!ENTITY umsd.video.video_path_browse_msg "Επιλέξτε τον κατάλογο στη συσκευή που θα τοποθετούνται τα αρχεία βίντεο.">
+<!ENTITY umsd.video.video_ext_desc "Αντιγραφή αρχείων βίντεο με τις παρακάτω προεκτάσεις στη συσκευή:">
+<!ENTITY device.error.dialog.link "Προβολή λεπτομερειών σφαλμάτων">
+<!ENTITY restartbox.restartnow "Επανεκκίνηση Τώρα">
+<!ENTITY restartbox.restartonplaybackend "Επανεκκίνηση στο Τέλος της Αναπαραγωγής">
+<!ENTITY restartbox.restartlater "Επανεκκίνηση Αργότερα">
+<!ENTITY setupprogress.installingextensions "Εγκατάσταση Προσθηκών">
+<!ENTITY jobprogress.details "Λεπτομέρειες">
+<!ENTITY menu.updateCmd.label "Check for Updates">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
 <!ENTITY tabs.closeTab "Κλείσιμο καρτέλας">
 <!ENTITY tabs.listAllTabs "Λίστα όλων των Καρτελών">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Αρχική Σελίδα" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Εγκατάσταση Πρόσθετων" >
-
+<!ENTITY prefs.homepage.label "Αρχική Σελίδα">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Εγκατάσταση Πρόσθετων">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Ακύρωση">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "Ακύρωση αντιγραφής">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "Ακύρωση διαγραφής">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "Ακύρωση συγχρονισμού">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "Ακύρωση ενημέρωσης">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "Εξαγωγή">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Διαμόρφωση">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Αγνόηση">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Λήψη πληροφοριών">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Μετονομασία">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Συγχρονισμός">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Ακύρωση">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Ακύρωση αντιγραφής">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Ακύρωση διαγραφής">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Ακύρωση συγχρονισμού">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Ακύρωση ενημέρωσης">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Εξαγωγή">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Διαμόρφωση">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Αγνόηση">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Λήψη πληροφοριών">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Μετονομασία">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Συγχρονισμός">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Αντιγραφή CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Διακοπή αντιγραφής">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Εύρεση πληροφοριών CD">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Εξαγωγή CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Επιδιόρθωση της συσκευής μου">
-
-<!ENTITY device.firmware.wizard.title                     "Ενημέρωση  Firmware">
-<!ENTITY device.firmware.wizard.check.page.title          "Έλεγχος για Ενημερωμένο Firmware…">
-<!ENTITY device.firmware.wizard.check.progress.title      "Έλεγχος για ενημερωμένο firmware…">
+<!ENTITY command.device.rip "Αντιγραφή CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Διακοπή αντιγραφής">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Εύρεση πληροφοριών CD">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Εξαγωγή CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Επιδιόρθωση της συσκευής μου">
+<!ENTITY device.firmware.wizard.title "Ενημέρωση  Firmware">
+<!ENTITY device.firmware.wizard.check.page.title "Έλεγχος για Ενημερωμένο Firmware…">
+<!ENTITY device.firmware.wizard.check.progress.title "Έλεγχος για ενημερωμένο firmware…">
 <!ENTITY device.firmware.wizard.check.install.description "Η εγκατάσταση του ενημερωμένου firmware θα διαρκέσει λιγότερο απο 10 λεπτά. Μπορείτε πάντα να κάνετε ενημέρωση κάποια άλλη στιγμή αργότερα.">
 <!ENTITY device.firmware.wizard.check.already.description "To firmware για τη συσκευή σας είναι έτοιμο για ενημέρωση.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Σημειώσεις έκδοσης">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Η συσκευή πρέπει να είναι συνδεδεμένη στη μορφή  firmware για να συνεχίσετε. Παρακαλώ ακολουθήστε τις παρακάτω οδηγίες για να βάλετε τη συσκευή σας στη μορφή  firmware.">
-<!ENTITY device.firmware.wizard.download.title            "Λήψη νέου firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "Η επαναφορά της συσκευής θα πρέπει να διαρκέσει λιγότερο απο 5 λεπτά">
-<!ENTITY device.firmware.wizard.repair.warning            "Η επαναφορά της συσκευής σας στις εργοστασιακές ρυθμίσεις θα σβήσει όλη την μουσική καθώς και τα δεδομένα που βρίσκονται σε αυτήν. Παρακαλώ αποθηκεύστε όλα τα αρχεία σας πριν προχωρήσετε.">
-<!ENTITY device.firmware.wizard.install.title             "Εγκατάσταση firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "Φαίνεται ότι η συσκευή σας είναι απασχολημένη.  Το Firmware μπορεί να εγκατασταθεί μόνο όταν η συσκευή σας είναι σε κατάσταση αδράνειας.">
+<!ENTITY device.firmware.wizard.download.title "Λήψη νέου firmware…">
+<!ENTITY device.firmware.wizard.repair.time.description "Η επαναφορά της συσκευής θα πρέπει να διαρκέσει λιγότερο απο 5 λεπτά">
+<!ENTITY device.firmware.wizard.repair.warning "Η επαναφορά της συσκευής σας στις εργοστασιακές ρυθμίσεις θα σβήσει όλη την μουσική καθώς και τα δεδομένα που βρίσκονται σε αυτήν. Παρακαλώ αποθηκεύστε όλα τα αρχεία σας πριν προχωρήσετε.">
+<!ENTITY device.firmware.wizard.install.title "Εγκατάσταση firmware…">
+<!ENTITY device.firmware.wizard.busy.description "Φαίνεται ότι η συσκευή σας είναι απασχολημένη.  Το Firmware μπορεί να εγκατασταθεί μόνο όταν η συσκευή σας είναι σε κατάσταση αδράνειας.">
 <!ENTITY device.firmware.wizard.retry.description "Παρακαλώ προσπαθήστε ξανά αφού η συσκευή σας ολοκληρώσει την τρέχουσα λειτουργία του.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "Υπήρξε ένα λάθος κατά τον έλεγχο για νέο firmware. Παρακαλώ επιβεβαιώστε τη σύνδεση του δικτύου σας και προσπαθήστε ξανά.">
+<!ENTITY device.firmware.wizard.check.error.description "Υπήρξε ένα λάθος κατά τον έλεγχο για νέο firmware. Παρακαλώ επιβεβαιώστε τη σύνδεση του δικτύου σας και προσπαθήστε ξανά.">
 <!ENTITY device.firmware.wizard.download.error.description "Υπήρξε ένα λάθος κατά τη λήψη του νέου firmware. Παρακαλώ επιβεβαιώστε τη σύνδεση του δικτύου σας και προσπαθήστε ξανά.">
-<!ENTITY device.firmware.wizard.support.description        "Πόροι υποστήριξης όπως FAQs και συμβουλές αντιμετώπισης προβλημάτων μπορούν να βρεθούν στο">
-
-<!ENTITY device.info.icon.device            "Εικονίδιο γενικής συσκευής">
-<!ENTITY device.info.icon.readonly          "Κλειδωμένο εικονίδιο μόνο για ανάγνωση">
-<!ENTITY device.info.model.label            "Μοντέλο">
-<!ENTITY device.info.capacity.label         "Χωρητικότητα">
-<!ENTITY device.info.product.label          "Προϊόν">
-<!ENTITY device.info.friendly_name.label    "Όνομα">
-<!ENTITY device.info.serial_number.label    "Σειριακός Αριθμός">
-<!ENTITY device.info.vendor.label           "Κατασκευαστής">
-<!ENTITY device.info.access.label           "Συμβατότητα Πρόσβασης">
+<!ENTITY device.firmware.wizard.support.description "Πόροι υποστήριξης όπως FAQs και συμβουλές αντιμετώπισης προβλημάτων μπορούν να βρεθούν στο">
+<!ENTITY device.info.icon.device "Εικονίδιο γενικής συσκευής">
+<!ENTITY device.info.icon.readonly "Κλειδωμένο εικονίδιο μόνο για ανάγνωση">
+<!ENTITY device.info.model.label "Μοντέλο">
+<!ENTITY device.info.capacity.label "Χωρητικότητα">
+<!ENTITY device.info.product.label "Προϊόν">
+<!ENTITY device.info.friendly_name.label "Όνομα">
+<!ENTITY device.info.serial_number.label "Σειριακός Αριθμός">
+<!ENTITY device.info.vendor.label "Κατασκευαστής">
+<!ENTITY device.info.access.label "Συμβατότητα Πρόσβασης">
 <!ENTITY device.info.playback_formats.label "Μορφές Αναπαραγωγής">
-<!ENTITY device.info.battery.label          "Μπαταρία">
+<!ENTITY device.info.battery.label "Μπαταρία">
 <!ENTITY device.info.firmware_version.label "Έκδοση Firmware">
-
-<!ENTITY device.progress.sync               "Συγχρονισμός">
-
-<!ENTITY device.capacity.music.label    "Μουσική">
-<!ENTITY device.capacity.video.label    "Βίντεο">
-<!ENTITY device.capacity.image.label    "Φωτογραφίες">
-<!ENTITY device.capacity.other.label    "Άλλο">
-<!ENTITY device.capacity.free.label     "Ελεύθερο">
-
-<!ENTITY device.unsupported_media.dialog.title  "Εντοπίστηκαν Ασύμβατα Αρχεία">
+<!ENTITY device.progress.sync "Συγχρονισμός">
+<!ENTITY device.capacity.music.label "Μουσική">
+<!ENTITY device.capacity.video.label "Βίντεο">
+<!ENTITY device.capacity.image.label "Φωτογραφίες">
+<!ENTITY device.capacity.other.label "Άλλο">
+<!ENTITY device.capacity.free.label "Ελεύθερο">
+<!ENTITY device.unsupported_media.dialog.title "Εντοπίστηκαν Ασύμβατα Αρχεία">
 <!ENTITY device.unsupported_media.dialog.enable "Προειδοποίησε με οταν εντοπιστούν ασύμβατα αρχεία">
-
 <!ENTITY device.sync.header.label "Ρυθμίσεις Συγχρονισμού">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Συγχρονισμός">
 <!ENTITY device.sync.sync_all.label "Όλα η μουσική, τα βίντεο και οι λίστες αναπαραγωγής">
 <!ENTITY device.sync.sync_selected.label "Επιλεγμένες λίστες αναπαραγωγής:">
@@ -510,229 +447,187 @@
 <!ENTITY device.sync.images.selected.label "Επιλεγμένοι υποφακέλοι">
 <!ENTITY device.sync.images.foldername "Όνομα Φακέλου">
 <!ENTITY device.sync.images.filecount "Φωτογραφίες">
-
 <!ENTITY device.settings.header.label "Ρυθμίσεις">
 <!ENTITY device.settings.general.label "Γενικά">
 <!ENTITY device.settings.auto_launch.checkbox.label "Άνοιγμα &brandShortName; όταν ανιχθευθεί η συσκευή">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Αυτόματος έλεγχος για νέο firmware">
 <!ENTITY device.settings.music.transcoding.label "Μετατροπή Μουσικής.">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
 <!ENTITY device.settings.disk.label "Διαχείριση δίσκου">
 <!ENTITY device.settings.disk.management.label "Προσαρμογή δομής φακέλου">
 <!ENTITY device.settings.disk.management.filename "Αρχεία τραγουδιών">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Αυτόματη ρύθμιση μετατροπής">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Χειροκίνητη επιλογή bitrate και μορφής">
 <!ENTITY device.settings.music.transcoding.format.label "Μορφή κωδικοποίησης">
 <!ENTITY device.settings.music.transcoding.bitrate.label "bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Μουσική">
 <!ENTITY device.management.tabs.video.label "Βίντεο">
 <!ENTITY device.management.tabs.image.label "Φωτογραφίες">
 <!ENTITY device.management.tabs.tools.label "Εργαλεία">
 <!ENTITY device.management.tabs.settings.label "Ρυθμίσεις">
-
 <!ENTITY device.tools.product_registration.title "Εγγραφή προϊόντος">
 <!ENTITY device.tools.product_registration.description "Θέλετε να εξασφαλίσετε απόδειξη της αγοράς, επιπλέον προνόμια του προϊόντος ως μέλος, ή να λαμβάνετε επισημάνσεις ασφαλείας;">
 <!ENTITY device.tools.product_registration.label "Καταχώρηση προϊόντος">
-
 <!ENTITY device.tools.update_firmware.title "Ενημέρωση firmware">
 <!ENTITY device.tools.update_firmware.description "Η συσκευή σας ελέγχεται από ένα εσωτερικό πρόγραμμα που ονομάζεται firmware. Υπάρχουν νεότερες εκδόσεις του firmware από την τελευταία φορά που συνδέσατε τη συσκευή σας στον υπολογιστή.">
 <!ENTITY device.tools.update_firmware.label "Έλεγχος για αναβαθμισμένο  firmware">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Πρόσφατη έκδοση firmware">
-
 <!ENTITY device.tools.restore_device.title "Αποκατάσταση Συσκευής">
 <!ENTITY device.tools.restore_device.description "Η αποκατάσταση της συσκευής σας στις εργοστασιακές ρυθμίσεις θα διαγράψει όλα τα αρχεία σε αυτή. Επίσης, θα επαναφέρει τις εργοστασιακές ρυθμίσεις και firmware.">
 <!ENTITY device.tools.restore_device.label "Αποκατάσταση συσκευής στις εργοστασιακές ρυθμίσεις">
-
 <!ENTITY device.tools.format_device.title "Διαμόρφωση Συσκευής">
 <!ENTITY device.tools.format_device.description "Διαμορφώνοντας τη συσκευή σας θα διαγραφούν όλη η μουσική και τα δεδομένα στη συσκευή.">
 <!ENTITY device.tools.format_device.label "Διαμόρφωση συσκευής">
-<!ENTITY device.tools.format_volume.button.label "Format">
-
 <!ENTITY device.tools.support.title "Υποστήριξη">
 <!ENTITY device.tools.support.description "Προβολή των τελευταίων νέων που αφορούν την υποστήριξη, εγχειριδίων χρηστών, τεκμηριώσεων, FAQ και πληροφοριών του προϊόντος. Οι υπηρεσίες υποστήριξης είναι διαθέσιμες για τους πελάτες που έχουν κάνει εγγραφή το προϊόν τους.">
 <!ENTITY device.tools.support.label "Προβολή πόρων υποστήριξης">
-
 <!ENTITY device.tools.reset_warnings.title "Επαναφορά προειδοποιήσεων">
 <!ENTITY device.tools.reset_warnings.description "Επαναφέροντας τους διαλόγους προειδοποίησης θα ενεργοποιηθούν έτσι ώστε να σας δώσουν εντολή να επιβεβαιώσετε κάποια καθήκοντα που επιθυμείτε να πραγματοποιήσετε.">
 <!ENTITY device.tools.reset_warnings.label "Επαναφορά μηνυμάτων προειδοποιήσεων">
-
 <!ENTITY device.dialog.setup.title "Ρύθμιση συσκευής">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Επιλέξτε ποιά συσκευή αποθήκευσης &brandShortName; θα θέλατε να διαχειριστείτε:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "παράβλεψη αυτής της συσκευής">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Επιλέξτε μόνο εάν δεν θέλετε &brandShortName; να διαχειριστείτε αυτή τη συσκευή">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Αν δε θέλετε το &brandShortName; να διαχειρίζεστε αυτή τη συσκευή, μπορείτε">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "Αγνόηση αυτής της συσκευής">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Άνοιγμα διαδρομής στον προεπιλεγμένο Περιηγητή Ιστού">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Άνοιγμα σελίδας στον προεπιλεγμένο Περιηγητή Ιστού">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Άνοιγμα πλαισίου στον προεπιλεγμένο Περιηγητή Ιστού">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Άνοιγμα εικόνας στον προεπιλεγμένο Περιηγητή Ιστού">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Αντιγραφή Επιλεγμένου Κειμένου">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "Αναπαραγωγή">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Λήψη στη Συλλογή">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Λήψη σε Λίστα Αναπαραγωγής">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Καμία Λίστα Αναπαραγωγής&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Νέα Λίστα Αναπαραγωγής">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Συνδρομή σε αυτή τη Σελίδα…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Συνδρομή σε αυτό το Πλαίσιο…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Βοηθείστε να κάνουμε το &brandShortName; καλύτερο!">
-<!ENTITY feedback.dialog.yes        "Ναι">
-<!ENTITY feedback.dialog.no         "Όχι">
-<!ENTITY feedback.dialog.sentence1  "Θα μας βοηθήσετε να κάνουμε το &brandShortName; καλύτερο παίρνοντας μέρος σε ένα γρήγορο, ανώνυμο ερωτηματολόγιο;">
-<!ENTITY feedback.dialog.sentence2  "Αν δεν σας ενδιαφέρει, δε θα σας ρωτήσουμε ξανά. Ευχαριστούμε που δοκιμάσατε και εκτιμούμε που χρησιμοποιείτε το &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Χαιρετισμοί,">
-<!ENTITY feedback.dialog.sentence4  "H ομάδα του &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Άνοιγμα διαδρομής στον προεπιλεγμένο Περιηγητή Ιστού">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Άνοιγμα σελίδας στον προεπιλεγμένο Περιηγητή Ιστού">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Άνοιγμα πλαισίου στον προεπιλεγμένο Περιηγητή Ιστού">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Άνοιγμα εικόνας στον προεπιλεγμένο Περιηγητή Ιστού">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Αντιγραφή Επιλεγμένου Κειμένου">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Αναπαραγωγή">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Λήψη στη Συλλογή">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Λήψη σε Λίστα Αναπαραγωγής">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Καμία Λίστα Αναπαραγωγής&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Νέα Λίστα Αναπαραγωγής">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Συνδρομή σε αυτή τη Σελίδα…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Συνδρομή σε αυτό το Πλαίσιο…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Βοηθείστε να κάνουμε το &brandShortName; καλύτερο!">
+<!ENTITY feedback.dialog.yes "Ναι">
+<!ENTITY feedback.dialog.no "Όχι">
+<!ENTITY feedback.dialog.sentence1 "Θα μας βοηθήσετε να κάνουμε το &brandShortName; καλύτερο παίρνοντας μέρος σε ένα γρήγορο, ανώνυμο ερωτηματολόγιο;">
+<!ENTITY feedback.dialog.sentence2 "Αν δεν σας ενδιαφέρει, δε θα σας ρωτήσουμε ξανά. Ευχαριστούμε που δοκιμάσατε και εκτιμούμε που χρησιμοποιείτε το &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "Χαιρετισμοί,">
+<!ENTITY feedback.dialog.sentence4 "H ομάδα του &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Καλώς ορίσατε στο &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "Καλώς ορίσατε στο &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "Ρυθμίσεις &brandShortName; ">
-
+<!ENTITY first_run.title "Ρυθμίσεις &brandShortName; ">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Προτεινόμενα Πρόσθετα">
+<!ENTITY first_run.add_ons.header.label "Προτεινόμενα Πρόσθετα">
 <!ENTITY first_run.add_ons.description.line1 "Τα Πρόσθετα επεκτείνουν την λειτουργικότητα του &brandShortName;, επιτρέποντας σας να τροποποιήσετε την εμπειρία σας. Οι παρακάτω επιλογές είναι θερμά προτεινόμενες.">
 <!ENTITY first_run.add_ons.description.line2 "Τα Πρόσθετα μπορούν να συνδέσουν με άλλες εφαρμογές και υπηρεσίες, να προσθέσουν την υποστήριξη με εξωτερικές συσκευές, να αλλάξουν την εμφάνιση της εφαρμογές και άλλα πολλά! Μπορείτε να λάβετε επιπλέον Πρόσθετα στην ιστοσελίδα Προσθέτων του &brandShortName;.">
-<!ENTITY first_run.add_ons.loading.label     "Ανάκτηση προτεινόμενων πρόσθετων.">
+<!ENTITY first_run.add_ons.loading.label "Ανάκτηση προτεινόμενων πρόσθετων.">
 <!ENTITY first_run.add_ons.load_failed.label "Αδυναμία ανάκτησης προτεινόμενων πρόσθετων.">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "Ο &brandShortName; δεν μπορεί να συνδεθεί με το διαδίκτυο">
-<!ENTITY first_run.connection.description          "Ελέγξτε τις Ρυθμίσεις Σύνδεσής σας ή συνεχίστε στον οδηγό Εγκατάστασης.">
-<!ENTITY first_run.connection.settings.button      "Ρυθμίσεις Σύνδεσης…">
+<!ENTITY first_run.connection.header.label "Ο &brandShortName; δεν μπορεί να συνδεθεί με το διαδίκτυο">
+<!ENTITY first_run.connection.description "Ελέγξτε τις Ρυθμίσεις Σύνδεσής σας ή συνεχίστε στον οδηγό Εγκατάστασης.">
+<!ENTITY first_run.connection.settings.button "Ρυθμίσεις Σύνδεσης…">
 <!ENTITY first_run.connection.settings.description "Είναι ο υπολογιστής ή το δίκτυό σας προστατευμένο από τείχος προστασίας ή proxy; Η επιδιόρθωση λανθασμένων Ρυθμίσεων Σύνδεσης μπορούν να βοηθήσουν στη λύση κοινών προβλημάτων δικτύου.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Άδεια Χρήσης">
+<!ENTITY first_run.eula.header.label "Άδεια Χρήσης">
 <!ENTITY first_run.eula.accept_checkbox.label "Διάβασα και συμφώνησα με τους όρους αυτής της άδειας.">
-<!ENTITY first_run.eula.language.label        "Γλώσσα:">
-
+<!ENTITY first_run.eula.language.label "Γλώσσα:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Βοηθείστε να κάνουμε το &brandShortName; καλύτερο">
-<!ENTITY first_run.feedback.description             "Θα θέλατε να μας βοηθήσετε να κάνουμε το &brandShortName; καλύτερο αποστέλοντάς μας ανώνυμες μετρητικές πληροφορίες σχετικά με τον τρόπο χρήσης της εφαρμογής;">
-<!ENTITY first_run.feedback.metrics.label           "Συγκέντρωση και αποστολή των μετρητικών στοιχείων μου στην ομάδα του &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "Τα μετρητικά στοιχεία είναι απολύτως ανώνυμα και κανένα προσωπικό δεδομένο δεν συλλέγεται.">
-<!ENTITY first_run.feedback.email.header.label      "Κρατήστε με ενημερωμένο">
-<!ENTITY first_run.feedback.email.description       "Γίνετε συνδρομητές στην έκδοση νέων για να μαθένετε για νέες εκδόσεις και σημαντικές αναβαθμίσεις.">
+<!ENTITY first_run.feedback.header.label "Βοηθείστε να κάνουμε το &brandShortName; καλύτερο">
+<!ENTITY first_run.feedback.description "Θα θέλατε να μας βοηθήσετε να κάνουμε το &brandShortName; καλύτερο αποστέλοντάς μας ανώνυμες μετρητικές πληροφορίες σχετικά με τον τρόπο χρήσης της εφαρμογής;">
+<!ENTITY first_run.feedback.metrics.label "Συγκέντρωση και αποστολή των μετρητικών στοιχείων μου στην ομάδα του &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "Τα μετρητικά στοιχεία είναι απολύτως ανώνυμα και κανένα προσωπικό δεδομένο δεν συλλέγεται.">
+<!ENTITY first_run.feedback.email.header.label "Κρατήστε με ενημερωμένο">
+<!ENTITY first_run.feedback.email.description "Γίνετε συνδρομητές στην έκδοση νέων για να μαθένετε για νέες εκδόσεις και σημαντικές αναβαθμίσεις.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "εισάγετε το email σας για να μείνετε ενημερωμένος">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "Εισαγωγή/Εξαγωγή απο iTunes">
-<!ENTITY first_run.itunes.description                   "Φένεται πως το iTunes είναι εγκατεστημένο. Το &brandShortName; μπορεί να ρυθμιστεί ώστε να εισάγει/εξάγει κομμάτια μεταξύ του &brandShortName; και του iTunes, ώστε οι βιβλιοθήκες σας να είναι συγχρονισμένες.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Εισαγωγή κομματιών και λιστών αναπαραγωγής απο iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Μουσική και Podcasts που αγοράστηκαν μέσω του iTunes Store μπορούν να εισηχθούν στο &brandShortName;. Αυτή η λειτουργία είναι καλή εάν το &brandShortName; πρόκειται να είναι το βασικό σας πρόγραμμα αναπαραγωγής μουσικής.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Εξαγωγή νέων κομματιών και λιστών αναπαραγωγής στο iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Μουσική που αποκτήθηκε μέσω του &brandShortName; μπορεί να εξαχθεί στο iTunes ώστε να μεταφερθεί στο iPod ή iPhone σας.">
-
+<!ENTITY first_run.itunes.header.label "Εισαγωγή/Εξαγωγή απο iTunes">
+<!ENTITY first_run.itunes.description "Φένεται πως το iTunes είναι εγκατεστημένο. Το &brandShortName; μπορεί να ρυθμιστεί ώστε να εισάγει/εξάγει κομμάτια μεταξύ του &brandShortName; και του iTunes, ώστε οι βιβλιοθήκες σας να είναι συγχρονισμένες.">
+<!ENTITY first_run.itunes.checkbox.import.label "Εισαγωγή κομματιών και λιστών αναπαραγωγής απο iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "Μουσική και Podcasts που αγοράστηκαν μέσω του iTunes Store μπορούν να εισηχθούν στο &brandShortName;. Αυτή η λειτουργία είναι καλή εάν το &brandShortName; πρόκειται να είναι το βασικό σας πρόγραμμα αναπαραγωγής μουσικής.">
+<!ENTITY first_run.itunes.checkbox.export.label "Εξαγωγή νέων κομματιών και λιστών αναπαραγωγής στο iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "Μουσική που αποκτήθηκε μέσω του &brandShortName; μπορεί να εξαχθεί στο iTunes ώστε να μεταφερθεί στο iPod ή iPhone σας.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Εισαγωγή Πολυμέσων">
-<!ENTITY first_run.import_media.description                  "Επιλέξτε το είδος των πολυμέσων που θέλετε να εισάγετε στο &brandShortName;. Τη στιγμή που θα τρέξετε το &brandShortName; θα μπορέσετε να προσθέσετε επιπλέον πολυμέσα με διάφορους τρόπους.">
+<!ENTITY first_run.import_media.header.label "Εισαγωγή Πολυμέσων">
+<!ENTITY first_run.import_media.description "Επιλέξτε το είδος των πολυμέσων που θέλετε να εισάγετε στο &brandShortName;. Τη στιγμή που θα τρέξετε το &brandShortName; θα μπορέσετε να προσθέσετε επιπλέον πολυμέσα με διάφορους τρόπους.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Ανίχνευση φακέλων στον υπολογιστή μου">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Όχι εισαγωγή πολυμέσων αυτή τη στιγμή">
+<!ENTITY first_run.import_media.radio.dont_import.label "Όχι εισαγωγή πολυμέσων αυτή τη στιγμή">
 <!ENTITY first_run.import_media.scan_directories.description "Θα θέλατε το &brandShortName; να προσπαθήσει να εισάγει πολυμέσα ανιχνεύοντας συγκεκριμένους φακέλους στον υπολογιστή σας;">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Παρακολούθηση αυτού του φακέλου για αλλαγές">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Λήψη Πρόσθετων">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Καλώς ορίσατε στο &brandShortName;">
+<!ENTITY first_run.welcome.header.label "Καλώς ορίσατε στο &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "Το &brandShortName; είναι μια υψηλά παραμετροποιήσιμη εναλλακτική λύση στους συμβατικούς αναπαραγωγείς πολυμέσων.">
 <!ENTITY first_run.welcome.description.line2 "Αυτός ο βοηθός παρέχει έναν γρήγορο και αποτελεσματικό τρόπο για να ετοιμάσετε το &brandShortName;.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Εισαγωγέας Πολυμέσων">
-
+<!ENTITY import_media.prefs.title "Εισαγωγέας Πολυμέσων">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Εισαγωγή Συλλογής">
-<!ENTITY import_library.prefs.title                       "Εισαγωγέας iTunes">
-<!ENTITY import_library.library_file_label                "Αρχείο Συλλογής:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Ειδοποίησε με όταν μη-υποστηριζόμενα κομμάτια ή λίστες αναπαραγωγής δεν εισαχθούν">
-<!ENTITY import_library.prefs.path_group_caption          "Τοποθεσία Συλλογής Μουσικής του iTunes">
-<!ENTITY import_library.prefs.options_group_caption       "Επιλογές Εισαγωγής">
-<!ENTITY import_library.import_command                    "Εισαγωγή Συλλογής">
-<!ENTITY import_tracks_itunes_checkbox                    "Εισαγωγή κομματιών από iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Εισαγωγή λιστών αναπαραγωγής">
-<!ENTITY export_tracks_itunes_checkbox                    "Εξαγωγή κομματιών στο iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Εξαγωγή λιστών αναπαραγωγής">
-<!ENTITY export_subscriptions_itunes_checkbox             "Εξαγωγή συνδρομών">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Εξαγωγή έξυπνων λιστών αναπαραγωγής">
-<!ENTITY importexport_show_notifications_checkbox         "Εμφάμιση ειδοποίησης όταν η εισαγωγή/εξαγωγή έχει ολοκληρωθεί">
-
+<!ENTITY import_library.dialog.title "Εισαγωγή Συλλογής">
+<!ENTITY import_library.prefs.title "Εισαγωγέας iTunes">
+<!ENTITY import_library.library_file_label "Αρχείο Συλλογής:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Ειδοποίησε με όταν μη-υποστηριζόμενα κομμάτια ή λίστες αναπαραγωγής δεν εισαχθούν">
+<!ENTITY import_library.prefs.path_group_caption "Τοποθεσία Συλλογής Μουσικής του iTunes">
+<!ENTITY import_library.prefs.options_group_caption "Επιλογές Εισαγωγής">
+<!ENTITY import_library.import_command "Εισαγωγή Συλλογής">
+<!ENTITY import_tracks_itunes_checkbox "Εισαγωγή κομματιών από iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Εισαγωγή λιστών αναπαραγωγής">
+<!ENTITY export_tracks_itunes_checkbox "Εξαγωγή κομματιών στο iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Εξαγωγή λιστών αναπαραγωγής">
+<!ENTITY export_subscriptions_itunes_checkbox "Εξαγωγή συνδρομών">
+<!ENTITY export_smartplaylists_itunes_checkbox "Εξαγωγή έξυπνων λιστών αναπαραγωγής">
+<!ENTITY importexport_show_notifications_checkbox "Εμφάμιση ειδοποίησης όταν η εισαγωγή/εξαγωγή έχει ολοκληρωθεί">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Η λίστα αναπαραγωγής άλλαξε">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Διατήρηση της τρέχουσας &brandShortName; (Μη εισαγωγή της λίστας αναπαραγωγής)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Συγχώνευση της &brandShortName; και των λιστών αναπαραγωγής του iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Αντικατάσταση της &brandShortName; και των λιστών αναπαραγωγής του iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Σημείωση: Η συγχώνευση και αντικατάσταση δεν αναιρείται.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Εφαρμογή επιλογής σε όλες τις Λίστες Αναπαραγωγής">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Η λίστα αναπαραγωγής άλλαξε">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Διατήρηση της τρέχουσας &brandShortName; (Μη εισαγωγή της λίστας αναπαραγωγής)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Συγχώνευση της &brandShortName; και των λιστών αναπαραγωγής του iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Αντικατάσταση της &brandShortName; και των λιστών αναπαραγωγής του iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note "Σημείωση: Η συγχώνευση και αντικατάσταση δεν αναιρείται.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Εφαρμογή επιλογής σε όλες τις Λίστες Αναπαραγωγής">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "Μην ενεργοποιείτε τα Watch Folders στον ίδιο φάκελο με τον φάκελο Manage Music. Κάνοντας το θα δημιουργηθούν αντίγραφα στη βιβλιοθήκη σας">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Παρακολούθηση φακέλων">
+<!ENTITY watch_folder.prefs.title "Παρακολούθηση φακέλων">
 <!ENTITY watch_folder.prefs.settings_group_caption "Ρυθμίσεις παρακολούθησης φακέλου">
-<!ENTITY watch_folder.prefs.description            "Το &brandShortName; μπορεί να παρακολουθεί τα περιεχόμενα ενός φακέλου και να προσθαφαιρεί αντικείμενα που βρίσκονται μέσα του.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Αυτόματη παρακολούθηση αλλαγών στον παρακάτω φάκελο">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Φάκελος:">
-
+<!ENTITY watch_folder.prefs.description "Το &brandShortName; μπορεί να παρακολουθεί τα περιεχόμενα ενός φακέλου και να προσθαφαιρεί αντικείμενα που βρίσκονται μέσα του.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Αυτόματη παρακολούθηση αλλαγών στον παρακάτω φάκελο">
+<!ENTITY watch_folder.prefs.watch_folder_label "Φάκελος:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Προτεινόμενα Πρόσθετα">
+<!ENTITY enable_recommended_addons_update.label "Προτεινόμενα Πρόσθετα">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "Εγκατάσταση &brandShortName;">
-
+<!ENTITY recommended_add_ons.title "Εγκατάσταση &brandShortName;">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Λεπτομέρειες">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Λεπτομέρειες">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Τίποτα δεν αναπαράγεται" >
-<!ENTITY albumart.displaypane.not_selected_message  "Τίποτα επιλεγμένο" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Σύρετε ένα εξώφυλλο εδώ" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Εμφάνιση &quot;Επιλεγμένο τώρα&quot;" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Εμφάνιση &quot;Αναπαράγεται τώρα&quot;" >
+<!ENTITY albumart.displaypane.not_playing_message "Τίποτα δεν αναπαράγεται">
+<!ENTITY albumart.displaypane.not_selected_message "Τίποτα επιλεγμένο">
+<!ENTITY albumart.displaypane.drag_and_drop "Σύρετε ένα εξώφυλλο εδώ">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Εμφάνιση &quot;Επιλεγμένο τώρα&quot;">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Εμφάνιση &quot;Αναπαράγεται τώρα&quot;">
 <!ENTITY albumart.displaypane.selected.menu.cut "Αποκοπή">
 <!ENTITY albumart.displaypane.selected.menu.copy "Αντιγραφή">
 <!ENTITY albumart.displaypane.selected.menu.paste "Επικόλληση">
 <!ENTITY albumart.displaypane.selected.menu.clear "Εκκαθάριση">
 <!ENTITY albumart.coverpreview.title "Εξώφυλλο">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Εξώφυλλο άλμπουμ">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Εγγραφή εξώφυλλου άλμπουμ στα μεταδεδομένα">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Αυτό θα επιτρέψει στο &brandShortName; να ενθέσει τα εξώφυλλα σε συμβατές ετικέτες για τα αρχεία media.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Αναζήτηση ονομάτων φακέλων">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Εισαγωγή χωρισμένων με κόμμα λιστών από ονόματα αρχείων εδώ">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Αναζήτηση επεκτάσεων φακέλων">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Εισαγωγή χωρισμένων με κόμμα λιστών από επεκτάσεις εδώ">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Αναζήτηση και ένδειξη προτεραιοτήτων">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Καταταγή της λίστας που ζητήσατε ώστε το πρώτο να βρίσκεται στην κορυφή">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Πάνω">
@@ -740,62 +635,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Επανεκίνηση">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Αυτόματη ανάκτηση Εξωφύλλου Άλμπουμ">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Αυτόματη ανάκτηση του εξωφύλλου άλμπουμ όταν αυτό παίζει ή όταν επιλέγεται, ανάλογα της επιλεγμένης λειτουργίας του Πλαισίου Προβολής Εξωφύλλου. Μπορεί να επηρεαστεί η απόδοση όταν αυτή η επιλογή είναι ενεργοποιημένη.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Επιστροφή">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "Ακύρωση">
-<!ENTITY wizard.button.next.label      "Συνέχεια">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "Συνέχεια">
-
+<!ENTITY wizard.button.back.label "Επιστροφή">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Ακύρωση">
+<!ENTITY wizard.button.next.label "Συνέχεια">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Συνέχεια">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Σφάλμα Πυρήνα Πολυμέσων">
-<!ENTITY mediacore.error.preface  "Το &brandShortName; αντιμετώπισε το παρακάτω σφάλμα στον πυρήνα πολυμέσων:">
+<!ENTITY mediacore.error.title "Σφάλμα Πυρήνα Πολυμέσων">
+<!ENTITY mediacore.error.preface "Το &brandShortName; αντιμετώπισε το παρακάτω σφάλμα στον πυρήνα πολυμέσων:">
 <!ENTITY mediacore.error.continue "Συνέχεια">
-<!ENTITY mediacore.error.stop     "Διακοπή αναπαραγωγής">
+<!ENTITY mediacore.error.stop "Διακοπή αναπαραγωγής">
 <!ENTITY mediacore.error.dontshowme "Μη προβολή περαιτέρω σφαλμάτων πυρήνα πολυμέσων">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Για περισσότερες πληροφορίες για τους κωδικοποιητές που λείπουν, παρακαλώ δείτε">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Σημείωση εισαγωγής μέσων">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Για περισσότερες πληροφορίες για τους κωδικοποιητές που λείπουν, παρακαλώ δείτε:">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Μη με ειδοποιήσεις ξανά για μη υποστηριζόμενα αρχεία βίντεο κατά την εισαγωγή.">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Αναπαραγωγή">
-
-<!ENTITY playback.prefpane.audio_output.label   "Έξοδος Ήχου">
-<!ENTITY playback.prefpane.audio_output.buffer  "Περιοχή Προσωρινής Εξόδου:">
-
-<!ENTITY playback.prefpane.streaming.label      "Δίκτυο και Ροές">
-<!ENTITY playback.prefpane.streaming.buffer     "Περιοχή Προσωρινής Ροής:">
-
-<!ENTITY playback.prefpane.normalization.label  "Ομαλοποίηση">
+<!ENTITY playback.prefpane.label "Αναπαραγωγή">
+<!ENTITY playback.prefpane.audio_output.label "Έξοδος Ήχου">
+<!ENTITY playback.prefpane.audio_output.buffer "Περιοχή Προσωρινής Εξόδου:">
+<!ENTITY playback.prefpane.streaming.label "Δίκτυο και Ροές">
+<!ENTITY playback.prefpane.streaming.buffer "Περιοχή Προσωρινής Ροής:">
+<!ENTITY playback.prefpane.normalization.label "Ομαλοποίηση">
 <!ENTITY playback.prefpane.normalization.enable "Χρήση δεδομένων ομαλοποίησης ήχου όταν υπάρχουν">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Προτιμώμενα δεδομένα ενίσχυσης:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Δίσκος">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Κομμάτι">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Μεταδεδομένα Βαθμολογιών">
 <!ENTITY playback.prefpane.ratings.enablewriting "Αποθήκευση βαθμολογιών στα μεταδεδομένα κάθε αρχείου.">
-
 <!ENTITY fetch_album_art.dialog.title "Λήψη Εξωφύλλου">
 <!ENTITY fetch_album_art.dialog.message "Δεν έχει ακόμα πραγματοποιηθεί. (Δείτε Bug 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Καλλιτέχνης">
-<!ENTITY cdrip.lookup.info_not_found.album  "Δίσκος">
-<!ENTITY cdrip.lookup.info_not_found.title  "Πληροφορίες CD δεν βρέθηκαν">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Μπορείτε να προσθέσετε όνομα καλλιτέχνη και δίσκου εδώ. Μπορείτε να επεξεργαστείτε τις υπόλοιπες πληροφορίες μέσα από την λίστα CD Rip">
+<!ENTITY cdrip.lookup.info_not_found.album "Δίσκος">
+<!ENTITY cdrip.lookup.info_not_found.title "Πληροφορίες CD δεν βρέθηκαν">
+<!ENTITY cdrip.lookup.info_not_found.descr "Μπορείτε να προσθέσετε όνομα καλλιτέχνη και δίσκου εδώ. Μπορείτε να επεξεργαστείτε τις υπόλοιπες πληροφορίες μέσα από την λίστα CD Rip">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Τίτλος">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Μετατροπή CD σε αρχείο">
 <!ENTITY cdrip.prefpane.format "Μορφή">
@@ -805,33 +687,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Όταν η εγγραφή δίσκου (CD) ολοκληρωθεί επιθυμώ ηχητική ειδοποίηση">
 <!ENTITY cdrip.prefpane.providers.title "Πάροχος συμβουλών CD">
 <!ENTITY cdrip.prefpane.quality_desc "Μία υψηλότερη ποιότητα kbps θα έχει ως αποτέλεσμα την υψηλότερη ποιότητα ήχου και ένα μεγαλύτερο μέγεθος αρχείου.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Ρυθμίσεις Μετατροπής CD σε αρχείο">
-<!ENTITY cdrip.mediaview.format_label              "Μορφή:">
-<!ENTITY cdrip.mediaview.quality_label             "Ποιότητα:">
-<!ENTITY cdrip.mediaview.settings_button           "Ρυθμίσεις">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Μετατροπή CD σε αρχείο">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Διακοπή μετατροπής CD σε αρχείο">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Προβολή τραγουδιών">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Εξαγωγή δίσκου (CD)">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Ρυθμίσεις Μετατροπής CD σε αρχείο">
+<!ENTITY cdrip.mediaview.format_label "Μορφή:">
+<!ENTITY cdrip.mediaview.quality_label "Ποιότητα:">
+<!ENTITY cdrip.mediaview.settings_button "Ρυθμίσεις">
+<!ENTITY cdrip.mediaview.rip_cd_button "Μετατροπή CD σε αρχείο">
+<!ENTITY cdrip.mediaview.stop_rip_button "Διακοπή μετατροπής CD σε αρχείο">
+<!ENTITY cdrip.mediaview.view_tracks_button "Προβολή τραγουδιών">
+<!ENTITY cdrip.mediaview.eject_cd_button "Εξαγωγή δίσκου (CD)">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Παράθυρο βίντεο">
 <!ENTITY videowindow.actualsize "Πραγματικό μέγεθος">
 <!ENTITY videowindow.fullscreen "Πλήρης οθόνη">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "Τ">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Θα θέλαμε να ευχαριστήσουμε τους συντελεστές, των οποίων οι προσπάθειες κάνουν τον Songbird αυτό που είναι. Αυτοί οι άνθρωποι βοήθησαν γράφοντας κώδικα και τεκμηρίωση, και δοκιμάζοντας. Δημιούργησαν και επέβλεψαν αυτό το προϊόν, τα σχετικά εργαλεία ανάπτυξης, τα εργαλεία δημιουργίας και τις ιστοσελίδες. Τα ονόματα που ακολουθούν είναι IRC ψευδώνυμα, ελάτε στο #songbird στο irc.mozilla.org και πείτε ένα γεια!">
 <!ENTITY about.credits.footer.beforeLink "Φυσικά, τίποτα από όλα αυτά δεν θα ήταν δυνατά χωρίς τη σκληρή προσπάθεια και κόπο των">
@@ -842,15 +719,6 @@
 <!ENTITY about.credits.description.champs.link.pre "Οι Πρωταθλητές Songbird είναι οι σκληροπυρηνικοί χρήστες Songbird και οι θαυμαστές που έχουν υπηρετήσει και με το παραπάνω το κάλεσμα στο καθήκον να βοηθούν άλλους χρήστες Songbird στο">
 <!ENTITY about.credits.description.champs.link.text "GetSatisfaction Φόρουμ Υποστήριξης Songbird.">
 <!ENTITY about.credits.description.champs.link.post "Είναι οι πιο παραγωγικοί τύποι στο φόρουμ μας, και δουλεύουν ακούραστα για να κάνουν κάθε χρήστη του Songbird χαρούμενο.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Βρέθηκαν πολλαπλές εγγραφές CD ">
+<!ENTITY cdrip.lookup.multiple.title "Βρέθηκαν πολλαπλές εγγραφές CD ">
 <!ENTITY cdrip.lookup.multiple.description "Διάλεξε ένα απο τα παρακάτω ή πρόσθεσε δικιά σου πληροφορία">
-<!ENTITY cdinfo.other.label                "Προσθήκη δικών σας στοιχείων Καλλιτέχνη και Δίσκου">
-
-<!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >
+<!ENTITY cdinfo.other.label "Προσθήκη δικών σας στοιχείων Καλλιτέχνη και Δίσκου">

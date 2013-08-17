@@ -1,501 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "V redu" >
-<!ENTITY window.cancel      "Prekliči" >
-<!ENTITY window.apply       "Uporabi" >
-<!ENTITY window.browse      "Prebrskaj …" >
-<!ENTITY window.save        "Shrani">
-<!ENTITY window.yes         "Da">
-<!ENTITY window.no          "Ne">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "V redu">
+<!ENTITY window.cancel "Prekliči">
+<!ENTITY window.apply "Uporabi">
+<!ENTITY window.browse "Prebrskaj …">
+<!ENTITY window.save "Shrani">
+<!ENTITY window.yes "Da">
+<!ENTITY window.no "Ne">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Izhod iz &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "z">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Nastavitve">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Izhod iz &brandShortName;">
+<!ENTITY menu.mac.exit.key "z">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Nastavitve">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Storitve">
-<!ENTITY menu.mac.hide                  "Skrij &brandShortName;">
-<!ENTITY menu.mac.hide.key              "S">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Skrij druge">
-<!ENTITY menu.mac.hideothers.key        "S">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Pokaži vse">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Datoteka" >
-<!ENTITY menu.file.new          "Nov seznam predvajanja …" >
-<!ENTITY menu.file.smart        "Nov pameten seznam predvajanja …" >
-<!ENTITY menu.file.remote       "Nova naročnina …" >
-<!ENTITY menu.file.podcast      "Nov podkast …" >
-<!ENTITY menu.file.open         "Odpri datoteko …" >
-<!ENTITY menu.file.url          "Odpri mesto …" >
-<!ENTITY menu.file.playlist     "Uvozi seznam predvajanja …" >
-<!ENTITY menu.file.library      "Uvozi knjižnico …" >
-<!ENTITY menu.file.newtab       "Nov zavihek" >
-<!ENTITY menu.file.closetab     "Zapri zavihek" >
-<!ENTITY menu.file.metadata     "Pokaži metapodatke">
-<!ENTITY menu.file.scan         "Uvozi datoteke …" >
-<!ENTITY menu.file.exit         "Izhod" >
-
-<!ENTITY menu.edit          "Uredi" >
-<!ENTITY menu.edit.undo     "Razveljavi" >
-<!ENTITY menu.edit.redo     "Ponovi" >
-<!ENTITY menu.edit.cut      "Izreži" >
-<!ENTITY menu.edit.copy     "Kopiraj" >
-<!ENTITY menu.edit.paste    "Prilepi" >
-<!ENTITY menu.edit.delete   "Izbriši" >
-<!ENTITY menu.edit.selall   "Izberi vse" >
-<!ENTITY menu.edit.find        "Najdi" >
-<!ENTITY menu.edit.findagain   "Ponovno najdi" >
-
+<!ENTITY menu.mac.services "Storitve">
+<!ENTITY menu.mac.hide "Skrij &brandShortName;">
+<!ENTITY menu.mac.hide.key "S">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Skrij druge">
+<!ENTITY menu.mac.hideothers.key "S">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Pokaži vse">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Datoteka">
+<!ENTITY menu.file.new "Nov seznam predvajanja …">
+<!ENTITY menu.file.smart "Nov pameten seznam predvajanja …">
+<!ENTITY menu.file.remote "Nova naročnina …">
+<!ENTITY menu.file.podcast "Nov podkast …">
+<!ENTITY menu.file.open "Odpri datoteko …">
+<!ENTITY menu.file.url "Odpri mesto …">
+<!ENTITY menu.file.playlist "Uvozi seznam predvajanja …">
+<!ENTITY menu.file.library "Uvozi knjižnico …">
+<!ENTITY menu.file.newtab "Nov zavihek">
+<!ENTITY menu.file.closetab "Zapri zavihek">
+<!ENTITY menu.file.metadata "Pokaži metapodatke">
+<!ENTITY menu.file.scan "Uvozi datoteke …">
+<!ENTITY menu.file.exit "Izhod">
+<!ENTITY menu.edit "Uredi">
+<!ENTITY menu.edit.undo "Razveljavi">
+<!ENTITY menu.edit.redo "Ponovi">
+<!ENTITY menu.edit.cut "Izreži">
+<!ENTITY menu.edit.copy "Kopiraj">
+<!ENTITY menu.edit.paste "Prilepi">
+<!ENTITY menu.edit.delete "Izbriši">
+<!ENTITY menu.edit.selall "Izberi vse">
+<!ENTITY menu.edit.find "Najdi">
+<!ENTITY menu.edit.findagain "Ponovno najdi">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Nastavitve">
+<!ENTITY menu.linux.preferences "Nastavitve">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Krmili" >
-<!ENTITY menu.control.play  "Predvajaj" >
-<!ENTITY menu.control.pause "Prekini" >
-<!ENTITY menu.control.next  "Naslednji posnetek" >
-<!ENTITY menu.control.prev  "Prejšnja skladba" >
-<!ENTITY menu.control.shuf  "Premešaj" >
-<!ENTITY menu.control.repa  "Ponovi vse" >
-<!ENTITY menu.control.rep1  "Ponavljaj eno" >
-<!ENTITY menu.control.repx  "Ne ponavljaj ničesar" >
-<!ENTITY menu.control.jumpto "Skoči na …" >
-
-<!ENTITY menu.control.play.button      "Predvajaj" >
-<!ENTITY menu.control.pause.button     "Prekini" >
-<!ENTITY menu.control.stop.button      "Ustavi" >
-
+<!ENTITY menu.controls "Krmili">
+<!ENTITY menu.control.play "Predvajaj">
+<!ENTITY menu.control.pause "Prekini">
+<!ENTITY menu.control.next "Naslednji posnetek">
+<!ENTITY menu.control.prev "Prejšnja skladba">
+<!ENTITY menu.control.shuf "Premešaj">
+<!ENTITY menu.control.repa "Ponovi vse">
+<!ENTITY menu.control.rep1 "Ponavljaj eno">
+<!ENTITY menu.control.repx "Ne ponavljaj ničesar">
+<!ENTITY menu.control.jumpto "Skoči na …">
+<!ENTITY menu.control.play.button "Predvajaj">
+<!ENTITY menu.control.pause.button "Prekini">
+<!ENTITY menu.control.stop.button "Ustavi">
 <!ENTITY displaypane.default.image.pre "Izberite dodatek iz menija">
 <!ENTITY displaypane.default.image.tooltip "Ikona za izbiro dodatka">
 <!ENTITY displaypane.default.image.post "ali obiščite">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Dodatki">
 <!ENTITY displaypane.default.link.post "za brskanje med dodatki.">
-<!ENTITY displaypane.name.servicepane   "dno podokna storitev">
-<!ENTITY displaypane.name.browser       "dno podokna vsebine">
-<!ENTITY displaypane.name.sidebar       "desno stransko vrstico">
-<!ENTITY servicepane.title.label        "Podokno storitev">
-
-<!ENTITY menu.tools            "Orodja" >
+<!ENTITY displaypane.name.servicepane "dno podokna storitev">
+<!ENTITY displaypane.name.browser "dno podokna vsebine">
+<!ENTITY displaypane.name.sidebar "desno stransko vrstico">
+<!ENTITY servicepane.title.label "Podokno storitev">
+<!ENTITY menu.tools "Orodja">
 <!ENTITY menu.tools.getartwork "Najdi ovitek albuma …">
 <!ENTITY menu.tools.exportmedia "Izvozi spremembe knjižnice">
-
-<!ENTITY menu.help          "Pomoč" >
-<!ENTITY menu.help.homepage "Spletno mesto &brandShortName;" >
-<!ENTITY menu.help.bugz     "Prijavi hrošča …" >
-<!ENTITY menu.help.topics   "Teme pomoči" >
+<!ENTITY menu.help "Pomoč">
+<!ENTITY menu.help.homepage "Spletno mesto &brandShortName;">
+<!ENTITY menu.help.bugz "Prijavi hrošča …">
+<!ENTITY menu.help.topics "Teme pomoči">
 <!ENTITY menu.help.keyboard "Tipke za bližnjice">
-<!ENTITY menu.help.about    "O programu &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Izenačevalnik …" >
-<!ENTITY menu.preferences   "Možnosti" >
-<!ENTITY menu.extensions    "Dodatki" >
+<!ENTITY menu.help.about "O programu &brandShortName;">
+<!ENTITY menu.equalizer "Izenačevalnik …">
+<!ENTITY menu.preferences "Možnosti">
+<!ENTITY menu.extensions "Dodatki">
 <!ENTITY menu.clearprivatedata "Počisti zasebne podatke …">
 <!ENTITY menu.errorconsole "Konzola za napake">
-<!ENTITY menu.downloadmgr   "Prenosi" >
-<!ENTITY menu.switchplayercontrols  "Krmilnik predvajalnika" >
-<!ENTITY menu.controllerontop       "Prikazuj na vrhu">
-<!ENTITY menu.controlleronbottom    "Prikazuj na dnu">
-
-<!ENTITY menu.fullscreen            "Celozaslonsko">
-<!ENTITY menu.videotofront          "Video v ospredje">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Čakanje na naprave.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Čakanje, da se dejavnosti na napravi zaključijo. Če nočete več čakati in zapreti program, kliknite &quot;Izhod&quot;.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Izhod">
-
-<!ENTITY tooltip.minimize         "Pomanjšaj" >
-<!ENTITY tooltip.maximize         "Povečaj/obnovi" >
-<!ENTITY tooltip.exit             "Izhod" >
-<!ENTITY tooltip.close            "Zapri" >
-<!ENTITY tooltip.hide             "Skrij" >
-<!ENTITY tooltip.fullscreen       "Celozaslonsko" >
-<!ENTITY tooltip.control.back     "Prejšnji posnetek" >
-<!ENTITY tooltip.control.play     "Predvajaj" >
-<!ENTITY tooltip.control.pause    "Prekini" >
-<!ENTITY tooltip.control.resume   "Nadaljuj" >
-<!ENTITY tooltip.control.stop     "Ustavi" >
-<!ENTITY tooltip.control.fwd      "Naslednji posnetek" >
-<!ENTITY tooltip.control.mute     "Neslišno" >
-<!ENTITY tooltip.control.volume   "Glasnost" >
-<!ENTITY tooltip.control.shuffle  "Premešaj" >
-<!ENTITY tooltip.control.shuf_off "Izključi premešavo" >
-<!ENTITY tooltip.control.curtrack "Poišči trenutni posnetek" >
-<!ENTITY tooltip.search           "Išči" >
-<!ENTITY tooltip.browser.back     "Brskaj nazaj" >
-<!ENTITY tooltip.browser.fwd      "Brskaj naprej" >
-<!ENTITY tooltip.browser.stop     "Ustavi brskalnik" >
-<!ENTITY tooltip.browser.home     "Domov" >
-<!ENTITY tooltip.browser.refresh  "Osveži" >
-<!ENTITY tooltip.browser.subscription "Naroči se na to stran" >
-<!ENTITY tooltip.browser.mediapages.list "Seznamski pogled" >
-<!ENTITY tooltip.browser.mediapages.filter "Filtriran pogled" >
-<!ENTITY tooltip.browser.mediapages "Preklopi med pogledi …" >
-<!ENTITY tooltip.servicepane.show    "Pokaži podokno storitev" >
-<!ENTITY tooltip.servicepane.collapse    "Strni podokno storitev" >
-<!ENTITY tooltip.servicepane.newnode "Nov seznam predvajanja" >
+<!ENTITY menu.downloadmgr "Prenosi">
+<!ENTITY menu.switchplayercontrols "Krmilnik predvajalnika">
+<!ENTITY menu.controllerontop "Prikazuj na vrhu">
+<!ENTITY menu.controlleronbottom "Prikazuj na dnu">
+<!ENTITY menu.fullscreen "Celozaslonsko">
+<!ENTITY menu.videotofront "Video v ospredje">
+<!ENTITY device.dialog.wait_for_completion.title "Čakanje na naprave.">
+<!ENTITY device.dialog.wait_for_completion.msg "Čakanje, da se dejavnosti na napravi zaključijo. Če nočete več čakati in zapreti program, kliknite &quot;Izhod&quot;.">
+<!ENTITY device.dialog.wait_for_completion.quit "Izhod">
+<!ENTITY tooltip.minimize "Pomanjšaj">
+<!ENTITY tooltip.maximize "Povečaj/obnovi">
+<!ENTITY tooltip.exit "Izhod">
+<!ENTITY tooltip.close "Zapri">
+<!ENTITY tooltip.hide "Skrij">
+<!ENTITY tooltip.fullscreen "Celozaslonsko">
+<!ENTITY tooltip.control.back "Prejšnji posnetek">
+<!ENTITY tooltip.control.play "Predvajaj">
+<!ENTITY tooltip.control.pause "Prekini">
+<!ENTITY tooltip.control.resume "Nadaljuj">
+<!ENTITY tooltip.control.stop "Ustavi">
+<!ENTITY tooltip.control.fwd "Naslednji posnetek">
+<!ENTITY tooltip.control.mute "Neslišno">
+<!ENTITY tooltip.control.volume "Glasnost">
+<!ENTITY tooltip.control.shuffle "Premešaj">
+<!ENTITY tooltip.control.shuf_off "Izključi premešavo">
+<!ENTITY tooltip.control.curtrack "Poišči trenutni posnetek">
+<!ENTITY tooltip.search "Išči">
+<!ENTITY tooltip.browser.back "Brskaj nazaj">
+<!ENTITY tooltip.browser.fwd "Brskaj naprej">
+<!ENTITY tooltip.browser.stop "Ustavi brskalnik">
+<!ENTITY tooltip.browser.home "Domov">
+<!ENTITY tooltip.browser.refresh "Osveži">
+<!ENTITY tooltip.browser.subscription "Naroči se na to stran">
+<!ENTITY tooltip.browser.mediapages.list "Seznamski pogled">
+<!ENTITY tooltip.browser.mediapages.filter "Filtriran pogled">
+<!ENTITY tooltip.browser.mediapages "Preklopi med pogledi …">
+<!ENTITY tooltip.servicepane.show "Pokaži podokno storitev">
+<!ENTITY tooltip.servicepane.collapse "Strni podokno storitev">
+<!ENTITY tooltip.servicepane.newnode "Nov seznam predvajanja">
 <!ENTITY tooltip.displaypane.options "Možnosti podokna vsebine">
-
-<!ENTITY smart.window             "Pametni seznam predvajanja" >
-<!ENTITY smart.limit              "Omeji na" >
-<!ENTITY smart.match              "Ujemaj" >
-<!ENTITY smart.matchsingle        "Ujemaj z naslednjimi pogoji:" >
-<!ENTITY smart.any                "katerikoli" >
-<!ENTITY smart.all                "vse" >
-<!ENTITY smart.following          "sledeči pogoji:" >
-<!ENTITY smart.random             "naključno" >
-<!ENTITY smart.album              "album" >
-<!ENTITY smart.artist             "izvajalec" >
-<!ENTITY smart.genre              "žanr" >
-<!ENTITY smart.title              "naslov" >
-<!ENTITY smart.high_rating        "najvišje ocenjen" >
-<!ENTITY smart.low_rating         "najnižja ocena" >
-<!ENTITY smart.most_recent        "najbolj nedavno predvajan" >
-<!ENTITY smart.least_recent       "najmanj nedavno predvajan" >
-<!ENTITY smart.most_often         "najbolj pogosto predvajan" >
-<!ENTITY smart.least_often        "najmanj pogosto predvajan" >
-<!ENTITY smart.most_added         "najbolj nedavno dodan" >
-<!ENTITY smart.least_added        "najbolj davno dodan" >
-<!ENTITY smart.minutes            "minut" >
-<!ENTITY smart.hours              "ur" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "predmeti" >
-<!ENTITY smart.selectedby         "izbran po" >
-<!ENTITY smart.to                 "k" >
-<!ENTITY smart.autoupdate         "Samodejno posodobi">
+<!ENTITY smart.window "Pametni seznam predvajanja">
+<!ENTITY smart.limit "Omeji na">
+<!ENTITY smart.match "Ujemaj">
+<!ENTITY smart.matchsingle "Ujemaj z naslednjimi pogoji:">
+<!ENTITY smart.any "katerikoli">
+<!ENTITY smart.all "vse">
+<!ENTITY smart.following "sledeči pogoji:">
+<!ENTITY smart.random "naključno">
+<!ENTITY smart.album "album">
+<!ENTITY smart.artist "izvajalec">
+<!ENTITY smart.genre "žanr">
+<!ENTITY smart.title "naslov">
+<!ENTITY smart.high_rating "najvišje ocenjen">
+<!ENTITY smart.low_rating "najnižja ocena">
+<!ENTITY smart.most_recent "najbolj nedavno predvajan">
+<!ENTITY smart.least_recent "najmanj nedavno predvajan">
+<!ENTITY smart.most_often "najbolj pogosto predvajan">
+<!ENTITY smart.least_often "najmanj pogosto predvajan">
+<!ENTITY smart.most_added "najbolj nedavno dodan">
+<!ENTITY smart.least_added "najbolj davno dodan">
+<!ENTITY smart.minutes "minut">
+<!ENTITY smart.hours "ur">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "predmeti">
+<!ENTITY smart.selectedby "izbran po">
+<!ENTITY smart.to "k">
+<!ENTITY smart.autoupdate "Samodejno posodobi">
 <!ENTITY smart.playlistcondition.library "Knjižnica">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Glasba">
-
 <!ENTITY textbox.songbird_open_url "Vnesite URL ali pot datoteke, ki jo želite predvajati:">
-
-<!ENTITY open_url.title           "Odpri URL">
-<!ENTITY subscribe.title          "Naroči se">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Minut">
-<!ENTITY subscribe.hours          "Ur">
-<!ENTITY subscribe.days           "Dni">
-<!ENTITY subscribe.autocheck      "Samodejno posodobi vsakih">
-<!ENTITY subscribe.destinationfolder      "Izberite ciljno mapo:">
-
-<!ENTITY feed.subscribe.label     "Naroči se">
-<!ENTITY feed.subscribe.dontask   "Tega pogovornega okna ne pokaži več samodejno">
-<!ENTITY feed.subscribe.close     "Zapri">
-
-<!ENTITY podcast.creation_dialog.title       "Nov podkast">
+<!ENTITY open_url.title "Odpri URL">
+<!ENTITY subscribe.title "Naroči se">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Minut">
+<!ENTITY subscribe.hours "Ur">
+<!ENTITY subscribe.days "Dni">
+<!ENTITY subscribe.autocheck "Samodejno posodobi vsakih">
+<!ENTITY subscribe.destinationfolder "Izberite ciljno mapo:">
+<!ENTITY feed.subscribe.label "Naroči se">
+<!ENTITY feed.subscribe.dontask "Tega pogovornega okna ne pokaži več samodejno">
+<!ENTITY feed.subscribe.close "Zapri">
+<!ENTITY podcast.creation_dialog.title "Nov podkast">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Opazuj mape">
-<!ENTITY watchfolder.folderlist   "Opazuj te mape za nove datoteke:">
-
-<!ENTITY locale.language          "Jezik" >
-<!ENTITY menu.view                "Pogled" >
-<!ENTITY about.version            "Različica" >
-<!ENTITY about.buttons.credits    "Zasluge" >
-
-<!ENTITY equalizer.title          "Izenačevalnik" >
-<!ENTITY equalizer.on.checkbox    "Vključen" >
-<!ENTITY equalizer.band0.label    "30" >
-<!ENTITY equalizer.band1.label    "60" >
-<!ENTITY equalizer.band2.label    "120" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Po meri" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Mehki rock" >
-<!ENTITY equalizer.preset.techno      "Tehno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Živo" >
-<!ENTITY equalizer.preset.club        "Klub" >
-<!ENTITY equalizer.preset.party       "Party" >
-<!ENTITY equalizer.preset.classical   "Klasična" >
-<!ENTITY equalizer.preset.large_hall  "Velika dvorana" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Mehko" >
-<!ENTITY equalizer.preset.small_speakers   "Prenosnik/slušalke" >
-<!ENTITY equalizer.preset.full_bass_treble "Polni nizki in visoki toni" >
-<!ENTITY equalizer.preset.full_treble "Polni visoki toni" >
-<!ENTITY equalizer.preset.full_bass   "Polni nizki toni" >
-
-
-<!ENTITY setupprogress.pleasewait "Prosimo, počakajte …" >
-<!ENTITY setupprogress.cancel     "Prekliči">
-
-<!ENTITY menu.file.accesskey              "D" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "M" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "P" >
-<!ENTITY menu.file.library.accesskey      "U" >
-<!ENTITY menu.file.newtab.accesskey       "Z" >
-<!ENTITY menu.file.closetab.accesskey     "Z" >
-<!ENTITY menu.file.scan.accesskey         "U" >
-<!ENTITY locale.language.accesskey        "J" >
-<!ENTITY menu.view.accesskey              "P" >
-<!ENTITY menu.preferences.accesskey       "M" >
-<!ENTITY menu.equalizer.accesskey         "z" >
-<!ENTITY menu.extensions.accesskey        "D" >
-<!ENTITY menu.clearprivatedata.accesskey  "Z" >
-<!ENTITY menu.errorconsole.accesskey      "K" >
-<!ENTITY menu.file.exit.accesskey         "I" >
-<!ENTITY menu.downloadmgr.accesskey       "P" >
-
-<!ENTITY menu.edit.accesskey          "U" >
-<!ENTITY menu.edit.undo.accesskey     "Z" >
-<!ENTITY menu.edit.redo.accesskey     "O" >
-<!ENTITY menu.edit.cut.accesskey      "i" >
-<!ENTITY menu.edit.copy.accesskey     "K" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "B" >
-<!ENTITY menu.edit.selall.accesskey   "V" >
-<!ENTITY menu.edit.find.accesskey        "N" >
-<!ENTITY menu.edit.findagain.accesskey   "J" >
-
-<!ENTITY menu.controls.accesskey      "K" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "M" >
-<!ENTITY menu.control.repa.accesskey  "V" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "R" >
-<!ENTITY menu.control.jumpto.accesskey "K" >
-
-
-<!ENTITY menu.tools.accesskey            "R" >
-<!ENTITY menu.tools.getartwork.accesskey "N" >
-
-<!ENTITY menu.tools.reveal             "Pokaži datoteko" >
-<!ENTITY menu.tools.reveal.accesskey   "D" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "m" >
-<!ENTITY menu.help.homepage.accesskey "S" >
-<!ENTITY menu.help.bugz.accesskey     "H" >
-<!ENTITY menu.help.help.accesskey     "m" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "O" >
-
-
+<!ENTITY watchfolder.title "Opazuj mape">
+<!ENTITY watchfolder.folderlist "Opazuj te mape za nove datoteke:">
+<!ENTITY locale.language "Jezik">
+<!ENTITY menu.view "Pogled">
+<!ENTITY about.version "Različica">
+<!ENTITY about.buttons.credits "Zasluge">
+<!ENTITY equalizer.title "Izenačevalnik">
+<!ENTITY equalizer.on.checkbox "Vključen">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Po meri">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Mehki rock">
+<!ENTITY equalizer.preset.techno "Tehno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Živo">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Klasična">
+<!ENTITY equalizer.preset.large_hall "Velika dvorana">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Mehko">
+<!ENTITY equalizer.preset.small_speakers "Prenosnik/slušalke">
+<!ENTITY equalizer.preset.full_bass_treble "Polni nizki in visoki toni">
+<!ENTITY equalizer.preset.full_treble "Polni visoki toni">
+<!ENTITY equalizer.preset.full_bass "Polni nizki toni">
+<!ENTITY setupprogress.pleasewait "Prosimo, počakajte …">
+<!ENTITY setupprogress.cancel "Prekliči">
+<!ENTITY menu.file.accesskey "D">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "M">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "P">
+<!ENTITY menu.file.library.accesskey "U">
+<!ENTITY menu.file.newtab.accesskey "Z">
+<!ENTITY menu.file.closetab.accesskey "Z">
+<!ENTITY menu.file.scan.accesskey "U">
+<!ENTITY locale.language.accesskey "J">
+<!ENTITY menu.view.accesskey "P">
+<!ENTITY menu.preferences.accesskey "M">
+<!ENTITY menu.equalizer.accesskey "z">
+<!ENTITY menu.extensions.accesskey "D">
+<!ENTITY menu.clearprivatedata.accesskey "Z">
+<!ENTITY menu.errorconsole.accesskey "K">
+<!ENTITY menu.file.exit.accesskey "I">
+<!ENTITY menu.downloadmgr.accesskey "P">
+<!ENTITY menu.edit.accesskey "U">
+<!ENTITY menu.edit.undo.accesskey "Z">
+<!ENTITY menu.edit.redo.accesskey "O">
+<!ENTITY menu.edit.cut.accesskey "i">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "B">
+<!ENTITY menu.edit.selall.accesskey "V">
+<!ENTITY menu.edit.find.accesskey "N">
+<!ENTITY menu.edit.findagain.accesskey "J">
+<!ENTITY menu.controls.accesskey "K">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "M">
+<!ENTITY menu.control.repa.accesskey "V">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "R">
+<!ENTITY menu.control.jumpto.accesskey "K">
+<!ENTITY menu.tools.accesskey "R">
+<!ENTITY menu.tools.getartwork.accesskey "N">
+<!ENTITY menu.tools.reveal "Pokaži datoteko">
+<!ENTITY menu.tools.reveal.accesskey "D">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "m">
+<!ENTITY menu.help.homepage.accesskey "S">
+<!ENTITY menu.help.bugz.accesskey "H">
+<!ENTITY menu.help.help.accesskey "m">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "O">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Urejevalnik metapodatkov" >
-<!ENTITY trackeditor.tab.summary.title            "Povzetek" >
-<!ENTITY trackeditor.tab.edit.title               "Lastnosti" >
-<!ENTITY trackeditor.tab.lyrics.title             "Besedila" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Urejevalnik metapodatkov">
+<!ENTITY trackeditor.tab.summary.title "Povzetek">
+<!ENTITY trackeditor.tab.edit.title "Lastnosti">
+<!ENTITY trackeditor.tab.lyrics.title "Besedila">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Dodaj značko" >
-<!ENTITY trackeditor.addtag.tag       "Značka:" >
-
-<!ENTITY jumptofile.title             "Skoči na" >
-<!ENTITY jumptofile.search            "Išči:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Uporabi globalne bližnjice" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "G" >
-<!ENTITY hotkeys.action               "Dejanje" >
-<!ENTITY hotkeys.hotkey               "Bližnjica" >
-<!ENTITY hotkeys.add                  "Dodaj" >
-<!ENTITY hotkeys.set                  "Nastavi" >
-<!ENTITY hotkeys.remove               "Odstrani" >
-<!ENTITY hotkeys.prefpane             "Bližnjice" >
-<!ENTITY hotkeys.info                 "Splošne tipke za bližnjice vam pomagajo dostopati do funkcij programa &brandShortName; čeprav &brandShortName; ni aktivni program. Nekatere kombinacije morajo vsebovati spremenilne tipke, da se zmanjša neželeno interference z drugimi programi." >
-
-<!ENTITY rapi.prefpane.title             "Spletna integracija" >
-<!ENTITY rapi.prefpane.access.caption    "Dovoljenja za spletno integracijo" >
-<!ENTITY rapi.prefpane.access.text       "Spletnim mestom lahko dovolite integracijo s programom &brandShortName;, da tako ustvarite bolj prepleten sobivanje spleta in vaših medijskih datotek. Prosimo, prilagodite &brandShortName;. da bo dovolil ali blokiral naslednja področja integracije." >
-<!ENTITY rapi.whitelist.label            "Izjeme …" >
-<!ENTITY rapi.restore_defaults.label      "Povrni na privzeto" >
-<!ENTITY rapi.playback_control_disable.label "Blokiraj spletna mesta, ki nadzirajo predvajanje medijskih datotek" >
-<!ENTITY rapi.playback_read_disable.label    "Blokiraj spletna mesta, ki si ogledujejo podatke o predvajanju datotek" >
-<!ENTITY rapi.library_read_disable.label     "Spletnim mestom blokiraj ogledovanje podatkov o datotekah v moji knjižnici in na mojih napravah." >
-<!ENTITY rapi.library_write_disable.label    "Spletnim mestom blokiraj dodajanje/urejanje datotek v moji knjižnici in na mojih napravah." >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Dodatki">
-<!ENTITY prefpane.content.label       "Spletna vsebina">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Nobena zunanja naprava USB ni povezana" >
-<!ENTITY umsd.music.tab                     "Glasba" >
-<!ENTITY umsd.music.music_files_group       "Glasbene datoteke" >
-<!ENTITY umsd.music.music_path_desc         "Ko se glasbene datoteke kopirajo na napravo, naj se namestijo v sledečo mapo:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Izberite mapo na napravi, kamor naj se namestijo glasbene datoteke." >
-<!ENTITY umsd.music.music_ext_desc          "Kopiraj glasbene datoteke z naslednjimi končnicami na napravo:" >
-<!ENTITY umsd.video.tab                     "Video" >
-<!ENTITY umsd.video.video_files_group       "Video datoteke" >
-<!ENTITY umsd.video.video_path_desc         "Ko se video datoteke kopirajo na napravo, naj se namestijo v sledečo mapo:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Izberi mapo na napravi, kamor naj se namestijo video datoteke." >
-<!ENTITY umsd.video.video_ext_desc          "Kopiraj video datoteke z naslednjimi končnicami na napravo:" >
-
-<!ENTITY device.error.dialog.link           "Pokaži podrobnosti napake" >
-
-<!ENTITY restartbox.restartnow        "Ponovno zaženi zdaj" >
-<!ENTITY restartbox.restartonplaybackend "Ponovno zaženi po koncu predvajanja" >
-<!ENTITY restartbox.restartlater      "Ponovno zaženi kasneje" >
-
-<!ENTITY setupprogress.installingextensions "Nameščanje dodatkov" >
-
-<!ENTITY jobprogress.details "Podrobnosti" >
-
-<!ENTITY menu.updateCmd.label          "Preveri obstoj posodobitve …">
-<!ENTITY menu.updateCmd.accessKey      "b">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "M" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "L" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "S" >
-<!ENTITY equalizer.key                 "I" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "I" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "N" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Preslednica" >
-
+<!ENTITY trackeditor.addtag.title "Dodaj značko">
+<!ENTITY trackeditor.addtag.tag "Značka:">
+<!ENTITY jumptofile.title "Skoči na">
+<!ENTITY jumptofile.search "Išči:">
+<!ENTITY hotkeys.useglobalhotkeys "Uporabi globalne bližnjice">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "G">
+<!ENTITY hotkeys.action "Dejanje">
+<!ENTITY hotkeys.hotkey "Bližnjica">
+<!ENTITY hotkeys.add "Dodaj">
+<!ENTITY hotkeys.set "Nastavi">
+<!ENTITY hotkeys.remove "Odstrani">
+<!ENTITY hotkeys.prefpane "Bližnjice">
+<!ENTITY hotkeys.info "Splošne tipke za bližnjice vam pomagajo dostopati do funkcij programa &brandShortName; čeprav &brandShortName; ni aktivni program. Nekatere kombinacije morajo vsebovati spremenilne tipke, da se zmanjša neželeno interference z drugimi programi.">
+<!ENTITY rapi.prefpane.title "Spletna integracija">
+<!ENTITY rapi.prefpane.access.caption "Dovoljenja za spletno integracijo">
+<!ENTITY rapi.prefpane.access.text "Spletnim mestom lahko dovolite integracijo s programom &brandShortName;, da tako ustvarite bolj prepleten sobivanje spleta in vaših medijskih datotek. Prosimo, prilagodite &brandShortName;. da bo dovolil ali blokiral naslednja področja integracije.">
+<!ENTITY rapi.whitelist.label "Izjeme …">
+<!ENTITY rapi.restore_defaults.label "Povrni na privzeto">
+<!ENTITY rapi.playback_control_disable.label "Blokiraj spletna mesta, ki nadzirajo predvajanje medijskih datotek">
+<!ENTITY rapi.playback_read_disable.label "Blokiraj spletna mesta, ki si ogledujejo podatke o predvajanju datotek">
+<!ENTITY rapi.library_read_disable.label "Spletnim mestom blokiraj ogledovanje podatkov o datotekah v moji knjižnici in na mojih napravah.">
+<!ENTITY rapi.library_write_disable.label "Spletnim mestom blokiraj dodajanje/urejanje datotek v moji knjižnici in na mojih napravah.">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Dodatki">
+<!ENTITY prefpane.content.label "Spletna vsebina">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Nobena zunanja naprava USB ni povezana">
+<!ENTITY umsd.music.tab "Glasba">
+<!ENTITY umsd.music.music_files_group "Glasbene datoteke">
+<!ENTITY umsd.music.music_path_desc "Ko se glasbene datoteke kopirajo na napravo, naj se namestijo v sledečo mapo:">
+<!ENTITY umsd.music.music_path_browse_msg "Izberite mapo na napravi, kamor naj se namestijo glasbene datoteke.">
+<!ENTITY umsd.music.music_ext_desc "Kopiraj glasbene datoteke z naslednjimi končnicami na napravo:">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Video datoteke">
+<!ENTITY umsd.video.video_path_desc "Ko se video datoteke kopirajo na napravo, naj se namestijo v sledečo mapo:">
+<!ENTITY umsd.video.video_path_browse_msg "Izberi mapo na napravi, kamor naj se namestijo video datoteke.">
+<!ENTITY umsd.video.video_ext_desc "Kopiraj video datoteke z naslednjimi končnicami na napravo:">
+<!ENTITY device.error.dialog.link "Pokaži podrobnosti napake">
+<!ENTITY restartbox.restartnow "Ponovno zaženi zdaj">
+<!ENTITY restartbox.restartonplaybackend "Ponovno zaženi po koncu predvajanja">
+<!ENTITY restartbox.restartlater "Ponovno zaženi kasneje">
+<!ENTITY setupprogress.installingextensions "Nameščanje dodatkov">
+<!ENTITY jobprogress.details "Podrobnosti">
+<!ENTITY menu.updateCmd.label "Preveri obstoj posodobitve …">
+<!ENTITY menu.updateCmd.accessKey "b">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "M">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "L">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "S">
+<!ENTITY equalizer.key "I">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "I">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "N">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Preslednica">
 <!ENTITY tabs.closeTab "Zapri zavihek">
 <!ENTITY tabs.listAllTabs "Seznam vseh zavihkov">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Domača stran" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Namestitev dodatkov" >
-
+<!ENTITY prefs.homepage.label "Domača stran">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Namestitev dodatkov">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Prekliči">
-<!ENTITY command.device.cancel.accesskey                "k">
-<!ENTITY command.device.canceldevicecopy                "Prekliči kopiranje">
-<!ENTITY command.device.canceldevicecopy.accesskey      "k">
-<!ENTITY command.device.canceldevicedelete              "Prekliči brisanje">
-<!ENTITY command.device.canceldevicedelete.accesskey    "k">
-<!ENTITY command.device.canceldevicesync                "Prekliči usklajevanje">
-<!ENTITY command.device.canceldevicesync.accesskey      "k">
-<!ENTITY command.device.canceldeviceupdate              "Prekliči posodobitev">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "k">
-<!ENTITY command.device.ejectdevice                     "Izvrzi">
-<!ENTITY command.device.ejectdevice.accesskey           "I">
-<!ENTITY command.device.formatdevice                    "Formatiraj">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Prezri">
-<!ENTITY command.device.ignoredevice.accesskey          "i">
-<!ENTITY command.device.getdeviceinfo                   "Dobi informacije">
-<!ENTITY command.device.getdeviceinfo.accesskey         "D">
-<!ENTITY command.device.renamedevice                    "Preimenuj">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Uskladi">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Prekliči">
+<!ENTITY command.device.cancel.accesskey "k">
+<!ENTITY command.device.canceldevicecopy "Prekliči kopiranje">
+<!ENTITY command.device.canceldevicecopy.accesskey "k">
+<!ENTITY command.device.canceldevicedelete "Prekliči brisanje">
+<!ENTITY command.device.canceldevicedelete.accesskey "k">
+<!ENTITY command.device.canceldevicesync "Prekliči usklajevanje">
+<!ENTITY command.device.canceldevicesync.accesskey "k">
+<!ENTITY command.device.canceldeviceupdate "Prekliči posodobitev">
+<!ENTITY command.device.canceldeviceupdate.accesskey "k">
+<!ENTITY command.device.ejectdevice "Izvrzi">
+<!ENTITY command.device.ejectdevice.accesskey "I">
+<!ENTITY command.device.formatdevice "Formatiraj">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Prezri">
+<!ENTITY command.device.ignoredevice.accesskey "i">
+<!ENTITY command.device.getdeviceinfo "Dobi informacije">
+<!ENTITY command.device.getdeviceinfo.accesskey "D">
+<!ENTITY command.device.renamedevice "Preimenuj">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Uskladi">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Razparaj zgoščenko">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Ustavi paranje">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Poišči informacije o CD">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Izvrzi zgoščenko">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Popravi mojo napravo">
-
-<!ENTITY device.firmware.wizard.title                     "Posodobi strojni program">
-<!ENTITY device.firmware.wizard.check.page.title          "Preveri obstoj posodobitev strojnega programa">
-<!ENTITY device.firmware.wizard.check.progress.title      "Preverjanje posodobitev strojnega programa …">
+<!ENTITY command.device.rip "Razparaj zgoščenko">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Ustavi paranje">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Poišči informacije o CD">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Izvrzi zgoščenko">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Popravi mojo napravo">
+<!ENTITY device.firmware.wizard.title "Posodobi strojni program">
+<!ENTITY device.firmware.wizard.check.page.title "Preveri obstoj posodobitev strojnega programa">
+<!ENTITY device.firmware.wizard.check.progress.title "Preverjanje posodobitev strojnega programa …">
 <!ENTITY device.firmware.wizard.check.install.description "Namestitev posodobljenega strojnega programa bo trajala manj kot deset minut. Posodobitev lahko še vedno izvedete kasneje.">
 <!ENTITY device.firmware.wizard.check.already.description "Strojni program vaše naprave je najnovejši.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Opombe ob izdaji">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Naprava mora biti povezana v načinu za strojni program, če želite nadaljevati. Sledite spodnjim navodilom, da postavite napravo v način za strojni program.">
-<!ENTITY device.firmware.wizard.download.title            "Prenašanje novega strojnega programa …">
-<!ENTITY device.firmware.wizard.repair.time.description   "Obnovitev naprave bo potekala nekaj manj kot pet minut.">
-<!ENTITY device.firmware.wizard.repair.warning            "Obnovitev vaše naprave na tovarniške nastavitve bo izbrisala vso glasbo in podatke na napravi. Zato pred postopkom varnostno kopirajte vse svoje datoteke.">
-<!ENTITY device.firmware.wizard.install.title             "Nameščanje strojnega programa …">
-
-<!ENTITY device.firmware.wizard.busy.description  "Kot kaže, je vaša naprava zasedena. Strojni program lahko namestite le takrat, ko naprava miruje.">
+<!ENTITY device.firmware.wizard.download.title "Prenašanje novega strojnega programa …">
+<!ENTITY device.firmware.wizard.repair.time.description "Obnovitev naprave bo potekala nekaj manj kot pet minut.">
+<!ENTITY device.firmware.wizard.repair.warning "Obnovitev vaše naprave na tovarniške nastavitve bo izbrisala vso glasbo in podatke na napravi. Zato pred postopkom varnostno kopirajte vse svoje datoteke.">
+<!ENTITY device.firmware.wizard.install.title "Nameščanje strojnega programa …">
+<!ENTITY device.firmware.wizard.busy.description "Kot kaže, je vaša naprava zasedena. Strojni program lahko namestite le takrat, ko naprava miruje.">
 <!ENTITY device.firmware.wizard.retry.description "Poskusite znova, ko bo vaša naprava končala s trenutnim opravilom.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "Pri preverjanju obstoja novega strojnega programa je prišlo do napake. Preverite svojo omrežno povezavo in poskusite znova.">
+<!ENTITY device.firmware.wizard.check.error.description "Pri preverjanju obstoja novega strojnega programa je prišlo do napake. Preverite svojo omrežno povezavo in poskusite znova.">
 <!ENTITY device.firmware.wizard.download.error.description "Pri prenosu novega strojnega programa s spleta je prišlo do napake. Preverite svojo omrežno povezavo in poskusite znova.">
-<!ENTITY device.firmware.wizard.support.description        "Vire podpore, kot so pogosto zastavljena vprašanja (FAQ) lahko najdete na naslovu">
-
-<!ENTITY device.info.icon.device            "Splošna ikona naprave">
-<!ENTITY device.info.icon.readonly          "Ikona zaklepa samo za branje">
-<!ENTITY device.info.model.label            "Model">
-<!ENTITY device.info.capacity.label         "Prostornina">
-<!ENTITY device.info.product.label          "Izdelek">
-<!ENTITY device.info.friendly_name.label    "Ime">
-<!ENTITY device.info.serial_number.label    "Serijska številka">
-<!ENTITY device.info.vendor.label           "Proizvajalec">
-<!ENTITY device.info.access.label           "Združljivost dostopa">
+<!ENTITY device.firmware.wizard.support.description "Vire podpore, kot so pogosto zastavljena vprašanja (FAQ) lahko najdete na naslovu">
+<!ENTITY device.info.icon.device "Splošna ikona naprave">
+<!ENTITY device.info.icon.readonly "Ikona zaklepa samo za branje">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY device.info.capacity.label "Prostornina">
+<!ENTITY device.info.product.label "Izdelek">
+<!ENTITY device.info.friendly_name.label "Ime">
+<!ENTITY device.info.serial_number.label "Serijska številka">
+<!ENTITY device.info.vendor.label "Proizvajalec">
+<!ENTITY device.info.access.label "Združljivost dostopa">
 <!ENTITY device.info.playback_formats.label "Predvajalni formati">
-<!ENTITY device.info.battery.label          "Baterija">
+<!ENTITY device.info.battery.label "Baterija">
 <!ENTITY device.info.firmware_version.label "Različica strojnega programa">
-
-<!ENTITY device.progress.sync               "Uskladi">
-
-<!ENTITY device.capacity.music.label    "Glasba">
-<!ENTITY device.capacity.video.label    "Video">
-<!ENTITY device.capacity.image.label    "Fotografije">
-<!ENTITY device.capacity.other.label    "Drugo">
-<!ENTITY device.capacity.free.label     "Prosto">
-
-<!ENTITY device.unsupported_media.dialog.title  "Zaznane nezdružljive datoteke">
+<!ENTITY device.progress.sync "Uskladi">
+<!ENTITY device.capacity.music.label "Glasba">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Fotografije">
+<!ENTITY device.capacity.other.label "Drugo">
+<!ENTITY device.capacity.free.label "Prosto">
+<!ENTITY device.unsupported_media.dialog.title "Zaznane nezdružljive datoteke">
 <!ENTITY device.unsupported_media.dialog.enable "Obvesti me, ko se pojavijo nezdružljive datoteke">
-
 <!ENTITY device.sync.header.label "Nastavitve usklajevanja">
 <!ENTITY device.import.header.label "Uvozi">
 <!ENTITY device.sync.auto_sync.label "Uskladi">
@@ -510,7 +449,6 @@
 <!ENTITY device.sync.images.selected.label "Izbranih podmap">
 <!ENTITY device.sync.images.foldername "Ime mape">
 <!ENTITY device.sync.images.filecount "Fotografije">
-
 <!ENTITY device.settings.header.label "Nastavitve">
 <!ENTITY device.settings.general.label "Splošno">
 <!ENTITY device.settings.auto_launch.checkbox.label "Odpri &brandShortName;, ko je zaznana ta naprava">
@@ -520,219 +458,183 @@
 <!ENTITY device.settings.disk.label "Upravljanje z diskom">
 <!ENTITY device.settings.disk.management.label "Prilagodi strukturo map">
 <!ENTITY device.settings.disk.management.filename "Datoteke pesmi">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Samodejno prilagodi prekodiranje">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Ročno določite bitno hitrost in zapis">
 <!ENTITY device.settings.music.transcoding.format.label "Kodni zapis">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitna hitrost">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kb/s">
-
 <!ENTITY device.management.tabs.music.label "Glasba">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY device.management.tabs.image.label "Fotografije">
 <!ENTITY device.management.tabs.tools.label "Orodja">
 <!ENTITY device.management.tabs.settings.label "Nastavitve">
-
 <!ENTITY device.tools.product_registration.title "Registracija izdelka">
 <!ENTITY device.tools.product_registration.description "Si želite zagotoviti dokazilo o nakupu, dodatne članske ugodnosti ali prejemati varnostna obvestila?">
 <!ENTITY device.tools.product_registration.label "Registriraj izdelek">
-
 <!ENTITY device.tools.update_firmware.title "Posodobi strojni program">
 <!ENTITY device.tools.update_firmware.description "Vašo napravo nadzira in upravlja notranji program, imenovan strojni program (angl. firmware). Odkar ste nazadnje priklopili svojo napravo na računalnik so morda izšle novejše različice programa.">
 <!ENTITY device.tools.update_firmware.label "Preveri posodobitve strojnega programa">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Trenutna različica strojnega programa:">
-
 <!ENTITY device.tools.restore_device.title "Obnovi napravo">
 <!ENTITY device.tools.restore_device.description "Obnovitev tovarniških nastavitev na vaši napravi bo izbrisala vse podatke na njej, pa tudi povrnila tovarniški strojni program in nastavitve.">
 <!ENTITY device.tools.restore_device.label "Obnovi napravo na tovarniške nastavitve">
-
 <!ENTITY device.tools.format_device.title "Formatiraj napravo">
 <!ENTITY device.tools.format_device.description "S formatiranjem naprave boste izbrisali vso glasbo in podatke na napravi.">
 <!ENTITY device.tools.format_device.label "Formatiraj napravo">
 <!ENTITY device.tools.format_volume.button.label "Formatiraj">
-
 <!ENTITY device.tools.support.title "Podpora">
 <!ENTITY device.tools.support.description "Oglejte si najnovejše novice podpore, navodila za uporabo, dokumentacijo, pogosto zastavljena vprašanja in podatke o izdelku. Storitve podpore so na voljo strankam, ki so registrirale svoj izdelek.">
 <!ENTITY device.tools.support.label "Pokaži vire podpore">
-
 <!ENTITY device.tools.reset_warnings.title "Ponastavi opozorila">
 <!ENTITY device.tools.reset_warnings.description "Če ponastavite opozorilna pogovorna okna, boste prek pogovornih oken lahko potrdili določena opravila, ki jih želite izvesti.">
 <!ENTITY device.tools.reset_warnings.label "Ponastavi opozorilna sporočila">
-
 <!ENTITY device.dialog.setup.title "Namestitev naprave">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Izberite, s katerim pomnilniškim medijem naj upravlja &brandShortName;:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Prezri to napravo">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Izberite le, če ne želite, da bi &brandShortName; upravljal s to napravo.">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Če ne želite, da &brandShortName; upravlja s to napravo, lahko">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "to napravo prezrete">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Odpri povezavo v privzetem brskalniku">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Odpri stran v privzetem brskalniku">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Odpri okvir v privzetem brskalniku">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Odpri sliko v privzetem brskalniku">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Kopiraj izbrano besedilo">
-<!ENTITY copySelectionCmd.accesskey                     "K">
-<!ENTITY playMediaCmd.label                             "Predvajaj">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Prenesi v knjižnico">
-<!ENTITY downloadMediaCmd.accesskey                     "p">
-<!ENTITY addMediaToPlaylistCmd.label                    "Prenesi v seznam">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Ni seznamov za predvajanje&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Nov seznam za predvajanje">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Naroči se na to stran …">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Naroči se na ta okvir …">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Pomagajte narediti &brandShortName; še boljši!">
-<!ENTITY feedback.dialog.yes        "Da">
-<!ENTITY feedback.dialog.no         "Ne">
-<!ENTITY feedback.dialog.sentence1  "Bi lahko izpolnili kratko anonimno anketo in nam tako pomagali narediti &brandShortName; še boljši?">
-<!ENTITY feedback.dialog.sentence2  "Če vas ne zanima, vas ne bomo več spraševali. Hvala za razumevanje in veseli nas, da uporabljate &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Lep pozdrav,">
-<!ENTITY feedback.dialog.sentence4  "ekipa &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Odpri povezavo v privzetem brskalniku">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Odpri stran v privzetem brskalniku">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Odpri okvir v privzetem brskalniku">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Odpri sliko v privzetem brskalniku">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Kopiraj izbrano besedilo">
+<!ENTITY copySelectionCmd.accesskey "K">
+<!ENTITY playMediaCmd.label "Predvajaj">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Prenesi v knjižnico">
+<!ENTITY downloadMediaCmd.accesskey "p">
+<!ENTITY addMediaToPlaylistCmd.label "Prenesi v seznam">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Ni seznamov za predvajanje&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nov seznam za predvajanje">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Naroči se na to stran …">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Naroči se na ta okvir …">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Pomagajte narediti &brandShortName; še boljši!">
+<!ENTITY feedback.dialog.yes "Da">
+<!ENTITY feedback.dialog.no "Ne">
+<!ENTITY feedback.dialog.sentence1 "Bi lahko izpolnili kratko anonimno anketo in nam tako pomagali narediti &brandShortName; še boljši?">
+<!ENTITY feedback.dialog.sentence2 "Če vas ne zanima, vas ne bomo več spraševali. Hvala za razumevanje in veseli nas, da uporabljate &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "Lep pozdrav,">
+<!ENTITY feedback.dialog.sentence4 "ekipa &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Dobrodošli v &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "Dobrodošli v &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "Namestitev programa &brandShortName;">
-
+<!ENTITY first_run.title "Namestitev programa &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Priporočeni dodatki">
+<!ENTITY first_run.add_ons.header.label "Priporočeni dodatki">
 <!ENTITY first_run.add_ons.description.line1 "Dodatki razširijo funkcionalnost &brandShortName; s tem, da si lahko prikrojite predvajalnik po svoji meri. Močno vam priporočamo spodnje možnosti.">
 <!ENTITY first_run.add_ons.description.line2 "Dodatki se lahko integrirajo z drugimi programi in storitvami, podpirajo povezovanje z zunanjimi napravami, spreminjajo videz programa in več! Več si jih lahko prenesete na strani dodatkov za &brandShortName;.">
-<!ENTITY first_run.add_ons.loading.label     "Pridobivanje priporočenih dodatkov.">
+<!ENTITY first_run.add_ons.loading.label "Pridobivanje priporočenih dodatkov.">
 <!ENTITY first_run.add_ons.load_failed.label "Priporočenih dodatkov ni bilo mogoče pridobiti.">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Posodobitev je pripravljena za namestitev.">
 <!ENTITY first_run.app_update.finished.text "Posodobitev bo nameščena, ko bo &brandShortName; ponovno zagnan.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; se ne more povezati na internet.">
-<!ENTITY first_run.connection.description          "Preverite nastavitve svoje povezave ali nadaljujte z namestitvenim pomočnikom.">
-<!ENTITY first_run.connection.settings.button      "Nastavitve povezave …">
+<!ENTITY first_run.connection.header.label "&brandShortName; se ne more povezati na internet.">
+<!ENTITY first_run.connection.description "Preverite nastavitve svoje povezave ali nadaljujte z namestitvenim pomočnikom.">
+<!ENTITY first_run.connection.settings.button "Nastavitve povezave …">
 <!ENTITY first_run.connection.settings.description "Je vaš računalnik za požarnim zidom ali posredovalnim strežnikom? Popravljanje nepravilnih nastavitev povezave lahko pomaga razrešiti običajne težave z omrežjem.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Licenčna pogodba">
+<!ENTITY first_run.eula.header.label "Licenčna pogodba">
 <!ENTITY first_run.eula.accept_checkbox.label "Pogoje te licence razumem in se z njimi strinjam.">
-<!ENTITY first_run.eula.language.label        "Jezik:">
-
+<!ENTITY first_run.eula.language.label "Jezik:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Pomagajte narediti &brandShortName; še boljši">
-<!ENTITY first_run.feedback.description             "Bi nam radi pomagali narediti &brandShortName; boljši tako, da nam pošljete anonimno poročilo o svoji uporabi programa?">
-<!ENTITY first_run.feedback.metrics.label           "Zbiraj in pošiljaj moje meritve ekipi &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "Meritve so popolnoma anonimne in nikakršni osebni podatki ne bodo zbrani.">
-<!ENTITY first_run.feedback.email.header.label      "Obveščaj me">
-<!ENTITY first_run.feedback.email.description       "Naročite se na naše novice, da boste obveščeni o novih izdajah programa in pomembnih posodobitvah.">
+<!ENTITY first_run.feedback.header.label "Pomagajte narediti &brandShortName; še boljši">
+<!ENTITY first_run.feedback.description "Bi nam radi pomagali narediti &brandShortName; boljši tako, da nam pošljete anonimno poročilo o svoji uporabi programa?">
+<!ENTITY first_run.feedback.metrics.label "Zbiraj in pošiljaj moje meritve ekipi &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "Meritve so popolnoma anonimne in nikakršni osebni podatki ne bodo zbrani.">
+<!ENTITY first_run.feedback.email.header.label "Obveščaj me">
+<!ENTITY first_run.feedback.email.description "Naročite se na naše novice, da boste obveščeni o novih izdajah programa in pomembnih posodobitvah.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "vpišite svoj elektronski naslov za obveščanje">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "Uvoz/izvoz iz iTunes">
-<!ENTITY first_run.itunes.description                   "Kaže, da imate nameščen program iTunes. &brandShortName; lahko nastavite, da uvaža in/ali izvaža posnetke med &brandShortName; in iTunes, tako da sta vaši knjižnici usklajeni.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Uvozi posnetke in sezname predvajanja iz iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podkaste in glasbo, kupljeno v trgovini iTunes Store, lahko uvozite v &brandShortName;. Ta funkcionalnost deluje dobro, če bo &brandShortName; vaš glavni predvajalnik glasbe.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Izvozi nove posnetke in sezname predvajanja v iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Glasbo, pridobljeno prek programa &brandShortName;, lahko izvozite v iTunes, tako da jo lahko prenesete na svoj iPod ali iPhone.">
-
+<!ENTITY first_run.itunes.header.label "Uvoz/izvoz iz iTunes">
+<!ENTITY first_run.itunes.description "Kaže, da imate nameščen program iTunes. &brandShortName; lahko nastavite, da uvaža in/ali izvaža posnetke med &brandShortName; in iTunes, tako da sta vaši knjižnici usklajeni.">
+<!ENTITY first_run.itunes.checkbox.import.label "Uvozi posnetke in sezname predvajanja iz iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "Podkaste in glasbo, kupljeno v trgovini iTunes Store, lahko uvozite v &brandShortName;. Ta funkcionalnost deluje dobro, če bo &brandShortName; vaš glavni predvajalnik glasbe.">
+<!ENTITY first_run.itunes.checkbox.export.label "Izvozi nove posnetke in sezname predvajanja v iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "Glasbo, pridobljeno prek programa &brandShortName;, lahko izvozite v iTunes, tako da jo lahko prenesete na svoj iPod ali iPhone.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Uvozi datoteke">
-<!ENTITY first_run.import_media.description                  "Izberite medijske datoteke, ki jih želite uvoziti v &brandShortName;. Ko se &brandShortName; zažene, lahko dodate dodatne medijske datoteke na različne načine.">
+<!ENTITY first_run.import_media.header.label "Uvozi datoteke">
+<!ENTITY first_run.import_media.description "Izberite medijske datoteke, ki jih želite uvoziti v &brandShortName;. Ko se &brandShortName; zažene, lahko dodate dodatne medijske datoteke na različne načine.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Preglej mape na mojem računalniku">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Ne uvažaj datotek">
+<!ENTITY first_run.import_media.radio.dont_import.label "Ne uvažaj datotek">
 <!ENTITY first_run.import_media.scan_directories.description "Bi radi, da &brandShortName; uvozi medijske datoteke s preiskovanjem določenih map na vašem računalniku?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Spremljaj spremembe v tej mapi">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Prenašanje dodatkov">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Dobrodošli v &brandShortName;">
+<!ENTITY first_run.welcome.header.label "Dobrodošli v &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; je zelo prilagodljiva alternativa ostalim namiznim predvajalnikom.">
 <!ENTITY first_run.welcome.description.line2 "Ta pomočnik ponuja hiter in učinkovit način za uspešno delovanje.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Uvoznik glasbe">
-
+<!ENTITY import_media.prefs.title "Uvoznik glasbe">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Uvozi v knjižnjico">
-<!ENTITY import_library.prefs.title                       "Uvoz/izvoz iz iTunes">
-<!ENTITY import_library.library_file_label                "Datoteka knjižnice:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Opozori me, ko nepodprti posnetki ali seznami predvajanja niso uvoženi">
-<!ENTITY import_library.prefs.path_group_caption          "Mesto glasbene knjižnice iTunes">
-<!ENTITY import_library.prefs.options_group_caption       "Možnosti uvoza/izvoza">
-<!ENTITY import_library.import_command                    "Uvozi knjižnico">
-<!ENTITY import_tracks_itunes_checkbox                    "Uvozi posnetke iz iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Uvozi sezname predvajanja">
-<!ENTITY export_tracks_itunes_checkbox                    "Izvozi posnetke v iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Izvozi sezname predvajanja">
-<!ENTITY export_subscriptions_itunes_checkbox             "Izvozi naročnine">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Izvozi pametne sezname predvajanja">
-<!ENTITY importexport_show_notifications_checkbox         "Pokaži obvestila, ko je uvoz/izvoz dokončan">
-
+<!ENTITY import_library.dialog.title "Uvozi v knjižnjico">
+<!ENTITY import_library.prefs.title "Uvoz/izvoz iz iTunes">
+<!ENTITY import_library.library_file_label "Datoteka knjižnice:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Opozori me, ko nepodprti posnetki ali seznami predvajanja niso uvoženi">
+<!ENTITY import_library.prefs.path_group_caption "Mesto glasbene knjižnice iTunes">
+<!ENTITY import_library.prefs.options_group_caption "Možnosti uvoza/izvoza">
+<!ENTITY import_library.import_command "Uvozi knjižnico">
+<!ENTITY import_tracks_itunes_checkbox "Uvozi posnetke iz iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Uvozi sezname predvajanja">
+<!ENTITY export_tracks_itunes_checkbox "Izvozi posnetke v iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Izvozi sezname predvajanja">
+<!ENTITY export_subscriptions_itunes_checkbox "Izvozi naročnine">
+<!ENTITY export_smartplaylists_itunes_checkbox "Izvozi pametne sezname predvajanja">
+<!ENTITY importexport_show_notifications_checkbox "Pokaži obvestila, ko je uvoz/izvoz dokončan">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Seznam predvajanja je spremenjen">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Ohrani trenutni seznam predvajanja &brandShortName; (Ne uvozi tega seznama)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Spoji trenutna seznama predvajanja iz &brandShortName; in iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Nadomesti seznam predvajanja &brandShortName; s trenutnim seznamom predvajanja iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Opomba: Združevanja in nadomeščanja ni mogoče razveljaviti.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Uveljavi izbor v vseh seznamih predvajanja">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Seznam predvajanja je spremenjen">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Ohrani trenutni seznam predvajanja &brandShortName; (Ne uvozi tega seznama)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Spoji trenutna seznama predvajanja iz &brandShortName; in iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Nadomesti seznam predvajanja &brandShortName; s trenutnim seznamom predvajanja iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note "Opomba: Združevanja in nadomeščanja ni mogoče razveljaviti.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Uveljavi izbor v vseh seznamih predvajanja">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "Ne omogočite Opazuj mape v isti mapi kot je mapa za upravljanje glasbe. S tem boste namreč v svoji knjižnici ustvarili dvojnike.">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Opazuj mape">
+<!ENTITY watch_folder.prefs.title "Opazuj mape">
 <!ENTITY watch_folder.prefs.settings_group_caption "Opazuj lastnosti map">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; lahko spremlja vsebino mape in samodejno doda ali odstrani predmete v njej.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Samodejno glej za spremembami v naslednji mapi">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Mapa:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; lahko spremlja vsebino mape in samodejno doda ali odstrani predmete v njej.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Samodejno glej za spremembami v naslednji mapi">
+<!ENTITY watch_folder.prefs.watch_folder_label "Mapa:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Priporočeni dodatki">
+<!ENTITY enable_recommended_addons_update.label "Priporočeni dodatki">
 <!ENTITY enable_recommended_addons_update.accesskey "d">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "Namestitev &brandShortName;">
-
+<!ENTITY recommended_add_ons.title "Namestitev &brandShortName;">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Podrobnosti">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Podrobnosti">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Nič se ne predvaja" >
-<!ENTITY albumart.displaypane.not_selected_message  "Nič ni izbrano" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Povleci ovitek albuma sem" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Prikaži trenutno izbrano" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Prikaži trenutno se predvaja" >
+<!ENTITY albumart.displaypane.not_playing_message "Nič se ne predvaja">
+<!ENTITY albumart.displaypane.not_selected_message "Nič ni izbrano">
+<!ENTITY albumart.displaypane.drag_and_drop "Povleci ovitek albuma sem">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Prikaži trenutno izbrano">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Prikaži trenutno se predvaja">
 <!ENTITY albumart.displaypane.selected.menu.cut "Izreži">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopiraj">
 <!ENTITY albumart.displaypane.selected.menu.paste "Prilepi">
 <!ENTITY albumart.displaypane.selected.menu.clear "Počisti">
 <!ENTITY albumart.coverpreview.title "Ovitek albuma">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Ovitek albuma">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Zapiši ovitek albuma med metapodatke">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "S tem omogočite &brandShortName;u, da vdela ovitek v ustrezne značke za medijske datoteke.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Išči med imeni datotek:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Tukaj vnesite z vejico ločen seznam imen datotek">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Išči med datotekami s končnicami:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Tukaj vnesite z vejico ločen seznam končnic">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Prioritete posredovalnika">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Razvrstite seznam posredovalnika, bolj zaželeni naj bodo na vrhu.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Navzgor">
@@ -740,62 +642,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Ponastavi">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Samodejno pridobi naslovnico albuma">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Samodejno pridobi naslovnico albuma, ko se predvaja ali je izbran album, odvisno od prikaznega podokna naslovnice albuma. Če je ta možnost vklopljena, lahko to vpliva na odzivnost sistema.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Nazaj">
-<!ENTITY wizard.button.back.accesskey  "z">
-<!ENTITY wizard.button.cancel.label    "Prekliči">
-<!ENTITY wizard.button.next.label      "Nadaljuj">
-<!ENTITY wizard.button.next.accesskey  "N">
-<!ENTITY wizard.button.finish.label    "Dokončaj">
-
+<!ENTITY wizard.button.back.label "Nazaj">
+<!ENTITY wizard.button.back.accesskey "z">
+<!ENTITY wizard.button.cancel.label "Prekliči">
+<!ENTITY wizard.button.next.label "Nadaljuj">
+<!ENTITY wizard.button.next.accesskey "N">
+<!ENTITY wizard.button.finish.label "Dokončaj">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Napaka v Mediacore">
-<!ENTITY mediacore.error.preface  "&brandShortName; je naletel na naslednjo jedrno napako multimedije:">
+<!ENTITY mediacore.error.title "Napaka v Mediacore">
+<!ENTITY mediacore.error.preface "&brandShortName; je naletel na naslednjo jedrno napako multimedije:">
 <!ENTITY mediacore.error.continue "Nadaljuj">
-<!ENTITY mediacore.error.stop     "Ustavi predvajanje">
+<!ENTITY mediacore.error.stop "Ustavi predvajanje">
 <!ENTITY mediacore.error.dontshowme "Ne prikazuj več jedrnih napak multimedije">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Za več informacij o manjkajočih kodekih si oglejte">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Obvestilo o uvozu medijskih datotek">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Več informacij o manjkajočih kodekih najdete tukaj:">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Ne obveščaj me več o nepodprtih video datotekah ob uvozu">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Predvajanje">
-
-<!ENTITY playback.prefpane.audio_output.label   "Zvočni izhod">
-<!ENTITY playback.prefpane.audio_output.buffer  "Izhodni medpomnilnik:">
-
-<!ENTITY playback.prefpane.streaming.label      "Omrežje in pretok">
-<!ENTITY playback.prefpane.streaming.buffer     "Pretočni medpomnilnik:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalizacija">
+<!ENTITY playback.prefpane.label "Predvajanje">
+<!ENTITY playback.prefpane.audio_output.label "Zvočni izhod">
+<!ENTITY playback.prefpane.audio_output.buffer "Izhodni medpomnilnik:">
+<!ENTITY playback.prefpane.streaming.label "Omrežje in pretok">
+<!ENTITY playback.prefpane.streaming.buffer "Pretočni medpomnilnik:">
+<!ENTITY playback.prefpane.normalization.label "Normalizacija">
 <!ENTITY playback.prefpane.normalization.enable "Uporabi podatke zvočne normalizacije, če je na voljo">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Želeni podatki ojačitve:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Sled">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Metapodatki ocen">
 <!ENTITY playback.prefpane.ratings.enablewriting "Shrani podatke o ocenah v metadatoteki vsake datoteke.">
-
 <!ENTITY fetch_album_art.dialog.title "Najdi ovitek albuma">
 <!ENTITY fetch_album_art.dialog.message "Trenutno ni podprto. (Glejte hrošča št. 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Izvajalec">
-<!ENTITY cdrip.lookup.info_not_found.album  "Album">
-<!ENTITY cdrip.lookup.info_not_found.title  "Podatkov o zgoščenki ni mogoče najti">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Izvajalca in naslov albuma lahko dodate na tem mestu. Preostale podatke lahko urejate v okviru seznama predvajanja razparane zgoščenke">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY cdrip.lookup.info_not_found.title "Podatkov o zgoščenki ni mogoče najti">
+<!ENTITY cdrip.lookup.info_not_found.descr "Izvajalca in naslov albuma lahko dodate na tem mestu. Preostale podatke lahko urejate v okviru seznama predvajanja razparane zgoščenke">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Naslov">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Paranje zgoščenke">
 <!ENTITY cdrip.prefpane.format "Zapis">
@@ -805,33 +694,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Ko je paranje zgoščenke dokončano, predvajaj opozorilni zvok sistema">
 <!ENTITY cdrip.prefpane.providers.title "Ponudnik podatkov o zgoščenkah">
 <!ENTITY cdrip.prefpane.quality_desc "Nastavitev višje kakovosti v kb/s pomeni višjo kakovost zvoka in večje datoteke.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Nastavitve za paranje zgoščenke">
-<!ENTITY cdrip.mediaview.format_label              "Zapis:">
-<!ENTITY cdrip.mediaview.quality_label             "Kakovost:">
-<!ENTITY cdrip.mediaview.settings_button           "Nastavitve">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Razparaj zgoščenko">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Ustavi paranje">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Pokaži posnetke">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Izvrzi zgoščenko">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Nastavitve za paranje zgoščenke">
+<!ENTITY cdrip.mediaview.format_label "Zapis:">
+<!ENTITY cdrip.mediaview.quality_label "Kakovost:">
+<!ENTITY cdrip.mediaview.settings_button "Nastavitve">
+<!ENTITY cdrip.mediaview.rip_cd_button "Razparaj zgoščenko">
+<!ENTITY cdrip.mediaview.stop_rip_button "Ustavi paranje">
+<!ENTITY cdrip.mediaview.view_tracks_button "Pokaži posnetke">
+<!ENTITY cdrip.mediaview.eject_cd_button "Izvrzi zgoščenko">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "I">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "Z">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "I">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "Z">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Video-okno">
 <!ENTITY videowindow.actualsize "Dejanska velikost">
 <!ENTITY videowindow.fullscreen "Celozaslonsko">
-
-<!ENTITY videowindow.fullscreen.key   "C">
+<!ENTITY videowindow.fullscreen.key "C">
 <!ENTITY videowindow.bringtofront.key "o">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Radi bi se zahvalili vsem, ki so prispevali svoj trud, da je Songbird postal to, kar je. Ti ljudje so pomagali s pisanjem kode in dokumentacije ter s preizkušanjem. Ustvarili so in vzdrževali ta izdelek, njegova razvojna orodja, naša gradbena orodja in naše spletne strani. Imenom sledijo IRC-vzdevki, obiščite #songbird na irc.mozilla.org in nas pozdravite!">
 <!ENTITY about.credits.footer.beforeLink "Nič od tega seveda ne bi bilo mogoče brez trdega dela in naporov">
@@ -842,15 +726,12 @@
 <!ENTITY about.credits.description.champs.link.pre "Šampioni Songbirda so naši neuničljivi uporabniki in navdušenci, ki so presegli vse mere zvestobe in pomagajo drugim uporabnikom na">
 <!ENTITY about.credits.description.champs.link.text "podpornem forumu za Songbird GetSatisfaction.">
 <!ENTITY about.credits.description.champs.link.post "So najbolj plodoviti na našem forumu in neumorno delujejo ter zagotavljajo, da je vsak uporabnik Songbirda tudi zadovoljen uporabnik.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Najdenih več zapisov o zgoščenki">
+<!ENTITY cdrip.lookup.multiple.title "Najdenih več zapisov o zgoščenki">
 <!ENTITY cdrip.lookup.multiple.description "Izberite med sledečimi ali dodajte svoje podatke.">
-<!ENTITY cdinfo.other.label                "Dodajte svoje podatke o izvajalcu in albumu">
-
+<!ENTITY cdinfo.other.label "Dodajte svoje podatke o izvajalcu in albumu">
 <!ENTITY playqueue.label "Predvajaj vrsto">
 <!ENTITY playqueue.instructions "Povlecite in spustite posnetke ali sezname predvajanja semkaj, če želite hitro ustvariti zaporedje za poslušanje">
 <!ENTITY playqueue.inprogress "Dodajanje posnetkov">
-
 <!ENTITY mediamanagement.removed.dialog.title "Media Management bol zmazaný">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Z različico 1.10 je bilo iz &brandShortName; odpravljeno upravljanje z mediji." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "Ta sprememba je del naših naporov za poenostavitev izdelka in boljšo uporabniško izkušnjo." >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Z različico 1.10 je bilo iz &brandShortName; odpravljeno upravljanje z mediji.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Ta sprememba je del naših naporov za poenostavitev izdelka in boljšo uporabniško izkušnjo.">

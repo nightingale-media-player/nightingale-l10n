@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "&brandShortName; tastatursnarvegar" >
-<!ENTITY help.keyboard.subtitle           "Tastatursnarvegar" >
-<!ENTITY help.keyboard.description        "Tastatursnarvegar kan gjere oppgåver i &brandShortName; mykje enklare. Nedanfor finn du ei liste med kommandoar og tilhøyrande snarvegar.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Kommando" >
-<!ENTITY help.keyboard.heading.shortcut   "Snarveg" >
-<!ENTITY help.keyboard.section.playback   "Avspelingskontrollar" >
-<!ENTITY help.keyboard.section.library    "Bibliotek og spelelister" >
-<!ENTITY help.keyboard.section.editing    "Endringar" >
-<!ENTITY help.keyboard.section.navigation "Navigasjon" >
-<!ENTITY help.keyboard.section.browser    "Nettlesar" >
-<!ENTITY help.keyboard.section.windows    "Vindauge og faner" >
-<!ENTITY help.keyboard.section.search     "Søk" >
-<!ENTITY help.keyboard.section.video      "Video" >
-<!ENTITY help.keyboard.section.cdrip      "CD-ripping" >
-<!ENTITY help.keyboard.section.misc       "Ymse" >
-
-<!ENTITY help.keyboard.key.left           "Pil venstre" >
-<!ENTITY help.keyboard.key.right          "Pil høgre" >
-<!ENTITY help.keyboard.key.up             "Pil opp" >
-<!ENTITY help.keyboard.key.down           "Pil ned" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Klikk" >
-<!ENTITY help.keyboard.mouse.click.middle "Midt-klikk" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Slett" >
-
+<!ENTITY help.keyboard.title "&brandShortName; tastatursnarvegar">
+<!ENTITY help.keyboard.subtitle "Tastatursnarvegar">
+<!ENTITY help.keyboard.description "Tastatursnarvegar kan gjere oppgåver i &brandShortName; mykje enklare. Nedanfor finn du ei liste med kommandoar og tilhøyrande snarvegar.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Kommando">
+<!ENTITY help.keyboard.heading.shortcut "Snarveg">
+<!ENTITY help.keyboard.section.playback "Avspelingskontrollar">
+<!ENTITY help.keyboard.section.library "Bibliotek og spelelister">
+<!ENTITY help.keyboard.section.editing "Endringar">
+<!ENTITY help.keyboard.section.navigation "Navigasjon">
+<!ENTITY help.keyboard.section.browser "Nettlesar">
+<!ENTITY help.keyboard.section.windows "Vindauge og faner">
+<!ENTITY help.keyboard.section.search "Søk">
+<!ENTITY help.keyboard.section.video "Video">
+<!ENTITY help.keyboard.section.cdrip "CD-ripping">
+<!ENTITY help.keyboard.section.misc "Ymse">
+<!ENTITY help.keyboard.key.left "Pil venstre">
+<!ENTITY help.keyboard.key.right "Pil høgre">
+<!ENTITY help.keyboard.key.up "Pil opp">
+<!ENTITY help.keyboard.key.down "Pil ned">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Klikk">
+<!ENTITY help.keyboard.mouse.click.middle "Midt-klikk">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Slett">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Spele/Pause valt mediaelement" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Spel førre mediaelement i ei liste" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Spel neste mediaelement i ei liste" >
-<!ENTITY help.keyboard.name.volume.down         "Skru ned lyd" >
-<!ENTITY help.keyboard.name.volume.up           "Skru opp lyd" >
-<!ENTITY help.keyboard.name.volume.mute         "Dempe lyd" >
-<!ENTITY help.keyboard.name.volume.max          "Maks lyd" >
-<!ENTITY help.keyboard.name.jumpto              "Gå til vindauge" >
-<!ENTITY help.keyboard.name.equalizer           "Opne tonekontrollen" >
-<!ENTITY help.keyboard.name.new.playlist        "Ny speleliste" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Ny smart speleliste" >
-<!ENTITY help.keyboard.name.import              "Importer media" >
-<!ENTITY help.keyboard.name.currenttrack        "Vis mediafil som spelar no" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Byt mediavising" >
-<!ENTITY help.keyboard.name.feather.switch      "Byt fjører" >
-<!ENTITY help.keyboard.name.trackeditor         "Metadata-redigerar" >
-<!ENTITY help.keyboard.name.edit.undo           "Angre" >
-<!ENTITY help.keyboard.name.edit.redo           "Gjer om" >
-<!ENTITY help.keyboard.name.edit.selectall      "Vel alle" >
-<!ENTITY help.keyboard.name.edit.cut            "Klipp ut" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopier" >
-<!ENTITY help.keyboard.name.edit.paste          "Lim inn" >
-<!ENTITY help.keyboard.name.edit.delete         "Slett" >
-<!ENTITY help.keyboard.name.browser.back        "Tilbake" >
-<!ENTITY help.keyboard.name.browser.forward     "Fram" >
-<!ENTITY help.keyboard.name.browser.reload      "Oppdater" >
-<!ENTITY help.keyboard.name.browser.stop        "Stopp lasting" >
-<!ENTITY help.keyboard.name.open.file           "Opne fil" >
-<!ENTITY help.keyboard.name.open.url            "Opne nettadresse" >
-<!ENTITY help.keyboard.name.tab.open.link       "Opne lenke i ny fane" >
-<!ENTITY help.keyboard.name.save.link           "Lagre lenke" >
-<!ENTITY help.keyboard.name.file.print          "Skriv ut" >
-<!ENTITY help.keyboard.name.view.source         "Vis kjelde" >
-<!ENTITY help.keyboard.name.view.zoomin         "Større" >
-<!ENTITY help.keyboard.name.view.zoomout        "Mindre" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Tilbakestill" >
-<!ENTITY help.keyboard.name.subscribe           "Abonner" >
-<!ENTITY help.keyboard.name.locationbar         "Fokusere adresselinja" >
-<!ENTITY help.keyboard.name.tab.new             "Ny fane" >
-<!ENTITY help.keyboard.name.tab.close           "Lat att fane" >
-<!ENTITY help.keyboard.name.tab.next            "Neste fane" >
-<!ENTITY help.keyboard.name.tab.previous        "Førre fane" >
-<!ENTITY help.keyboard.name.tab.1               "Byt til fane 1" >
-<!ENTITY help.keyboard.name.tab.2               "Byt til fane 2" >
-<!ENTITY help.keyboard.name.tab.3               "Byt til fane 3" >
-<!ENTITY help.keyboard.name.tab.4               "Byt til fane 4" >
-<!ENTITY help.keyboard.name.tab.5               "Byt til fane 5" >
-<!ENTITY help.keyboard.name.tab.6               "Byt til fane 6" >
-<!ENTITY help.keyboard.name.tab.7               "Byt til fane 7" >
-<!ENTITY help.keyboard.name.tab.8               "Byt til fane 8" >
-<!ENTITY help.keyboard.name.tab.9               "Byt til siste fane" >
-<!ENTITY help.keyboard.name.page.top            "Flytt til toppen av sida" >
-<!ENTITY help.keyboard.name.page.bottom         "Flytt til botnen av sida" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Fullskjerm" >
-<!ENTITY help.keyboard.name.mac.minimize        "Minimer til dokk" >
-<!ENTITY help.keyboard.name.mac.hide            "Skjul vindauge" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Skjul andre program" >
-<!ENTITY help.keyboard.name.downloads           "Nedlastingar" >
-<!ENTITY help.keyboard.name.find                "Finn" >
-<!ENTITY help.keyboard.name.find.again          "Finn igjen" >
-<!ENTITY help.keyboard.name.find.text           "Finne medan du skriv tekst" >
-<!ENTITY help.keyboard.name.find.link           "Finn medan du skriv-lenke" >
-<!ENTITY help.keyboard.name.search.focus        "Fokusere søkjeboks" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Fullskjerm" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video i framgrunnen" >
-<!ENTITY help.keyboard.name.video.escape        "Avslutte fullskjerm" >
-<!ENTITY help.keyboard.name.cdrip.start         "Ripp CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Stopp CD-ripping" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Mat ut CD" >
-<!ENTITY help.keyboard.name.quit                "Avslutt" >
-<!ENTITY help.keyboard.name.preferences         "Innstillingar" >
-<!ENTITY help.keyboard.name.help                "Emne i hjelp" >
-<!ENTITY help.keyboard.name.sanitize            "Slette private data" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Spele/Pause valt mediaelement">
+<!ENTITY help.keyboard.name.playcontrol.prev "Spel førre mediaelement i ei liste">
+<!ENTITY help.keyboard.name.playcontrol.next "Spel neste mediaelement i ei liste">
+<!ENTITY help.keyboard.name.volume.down "Skru ned lyd">
+<!ENTITY help.keyboard.name.volume.up "Skru opp lyd">
+<!ENTITY help.keyboard.name.volume.mute "Dempe lyd">
+<!ENTITY help.keyboard.name.volume.max "Maks lyd">
+<!ENTITY help.keyboard.name.jumpto "Gå til vindauge">
+<!ENTITY help.keyboard.name.equalizer "Opne tonekontrollen">
+<!ENTITY help.keyboard.name.new.playlist "Ny speleliste">
+<!ENTITY help.keyboard.name.new.smartplaylist "Ny smart speleliste">
+<!ENTITY help.keyboard.name.import "Importer media">
+<!ENTITY help.keyboard.name.currenttrack "Vis mediafil som spelar no">
+<!ENTITY help.keyboard.name.mediapage.switch "Byt mediavising">
+<!ENTITY help.keyboard.name.feather.switch "Byt fjører">
+<!ENTITY help.keyboard.name.trackeditor "Metadata-redigerar">
+<!ENTITY help.keyboard.name.edit.undo "Angre">
+<!ENTITY help.keyboard.name.edit.redo "Gjer om">
+<!ENTITY help.keyboard.name.edit.selectall "Vel alle">
+<!ENTITY help.keyboard.name.edit.cut "Klipp ut">
+<!ENTITY help.keyboard.name.edit.copy "Kopier">
+<!ENTITY help.keyboard.name.edit.paste "Lim inn">
+<!ENTITY help.keyboard.name.edit.delete "Slett">
+<!ENTITY help.keyboard.name.browser.back "Tilbake">
+<!ENTITY help.keyboard.name.browser.forward "Fram">
+<!ENTITY help.keyboard.name.browser.reload "Oppdater">
+<!ENTITY help.keyboard.name.browser.stop "Stopp lasting">
+<!ENTITY help.keyboard.name.open.file "Opne fil">
+<!ENTITY help.keyboard.name.open.url "Opne nettadresse">
+<!ENTITY help.keyboard.name.tab.open.link "Opne lenke i ny fane">
+<!ENTITY help.keyboard.name.save.link "Lagre lenke">
+<!ENTITY help.keyboard.name.file.print "Skriv ut">
+<!ENTITY help.keyboard.name.view.source "Vis kjelde">
+<!ENTITY help.keyboard.name.view.zoomin "Større">
+<!ENTITY help.keyboard.name.view.zoomout "Mindre">
+<!ENTITY help.keyboard.name.view.zoomreset "Tilbakestill">
+<!ENTITY help.keyboard.name.subscribe "Abonner">
+<!ENTITY help.keyboard.name.locationbar "Fokusere adresselinja">
+<!ENTITY help.keyboard.name.tab.new "Ny fane">
+<!ENTITY help.keyboard.name.tab.close "Lat att fane">
+<!ENTITY help.keyboard.name.tab.next "Neste fane">
+<!ENTITY help.keyboard.name.tab.previous "Førre fane">
+<!ENTITY help.keyboard.name.tab.1 "Byt til fane 1">
+<!ENTITY help.keyboard.name.tab.2 "Byt til fane 2">
+<!ENTITY help.keyboard.name.tab.3 "Byt til fane 3">
+<!ENTITY help.keyboard.name.tab.4 "Byt til fane 4">
+<!ENTITY help.keyboard.name.tab.5 "Byt til fane 5">
+<!ENTITY help.keyboard.name.tab.6 "Byt til fane 6">
+<!ENTITY help.keyboard.name.tab.7 "Byt til fane 7">
+<!ENTITY help.keyboard.name.tab.8 "Byt til fane 8">
+<!ENTITY help.keyboard.name.tab.9 "Byt til siste fane">
+<!ENTITY help.keyboard.name.page.top "Flytt til toppen av sida">
+<!ENTITY help.keyboard.name.page.bottom "Flytt til botnen av sida">
+<!ENTITY help.keyboard.name.view.fullscreen "Fullskjerm">
+<!ENTITY help.keyboard.name.mac.minimize "Minimer til dokk">
+<!ENTITY help.keyboard.name.mac.hide "Skjul vindauge">
+<!ENTITY help.keyboard.name.mac.hideothers "Skjul andre program">
+<!ENTITY help.keyboard.name.downloads "Nedlastingar">
+<!ENTITY help.keyboard.name.find "Finn">
+<!ENTITY help.keyboard.name.find.again "Finn igjen">
+<!ENTITY help.keyboard.name.find.text "Finne medan du skriv tekst">
+<!ENTITY help.keyboard.name.find.link "Finn medan du skriv-lenke">
+<!ENTITY help.keyboard.name.search.focus "Fokusere søkjeboks">
+<!ENTITY help.keyboard.name.video.fullscreen "Fullskjerm">
+<!ENTITY help.keyboard.name.video.bringtofront "Video i framgrunnen">
+<!ENTITY help.keyboard.name.video.escape "Avslutte fullskjerm">
+<!ENTITY help.keyboard.name.cdrip.start "Ripp CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Stopp CD-ripping">
+<!ENTITY help.keyboard.name.cdrip.eject "Mat ut CD">
+<!ENTITY help.keyboard.name.quit "Avslutt">
+<!ENTITY help.keyboard.name.preferences "Innstillingar">
+<!ENTITY help.keyboard.name.help "Emne i hjelp">
+<!ENTITY help.keyboard.name.sanitize "Slette private data">

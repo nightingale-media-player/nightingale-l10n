@@ -1,516 +1,430 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "אישור" >
-<!ENTITY window.cancel      "בטל" >
-<!ENTITY window.apply       "החל" >
-<!ENTITY window.browse      "דפדף…" >
-<!ENTITY window.save        "שמור">
-<!ENTITY window.yes         "כן">
-<!ENTITY window.no          "לא">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "אישור">
+<!ENTITY window.cancel "בטל">
+<!ENTITY window.apply "החל">
+<!ENTITY window.browse "דפדף…">
+<!ENTITY window.save "שמור">
+<!ENTITY window.yes "כן">
+<!ENTITY window.no "לא">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "צא מ&brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "העדפות">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "צא מ&brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "העדפות">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "שירותים">
-<!ENTITY menu.mac.hide                  "הסתר את &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "הסתר אחרים">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "הצג הכל">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "קובץ" >
-<!ENTITY menu.file.new          "רשימה חדשה…" >
-<!ENTITY menu.file.smart        "רשימה חכמה חדשה…" >
-<!ENTITY menu.file.remote       "מנוי חדש…" >
-<!ENTITY menu.file.podcast      "פודקאסט חדש…" >
-<!ENTITY menu.file.open         "פתח קובץ…" >
-<!ENTITY menu.file.url          "פתח מיקום…" >
-<!ENTITY menu.file.playlist     "יבא רשימת שמע…" >
-<!ENTITY menu.file.library      "יבא ספרייה…" >
-<!ENTITY menu.file.newtab       "טאב חדש" >
-<!ENTITY menu.file.closetab     "סגור מחיצה" >
-<!ENTITY menu.file.metadata     "הצד מטה דטה">
-<!ENTITY menu.file.scan         "יבא מדיה…" >
-<!ENTITY menu.file.exit         "צא" >
-
-<!ENTITY menu.edit          "ערוך" >
-<!ENTITY menu.edit.undo     "בטל" >
-<!ENTITY menu.edit.redo     "שוב" >
-<!ENTITY menu.edit.cut      "גזור" >
-<!ENTITY menu.edit.copy     "העתק" >
-<!ENTITY menu.edit.paste    "הדבק" >
-<!ENTITY menu.edit.delete   "מחק" >
-<!ENTITY menu.edit.selall   "בחר הכל" >
-<!ENTITY menu.edit.find        "חפש" >
-<!ENTITY menu.edit.findagain   "חפש שוב" >
-
+<!ENTITY menu.mac.services "שירותים">
+<!ENTITY menu.mac.hide "הסתר את &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "הסתר אחרים">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "הצג הכל">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "קובץ">
+<!ENTITY menu.file.new "רשימה חדשה…">
+<!ENTITY menu.file.smart "רשימה חכמה חדשה…">
+<!ENTITY menu.file.remote "מנוי חדש…">
+<!ENTITY menu.file.podcast "פודקאסט חדש…">
+<!ENTITY menu.file.open "פתח קובץ…">
+<!ENTITY menu.file.url "פתח מיקום…">
+<!ENTITY menu.file.playlist "יבא רשימת שמע…">
+<!ENTITY menu.file.library "יבא ספרייה…">
+<!ENTITY menu.file.newtab "טאב חדש">
+<!ENTITY menu.file.closetab "סגור מחיצה">
+<!ENTITY menu.file.metadata "הצד מטה דטה">
+<!ENTITY menu.file.scan "יבא מדיה…">
+<!ENTITY menu.file.exit "צא">
+<!ENTITY menu.edit "ערוך">
+<!ENTITY menu.edit.undo "בטל">
+<!ENTITY menu.edit.redo "שוב">
+<!ENTITY menu.edit.cut "גזור">
+<!ENTITY menu.edit.copy "העתק">
+<!ENTITY menu.edit.paste "הדבק">
+<!ENTITY menu.edit.delete "מחק">
+<!ENTITY menu.edit.selall "בחר הכל">
+<!ENTITY menu.edit.find "חפש">
+<!ENTITY menu.edit.findagain "חפש שוב">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "העדפות">
+<!ENTITY menu.linux.preferences "העדפות">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "מקשים" >
-<!ENTITY menu.control.play  "נגן" >
-<!ENTITY menu.control.pause "השהה" >
-<!ENTITY menu.control.next  "רצועה הבאה" >
-<!ENTITY menu.control.prev  "רצועה קודמת" >
-<!ENTITY menu.control.shuf  "נגן באקראיות" >
-<!ENTITY menu.control.repa  "חזור ונגן הכל שוב" >
-<!ENTITY menu.control.rep1  "חזור על שיר זה שוב" >
-<!ENTITY menu.control.repx  "ללא חזרה" >
-<!ENTITY menu.control.jumpto "דלג ל…" >
-
-<!ENTITY menu.control.play.button      "נגן" >
-<!ENTITY menu.control.pause.button     "עצור" >
-<!ENTITY menu.control.stop.button      "הפסק" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY displaypane.default.link.pre "">
+<!ENTITY menu.controls "מקשים">
+<!ENTITY menu.control.play "נגן">
+<!ENTITY menu.control.pause "השהה">
+<!ENTITY menu.control.next "רצועה הבאה">
+<!ENTITY menu.control.prev "רצועה קודמת">
+<!ENTITY menu.control.shuf "נגן באקראיות">
+<!ENTITY menu.control.repa "חזור ונגן הכל שוב">
+<!ENTITY menu.control.rep1 "חזור על שיר זה שוב">
+<!ENTITY menu.control.repx "ללא חזרה">
+<!ENTITY menu.control.jumpto "דלג ל…">
+<!ENTITY menu.control.play.button "נגן">
+<!ENTITY menu.control.pause.button "עצור">
+<!ENTITY menu.control.stop.button "הפסק">
 <!ENTITY displaypane.default.link.text "אתר התוספים">
-<!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY displaypane.name.servicepane   "לוח שליטה תחתי">
-<!ENTITY displaypane.name.browser       "לוח תוכן תחתי">
-<!ENTITY displaypane.name.sidebar       "סרגל צד ימני">
-<!ENTITY servicepane.title.label        "חלונית שרותים">
-
-<!ENTITY menu.tools            "כלים" >
+<!ENTITY displaypane.name.servicepane "לוח שליטה תחתי">
+<!ENTITY displaypane.name.browser "לוח תוכן תחתי">
+<!ENTITY displaypane.name.sidebar "סרגל צד ימני">
+<!ENTITY servicepane.title.label "חלונית שרותים">
+<!ENTITY menu.tools "כלים">
 <!ENTITY menu.tools.getartwork "השג את עטיפת האלבום…">
 <!ENTITY menu.tools.exportmedia "יצא שינויים בספרייה">
-
-<!ENTITY menu.help          "עזרה" >
-<!ENTITY menu.help.homepage "&brandShortName; Website" >
-<!ENTITY menu.help.bugz     "דווח על תקלה…" >
-<!ENTITY menu.help.topics   "נושאי עזרה" >
+<!ENTITY menu.help "עזרה">
+<!ENTITY menu.help.bugz "דווח על תקלה…">
+<!ENTITY menu.help.topics "נושאי עזרה">
 <!ENTITY menu.help.keyboard "קיצורי מקשים">
-<!ENTITY menu.help.about    "&brandShortName; אודות" >
-
-<!ENTITY menu.equalizer     "אקולייזר…" >
-<!ENTITY menu.preferences   "העדפות" >
-<!ENTITY menu.extensions    "תוספים" >
+<!ENTITY menu.help.about "&brandShortName; אודות">
+<!ENTITY menu.equalizer "אקולייזר…">
+<!ENTITY menu.preferences "העדפות">
+<!ENTITY menu.extensions "תוספים">
 <!ENTITY menu.clearprivatedata "נקה מידע אישי">
 <!ENTITY menu.errorconsole "מסוף שגיאות">
-<!ENTITY menu.downloadmgr   "הורדת קבצים" >
-<!ENTITY menu.switchplayercontrols  "בקרת הנגן" >
-<!ENTITY menu.controllerontop       "הצג למעלה">
-<!ENTITY menu.controlleronbottom    "הצג בתחתית">
-
-<!ENTITY menu.fullscreen            "Full Screen">
-<!ENTITY menu.videotofront          "Video to Front">
-
-<!ENTITY device.dialog.wait_for_completion.title  "ממתין להתקנים.">
-<!ENTITY device.dialog.wait_for_completion.msg    "ממתין שכל הפעולות בהתקן יסתיימו. לחץ על &quot;צא&quot; כדי לעצור את ההמתנה ולצאת מהתוכנה.">
-<!ENTITY device.dialog.wait_for_completion.quit   "סגור">
-
-<!ENTITY tooltip.minimize         "מזער" >
-<!ENTITY tooltip.maximize         "שחזר" >
-<!ENTITY tooltip.exit             "צא" >
-<!ENTITY tooltip.close            "סגור" >
-<!ENTITY tooltip.hide             "הסתר" >
-<!ENTITY tooltip.fullscreen       "מסך מלא" >
-<!ENTITY tooltip.control.back     "רצועה קודמת" >
-<!ENTITY tooltip.control.play     "נגן" >
-<!ENTITY tooltip.control.pause    "השהה" >
-<!ENTITY tooltip.control.resume   "חזור" >
-<!ENTITY tooltip.control.stop     "עצור" >
-<!ENTITY tooltip.control.fwd      "רצועה הבאה" >
-<!ENTITY tooltip.control.mute     "השתק" >
-<!ENTITY tooltip.control.volume   "עוצמה" >
-<!ENTITY tooltip.control.shuffle  "אקראי" >
-<!ENTITY tooltip.control.shuf_off "בטל אקראיות" >
-<!ENTITY tooltip.control.curtrack "מצא רצועה נוכחית" >
-<!ENTITY tooltip.search           "חפש" >
-<!ENTITY tooltip.browser.back     "דפדף קדימה" >
-<!ENTITY tooltip.browser.fwd      "דפדף אחורה" >
-<!ENTITY tooltip.browser.stop     "עצור דפדפן" >
-<!ENTITY tooltip.browser.home     "בית" >
-<!ENTITY tooltip.browser.refresh  "רענן" >
-<!ENTITY tooltip.browser.subscription "הרשם לעמוד זה" >
-<!ENTITY tooltip.browser.mediapages.list "תצוגת רשימה" >
-<!ENTITY tooltip.browser.mediapages.filter "תצוגה עם אפשרות סינון" >
-<!ENTITY tooltip.browser.mediapages "הצג…" >
-<!ENTITY tooltip.servicepane.show    "הצג חלונית שרות " >
-<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "רשימת השמעה חדשה" >
+<!ENTITY menu.downloadmgr "הורדת קבצים">
+<!ENTITY menu.switchplayercontrols "בקרת הנגן">
+<!ENTITY menu.controllerontop "הצג למעלה">
+<!ENTITY menu.controlleronbottom "הצג בתחתית">
+<!ENTITY device.dialog.wait_for_completion.title "ממתין להתקנים.">
+<!ENTITY device.dialog.wait_for_completion.msg "ממתין שכל הפעולות בהתקן יסתיימו. לחץ על &quot;צא&quot; כדי לעצור את ההמתנה ולצאת מהתוכנה.">
+<!ENTITY device.dialog.wait_for_completion.quit "סגור">
+<!ENTITY tooltip.minimize "מזער">
+<!ENTITY tooltip.maximize "שחזר">
+<!ENTITY tooltip.exit "צא">
+<!ENTITY tooltip.close "סגור">
+<!ENTITY tooltip.hide "הסתר">
+<!ENTITY tooltip.fullscreen "מסך מלא">
+<!ENTITY tooltip.control.back "רצועה קודמת">
+<!ENTITY tooltip.control.play "נגן">
+<!ENTITY tooltip.control.pause "השהה">
+<!ENTITY tooltip.control.resume "חזור">
+<!ENTITY tooltip.control.stop "עצור">
+<!ENTITY tooltip.control.fwd "רצועה הבאה">
+<!ENTITY tooltip.control.mute "השתק">
+<!ENTITY tooltip.control.volume "עוצמה">
+<!ENTITY tooltip.control.shuffle "אקראי">
+<!ENTITY tooltip.control.shuf_off "בטל אקראיות">
+<!ENTITY tooltip.control.curtrack "מצא רצועה נוכחית">
+<!ENTITY tooltip.search "חפש">
+<!ENTITY tooltip.browser.back "דפדף קדימה">
+<!ENTITY tooltip.browser.fwd "דפדף אחורה">
+<!ENTITY tooltip.browser.stop "עצור דפדפן">
+<!ENTITY tooltip.browser.home "בית">
+<!ENTITY tooltip.browser.refresh "רענן">
+<!ENTITY tooltip.browser.subscription "הרשם לעמוד זה">
+<!ENTITY tooltip.browser.mediapages.list "תצוגת רשימה">
+<!ENTITY tooltip.browser.mediapages.filter "תצוגה עם אפשרות סינון">
+<!ENTITY tooltip.browser.mediapages "הצג…">
+<!ENTITY tooltip.servicepane.show "הצג חלונית שרות ">
+<!ENTITY tooltip.servicepane.newnode "רשימת השמעה חדשה">
 <!ENTITY tooltip.displaypane.options "אפשרויות חלונית תוכן">
-
-<!ENTITY smart.window             "רשימות השמעה חכמות" >
-<!ENTITY smart.limit              "הגבל ל" >
-<!ENTITY smart.match              "התאם" >
-<!ENTITY smart.matchsingle        "התאם את התנאי הבא:" >
-<!ENTITY smart.any                "כל" >
-<!ENTITY smart.all                "הכל" >
-<!ENTITY smart.following          "מהתנאים הבאים:" >
-<!ENTITY smart.random             "אקראי" >
-<!ENTITY smart.album              "אלבום" >
-<!ENTITY smart.artist             "אמן" >
-<!ENTITY smart.genre              "ז&apos;אנר" >
-<!ENTITY smart.title              "כותרת" >
-<!ENTITY smart.high_rating        "ציון גבוה" >
-<!ENTITY smart.low_rating         "ציון נמוך" >
-<!ENTITY smart.most_recent        "נוגן לאחרונה" >
-<!ENTITY smart.least_recent       "שנוגן הכי פחות לאחרונה" >
-<!ENTITY smart.most_often         "נוגן לעיתים קרובות" >
-<!ENTITY smart.least_often        "תדירות נמוכה" >
-<!ENTITY smart.most_added         "נוסף לאחרונה" >
-<!ENTITY smart.least_added        "הכי פחות מבוקש" >
-<!ENTITY smart.minutes            "דקות" >
-<!ENTITY smart.hours              "שעות" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "פריטים" >
-<!ENTITY smart.selectedby         "נבחר ע&quot;י" >
-<!ENTITY smart.to                 "עד" >
-<!ENTITY smart.autoupdate         "עדכן אוטומטית">
+<!ENTITY smart.window "רשימות השמעה חכמות">
+<!ENTITY smart.limit "הגבל ל">
+<!ENTITY smart.match "התאם">
+<!ENTITY smart.matchsingle "התאם את התנאי הבא:">
+<!ENTITY smart.any "כל">
+<!ENTITY smart.all "הכל">
+<!ENTITY smart.following "מהתנאים הבאים:">
+<!ENTITY smart.random "אקראי">
+<!ENTITY smart.album "אלבום">
+<!ENTITY smart.artist "אמן">
+<!ENTITY smart.genre "ז&apos;אנר">
+<!ENTITY smart.title "כותרת">
+<!ENTITY smart.high_rating "ציון גבוה">
+<!ENTITY smart.low_rating "ציון נמוך">
+<!ENTITY smart.most_recent "נוגן לאחרונה">
+<!ENTITY smart.least_recent "שנוגן הכי פחות לאחרונה">
+<!ENTITY smart.most_often "נוגן לעיתים קרובות">
+<!ENTITY smart.least_often "תדירות נמוכה">
+<!ENTITY smart.most_added "נוסף לאחרונה">
+<!ENTITY smart.least_added "הכי פחות מבוקש">
+<!ENTITY smart.minutes "דקות">
+<!ENTITY smart.hours "שעות">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "פריטים">
+<!ENTITY smart.selectedby "נבחר ע&quot;י">
+<!ENTITY smart.to "עד">
+<!ENTITY smart.autoupdate "עדכן אוטומטית">
 <!ENTITY smart.playlistcondition.library "ספריה">
-<!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "מוזיקה">
-
 <!ENTITY textbox.songbird_open_url ":הכנס את כתובת הקישור או מיקום המדיה שברצונך לנגן">
-
-<!ENTITY open_url.title           "פתח קישור URL">
-<!ENTITY subscribe.title          "הרשם">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "דקה(ות)">
-<!ENTITY subscribe.hours          "שעה(ות)">
-<!ENTITY subscribe.days           "ימים">
-<!ENTITY subscribe.autocheck      "עדכן אוטומטית כל">
-<!ENTITY subscribe.destinationfolder      ":בחר תיקיית יעד">
-
-<!ENTITY feed.subscribe.label     "הרשם">
-<!ENTITY feed.subscribe.dontask   "אל תציג חלונית דו-שיח זו בעתיד">
-<!ENTITY feed.subscribe.close     "סגור">
-
-<!ENTITY podcast.creation_dialog.title       "פודקאסט חדש">
+<!ENTITY open_url.title "פתח קישור URL">
+<!ENTITY subscribe.title "הרשם">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "דקה(ות)">
+<!ENTITY subscribe.hours "שעה(ות)">
+<!ENTITY subscribe.days "ימים">
+<!ENTITY subscribe.autocheck "עדכן אוטומטית כל">
+<!ENTITY subscribe.destinationfolder ":בחר תיקיית יעד">
+<!ENTITY feed.subscribe.label "הרשם">
+<!ENTITY feed.subscribe.dontask "אל תציג חלונית דו-שיח זו בעתיד">
+<!ENTITY feed.subscribe.close "סגור">
+<!ENTITY podcast.creation_dialog.title "פודקאסט חדש">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "צפה בתיקיות">
-<!ENTITY watchfolder.folderlist   "בדוק בתיקיות אלה עבור מדיות חדשות:">
-
-<!ENTITY locale.language          "שפה" >
-<!ENTITY menu.view                "תצוגה" >
-<!ENTITY about.version            "גרסה" >
-<!ENTITY about.buttons.credits    "תודות" >
-
-<!ENTITY equalizer.title          "אקולייזר" >
-<!ENTITY equalizer.on.checkbox    "פועל" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "מותאם אישית" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "רוק" >
-<!ENTITY equalizer.preset.soft_rock   "רוק קל" >
-<!ENTITY equalizer.preset.techno      "מוזיקת טכנו" >
-<!ENTITY equalizer.preset.ska         "סקא" >
-<!ENTITY equalizer.preset.reggae      "רגאיי" >
-<!ENTITY equalizer.preset.live        "הופעה חיה" >
-<!ENTITY equalizer.preset.club        "קלאב" >
-<!ENTITY equalizer.preset.party       "מסיבה" >
-<!ENTITY equalizer.preset.classical   "קלאסי" >
-<!ENTITY equalizer.preset.large_hall  "אולם גדול" >
-<!ENTITY equalizer.preset.dance       "דאנס" >
-<!ENTITY equalizer.preset.pop         "פופ" >
-<!ENTITY equalizer.preset.soft        "מוזיקה קלה" >
-<!ENTITY equalizer.preset.small_speakers   "לפטופ/אוזניות" >
-<!ENTITY equalizer.preset.full_bass_treble "הכל באס וטרבל" >
-<!ENTITY equalizer.preset.full_treble "טרבל מלא" >
-<!ENTITY equalizer.preset.full_bass   "הכל באס" >
-
-
-<!ENTITY setupprogress.pleasewait "…נא להמתין" >
-<!ENTITY setupprogress.cancel     "בטל">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "W" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "הראה קובץ" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "צפה בתיקיות">
+<!ENTITY watchfolder.folderlist "בדוק בתיקיות אלה עבור מדיות חדשות:">
+<!ENTITY locale.language "שפה">
+<!ENTITY menu.view "תצוגה">
+<!ENTITY about.version "גרסה">
+<!ENTITY about.buttons.credits "תודות">
+<!ENTITY equalizer.title "אקולייזר">
+<!ENTITY equalizer.on.checkbox "פועל">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "מותאם אישית">
+<!ENTITY equalizer.preset.rock "רוק">
+<!ENTITY equalizer.preset.soft_rock "רוק קל">
+<!ENTITY equalizer.preset.techno "מוזיקת טכנו">
+<!ENTITY equalizer.preset.ska "סקא">
+<!ENTITY equalizer.preset.reggae "רגאיי">
+<!ENTITY equalizer.preset.live "הופעה חיה">
+<!ENTITY equalizer.preset.club "קלאב">
+<!ENTITY equalizer.preset.party "מסיבה">
+<!ENTITY equalizer.preset.classical "קלאסי">
+<!ENTITY equalizer.preset.large_hall "אולם גדול">
+<!ENTITY equalizer.preset.dance "דאנס">
+<!ENTITY equalizer.preset.pop "פופ">
+<!ENTITY equalizer.preset.soft "מוזיקה קלה">
+<!ENTITY equalizer.preset.small_speakers "לפטופ/אוזניות">
+<!ENTITY equalizer.preset.full_bass_treble "הכל באס וטרבל">
+<!ENTITY equalizer.preset.full_treble "טרבל מלא">
+<!ENTITY equalizer.preset.full_bass "הכל באס">
+<!ENTITY setupprogress.pleasewait "…נא להמתין">
+<!ENTITY setupprogress.cancel "בטל">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "W">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "הראה קובץ">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "עורך מטה דטה" >
-<!ENTITY trackeditor.tab.summary.title            "תמצית" >
-<!ENTITY trackeditor.tab.edit.title               "מאפיינים" >
-<!ENTITY trackeditor.tab.lyrics.title             "מילים" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "M" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "עורך מטה דטה">
+<!ENTITY trackeditor.tab.summary.title "תמצית">
+<!ENTITY trackeditor.tab.edit.title "מאפיינים">
+<!ENTITY trackeditor.tab.lyrics.title "מילים">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "M">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "הוסף תגית" >
-<!ENTITY trackeditor.addtag.tag       ":תגית" >
-
-<!ENTITY jumptofile.title             "קפוץ ל" >
-<!ENTITY jumptofile.search            ":חפש" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "השתמש במקשי הקיצור הגלובלים" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "פעולה" >
-<!ENTITY hotkeys.hotkey               "מקש קיצור" >
-<!ENTITY hotkeys.add                  "הוסף" >
-<!ENTITY hotkeys.set                  "קבע" >
-<!ENTITY hotkeys.remove               "מחק" >
-<!ENTITY hotkeys.prefpane             "מקשי קיצור" >
-<!ENTITY hotkeys.info                 "מקשים חמים גלובליים מאפשרים לך להשתמש ב- &brandShortName; גם אם הוא אינו היישום הפעיל. צירופי מקשים חמים מסויימים חייבים לכלול מקשי שינוי כדי למזער את ההפרעה ליישומים אחרים." >
-
-<!ENTITY rapi.prefpane.title             "שילוב ברשת" >
-<!ENTITY rapi.prefpane.access.caption    "הרשאות שילוב ברשת" >
-<!ENTITY rapi.prefpane.access.text       "אתה יכול לתת לאתרים הרשאות להשתלב עם סונגבירד על מנת ליצור קשר הדוק יותר בין הרשת למדיה שלך. אנא הגדר את סונגבירד על מנת לחסום או לאפשר את נקודות השילוב הבאות. " >
-<!ENTITY rapi.whitelist.label            "יוצאי דופן…" >
-<!ENTITY rapi.restore_defaults.label      "שחזר לברירת המחדל" >
-<!ENTITY rapi.playback_control_disable.label "אל תאפשר לאתרים לשלוט בניגון המדיה" >
-<!ENTITY rapi.playback_read_disable.label    "אל תאפשר לאתרים לראות מידע לגבי קובצי מדיה" >
-<!ENTITY rapi.library_read_disable.label     "אל תאפשר לאתרים לראות מידע לגבי המדיה בספריה ובהתקנים שלך" >
-<!ENTITY rapi.library_write_disable.label    "חסום אתרים מהוספה/עריכה של מדיה ורשימות השמעה בספרייה ובהתקנים שלי" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "תוספים">
-<!ENTITY prefpane.content.label       "Web Content">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "לא מחוברים התקני אחסון מסוג USB" >
-<!ENTITY umsd.music.tab                     "מוזיקה" >
-<!ENTITY umsd.music.music_files_group       "קובצי מוזיקה" >
-<!ENTITY umsd.music.music_path_desc         "בהעתקת קובצי מוזיקה להתקן זה, מקם אותם בתיקייה הבאה:" >
-<!ENTITY umsd.music.music_path_browse_msg   "בחר את התיקיה שבה ימוקמו קובצי המוזיקה." >
-<!ENTITY umsd.music.music_ext_desc          "העתק להתקן קובצי מוזיקה עם הסיומות הבאות:" >
-<!ENTITY umsd.video.tab                     "וידאו" >
-<!ENTITY umsd.video.video_files_group       "קבצי וידאו" >
-<!ENTITY umsd.video.video_path_desc         "בהעתקת קובצי מוזיקה להתקן זה, מקם אותם בתיקייה הבאה:" >
-<!ENTITY umsd.video.video_path_browse_msg   "בחר את ההתקן בו תרצה למקם את קובצי הוידאו" >
-<!ENTITY umsd.video.video_ext_desc          "העתק להתקן קובצי וידאו עם הסיומות הבאות:" >
-
-<!ENTITY device.error.dialog.link           "הצג פירטי שגיאה" >
-
-<!ENTITY restartbox.restartnow        "טען מחדש כעת" >
-<!ENTITY restartbox.restartonplaybackend "טען מחדש לאחר הקטע" >
-<!ENTITY restartbox.restartlater      "טען מחדש מאוחר יותר" >
-
-<!ENTITY setupprogress.installingextensions "מתקין תוספים" >
-
-<!ENTITY jobprogress.details "פרטים" >
-
-<!ENTITY menu.updateCmd.label          "…בדוק עדכונים">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "מחק" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "מקש רווח" >
-
+<!ENTITY trackeditor.addtag.title "הוסף תגית">
+<!ENTITY trackeditor.addtag.tag ":תגית">
+<!ENTITY jumptofile.title "קפוץ ל">
+<!ENTITY jumptofile.search ":חפש">
+<!ENTITY hotkeys.useglobalhotkeys "השתמש במקשי הקיצור הגלובלים">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "פעולה">
+<!ENTITY hotkeys.hotkey "מקש קיצור">
+<!ENTITY hotkeys.add "הוסף">
+<!ENTITY hotkeys.set "קבע">
+<!ENTITY hotkeys.remove "מחק">
+<!ENTITY hotkeys.prefpane "מקשי קיצור">
+<!ENTITY hotkeys.info "מקשים חמים גלובליים מאפשרים לך להשתמש ב- &brandShortName; גם אם הוא אינו היישום הפעיל. צירופי מקשים חמים מסויימים חייבים לכלול מקשי שינוי כדי למזער את ההפרעה ליישומים אחרים.">
+<!ENTITY rapi.prefpane.title "שילוב ברשת">
+<!ENTITY rapi.prefpane.access.caption "הרשאות שילוב ברשת">
+<!ENTITY rapi.prefpane.access.text "אתה יכול לתת לאתרים הרשאות להשתלב עם סונגבירד על מנת ליצור קשר הדוק יותר בין הרשת למדיה שלך. אנא הגדר את סונגבירד על מנת לחסום או לאפשר את נקודות השילוב הבאות. ">
+<!ENTITY rapi.whitelist.label "יוצאי דופן…">
+<!ENTITY rapi.restore_defaults.label "שחזר לברירת המחדל">
+<!ENTITY rapi.playback_control_disable.label "אל תאפשר לאתרים לשלוט בניגון המדיה">
+<!ENTITY rapi.playback_read_disable.label "אל תאפשר לאתרים לראות מידע לגבי קובצי מדיה">
+<!ENTITY rapi.library_read_disable.label "אל תאפשר לאתרים לראות מידע לגבי המדיה בספריה ובהתקנים שלך">
+<!ENTITY rapi.library_write_disable.label "חסום אתרים מהוספה/עריכה של מדיה ורשימות השמעה בספרייה ובהתקנים שלי">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "תוספים">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "לא מחוברים התקני אחסון מסוג USB">
+<!ENTITY umsd.music.tab "מוזיקה">
+<!ENTITY umsd.music.music_files_group "קובצי מוזיקה">
+<!ENTITY umsd.music.music_path_desc "בהעתקת קובצי מוזיקה להתקן זה, מקם אותם בתיקייה הבאה:">
+<!ENTITY umsd.music.music_path_browse_msg "בחר את התיקיה שבה ימוקמו קובצי המוזיקה.">
+<!ENTITY umsd.music.music_ext_desc "העתק להתקן קובצי מוזיקה עם הסיומות הבאות:">
+<!ENTITY umsd.video.tab "וידאו">
+<!ENTITY umsd.video.video_files_group "קבצי וידאו">
+<!ENTITY umsd.video.video_path_desc "בהעתקת קובצי מוזיקה להתקן זה, מקם אותם בתיקייה הבאה:">
+<!ENTITY umsd.video.video_path_browse_msg "בחר את ההתקן בו תרצה למקם את קובצי הוידאו">
+<!ENTITY umsd.video.video_ext_desc "העתק להתקן קובצי וידאו עם הסיומות הבאות:">
+<!ENTITY device.error.dialog.link "הצג פירטי שגיאה">
+<!ENTITY restartbox.restartnow "טען מחדש כעת">
+<!ENTITY restartbox.restartonplaybackend "טען מחדש לאחר הקטע">
+<!ENTITY restartbox.restartlater "טען מחדש מאוחר יותר">
+<!ENTITY setupprogress.installingextensions "מתקין תוספים">
+<!ENTITY jobprogress.details "פרטים">
+<!ENTITY menu.updateCmd.label "…בדוק עדכונים">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "מחק">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "מקש רווח">
 <!ENTITY tabs.closeTab "סגור טאב">
 <!ENTITY tabs.listAllTabs "ערוך רשימה של כל הלשוניות">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "דף הבית" >
-<!ENTITY prefs.homepage.url.label          "כתובת" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "התקנת תוספים" >
-
+<!ENTITY prefs.homepage.label "דף הבית">
+<!ENTITY prefs.homepage.url.label "כתובת">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "התקנת תוספים">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "בטל">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "בטל העתקה">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "בטל מחיקה">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "בטל סנכרון">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "בטל עדכון">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "חלץ">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "אתחל">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "התעלם">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "קבל מידע">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "שנה שם">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "סנכרן">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "בטל">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "בטל העתקה">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "בטל מחיקה">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "בטל סנכרון">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "בטל עדכון">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "חלץ">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "אתחל">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "התעלם">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "קבל מידע">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "שנה שם">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "סנכרן">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "בצע ריפ לתקליטור">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "עצור ריפ">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "אתר מידע תקליטור">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "הוצא תקליטור">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Repair my device">
-
-<!ENTITY device.firmware.wizard.title                     "עדכן קושחה">
-<!ENTITY device.firmware.wizard.check.page.title          "חפש  קושחה מעודכנת">
-<!ENTITY device.firmware.wizard.check.progress.title      "מחפש  קושחה עדכנית…">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
+<!ENTITY command.device.rip "בצע ריפ לתקליטור">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "עצור ריפ">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "אתר מידע תקליטור">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "הוצא תקליטור">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.firmware.wizard.title "עדכן קושחה">
+<!ENTITY device.firmware.wizard.check.page.title "חפש  קושחה מעודכנת">
+<!ENTITY device.firmware.wizard.check.progress.title "מחפש  קושחה עדכנית…">
 <!ENTITY device.firmware.wizard.check.already.description "חומרת המכשיר שלך כבר מעודכנת">
 <!ENTITY device.firmware.wizard.check.release_notes.label "הערות גרסה">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "מוריד קושחה חדשה…">
-<!ENTITY device.firmware.wizard.repair.time.description   "אחזור הרכיב להגדרות היצרן אמור לקחת פחות מ5 דקות.">
-<!ENTITY device.firmware.wizard.repair.warning            "אחזור הרכיב להגדרות היצרן ימחק את כל הקבצים על הרכיב. אנא גבה את כל הקבצים לפני שתמשיך.">
-<!ENTITY device.firmware.wizard.install.title             "מתקין קושחה…">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
+<!ENTITY device.firmware.wizard.download.title "מוריד קושחה חדשה…">
+<!ENTITY device.firmware.wizard.repair.time.description "אחזור הרכיב להגדרות היצרן אמור לקחת פחות מ5 דקות.">
+<!ENTITY device.firmware.wizard.repair.warning "אחזור הרכיב להגדרות היצרן ימחק את כל הקבצים על הרכיב. אנא גבה את כל הקבצים לפני שתמשיך.">
+<!ENTITY device.firmware.wizard.install.title "מתקין קושחה…">
 <!ENTITY device.firmware.wizard.retry.description "נסה שוב אחרי שהרכיב יסיים את פעולתו הנוכחית">
-
-<!ENTITY device.firmware.wizard.check.error.description    "קרתה שגיאה בזמן בדיקת גירסה חדשה לחומרה שלך. אנא וודא את חיבור הרשת שלך ונסה שנית">
+<!ENTITY device.firmware.wizard.check.error.description "קרתה שגיאה בזמן בדיקת גירסה חדשה לחומרה שלך. אנא וודא את חיבור הרשת שלך ונסה שנית">
 <!ENTITY device.firmware.wizard.download.error.description "קרתה שגיאה בזמן בדיקת גירסה חדשה לחומרה שלך. אנא וודא את חיבור הרשת שלך ונסה שנית">
-<!ENTITY device.firmware.wizard.support.description        "משאבי תמיכה כגון שאלות ותשובות וטיפים לפתרון בעיות נמצאים ב">
-
-<!ENTITY device.info.icon.device            "צלמית התקן גנרי">
-<!ENTITY device.info.icon.readonly          "צלמית נעילת לקריאה בלבד">
-<!ENTITY device.info.model.label            "מודל">
-<!ENTITY device.info.capacity.label         "קיבולת">
-<!ENTITY device.info.product.label          "מוצר">
-<!ENTITY device.info.friendly_name.label    "שם">
-<!ENTITY device.info.serial_number.label    "מספר סידורי">
-<!ENTITY device.info.vendor.label           "יצרן">
-<!ENTITY device.info.access.label           "תאימות גישה">
+<!ENTITY device.firmware.wizard.support.description "משאבי תמיכה כגון שאלות ותשובות וטיפים לפתרון בעיות נמצאים ב">
+<!ENTITY device.info.icon.device "צלמית התקן גנרי">
+<!ENTITY device.info.icon.readonly "צלמית נעילת לקריאה בלבד">
+<!ENTITY device.info.model.label "מודל">
+<!ENTITY device.info.capacity.label "קיבולת">
+<!ENTITY device.info.product.label "מוצר">
+<!ENTITY device.info.friendly_name.label "שם">
+<!ENTITY device.info.serial_number.label "מספר סידורי">
+<!ENTITY device.info.vendor.label "יצרן">
+<!ENTITY device.info.access.label "תאימות גישה">
 <!ENTITY device.info.playback_formats.label "פורמטים להשמעה">
-<!ENTITY device.info.battery.label          "סוללה">
+<!ENTITY device.info.battery.label "סוללה">
 <!ENTITY device.info.firmware_version.label "גרסת קושחה">
-
-<!ENTITY device.progress.sync               "סנכרון">
-
-<!ENTITY device.capacity.music.label    "מוזיקה">
-<!ENTITY device.capacity.video.label    "וידאו">
-<!ENTITY device.capacity.image.label    "תמונות">
-<!ENTITY device.capacity.other.label    "אחר">
-<!ENTITY device.capacity.free.label     "פנוי">
-
-<!ENTITY device.unsupported_media.dialog.title  "קבצים לא תואמים התגלו">
+<!ENTITY device.progress.sync "סנכרון">
+<!ENTITY device.capacity.music.label "מוזיקה">
+<!ENTITY device.capacity.video.label "וידאו">
+<!ENTITY device.capacity.image.label "תמונות">
+<!ENTITY device.capacity.other.label "אחר">
+<!ENTITY device.capacity.free.label "פנוי">
+<!ENTITY device.unsupported_media.dialog.title "קבצים לא תואמים התגלו">
 <!ENTITY device.unsupported_media.dialog.enable "הודע לי כאשר מזוהים קבצים שאינם תואמים">
-
 <!ENTITY device.sync.header.label "הגדרות סנכרון">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "סנכרון">
 <!ENTITY device.sync.sync_all.label "כל המוסיקה, הסרטים ורשימות ההשמעה">
 <!ENTITY device.sync.sync_selected.label "רשימות השמעה שנבחרו:">
 <!ENTITY device.sync.playlist.title "כותרת">
 <!ENTITY device.sync.playlist.video.duration "אורך הוידאו">
-<!ENTITY device.sync.images.from.label "Sync Photos From:">
-<!ENTITY device.sync.images.browse "Choose folder…">
-<!ENTITY device.sync.images.all.label "All photos">
-<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Selected sub-folders">
-<!ENTITY device.sync.images.foldername "Folder Name">
-<!ENTITY device.sync.images.filecount "Photos">
-
 <!ENTITY device.settings.header.label "הגדרות">
 <!ENTITY device.settings.general.label "כללי">
 <!ENTITY device.settings.auto_launch.checkbox.label "פתח &brandShortName; כאשר נמצא התקן זה">
@@ -520,282 +434,203 @@
 <!ENTITY device.settings.disk.label "ניהול דיסק">
 <!ENTITY device.settings.disk.management.label "התאם מבנה ספריה">
 <!ENTITY device.settings.disk.management.filename "קבצי שירים">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "הגדר המרה באופו אוטומטי">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "הגדר פורמט וקצב ביטים ידנית">
 <!ENTITY device.settings.music.transcoding.format.label "פורמט קידוד">
 <!ENTITY device.settings.music.transcoding.bitrate.label "קצב ביטים">
 <!ENTITY device.settings.music.transcoding.bitrate.units "קב/ש">
-
 <!ENTITY device.management.tabs.music.label "מוזיקה">
 <!ENTITY device.management.tabs.video.label "וידאו">
 <!ENTITY device.management.tabs.image.label "תמונות">
 <!ENTITY device.management.tabs.tools.label "כלים">
 <!ENTITY device.management.tabs.settings.label "הגדרות">
-
 <!ENTITY device.tools.product_registration.title "רישום מוצר">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
 <!ENTITY device.tools.product_registration.label "רשום מוצר">
-
 <!ENTITY device.tools.update_firmware.title "עדכן קושחה">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
 <!ENTITY device.tools.update_firmware.label "בדוק האם קימים עדכוני קושחה">
 <!ENTITY device.tools.update_firmware.current_firmware.title "גרסת קושחה נוכחית:">
-
-<!ENTITY device.tools.restore_device.title "Restore Device">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-
 <!ENTITY device.tools.format_device.title "אתחל התקן">
-<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
 <!ENTITY device.tools.format_device.label "אתחל התקן">
-<!ENTITY device.tools.format_volume.button.label "Format">
-
 <!ENTITY device.tools.support.title "תמיכה">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
 <!ENTITY device.tools.support.label "הצג משאבי תמיכה">
-
 <!ENTITY device.tools.reset_warnings.title "אתחל אזהרות">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
 <!ENTITY device.tools.reset_warnings.label "אפס הודעות אזהרה">
-
 <!ENTITY device.dialog.setup.title "הגדר התקן">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "התעלם מהתקן זה">
-<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "פתח קישור בדפדפן האינטרנט">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "פתח עמוד בדפדפן האינטרנט">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "פתח מסגרת בדפדפן ברירת המחדל">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "הצג תמונה בדפדפן האינטרנט">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "העתק טקסט נבחר">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "נגן">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "הורד לספריה">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "הורד לרשימת השמעה">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;אין רשימות השמעה&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "רשימת השמעה חדשה">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "הרשם לעמוד זה…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "הרשם למסגרת זו…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "עזור להפוך את &brandShortName; לטוב יותר!">
-<!ENTITY feedback.dialog.yes        "כן">
-<!ENTITY feedback.dialog.no         "לא">
-<!ENTITY feedback.dialog.sentence1  "האם תעזור לנו לשפר את &brandShortName; על ידי מילוי שאלון קצר ואנונימי ?">
-<!ENTITY feedback.dialog.sentence2  "אם אתה לא מעוניין, לא נשאל אותך שוב. תודה על שיקולך ואנו מעריכים את שימושך ב-&brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "בברכה,">
-<!ENTITY feedback.dialog.sentence4  "צוות &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "פתח קישור בדפדפן האינטרנט">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "פתח עמוד בדפדפן האינטרנט">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "פתח מסגרת בדפדפן ברירת המחדל">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "הצג תמונה בדפדפן האינטרנט">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "העתק טקסט נבחר">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "נגן">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "הורד לספריה">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "הורד לרשימת השמעה">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;אין רשימות השמעה&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "רשימת השמעה חדשה">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "הרשם לעמוד זה…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "הרשם למסגרת זו…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "עזור להפוך את &brandShortName; לטוב יותר!">
+<!ENTITY feedback.dialog.yes "כן">
+<!ENTITY feedback.dialog.no "לא">
+<!ENTITY feedback.dialog.sentence1 "האם תעזור לנו לשפר את &brandShortName; על ידי מילוי שאלון קצר ואנונימי ?">
+<!ENTITY feedback.dialog.sentence2 "אם אתה לא מעוניין, לא נשאל אותך שוב. תודה על שיקולך ואנו מעריכים את שימושך ב-&brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "בברכה,">
+<!ENTITY feedback.dialog.sentence4 "צוות &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "ברוכים הבאים אל &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "ברוכים הבאים אל &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "התקנת סונגבירד">
-
+<!ENTITY first_run.title "התקנת סונגבירד">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "תוספים מומלצים">
+<!ENTITY first_run.add_ons.header.label "תוספים מומלצים">
 <!ENTITY first_run.add_ons.description.line1 "תוספים מרחיבים את האפשרויות בסונגבירד, ומאפשרים לך התאמה אישית של חווית השימוש בנגן. האפשרויות שמוצגות כאן מומלצות בחום.">
 <!ENTITY first_run.add_ons.description.line2 "תוספים יכולים להשתלב עם תוכניות ושירותים אחרים, לתמוך בחיבור להתקנים חיצוניים, לשנות את צורת התוכנה ועוד! אתה יכול להוריד עוד באתר התוספים של סונגבירד.">
-<!ENTITY first_run.add_ons.loading.label     "מאחזר תוספים מומלצים">
+<!ENTITY first_run.add_ons.loading.label "מאחזר תוספים מומלצים">
 <!ENTITY first_run.add_ons.load_failed.label "אחזור תוספים מומלצים נכשל">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "סונגבירד לא מצליחה להיתחבר לאינטרנט">
-<!ENTITY first_run.connection.description          "בדוק את הגדרות התקשורת שלך עם אשף ההגדרות.">
-<!ENTITY first_run.connection.settings.button      "הגדרות תקשורת…">
+<!ENTITY first_run.connection.header.label "סונגבירד לא מצליחה להיתחבר לאינטרנט">
+<!ENTITY first_run.connection.description "בדוק את הגדרות התקשורת שלך עם אשף ההגדרות.">
+<!ENTITY first_run.connection.settings.button "הגדרות תקשורת…">
 <!ENTITY first_run.connection.settings.description "האם המחשב או הרשת מוגנים ע&quot;י חומת אש או פרוקסי? תיקון הגדרות תקשורת שגויות יכול לפתור בעיות התקשרות נפוצות.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "הסכם רשיון">
+<!ENTITY first_run.eula.header.label "הסכם רשיון">
 <!ENTITY first_run.eula.accept_checkbox.label "קראתי את פרטי הרשיון ואני מסכים.">
-<!ENTITY first_run.eula.language.label        "שפה:">
-
+<!ENTITY first_run.eula.language.label "שפה:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "עזור להפוך את סונגבירד לטוב יותר!">
-<!ENTITY first_run.feedback.description             "האם תעזור לנו לעשות את סונגבירד לתוכנה טובה יותר על ידי שליחת טופס פידבק אנונימי על איך אתה משתמש בתוכנה?">
-<!ENTITY first_run.feedback.metrics.label           "אסוף מידע לגבי השימוש ושלח אותו לצוות &brandShortName;.">
-<!ENTITY first_run.feedback.metrics.description     "שליחת נתוני השימוש היא אנונימית ולא נאספים פרטיך האישיים.">
-<!ENTITY first_run.feedback.email.header.label      "השאר אותי מעודכן">
-<!ENTITY first_run.feedback.email.description       "הירשם לעלון החדשות שלנו על מנת לשמוע אודות שחרורים חדשים ועדכונים חדשובים.">
+<!ENTITY first_run.feedback.header.label "עזור להפוך את סונגבירד לטוב יותר!">
+<!ENTITY first_run.feedback.description "האם תעזור לנו לעשות את סונגבירד לתוכנה טובה יותר על ידי שליחת טופס פידבק אנונימי על איך אתה משתמש בתוכנה?">
+<!ENTITY first_run.feedback.metrics.label "אסוף מידע לגבי השימוש ושלח אותו לצוות &brandShortName;.">
+<!ENTITY first_run.feedback.metrics.description "שליחת נתוני השימוש היא אנונימית ולא נאספים פרטיך האישיים.">
+<!ENTITY first_run.feedback.email.header.label "השאר אותי מעודכן">
+<!ENTITY first_run.feedback.email.description "הירשם לעלון החדשות שלנו על מנת לשמוע אודות שחרורים חדשים ועדכונים חדשובים.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "הכנס את כתובת הדואר האלקטרוני שלך כדי להשאר מעודכן">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "יבוא/יצוא אל אייטונס">
-<!ENTITY first_run.itunes.description                   "נראה כי אייטונס מותקן במחשבך. סונגבירד יכול להיות מוגדר כך שהוא ייבא וייצא">
-<!ENTITY first_run.itunes.checkbox.import.label         "יבא קטעי שמע ורשימות השמעה מאייטונס">
-<!ENTITY first_run.itunes.checkbox.import.description   "יש באפשרותך להעביר לסונגבירד מוזיקה ופודקאסטים שרכשת בחנות של אייטונס. אפשרות זו פועלת היטב אם סונגבירד הולך להיות הנגן הראשי שלך.">
-<!ENTITY first_run.itunes.checkbox.export.label         "יצא קטעי שמע חדשים ורשימות השמעה חדשות אל אייטונס">
-<!ENTITY first_run.itunes.checkbox.export.description   "מוזיקה הנרכשת דרך סונגבירד יכולה להיות מיוצאת לאייטונס, כך שתוכל להעביר אותה לאייפון או לאייפוד שלך.">
-
+<!ENTITY first_run.itunes.header.label "יבוא/יצוא אל אייטונס">
+<!ENTITY first_run.itunes.description "נראה כי אייטונס מותקן במחשבך. סונגבירד יכול להיות מוגדר כך שהוא ייבא וייצא">
+<!ENTITY first_run.itunes.checkbox.import.label "יבא קטעי שמע ורשימות השמעה מאייטונס">
+<!ENTITY first_run.itunes.checkbox.import.description "יש באפשרותך להעביר לסונגבירד מוזיקה ופודקאסטים שרכשת בחנות של אייטונס. אפשרות זו פועלת היטב אם סונגבירד הולך להיות הנגן הראשי שלך.">
+<!ENTITY first_run.itunes.checkbox.export.label "יצא קטעי שמע חדשים ורשימות השמעה חדשות אל אייטונס">
+<!ENTITY first_run.itunes.checkbox.export.description "מוזיקה הנרכשת דרך סונגבירד יכולה להיות מיוצאת לאייטונס, כך שתוכל להעביר אותה לאייפון או לאייפוד שלך.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "יבא מדיה">
-<!ENTITY first_run.import_media.description                  "בחר במדיה אותה תרצה לייבא לתוך סונגבירד. כאשר סונגבירד תופעל אתה תוכל להוסיף מדיה נוספת במגוון דרכים.">
+<!ENTITY first_run.import_media.header.label "יבא מדיה">
+<!ENTITY first_run.import_media.description "בחר במדיה אותה תרצה לייבא לתוך סונגבירד. כאשר סונגבירד תופעל אתה תוכל להוסיף מדיה נוספת במגוון דרכים.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "סרוק תיקיות במחשב שלי">
-<!ENTITY first_run.import_media.radio.dont_import.label      "אל תייבא מדייה">
+<!ENTITY first_run.import_media.radio.dont_import.label "אל תייבא מדייה">
 <!ENTITY first_run.import_media.scan_directories.description "האם אתה רוצה שסונגבירד ינסה לייבא מדיה על ידי סריקת תיקיות מסוימות במחשב שלך?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "בדוק בתיקייה זו לעדכונים">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "מוריד תוספים">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "ברוכים הבאים לסונגבירד">
+<!ENTITY first_run.welcome.header.label "ברוכים הבאים לסונגבירד">
 <!ENTITY first_run.welcome.description.line1 "סונגבירד היא חלופה לנגני המדיה המסורתיים, בעלת אפשרויות רבות להתאמה אישית.">
 <!ENTITY first_run.welcome.description.line2 "הסייע שלפניכם יספק לכם דרך מהירה ויעילה להשיג סונגבירד רץ ועובד.  ">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "מייבא מדיה">
-
+<!ENTITY import_media.prefs.title "מייבא מדיה">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "יבא ספרייה">
-<!ENTITY import_library.prefs.title                       "יבוא/יצוא לאייטונס">
-<!ENTITY import_library.library_file_label                "קובץ ספרייה:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "הזהר אותי כאשר קטעי שמע או רשימות השמעה אינם ניתנים ליבוא">
-<!ENTITY import_library.prefs.path_group_caption          "מיקום ספריית המוזיקה של אייטונס">
-<!ENTITY import_library.prefs.options_group_caption       "אפשרויות יבוא">
-<!ENTITY import_library.import_command                    "יבא ספרייה">
-<!ENTITY import_tracks_itunes_checkbox                    "יבא קטעי שמע מאייטונס">
-<!ENTITY import_playlists_itunes_checkbox                 "יבא רשימות השמעה">
-<!ENTITY export_tracks_itunes_checkbox                    "יצא קטעי שמע אל אייטונס">
-<!ENTITY export_playlists_itunes_checkbox                 "יצא רשימות השמעה">
-<!ENTITY export_subscriptions_itunes_checkbox             "יצא מנויים">
-<!ENTITY export_smartplaylists_itunes_checkbox            "יצא רשימות השמעה חכמות">
-<!ENTITY importexport_show_notifications_checkbox         "ידע אותי כאשר תהליך היבוא/יצוא הושלם">
-
+<!ENTITY import_library.dialog.title "יבא ספרייה">
+<!ENTITY import_library.prefs.title "יבוא/יצוא לאייטונס">
+<!ENTITY import_library.library_file_label "קובץ ספרייה:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "הזהר אותי כאשר קטעי שמע או רשימות השמעה אינם ניתנים ליבוא">
+<!ENTITY import_library.prefs.path_group_caption "מיקום ספריית המוזיקה של אייטונס">
+<!ENTITY import_library.prefs.options_group_caption "אפשרויות יבוא">
+<!ENTITY import_library.import_command "יבא ספרייה">
+<!ENTITY import_tracks_itunes_checkbox "יבא קטעי שמע מאייטונס">
+<!ENTITY import_playlists_itunes_checkbox "יבא רשימות השמעה">
+<!ENTITY export_tracks_itunes_checkbox "יצא קטעי שמע אל אייטונס">
+<!ENTITY export_playlists_itunes_checkbox "יצא רשימות השמעה">
+<!ENTITY export_subscriptions_itunes_checkbox "יצא מנויים">
+<!ENTITY export_smartplaylists_itunes_checkbox "יצא רשימות השמעה חכמות">
+<!ENTITY importexport_show_notifications_checkbox "ידע אותי כאשר תהליך היבוא/יצוא הושלם">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "רשימת ההשמעה שונתה">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "שמור על רשימת ההשמעה הנוכחית של סונגבירד (אל תייבא את רשימת השמעה זו)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "מזג את רשימות ההשמעה הנוכחיות של סונגבירד ושל אייטונס">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "החלף את רשימת ההשמעה הזו של סונגבירד עם רשימת השמע הנוכחית של אייטונס">
-<!ENTITY import_library.dirty_playlist_dialog.note         "הערה: לא ניתן לבטל פעולות מיזוג והחלפה.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "החל בחירה על כל רשימות ההשמעה">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "רשימת ההשמעה שונתה">
+<!ENTITY import_library.dirty_playlist_dialog.keep "שמור על רשימת ההשמעה הנוכחית של סונגבירד (אל תייבא את רשימת השמעה זו)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "מזג את רשימות ההשמעה הנוכחיות של סונגבירד ושל אייטונס">
+<!ENTITY import_library.dirty_playlist_dialog.replace "החלף את רשימת ההשמעה הזו של סונגבירד עם רשימת השמע הנוכחית של אייטונס">
+<!ENTITY import_library.dirty_playlist_dialog.note "הערה: לא ניתן לבטל פעולות מיזוג והחלפה.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "החל בחירה על כל רשימות ההשמעה">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "אל תפעיל את אפשרות המעקב אחר תקייה על אותה התקייה בה אתה שומר אתה המדייה שלך, הדבר יגרום ליצירת קבצים כפולים">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "הצג תיקיות">
+<!ENTITY watch_folder.prefs.title "הצג תיקיות">
 <!ENTITY watch_folder.prefs.settings_group_caption "הגדרת  הצגת תיקיה">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; יכול לעקוב אחר תוכן תיקיות ולהוסיף או להסביר אוטומטית פריטים שנמצאים בה.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "עקוב אוטומטית אחר שינויים בתיקיה זו">
-<!ENTITY watch_folder.prefs.watch_folder_label     "תיקיה:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; יכול לעקוב אחר תוכן תיקיות ולהוסיף או להסביר אוטומטית פריטים שנמצאים בה.">
+<!ENTITY watch_folder.prefs.enable_checkbox "עקוב אוטומטית אחר שינויים בתיקיה זו">
+<!ENTITY watch_folder.prefs.watch_folder_label "תיקיה:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "תוספים מומלצים">
+<!ENTITY enable_recommended_addons_update.label "תוספים מומלצים">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "התקנת סונגבירד">
-
+<!ENTITY recommended_add_ons.title "התקנת סונגבירד">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "פרטים">
-
+<!ENTITY add_on_bundle_installer.error_box.label "פרטים">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "לא מנגן" >
-<!ENTITY albumart.displaypane.not_selected_message  "בחירה ריקה" >
-<!ENTITY albumart.displaypane.drag_and_drop  "גרור עטיפה לכאן" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "הצג מסומן כעת" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "הצג מנגן כעת" >
+<!ENTITY albumart.displaypane.not_playing_message "לא מנגן">
+<!ENTITY albumart.displaypane.not_selected_message "בחירה ריקה">
+<!ENTITY albumart.displaypane.drag_and_drop "גרור עטיפה לכאן">
+<!ENTITY albumart.displaypane.contextmenu.showselected "הצג מסומן כעת">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "הצג מנגן כעת">
 <!ENTITY albumart.displaypane.selected.menu.cut "גזור">
 <!ENTITY albumart.displaypane.selected.menu.copy "העתק">
 <!ENTITY albumart.displaypane.selected.menu.paste "הדבק">
 <!ENTITY albumart.displaypane.selected.menu.clear "נקה">
 <!ENTITY albumart.coverpreview.title "עטיפה">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "עטיפת אלבום">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "שמור תמונת אלבום במטה דטה">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "חפש שמות קבצים:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "הזן רשימת שמות קבצים מופרדת בפסיק">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "חפש סיומות קבצים">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "הזן רשימת סיומות מופרדות בפסיק זו מזו">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "למעלה">
 <!ENTITY albumartpreferences.prefpane.priorities.down "למטה">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "אתחל">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "אחורה">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "בטל">
-<!ENTITY wizard.button.next.label      "המשך">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "סיים">
-
+<!ENTITY wizard.button.back.label "אחורה">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "בטל">
+<!ENTITY wizard.button.next.label "המשך">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "סיים">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "שגיאת Mediacore">
-<!ENTITY mediacore.error.preface  "סונגבירד נתקלה בשגיאת המדיה הבאה:">
+<!ENTITY mediacore.error.title "שגיאת Mediacore">
+<!ENTITY mediacore.error.preface "סונגבירד נתקלה בשגיאת המדיה הבאה:">
 <!ENTITY mediacore.error.continue "המשך">
-<!ENTITY mediacore.error.stop     "עצור פלייבק">
+<!ENTITY mediacore.error.stop "עצור פלייבק">
 <!ENTITY mediacore.error.dontshowme "אל תציג שגיאות מדיה נוספות">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
-<!ENTITY mediacore.error.codec_not_found.text.post "">
-
-<!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "שמע">
-
-<!ENTITY playback.prefpane.audio_output.label   "פלט שמע">
-<!ENTITY playback.prefpane.audio_output.buffer  "אוגר הפלט:">
-
-<!ENTITY playback.prefpane.streaming.label      "תקשורת וזרימה:">
-<!ENTITY playback.prefpane.streaming.buffer     "אוגר:">
-
-<!ENTITY playback.prefpane.normalization.label  "נירמול">
+<!ENTITY playback.prefpane.label "שמע">
+<!ENTITY playback.prefpane.audio_output.label "פלט שמע">
+<!ENTITY playback.prefpane.audio_output.buffer "אוגר הפלט:">
+<!ENTITY playback.prefpane.streaming.label "תקשורת וזרימה:">
+<!ENTITY playback.prefpane.streaming.buffer "אוגר:">
+<!ENTITY playback.prefpane.normalization.label "נירמול">
 <!ENTITY playback.prefpane.normalization.enable "השתמש בנירמול נתוני אודיו אם הדבר אפשרי">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "מועדף עבור:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "אלבום">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "רצועה">
-
-<!ENTITY playback.prefpane.units.kilobytes  "קב">
-<!ENTITY playback.prefpane.units.ms         "מש">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
+<!ENTITY playback.prefpane.units.kilobytes "קב">
+<!ENTITY playback.prefpane.units.ms "מש">
 <!ENTITY fetch_album_art.dialog.title "השג את עטיפת האלבום">
 <!ENTITY fetch_album_art.dialog.message "לא מבוצע כעת. (ראה באג 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "אמן">
-<!ENTITY cdrip.lookup.info_not_found.album  "אלבום">
-<!ENTITY cdrip.lookup.info_not_found.title  "לא נמצא מידע תקליטור">
-<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
+<!ENTITY cdrip.lookup.info_not_found.album "אלבום">
+<!ENTITY cdrip.lookup.info_not_found.title "לא נמצא מידע תקליטור">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "כותרת">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "בצע ריפ לדיסק">
 <!ENTITY cdrip.prefpane.format "אתחל">
@@ -804,34 +639,26 @@
 <!ENTITY cdrip.prefpane.eject_after_rip "הוצא דיסק כאשר הריפ מסתיים">
 <!ENTITY cdrip.prefpane.soundalert_after_rip "השמע צליל מערכת כאשר הריפ הושלם">
 <!ENTITY cdrip.prefpane.providers.title "ספק איתור תקליטור">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "הגדרות ריפ תקליטור">
-<!ENTITY cdrip.mediaview.format_label              "פורמט:">
-<!ENTITY cdrip.mediaview.quality_label             "איכות">
-<!ENTITY cdrip.mediaview.settings_button           "הגדרות">
-<!ENTITY cdrip.mediaview.rip_cd_button             "בצע ריפ לדיסק">
-<!ENTITY cdrip.mediaview.stop_rip_button           "הפסק ריפ">
-<!ENTITY cdrip.mediaview.view_tracks_button        "הצג רצועות">
-<!ENTITY cdrip.mediaview.eject_cd_button           "שלוף תקליטור">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "הגדרות ריפ תקליטור">
+<!ENTITY cdrip.mediaview.format_label "פורמט:">
+<!ENTITY cdrip.mediaview.quality_label "איכות">
+<!ENTITY cdrip.mediaview.settings_button "הגדרות">
+<!ENTITY cdrip.mediaview.rip_cd_button "בצע ריפ לדיסק">
+<!ENTITY cdrip.mediaview.stop_rip_button "הפסק ריפ">
+<!ENTITY cdrip.mediaview.view_tracks_button "הצג רצועות">
+<!ENTITY cdrip.mediaview.eject_cd_button "שלוף תקליטור">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "חלון וידאו">
 <!ENTITY videowindow.actualsize "גודל אמיתי">
 <!ENTITY videowindow.fullscreen "מסך מלא">
-
-<!ENTITY videowindow.fullscreen.key   "F">
-<!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "אנו רוצים להודות לתורמינו, שמתאמצים על מנת להביא את סונגבירד למה שהיא. אנשים אלו עזרו לכתוב את הקוד והתיעוד, ועזרו לבחון את התוכנה לפני ששוחררה. הם יצרו וטיפלו במוצר, בחבילות הפיתוח שקשורות אליו, בכלי הבנייה שלנו ובאתרינו. שמותיהם מלווים בכינויהם ברשת האיי.אר.סי. בואו להגיד שלום בשרת מוזילה, בחדר סונגבירד!">
 <!ENTITY about.credits.footer.beforeLink "כמובן, שום דבר לא היה מתקיים ללא העבודה הקשה והשקעתם של">
@@ -839,18 +666,6 @@
 <!ENTITY about.credits.footer.afterLink "לפרויקט מוזילה.">
 <!ENTITY about.credits.heading.translators "המתרגמים">
 <!ENTITY about.credits.heading.champs "אלופים">
-<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
-
-<!ENTITY cdrip.lookup.multiple.title       "נמצאו מספר רשומות תקליטור">
+<!ENTITY cdrip.lookup.multiple.title "נמצאו מספר רשומות תקליטור">
 <!ENTITY cdrip.lookup.multiple.description "בחר אחד מהרשימה או הוסף מידע משלך">
-<!ENTITY cdinfo.other.label                "הוסף פרטי אלבום ואמן משלך">
-
-<!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >
+<!ENTITY cdinfo.other.label "הוסף פרטי אלבום ואמן משלך">

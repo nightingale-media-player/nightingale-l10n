@@ -1,856 +1,438 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "Konsentite" >
-<!ENTITY window.cancel      "Nuligi" >
-<!ENTITY window.apply       "Apliki" >
-<!ENTITY window.browse      "Foliumi…" >
-<!ENTITY window.save        "Konservi">
-<!ENTITY window.yes         "Jes">
-<!ENTITY window.no          "Ne">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "Konsentite">
+<!ENTITY window.cancel "Nuligi">
+<!ENTITY window.apply "Apliki">
+<!ENTITY window.browse "Foliumi…">
+<!ENTITY window.save "Konservi">
+<!ENTITY window.yes "Jes">
+<!ENTITY window.no "Ne">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Foriri &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Agordoj">
-<!ENTITY menu.mac.preferences.key       ",">
-<!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Servoj">
-<!ENTITY menu.mac.hide                  "Malmontri je &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Malmontri ceterajn">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Montri ĉion">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Dosiero" >
-<!ENTITY menu.file.new          "Nova ludlisto…" >
-<!ENTITY menu.file.smart        "Nova Ruza Ludlisto…" >
-<!ENTITY menu.file.remote       "Nova abono…" >
-<!ENTITY menu.file.podcast      "Nova podkasto…" >
-<!ENTITY menu.file.open         "Malfermi dosieron…" >
-<!ENTITY menu.file.url          "Malfermi lokon…" >
-<!ENTITY menu.file.playlist     "Elpreni Ludliston …" >
-<!ENTITY menu.file.library      "Elpreni Bibliotekon …" >
-<!ENTITY menu.file.newtab       "Nova folio" >
-<!ENTITY menu.file.closetab     "Fermi folion" >
-<!ENTITY menu.file.metadata     "View Metadata">
-<!ENTITY menu.file.scan         "Import Media…" >
-<!ENTITY menu.file.exit         "Foriri" >
-
-<!ENTITY menu.edit          "Redakti" >
-<!ENTITY menu.edit.undo     "Malfari" >
-<!ENTITY menu.edit.redo     "Refari" >
-<!ENTITY menu.edit.cut      "Eltondi" >
-<!ENTITY menu.edit.copy     "Kopii" >
-<!ENTITY menu.edit.paste    "Alglui" >
-<!ENTITY menu.edit.delete   "Forviŝi" >
-<!ENTITY menu.edit.selall   "Elekti ĉiujn" >
-<!ENTITY menu.edit.find        "Serĉi" >
-<!ENTITY menu.edit.findagain   "Serĉi denove" >
-
+<!ENTITY menu.mac.exit "Foriri &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.preferences "Agordoj">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY menu.mac.services "Servoj">
+<!ENTITY menu.mac.hide "Malmontri je &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hideothers "Malmontri ceterajn">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.showall "Montri ĉion">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Dosiero">
+<!ENTITY menu.file.new "Nova ludlisto…">
+<!ENTITY menu.file.smart "Nova Ruza Ludlisto…">
+<!ENTITY menu.file.remote "Nova abono…">
+<!ENTITY menu.file.podcast "Nova podkasto…">
+<!ENTITY menu.file.open "Malfermi dosieron…">
+<!ENTITY menu.file.url "Malfermi lokon…">
+<!ENTITY menu.file.playlist "Elpreni Ludliston …">
+<!ENTITY menu.file.library "Elpreni Bibliotekon …">
+<!ENTITY menu.file.newtab "Nova folio">
+<!ENTITY menu.file.closetab "Fermi folion">
+<!ENTITY menu.file.exit "Foriri">
+<!ENTITY menu.edit "Redakti">
+<!ENTITY menu.edit.undo "Malfari">
+<!ENTITY menu.edit.redo "Refari">
+<!ENTITY menu.edit.cut "Eltondi">
+<!ENTITY menu.edit.copy "Kopii">
+<!ENTITY menu.edit.paste "Alglui">
+<!ENTITY menu.edit.delete "Forviŝi">
+<!ENTITY menu.edit.selall "Elekti ĉiujn">
+<!ENTITY menu.edit.find "Serĉi">
+<!ENTITY menu.edit.findagain "Serĉi denove">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Agordoj">
+<!ENTITY menu.linux.preferences "Agordoj">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Controls" >
-<!ENTITY menu.control.play  "Ludi" >
-<!ENTITY menu.control.pause "Paŭzo" >
-<!ENTITY menu.control.next  "Sekva Kanzono" >
-<!ENTITY menu.control.prev  "Previous Track" >
-<!ENTITY menu.control.shuf  "Hazardordo" >
-<!ENTITY menu.control.repa  "Ripeti ĉiujn" >
-<!ENTITY menu.control.rep1  "Ripeti unu" >
-<!ENTITY menu.control.repx  "Ripeti neniun" >
-<!ENTITY menu.control.jumpto "Salti al" >
-
-<!ENTITY menu.control.play.button      "Ludi" >
-<!ENTITY menu.control.pause.button     "Paŭzo" >
-<!ENTITY menu.control.stop.button      "Haltu" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY displaypane.default.image.post "menu or visit the">
+<!ENTITY menu.control.play "Ludi">
+<!ENTITY menu.control.pause "Paŭzo">
+<!ENTITY menu.control.next "Sekva Kanzono">
+<!ENTITY menu.control.shuf "Hazardordo">
+<!ENTITY menu.control.repa "Ripeti ĉiujn">
+<!ENTITY menu.control.rep1 "Ripeti unu">
+<!ENTITY menu.control.repx "Ripeti neniun">
+<!ENTITY menu.control.jumpto "Salti al">
+<!ENTITY menu.control.play.button "Ludi">
+<!ENTITY menu.control.pause.button "Paŭzo">
+<!ENTITY menu.control.stop.button "Haltu">
 <!ENTITY displaypane.default.link.pre "">
-<!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY displaypane.name.servicepane   "Service Pane Bottom">
-<!ENTITY displaypane.name.browser       "Content Pane Bottom">
-<!ENTITY displaypane.name.sidebar       "Right Sidebar">
-<!ENTITY servicepane.title.label        "Service Pane">
-
-<!ENTITY menu.tools            "Iloj" >
-<!ENTITY menu.tools.getartwork "Get Artwork">
-<!ENTITY menu.tools.exportmedia "Export Library Changes">
-
-<!ENTITY menu.help          "Helpo" >
-<!ENTITY menu.help.homepage "&brandShortName; Website" >
-<!ENTITY menu.help.bugz     "Report a Bug…" >
-<!ENTITY menu.help.topics   "Helpaj temoj" >
+<!ENTITY menu.tools "Iloj">
+<!ENTITY menu.help "Helpo">
+<!ENTITY menu.help.topics "Helpaj temoj">
 <!ENTITY menu.help.keyboard "Klavkombinoj">
-<!ENTITY menu.help.about    "Pri &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Ekvalizilo…" >
-<!ENTITY menu.preferences   "Agordoj" >
-<!ENTITY menu.extensions    "Etendoprogramoj" >
+<!ENTITY menu.help.about "Pri &brandShortName;">
+<!ENTITY menu.equalizer "Ekvalizilo…">
+<!ENTITY menu.preferences "Agordoj">
+<!ENTITY menu.extensions "Etendoprogramoj">
 <!ENTITY menu.clearprivatedata "Purigi Privatan Datumojn…">
 <!ENTITY menu.errorconsole "Konzolo de eraroj">
-<!ENTITY menu.downloadmgr   "File Downloads" >
-<!ENTITY menu.switchplayercontrols  "Player Controls" >
-<!ENTITY menu.controllerontop       "Montri Supre">
-<!ENTITY menu.controlleronbottom    "Montri Sube">
-
-<!ENTITY menu.fullscreen            "Full Screen">
-<!ENTITY menu.videotofront          "Video to Front">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Atendanta disponeĵon.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Waiting for all device operations to complete.  Click &quot;Quit&quot; to stop waiting and quit application.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Foriri">
-
-<!ENTITY tooltip.minimize         "Plejetigi" >
-<!ENTITY tooltip.maximize         "Maksimumigi/Restaŭri" >
-<!ENTITY tooltip.exit             "Foriri" >
-<!ENTITY tooltip.close            "Close" >
-<!ENTITY tooltip.hide             "Malmontri" >
-<!ENTITY tooltip.fullscreen       "Plenekrano" >
-<!ENTITY tooltip.control.back     "Antaŭa Kanto" >
-<!ENTITY tooltip.control.play     "Ludi" >
-<!ENTITY tooltip.control.pause    "Paŭzo" >
-<!ENTITY tooltip.control.resume   "Reaktivigi" >
-<!ENTITY tooltip.control.stop     "Halti" >
-<!ENTITY tooltip.control.fwd      "Sekva Kanto" >
-<!ENTITY tooltip.control.mute     "Silentigi" >
-<!ENTITY tooltip.control.volume   "volumo" >
-<!ENTITY tooltip.control.shuffle  "Miksludi" >
-<!ENTITY tooltip.control.shuf_off "Malŝalti miksludadon" >
-<!ENTITY tooltip.control.curtrack "Serĉu Aktualan Kanton" >
-<!ENTITY tooltip.search           "Serĉi" >
-<!ENTITY tooltip.browser.back     "Foliumi malantaŭen" >
-<!ENTITY tooltip.browser.fwd      "Foliumi antaŭen" >
-<!ENTITY tooltip.browser.stop     "Halti Foliumilon" >
-<!ENTITY tooltip.browser.home     "Hejmo" >
-<!ENTITY tooltip.browser.refresh  "Reŝarĝi" >
-<!ENTITY tooltip.browser.subscription "Abonu al tiu paĝo" >
-<!ENTITY tooltip.browser.mediapages.list "List View" >
-<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
-<!ENTITY tooltip.browser.mediapages "Switch Media Views…" >
-<!ENTITY tooltip.servicepane.show    "Montri servopanelon" >
-<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "Nova ludlisto" >
-<!ENTITY tooltip.displaypane.options "Content Pane Options">
-
-<!ENTITY smart.window             "Inteligenta Ludlisto" >
-<!ENTITY smart.limit              "Limit to" >
-<!ENTITY smart.match              "Match" >
-<!ENTITY smart.matchsingle        "Match the following condition:" >
-<!ENTITY smart.any                "any" >
-<!ENTITY smart.all                "ĉio" >
-<!ENTITY smart.following          "of the following conditions:" >
-<!ENTITY smart.random             "hazarordo" >
-<!ENTITY smart.album              "albumo" >
-<!ENTITY smart.artist             "artisto" >
-<!ENTITY smart.genre              "ĝenro" >
-<!ENTITY smart.title              "titolo" >
-<!ENTITY smart.high_rating        "highest rating" >
-<!ENTITY smart.low_rating         "lowest rating" >
-<!ENTITY smart.most_recent        "plej ĵuse ludita" >
-<!ENTITY smart.least_recent       "least recently played" >
-<!ENTITY smart.most_often         "plej ofte ludita" >
-<!ENTITY smart.least_often        "least often played" >
-<!ENTITY smart.most_added         "plej ĵuse aldonita" >
-<!ENTITY smart.least_added        "least recently added" >
-<!ENTITY smart.minutes            "minutoj" >
-<!ENTITY smart.hours              "horoj" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "elementoj" >
-<!ENTITY smart.selectedby         "selektite pro" >
-<!ENTITY smart.to                 "por" >
-<!ENTITY smart.autoupdate         "Auto update">
+<!ENTITY menu.controllerontop "Montri Supre">
+<!ENTITY menu.controlleronbottom "Montri Sube">
+<!ENTITY device.dialog.wait_for_completion.title "Atendanta disponeĵon.">
+<!ENTITY device.dialog.wait_for_completion.quit "Foriri">
+<!ENTITY tooltip.minimize "Plejetigi">
+<!ENTITY tooltip.maximize "Maksimumigi/Restaŭri">
+<!ENTITY tooltip.exit "Foriri">
+<!ENTITY tooltip.hide "Malmontri">
+<!ENTITY tooltip.fullscreen "Plenekrano">
+<!ENTITY tooltip.control.back "Antaŭa Kanto">
+<!ENTITY tooltip.control.play "Ludi">
+<!ENTITY tooltip.control.pause "Paŭzo">
+<!ENTITY tooltip.control.resume "Reaktivigi">
+<!ENTITY tooltip.control.stop "Halti">
+<!ENTITY tooltip.control.fwd "Sekva Kanto">
+<!ENTITY tooltip.control.mute "Silentigi">
+<!ENTITY tooltip.control.volume "volumo">
+<!ENTITY tooltip.control.shuffle "Miksludi">
+<!ENTITY tooltip.control.shuf_off "Malŝalti miksludadon">
+<!ENTITY tooltip.control.curtrack "Serĉu Aktualan Kanton">
+<!ENTITY tooltip.search "Serĉi">
+<!ENTITY tooltip.browser.back "Foliumi malantaŭen">
+<!ENTITY tooltip.browser.fwd "Foliumi antaŭen">
+<!ENTITY tooltip.browser.stop "Halti Foliumilon">
+<!ENTITY tooltip.browser.home "Hejmo">
+<!ENTITY tooltip.browser.refresh "Reŝarĝi">
+<!ENTITY tooltip.browser.subscription "Abonu al tiu paĝo">
+<!ENTITY tooltip.servicepane.show "Montri servopanelon">
+<!ENTITY tooltip.servicepane.newnode "Nova ludlisto">
+<!ENTITY smart.window "Inteligenta Ludlisto">
+<!ENTITY smart.all "ĉio">
+<!ENTITY smart.random "hazarordo">
+<!ENTITY smart.album "albumo">
+<!ENTITY smart.artist "artisto">
+<!ENTITY smart.genre "ĝenro">
+<!ENTITY smart.title "titolo">
+<!ENTITY smart.most_recent "plej ĵuse ludita">
+<!ENTITY smart.most_often "plej ofte ludita">
+<!ENTITY smart.most_added "plej ĵuse aldonita">
+<!ENTITY smart.minutes "minutoj">
+<!ENTITY smart.hours "horoj">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "elementoj">
+<!ENTITY smart.selectedby "selektite pro">
+<!ENTITY smart.to "por">
 <!ENTITY smart.playlistcondition.library "Biblioteko">
 <!ENTITY smart.contenttypecondition.video "Filmeto">
 <!ENTITY smart.contenttypecondition.audio "Muziko">
-
-<!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
-
-<!ENTITY open_url.title           "Malfermi je URL">
-<!ENTITY subscribe.title          "Aboni">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Minuto(j)">
-<!ENTITY subscribe.hours          "Horo(j)">
-<!ENTITY subscribe.days           "Tago(j)">
-<!ENTITY subscribe.autocheck      "Automatically update every">
-<!ENTITY subscribe.destinationfolder      "Selektu celdosierujon:">
-
-<!ENTITY feed.subscribe.label     "Aboni">
-<!ENTITY feed.subscribe.dontask   "Don't automatically show this dialog again">
-<!ENTITY feed.subscribe.close     "Fermi">
-
-<!ENTITY podcast.creation_dialog.title       "Nova podkasto">
+<!ENTITY open_url.title "Malfermi je URL">
+<!ENTITY subscribe.title "Aboni">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Minuto(j)">
+<!ENTITY subscribe.hours "Horo(j)">
+<!ENTITY subscribe.days "Tago(j)">
+<!ENTITY subscribe.destinationfolder "Selektu celdosierujon:">
+<!ENTITY feed.subscribe.label "Aboni">
+<!ENTITY feed.subscribe.close "Fermi">
+<!ENTITY podcast.creation_dialog.title "Nova podkasto">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Observu Dosierujojn">
-<!ENTITY watchfolder.folderlist   "Watch these folders for new media:">
-
-<!ENTITY locale.language          "Lingvo" >
-<!ENTITY menu.view                "Vidi" >
-<!ENTITY about.version            "Versio" >
-<!ENTITY about.buttons.credits    "Kreditoj" >
-
-<!ENTITY equalizer.title          "Ekvalizilo" >
-<!ENTITY equalizer.on.checkbox    "On" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Custom" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Roko" >
-<!ENTITY equalizer.preset.soft_rock   "Soft Rock" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Skao" >
-<!ENTITY equalizer.preset.reggae      "Regeo" >
-<!ENTITY equalizer.preset.live        "Live" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Festo" >
-<!ENTITY equalizer.preset.classical   "Classical" >
-<!ENTITY equalizer.preset.large_hall  "Large Hall" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Popo" >
-<!ENTITY equalizer.preset.soft        "Soft" >
-<!ENTITY equalizer.preset.small_speakers   "Laptop/Headphones" >
-<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
-<!ENTITY equalizer.preset.full_treble "Full treble" >
-<!ENTITY equalizer.preset.full_bass   "Full bass" >
-
-
-<!ENTITY setupprogress.pleasewait "Bonvolu atendi…" >
-<!ENTITY setupprogress.cancel     "Nuligi">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "C" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "O" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "A" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "Montri dosieron" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "B" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "Observu Dosierujojn">
+<!ENTITY locale.language "Lingvo">
+<!ENTITY menu.view "Vidi">
+<!ENTITY about.version "Versio">
+<!ENTITY about.buttons.credits "Kreditoj">
+<!ENTITY equalizer.title "Ekvalizilo">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.rock "Roko">
+<!ENTITY equalizer.preset.ska "Skao">
+<!ENTITY equalizer.preset.reggae "Regeo">
+<!ENTITY equalizer.preset.party "Festo">
+<!ENTITY equalizer.preset.pop "Popo">
+<!ENTITY setupprogress.pleasewait "Bonvolu atendi…">
+<!ENTITY setupprogress.cancel "Nuligi">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "Montri dosieron">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Metadatuma Redaktilo" >
-<!ENTITY trackeditor.tab.summary.title            "Resumo" >
-<!ENTITY trackeditor.tab.edit.title               "Ecoj" >
-<!ENTITY trackeditor.tab.lyrics.title             "Liriko" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Metadatuma Redaktilo">
+<!ENTITY trackeditor.tab.summary.title "Resumo">
+<!ENTITY trackeditor.tab.edit.title "Ecoj">
+<!ENTITY trackeditor.tab.lyrics.title "Liriko">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Aldoni etikedon" >
-<!ENTITY trackeditor.addtag.tag       "Etikedo:" >
-
-<!ENTITY jumptofile.title             "Salti al" >
-<!ENTITY jumptofile.search            "Serĉi:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Uzi ĝeneralajn Klavkomandojn" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Ago" >
-<!ENTITY hotkeys.hotkey               "Klavkomando" >
-<!ENTITY hotkeys.add                  "Aldoni" >
-<!ENTITY hotkeys.set                  "Agordi" >
-<!ENTITY hotkeys.remove               "Forviŝi" >
-<!ENTITY hotkeys.prefpane             "Klavkomandoj" >
-<!ENTITY hotkeys.info                 "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.&#10;&#10;Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications." >
-
-<!ENTITY rapi.prefpane.title             "Web Integration" >
-<!ENTITY rapi.prefpane.access.caption    "Web Integration Permissions" >
-<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
-<!ENTITY rapi.whitelist.label            "Exceptions…" >
-<!ENTITY rapi.restore_defaults.label      "Restore to Default" >
-<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback" >
-<!ENTITY rapi.playback_read_disable.label    "Block websites from viewing information about playing media" >
-<!ENTITY rapi.library_read_disable.label     "Block websites from viewing information about media in my Library and devices" >
-<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Etendoprogramoj">
-<!ENTITY prefpane.content.label       "Web Content">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "No USB mass-storage devices are connected." >
-<!ENTITY umsd.music.tab                     "Muziko" >
-<!ENTITY umsd.music.music_files_group       "Muzikaj dosieroj" >
-<!ENTITY umsd.music.music_path_desc         "When copying music files to the device, place them within the following directory:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Select the device directory in which to place music files." >
-<!ENTITY umsd.music.music_ext_desc          "Copy music files with the following extensions to the device:" >
-<!ENTITY umsd.video.tab                     "Filmeto" >
-<!ENTITY umsd.video.video_files_group       "Filmetaj dosieroj" >
-<!ENTITY umsd.video.video_path_desc         "When copying video files to the device, place them within the following directory:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Select the device directory in which to place video files." >
-<!ENTITY umsd.video.video_ext_desc          "Copy video files with the following extensions to the device:" >
-
-<!ENTITY device.error.dialog.link           "Vidi Erarajn Detalojn" >
-
-<!ENTITY restartbox.restartnow        "Restarti nun" >
-<!ENTITY restartbox.restartonplaybackend "Restarti je la Fino de Reproduktado" >
-<!ENTITY restartbox.restartlater      "Restarti poste" >
-
-<!ENTITY setupprogress.installingextensions "Instalado de etendoprogramoj" >
-
-<!ENTITY jobprogress.details "Detaloj" >
-
-<!ENTITY menu.updateCmd.label          "Check for Updates…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Spacostango" >
-
+<!ENTITY trackeditor.addtag.title "Aldoni etikedon">
+<!ENTITY trackeditor.addtag.tag "Etikedo:">
+<!ENTITY jumptofile.title "Salti al">
+<!ENTITY jumptofile.search "Serĉi:">
+<!ENTITY hotkeys.useglobalhotkeys "Uzi ĝeneralajn Klavkomandojn">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Ago">
+<!ENTITY hotkeys.hotkey "Klavkomando">
+<!ENTITY hotkeys.add "Aldoni">
+<!ENTITY hotkeys.set "Agordi">
+<!ENTITY hotkeys.remove "Forviŝi">
+<!ENTITY hotkeys.prefpane "Klavkomandoj">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Etendoprogramoj">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.music.tab "Muziko">
+<!ENTITY umsd.music.music_files_group "Muzikaj dosieroj">
+<!ENTITY umsd.video.tab "Filmeto">
+<!ENTITY umsd.video.video_files_group "Filmetaj dosieroj">
+<!ENTITY device.error.dialog.link "Vidi Erarajn Detalojn">
+<!ENTITY restartbox.restartnow "Restarti nun">
+<!ENTITY restartbox.restartonplaybackend "Restarti je la Fino de Reproduktado">
+<!ENTITY restartbox.restartlater "Restarti poste">
+<!ENTITY setupprogress.installingextensions "Instalado de etendoprogramoj">
+<!ENTITY jobprogress.details "Detaloj">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Spacostango">
 <!ENTITY tabs.closeTab "Fermi folion">
-<!ENTITY tabs.listAllTabs "List all tabs">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Hejmpaĝo" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Etendoprograma instalado" >
-
+<!ENTITY prefs.homepage.label "Hejmpaĝo">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Etendoprograma instalado">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Nuligi">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "Nuligi kopiadon">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "Nuligi forviŝadon">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "Nuligi sinkronigadon">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "Nuligi ĝisdatigon">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "Elĵeti">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Formato">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Ignori">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Akiri informon">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Ŝanĝi nomon">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Sinkronigi">
-<!ENTITY command.device.devicesync.accesskey            "S">
-<!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Rip CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Stop Rip">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Lookup CD Information">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Eject CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Repair my device">
-
-<!ENTITY device.firmware.wizard.title                     "Update Firmware">
-<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
-<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
-
-<!ENTITY device.info.icon.device            "Generic device icon">
-<!ENTITY device.info.icon.readonly          "Read-only lock icon">
-<!ENTITY device.info.model.label            "Modelo">
-<!ENTITY device.info.capacity.label         "Enhaveco">
-<!ENTITY device.info.product.label          "Product">
-<!ENTITY device.info.friendly_name.label    "Nomo">
-<!ENTITY device.info.serial_number.label    "Seria Numero">
-<!ENTITY device.info.vendor.label           "Fabrikanto">
-<!ENTITY device.info.access.label           "Access Compatibility">
-<!ENTITY device.info.playback_formats.label "File Formats">
-<!ENTITY device.info.battery.label          "Baterio">
-<!ENTITY device.info.firmware_version.label "Firmware Version">
-
-<!ENTITY device.progress.sync               "Sinkronigi">
-
-<!ENTITY device.capacity.music.label    "Muziko">
-<!ENTITY device.capacity.video.label    "Filmeto">
-<!ENTITY device.capacity.image.label    "Photos">
-<!ENTITY device.capacity.other.label    "Alia">
-<!ENTITY device.capacity.free.label     "Libera">
-
-<!ENTITY device.unsupported_media.dialog.title  "Incompatible Files Detected">
-<!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
-
+<!ENTITY command.device.cancel "Nuligi">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Nuligi kopiadon">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Nuligi forviŝadon">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Nuligi sinkronigadon">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Nuligi ĝisdatigon">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Elĵeti">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Formato">
+<!ENTITY command.device.ignoredevice "Ignori">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Akiri informon">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Ŝanĝi nomon">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Sinkronigi">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY device.info.model.label "Modelo">
+<!ENTITY device.info.capacity.label "Enhaveco">
+<!ENTITY device.info.friendly_name.label "Nomo">
+<!ENTITY device.info.serial_number.label "Seria Numero">
+<!ENTITY device.info.vendor.label "Fabrikanto">
+<!ENTITY device.info.battery.label "Baterio">
+<!ENTITY device.progress.sync "Sinkronigi">
+<!ENTITY device.capacity.music.label "Muziko">
+<!ENTITY device.capacity.video.label "Filmeto">
+<!ENTITY device.capacity.other.label "Alia">
+<!ENTITY device.capacity.free.label "Libera">
 <!ENTITY device.sync.header.label "Sinkronigaj Agordoj">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Sinkronigi">
 <!ENTITY device.sync.sync_all.label "Ĉiu muziko, video kaj ludlistoj">
 <!ENTITY device.sync.sync_selected.label "Elektitaj ludlistoj:">
 <!ENTITY device.sync.playlist.title "Titolo">
-<!ENTITY device.sync.playlist.video.duration "Video Duration">
-<!ENTITY device.sync.images.from.label "Sync Photos From:">
-<!ENTITY device.sync.images.browse "Choose folder…">
-<!ENTITY device.sync.images.all.label "All photos">
-<!ENTITY device.sync.images.all.template "All photos (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Selected sub-folders">
-<!ENTITY device.sync.images.foldername "Folder Name">
-<!ENTITY device.sync.images.filecount "Photos">
-
 <!ENTITY device.settings.header.label "Agordoj">
-<!ENTITY device.settings.general.label "General">
-<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
-<!ENTITY device.settings.music.transcoding.label "Music Conversion">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
-<!ENTITY device.settings.disk.label "Disk Management">
-<!ENTITY device.settings.disk.management.label "Customize directory structure">
-<!ENTITY device.settings.disk.management.filename "Song files">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Muziko">
 <!ENTITY device.management.tabs.video.label "Filmeto">
-<!ENTITY device.management.tabs.image.label "Photos">
 <!ENTITY device.management.tabs.tools.label "Iloj">
 <!ENTITY device.management.tabs.settings.label "Agordoj">
-
-<!ENTITY device.tools.product_registration.title "Product Registration">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
-<!ENTITY device.tools.product_registration.label "Register product">
-
-<!ENTITY device.tools.update_firmware.title "Update Firmware">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
-<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
-
-<!ENTITY device.tools.restore_device.title "Restore Device">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-
-<!ENTITY device.tools.format_device.title "Format Device">
-<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
-<!ENTITY device.tools.format_device.label "Format device">
-<!ENTITY device.tools.format_volume.button.label "Format">
-
-<!ENTITY device.tools.support.title "Support">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
-<!ENTITY device.tools.support.label "View support resources">
-
-<!ENTITY device.tools.reset_warnings.title "Reset warnings">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
-<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
-
-<!ENTITY device.dialog.setup.title "Device Setup">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
-<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignore this device">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
-<!ENTITY device.dialog.setup.explainIgnore.linkText "ignore this device">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Malfermi ligilon en defaŭlta foliumilo">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Malfermi paĝon en defaŭlta foliumilo">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Malfermi kadron en defaŭlta foliumilo">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Malfermi bildon en defaŭlta foliumilo">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Kopii elektatan tekston">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "Ludi">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Elŝuti al Biblioteko">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Elŝuti al ludlisto">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Neniu ludlistoj&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Nova ludlisto">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Abonu al tiu paĝo…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Abonu al tiu kadro">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Helpu plibonigi &brandShortName;!">
-<!ENTITY feedback.dialog.yes        "Jes">
-<!ENTITY feedback.dialog.no         "Ne">
-<!ENTITY feedback.dialog.sentence1  "Will you help us make &brandShortName; better by taking a quick, anonymous survey?">
-<!ENTITY feedback.dialog.sentence2  "If you're not interested, we will not ask you again.  Thanks for considering and we appreciate you using &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Sincere,">
-<!ENTITY feedback.dialog.sentence4  "La teamo de &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Malfermi ligilon en defaŭlta foliumilo">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Malfermi paĝon en defaŭlta foliumilo">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Malfermi kadron en defaŭlta foliumilo">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Malfermi bildon en defaŭlta foliumilo">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Kopii elektatan tekston">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Ludi">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Elŝuti al Biblioteko">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Elŝuti al ludlisto">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Neniu ludlistoj&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nova ludlisto">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Abonu al tiu paĝo…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Abonu al tiu kadro">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Helpu plibonigi &brandShortName;!">
+<!ENTITY feedback.dialog.yes "Jes">
+<!ENTITY feedback.dialog.no "Ne">
+<!ENTITY feedback.dialog.sentence3 "Sincere,">
+<!ENTITY feedback.dialog.sentence4 "La teamo de &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Bonvenon al &brandShortName;">
-
-<!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName; Setup">
-
+<!ENTITY mediapages.firstrun.title "Bonvenon al &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Rekomenditaj etendoprogramoj">
-<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;'s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
-<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application's appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY first_run.add_ons.loading.label     "Retrieving recommended add-ons.">
-<!ENTITY first_run.add_ons.load_failed.label "Unable to retrieve recommended add-ons.">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
+<!ENTITY first_run.add_ons.header.label "Rekomenditaj etendoprogramoj">
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; ne povas konekti al la interreto">
-<!ENTITY first_run.connection.description          "Check your Connection Settings or Continue with the Setup assistant.">
-<!ENTITY first_run.connection.settings.button      "Retkonektaj Agordoj…">
-<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
-
-<!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "License Agreement">
-<!ENTITY first_run.eula.accept_checkbox.label "I have read and accepted the terms of this license.">
-<!ENTITY first_run.eula.language.label        "Lingvo:">
-
+<!ENTITY first_run.connection.header.label "&brandShortName; ne povas konekti al la interreto">
+<!ENTITY first_run.connection.settings.button "Retkonektaj Agordoj…">
+<!ENTITY first_run.eula.language.label "Lingvo:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Helpi plibonigi &brandShortName;">
-<!ENTITY first_run.feedback.description             "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
-<!ENTITY first_run.feedback.metrics.label           "Collect and send my metrics to the &brandShortName; team">
-<!ENTITY first_run.feedback.metrics.description     "Metrics are completely anonymous and no personal information is collected.">
-<!ENTITY first_run.feedback.email.header.label      "Sciigu min">
-<!ENTITY first_run.feedback.email.description       "Subscribe to our newsletter to hear about new releases and important updates.">
-<!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
-
-<!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes Import/Export">
-<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Export new music tracks and playlists to iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
-
-<!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Import Media">
-<!ENTITY first_run.import_media.description                  "Select what media you'd like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
-<!ENTITY first_run.import_media.radio.scan_directories.label "Scan directories on my computer">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Do not import media">
-<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
-<!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
-
+<!ENTITY first_run.feedback.header.label "Helpi plibonigi &brandShortName;">
+<!ENTITY first_run.feedback.email.header.label "Sciigu min">
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Elŝutante etendoprogramojn">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Bonvenon al &brandShortName;">
-<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
-<!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
-
-<!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Media Importer">
-
+<!ENTITY first_run.welcome.header.label "Bonvenon al &brandShortName;">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Importi bibliotekon">
-<!ENTITY import_library.prefs.title                       "iTunes Elprenilo">
-<!ENTITY import_library.library_file_label                "Biblioteka dosiero:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Alert me when unsupported tracks or playlists are not imported">
-<!ENTITY import_library.prefs.path_group_caption          "iTunes Music Library Location">
-<!ENTITY import_library.prefs.options_group_caption       "Elpreni Ecojn">
-<!ENTITY import_library.import_command                    "Elpreni bibliotekon">
-<!ENTITY import_tracks_itunes_checkbox                    "Import music tracks from iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Import music playlists">
-<!ENTITY export_tracks_itunes_checkbox                    "Export music tracks to iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Export music playlists">
-<!ENTITY export_subscriptions_itunes_checkbox             "Export subscriptions">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Export music smart playlists">
-<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
-
+<!ENTITY import_library.dialog.title "Importi bibliotekon">
+<!ENTITY import_library.prefs.title "iTunes Elprenilo">
+<!ENTITY import_library.library_file_label "Biblioteka dosiero:">
+<!ENTITY import_library.prefs.options_group_caption "Elpreni Ecojn">
+<!ENTITY import_library.import_command "Elpreni bibliotekon">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Ŝanĝita ludlisto">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Keep the current &brandShortName; playlist (Do not import this playlist)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Kunigi la nuntempan &brandShortName; kaj iTunes ludlistojn">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Replace this &brandShortName; playlist with the current iTunes playlist">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Note: Merge and replace cannot be undone.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Apliki elekton al ĉiuj ludlistoj">
-
-<!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Ŝanĝita ludlisto">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Kunigi la nuntempan &brandShortName; kaj iTunes ludlistojn">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Apliki elekton al ĉiuj ludlistoj">
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Observu Dosierujojn">
-<!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Automatically watch for changes in the following folder">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Dosierujo:">
-
+<!ENTITY watch_folder.prefs.title "Observu Dosierujojn">
+<!ENTITY watch_folder.prefs.watch_folder_label "Dosierujo:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Rekomenditaj etendoprogramoj">
+<!ENTITY enable_recommended_addons_update.label "Rekomenditaj etendoprogramoj">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
-<!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; Setup">
-
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Detaloj">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Detaloj">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Nenio ludanta" >
-<!ENTITY albumart.displaypane.not_selected_message  "Nenio elektita" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Ŝovu albumarton ĉi tie" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Show Now Selected" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Show Now Playing" >
+<!ENTITY albumart.displaypane.not_playing_message "Nenio ludanta">
+<!ENTITY albumart.displaypane.not_selected_message "Nenio elektita">
+<!ENTITY albumart.displaypane.drag_and_drop "Ŝovu albumarton ĉi tie">
 <!ENTITY albumart.displaypane.selected.menu.cut "Eltondi">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopii">
 <!ENTITY albumart.displaypane.selected.menu.paste "Alglui">
 <!ENTITY albumart.displaypane.selected.menu.clear "Purigi">
 <!ENTITY albumart.coverpreview.title "Albuma arto">
-
-<!-- Album Art preferences pane entities. -->
-<!ENTITY albumartpreferences.prefpane.label "Artwork">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file's metadata">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Serĉi dosiernomojn:">
-<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Search file extensions:">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
-
-<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
-<!ENTITY albumartpreferences.prefpane.priorities.up "Up">
-<!ENTITY albumartpreferences.prefpane.priorities.down "Down">
-<!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Veturi Malantaŭen">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "Nuligi">
-<!ENTITY wizard.button.next.label      "Daŭirigu">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "Finiĝi">
-
-<!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Playback Error">
-<!ENTITY mediacore.error.preface  "&brandShortName; has encountered the following playback error(s):">
+<!ENTITY wizard.button.back.label "Veturi Malantaŭen">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Nuligi">
+<!ENTITY wizard.button.next.label "Daŭirigu">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Finiĝi">
 <!ENTITY mediacore.error.continue "Daŭrigu">
-<!ENTITY mediacore.error.stop     "Halti Reproduktadon">
-<!ENTITY mediacore.error.dontshowme "Do not display further playback errors">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
-<!ENTITY mediacore.error.codec_not_found.text.post "">
-
-<!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
+<!ENTITY mediacore.error.stop "Halti Reproduktadon">
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Reproduktado">
-
-<!ENTITY playback.prefpane.audio_output.label   "Audio Output">
-<!ENTITY playback.prefpane.audio_output.buffer  "Output Buffer:">
-
-<!ENTITY playback.prefpane.streaming.label      "Network and Streaming">
-<!ENTITY playback.prefpane.streaming.buffer     "Streaming Buffer:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalization">
-<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
-
-<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
+<!ENTITY playback.prefpane.label "Reproduktado">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Albumo">
-<!ENTITY playback.prefpane.normalization.preferredGain.track "Track">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
-<!ENTITY fetch_album_art.dialog.title "Get Artwork">
-<!ENTITY fetch_album_art.dialog.message "Not currently implemented. (See Bug 14281)">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Artisto">
-<!ENTITY cdrip.lookup.info_not_found.album  "Albumo">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD Information Not Found">
-<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
-<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.info_not_found.album "Albumo">
 <!ENTITY cdrip.lookup.track_name "Titolo">
-
-<!-- CD Rip Pref Pane entities -->
-<!ENTITY cdrip.prefpane.label "CD Rip">
 <!ENTITY cdrip.prefpane.format "Formato">
 <!ENTITY cdrip.prefpane.quality "Kvalito">
-<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
-<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
-<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
-<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
-<!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Settings">
-<!ENTITY cdrip.mediaview.format_label              "Formato:">
-<!ENTITY cdrip.mediaview.quality_label             "Kvalito:">
-<!ENTITY cdrip.mediaview.settings_button           "Agordoj">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Rip CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Stop Rip">
-<!ENTITY cdrip.mediaview.view_tracks_button        "View Tracks">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Eject CD">
-
-<!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.format_label "Formato:">
+<!ENTITY cdrip.mediaview.quality_label "Kvalito:">
+<!ENTITY cdrip.mediaview.settings_button "Agordoj">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Filmeta fenestro">
-<!ENTITY videowindow.actualsize "Actual Size">
-<!ENTITY videowindow.fullscreen "Full Screen">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
-<!-- about:credits entities. -->
-<!ENTITY about.credits.intro "We would like to thank our contributors, whose efforts make Songbird what it is. These people have helped by writing code and documentation, and by testing. They have created and maintained this product, its associated development kits, our build tools and our web sites.  Names are followed by IRC nicks, come by #songbird on irc.mozilla.org and say hello!">
 <!ENTITY about.credits.footer.beforeLink "Kompreneble, neniu   efforts: klodoj">
 <!ENTITY about.credits.footer.linkText "la kontribuantoj">
 <!ENTITY about.credits.footer.afterLink "al la Mozila projekto.">
 <!ENTITY about.credits.heading.translators "Tradukistoj">
 <!ENTITY about.credits.heading.champs "Ĉampionoj">
-<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Multiple CD Records Found">
-<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
-<!ENTITY cdinfo.other.label                "">
-
-<!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >
+<!ENTITY cdinfo.other.label "">

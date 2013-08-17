@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "Kortkommandon i &brandShortName; " >
-<!ENTITY help.keyboard.subtitle           "Kortkommandon" >
-<!ENTITY help.keyboard.description        "Kortkommandon kan göra användningen av &brandShortName; enklare. Nedan följer en lista över tillgängliga funktioner med respektive kortkommandon.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Funktion" >
-<!ENTITY help.keyboard.heading.shortcut   "Kortkommando" >
-<!ENTITY help.keyboard.section.playback   "Inställningar för uppspelning" >
-<!ENTITY help.keyboard.section.library    "Bibliotek och spellistor" >
-<!ENTITY help.keyboard.section.editing    "Redigering" >
-<!ENTITY help.keyboard.section.navigation "Navigation" >
-<!ENTITY help.keyboard.section.browser    "Webbläsare" >
-<!ENTITY help.keyboard.section.windows    "Fönster och flikar" >
-<!ENTITY help.keyboard.section.search     "Sök" >
-<!ENTITY help.keyboard.section.video      "Video" >
-<!ENTITY help.keyboard.section.cdrip      "CD-rippning" >
-<!ENTITY help.keyboard.section.misc       "Diverse" >
-
-<!ENTITY help.keyboard.key.left           "Pil vänster" >
-<!ENTITY help.keyboard.key.right          "Pil höger" >
-<!ENTITY help.keyboard.key.up             "Pil upp" >
-<!ENTITY help.keyboard.key.down           "Pil ned" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Musklick" >
-<!ENTITY help.keyboard.mouse.click.middle "Musklick mitten" >
-<!ENTITY help.keyboard.key.meta           "Windowstangenten" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Del" >
-
+<!ENTITY help.keyboard.title "Kortkommandon i &brandShortName; ">
+<!ENTITY help.keyboard.subtitle "Kortkommandon">
+<!ENTITY help.keyboard.description "Kortkommandon kan göra användningen av &brandShortName; enklare. Nedan följer en lista över tillgängliga funktioner med respektive kortkommandon.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Funktion">
+<!ENTITY help.keyboard.heading.shortcut "Kortkommando">
+<!ENTITY help.keyboard.section.playback "Inställningar för uppspelning">
+<!ENTITY help.keyboard.section.library "Bibliotek och spellistor">
+<!ENTITY help.keyboard.section.editing "Redigering">
+<!ENTITY help.keyboard.section.navigation "Navigation">
+<!ENTITY help.keyboard.section.browser "Webbläsare">
+<!ENTITY help.keyboard.section.windows "Fönster och flikar">
+<!ENTITY help.keyboard.section.search "Sök">
+<!ENTITY help.keyboard.section.video "Video">
+<!ENTITY help.keyboard.section.cdrip "CD-rippning">
+<!ENTITY help.keyboard.section.misc "Diverse">
+<!ENTITY help.keyboard.key.left "Pil vänster">
+<!ENTITY help.keyboard.key.right "Pil höger">
+<!ENTITY help.keyboard.key.up "Pil upp">
+<!ENTITY help.keyboard.key.down "Pil ned">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Musklick">
+<!ENTITY help.keyboard.mouse.click.middle "Musklick mitten">
+<!ENTITY help.keyboard.key.meta "Windowstangenten">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Del">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Spela upp/Pausa vald mediapost" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Spela upp föregående mediafil i lista" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Spela upp nästa mediafil i lista" >
-<!ENTITY help.keyboard.name.volume.down         "Sänk volymen" >
-<!ENTITY help.keyboard.name.volume.up           "Höj volym" >
-<!ENTITY help.keyboard.name.volume.mute         "Ljud av" >
-<!ENTITY help.keyboard.name.volume.max          "Maxvolym" >
-<!ENTITY help.keyboard.name.jumpto              "Gå till fönster" >
-<!ENTITY help.keyboard.name.equalizer           "Öppna equalizer" >
-<!ENTITY help.keyboard.name.new.playlist        "Ny spellista" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Ny smart spellista" >
-<!ENTITY help.keyboard.name.import              "Importera media" >
-<!ENTITY help.keyboard.name.currenttrack        "Visa mediafil som spelas nu" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Ändra mediavy" >
-<!ENTITY help.keyboard.name.feather.switch      "Ändra fjäder-layout" >
-<!ENTITY help.keyboard.name.trackeditor         "Redigera metadata" >
-<!ENTITY help.keyboard.name.edit.undo           "Ångra" >
-<!ENTITY help.keyboard.name.edit.redo           "Gör om" >
-<!ENTITY help.keyboard.name.edit.selectall      "Markera allt" >
-<!ENTITY help.keyboard.name.edit.cut            "Klipp ut" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopiera" >
-<!ENTITY help.keyboard.name.edit.paste          "Klistra in" >
-<!ENTITY help.keyboard.name.edit.delete         "Ta bort" >
-<!ENTITY help.keyboard.name.browser.back        "Bakåt" >
-<!ENTITY help.keyboard.name.browser.forward     "Framåt" >
-<!ENTITY help.keyboard.name.browser.reload      "Läs in igen" >
-<!ENTITY help.keyboard.name.browser.stop        "Avbryt inläsning" >
-<!ENTITY help.keyboard.name.open.file           "Öppna" >
-<!ENTITY help.keyboard.name.open.url            "Öppna URL" >
-<!ENTITY help.keyboard.name.tab.open.link       "Öppna länk i ny flik" >
-<!ENTITY help.keyboard.name.save.link           "Spara länk" >
-<!ENTITY help.keyboard.name.file.print          "Skriv ut" >
-<!ENTITY help.keyboard.name.view.source         "Visa källa" >
-<!ENTITY help.keyboard.name.view.zoomin         "Zooma in" >
-<!ENTITY help.keyboard.name.view.zoomout        "Zooma ut" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Återställ zoom" >
-<!ENTITY help.keyboard.name.subscribe           "Prenumerera" >
-<!ENTITY help.keyboard.name.locationbar         "Fokus på adressfältet" >
-<!ENTITY help.keyboard.name.tab.new             "Ny flik" >
-<!ENTITY help.keyboard.name.tab.close           "Stäng flik" >
-<!ENTITY help.keyboard.name.tab.next            "Nästa flik" >
-<!ENTITY help.keyboard.name.tab.previous        "Föregående flik" >
-<!ENTITY help.keyboard.name.tab.1               "Gå till flik 1" >
-<!ENTITY help.keyboard.name.tab.2               "Gå till flik 2" >
-<!ENTITY help.keyboard.name.tab.3               "Gå till flik 3" >
-<!ENTITY help.keyboard.name.tab.4               "Gå till flik 4" >
-<!ENTITY help.keyboard.name.tab.5               "Gå till flik 5" >
-<!ENTITY help.keyboard.name.tab.6               "Gå till flik 6" >
-<!ENTITY help.keyboard.name.tab.7               "Gå till flik 7" >
-<!ENTITY help.keyboard.name.tab.8               "Gå till flik 8" >
-<!ENTITY help.keyboard.name.tab.9               "Gå till sista fliken" >
-<!ENTITY help.keyboard.name.page.top            "Flytta till toppen av sidan" >
-<!ENTITY help.keyboard.name.page.bottom         "Flytta till botten av sidan" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Helskärm" >
-<!ENTITY help.keyboard.name.mac.minimize        "Minimera till dockan" >
-<!ENTITY help.keyboard.name.mac.hide            "Dölj fönster" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Dölj andra program" >
-<!ENTITY help.keyboard.name.downloads           "Hämtningar" >
-<!ENTITY help.keyboard.name.find                "Sök" >
-<!ENTITY help.keyboard.name.find.again          "Sök igen" >
-<!ENTITY help.keyboard.name.find.text           "Sök medan du skriver, text" >
-<!ENTITY help.keyboard.name.find.link           "Sök medan du skriver, länk" >
-<!ENTITY help.keyboard.name.search.focus        "Fokus på sökrutan" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Fullskärm" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video överst" >
-<!ENTITY help.keyboard.name.video.escape        "Stäng fullskärm" >
-<!ENTITY help.keyboard.name.cdrip.start         "Rippa CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Avbryt CD-rippning" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Mata ut CD" >
-<!ENTITY help.keyboard.name.quit                "Avsluta" >
-<!ENTITY help.keyboard.name.preferences         "Inställningar" >
-<!ENTITY help.keyboard.name.help                "Hjälprubriker" >
-<!ENTITY help.keyboard.name.sanitize            "Ta bort privata data" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Spela upp/Pausa vald mediapost">
+<!ENTITY help.keyboard.name.playcontrol.prev "Spela upp föregående mediafil i lista">
+<!ENTITY help.keyboard.name.playcontrol.next "Spela upp nästa mediafil i lista">
+<!ENTITY help.keyboard.name.volume.down "Sänk volymen">
+<!ENTITY help.keyboard.name.volume.up "Höj volym">
+<!ENTITY help.keyboard.name.volume.mute "Ljud av">
+<!ENTITY help.keyboard.name.volume.max "Maxvolym">
+<!ENTITY help.keyboard.name.jumpto "Gå till fönster">
+<!ENTITY help.keyboard.name.equalizer "Öppna equalizer">
+<!ENTITY help.keyboard.name.new.playlist "Ny spellista">
+<!ENTITY help.keyboard.name.new.smartplaylist "Ny smart spellista">
+<!ENTITY help.keyboard.name.import "Importera media">
+<!ENTITY help.keyboard.name.currenttrack "Visa mediafil som spelas nu">
+<!ENTITY help.keyboard.name.mediapage.switch "Ändra mediavy">
+<!ENTITY help.keyboard.name.feather.switch "Ändra fjäder-layout">
+<!ENTITY help.keyboard.name.trackeditor "Redigera metadata">
+<!ENTITY help.keyboard.name.edit.undo "Ångra">
+<!ENTITY help.keyboard.name.edit.redo "Gör om">
+<!ENTITY help.keyboard.name.edit.selectall "Markera allt">
+<!ENTITY help.keyboard.name.edit.cut "Klipp ut">
+<!ENTITY help.keyboard.name.edit.copy "Kopiera">
+<!ENTITY help.keyboard.name.edit.paste "Klistra in">
+<!ENTITY help.keyboard.name.edit.delete "Ta bort">
+<!ENTITY help.keyboard.name.browser.back "Bakåt">
+<!ENTITY help.keyboard.name.browser.forward "Framåt">
+<!ENTITY help.keyboard.name.browser.reload "Läs in igen">
+<!ENTITY help.keyboard.name.browser.stop "Avbryt inläsning">
+<!ENTITY help.keyboard.name.open.file "Öppna">
+<!ENTITY help.keyboard.name.open.url "Öppna URL">
+<!ENTITY help.keyboard.name.tab.open.link "Öppna länk i ny flik">
+<!ENTITY help.keyboard.name.save.link "Spara länk">
+<!ENTITY help.keyboard.name.file.print "Skriv ut">
+<!ENTITY help.keyboard.name.view.source "Visa källa">
+<!ENTITY help.keyboard.name.view.zoomin "Zooma in">
+<!ENTITY help.keyboard.name.view.zoomout "Zooma ut">
+<!ENTITY help.keyboard.name.view.zoomreset "Återställ zoom">
+<!ENTITY help.keyboard.name.subscribe "Prenumerera">
+<!ENTITY help.keyboard.name.locationbar "Fokus på adressfältet">
+<!ENTITY help.keyboard.name.tab.new "Ny flik">
+<!ENTITY help.keyboard.name.tab.close "Stäng flik">
+<!ENTITY help.keyboard.name.tab.next "Nästa flik">
+<!ENTITY help.keyboard.name.tab.previous "Föregående flik">
+<!ENTITY help.keyboard.name.tab.1 "Gå till flik 1">
+<!ENTITY help.keyboard.name.tab.2 "Gå till flik 2">
+<!ENTITY help.keyboard.name.tab.3 "Gå till flik 3">
+<!ENTITY help.keyboard.name.tab.4 "Gå till flik 4">
+<!ENTITY help.keyboard.name.tab.5 "Gå till flik 5">
+<!ENTITY help.keyboard.name.tab.6 "Gå till flik 6">
+<!ENTITY help.keyboard.name.tab.7 "Gå till flik 7">
+<!ENTITY help.keyboard.name.tab.8 "Gå till flik 8">
+<!ENTITY help.keyboard.name.tab.9 "Gå till sista fliken">
+<!ENTITY help.keyboard.name.page.top "Flytta till toppen av sidan">
+<!ENTITY help.keyboard.name.page.bottom "Flytta till botten av sidan">
+<!ENTITY help.keyboard.name.view.fullscreen "Helskärm">
+<!ENTITY help.keyboard.name.mac.minimize "Minimera till dockan">
+<!ENTITY help.keyboard.name.mac.hide "Dölj fönster">
+<!ENTITY help.keyboard.name.mac.hideothers "Dölj andra program">
+<!ENTITY help.keyboard.name.downloads "Hämtningar">
+<!ENTITY help.keyboard.name.find "Sök">
+<!ENTITY help.keyboard.name.find.again "Sök igen">
+<!ENTITY help.keyboard.name.find.text "Sök medan du skriver, text">
+<!ENTITY help.keyboard.name.find.link "Sök medan du skriver, länk">
+<!ENTITY help.keyboard.name.search.focus "Fokus på sökrutan">
+<!ENTITY help.keyboard.name.video.fullscreen "Fullskärm">
+<!ENTITY help.keyboard.name.video.bringtofront "Video överst">
+<!ENTITY help.keyboard.name.video.escape "Stäng fullskärm">
+<!ENTITY help.keyboard.name.cdrip.start "Rippa CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Avbryt CD-rippning">
+<!ENTITY help.keyboard.name.cdrip.eject "Mata ut CD">
+<!ENTITY help.keyboard.name.quit "Avsluta">
+<!ENTITY help.keyboard.name.preferences "Inställningar">
+<!ENTITY help.keyboard.name.help "Hjälprubriker">
+<!ENTITY help.keyboard.name.sanitize "Ta bort privata data">

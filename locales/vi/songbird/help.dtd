@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "Phím tắt  &brandShortName;" >
-<!ENTITY help.keyboard.subtitle           "Phím tắt" >
-<!ENTITY help.keyboard.description        "Phím tắt trên bàn phím có thể giúp sử dụng &brandShortName; dễ dàng hơn. Dưới đây là danh sách các lệnh cùng với các phím gõ tắt tương ứng.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Command" >
-<!ENTITY help.keyboard.heading.shortcut   "Phím tắt" >
-<!ENTITY help.keyboard.section.playback   "Nút điều khiển" >
-<!ENTITY help.keyboard.section.library    "Thư viện và Playlist" >
-<!ENTITY help.keyboard.section.editing    "Chỉnh sửa" >
-<!ENTITY help.keyboard.section.navigation "Di chuyển" >
-<!ENTITY help.keyboard.section.browser    "Trình duyệt" >
-<!ENTITY help.keyboard.section.windows    "Cửa sổ và Tab" >
-<!ENTITY help.keyboard.section.search     "Tìm kiếm" >
-<!ENTITY help.keyboard.section.video      "Đoạn Phim" >
-<!ENTITY help.keyboard.section.cdrip      "Sao CD" >
-<!ENTITY help.keyboard.section.misc       "Khác" >
-
-<!ENTITY help.keyboard.key.left           "Trái" >
-<!ENTITY help.keyboard.key.right          "Mũi tên sang phải" >
-<!ENTITY help.keyboard.key.up             "Mũi tên hướng lên" >
-<!ENTITY help.keyboard.key.down           "Mũi tên hướng xuống" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Nhấn chuột" >
-<!ENTITY help.keyboard.mouse.click.middle "Nhấn chuột giữa" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Delete" >
-
+<!ENTITY help.keyboard.title "Phím tắt  &brandShortName;">
+<!ENTITY help.keyboard.subtitle "Phím tắt">
+<!ENTITY help.keyboard.description "Phím tắt trên bàn phím có thể giúp sử dụng &brandShortName; dễ dàng hơn. Dưới đây là danh sách các lệnh cùng với các phím gõ tắt tương ứng.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Command">
+<!ENTITY help.keyboard.heading.shortcut "Phím tắt">
+<!ENTITY help.keyboard.section.playback "Nút điều khiển">
+<!ENTITY help.keyboard.section.library "Thư viện và Playlist">
+<!ENTITY help.keyboard.section.editing "Chỉnh sửa">
+<!ENTITY help.keyboard.section.navigation "Di chuyển">
+<!ENTITY help.keyboard.section.browser "Trình duyệt">
+<!ENTITY help.keyboard.section.windows "Cửa sổ và Tab">
+<!ENTITY help.keyboard.section.search "Tìm kiếm">
+<!ENTITY help.keyboard.section.video "Đoạn Phim">
+<!ENTITY help.keyboard.section.cdrip "Sao CD">
+<!ENTITY help.keyboard.section.misc "Khác">
+<!ENTITY help.keyboard.key.left "Trái">
+<!ENTITY help.keyboard.key.right "Mũi tên sang phải">
+<!ENTITY help.keyboard.key.up "Mũi tên hướng lên">
+<!ENTITY help.keyboard.key.down "Mũi tên hướng xuống">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Nhấn chuột">
+<!ENTITY help.keyboard.mouse.click.middle "Nhấn chuột giữa">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Delete">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Phát/Tạm dừng bản nhạc được chọn" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Phát bản nhạc kề trước trong danh sách" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Phát bản nhạc kế tiếp trong danh sách" >
-<!ENTITY help.keyboard.name.volume.down         "Giảm âm lượng" >
-<!ENTITY help.keyboard.name.volume.up           "Giảm âm lượng" >
-<!ENTITY help.keyboard.name.volume.mute         "Tắt âm thanh" >
-<!ENTITY help.keyboard.name.volume.max          "Âm lượng lớn nhất" >
-<!ENTITY help.keyboard.name.jumpto              "Nhảy đến Cửa sổ" >
-<!ENTITY help.keyboard.name.equalizer           "Mở Equalizer" >
-<!ENTITY help.keyboard.name.new.playlist        "Danh sách nhạc mới" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Danh sách nhạc thông minh mới" >
-<!ENTITY help.keyboard.name.import              "Nhập dữ liệu" >
-<!ENTITY help.keyboard.name.currenttrack        "Định vị tập tin media đang mở" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Đổi MediaView" >
-<!ENTITY help.keyboard.name.feather.switch      "Thay lông" >
-<!ENTITY help.keyboard.name.trackeditor         "Trình biên soạn thông tin bài hát" >
-<!ENTITY help.keyboard.name.edit.undo           "Làm lại" >
-<!ENTITY help.keyboard.name.edit.redo           "Làm lại trước đó" >
-<!ENTITY help.keyboard.name.edit.selectall      "Chọn Tất cả" >
-<!ENTITY help.keyboard.name.edit.cut            "Cắt" >
-<!ENTITY help.keyboard.name.edit.copy           "Sao chép" >
-<!ENTITY help.keyboard.name.edit.paste          "Dán" >
-<!ENTITY help.keyboard.name.edit.delete         "Xoá" >
-<!ENTITY help.keyboard.name.browser.back        "Trước" >
-<!ENTITY help.keyboard.name.browser.forward     "Tiếp" >
-<!ENTITY help.keyboard.name.browser.reload      "Tải lại" >
-<!ENTITY help.keyboard.name.browser.stop        "Ngừng tải" >
-<!ENTITY help.keyboard.name.open.file           "Mở File" >
-<!ENTITY help.keyboard.name.open.url            "Mở Đường Dẫn URL" >
-<!ENTITY help.keyboard.name.tab.open.link       "Mở liên kết ở tab mới" >
-<!ENTITY help.keyboard.name.save.link           "Lưu lại đường dẫn" >
-<!ENTITY help.keyboard.name.file.print          "In" >
-<!ENTITY help.keyboard.name.view.source         "Xem mã nguồn" >
-<!ENTITY help.keyboard.name.view.zoomin         "Phóng to" >
-<!ENTITY help.keyboard.name.view.zoomout        "Thu nhỏ" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Độ phóng ban đầu" >
-<!ENTITY help.keyboard.name.subscribe           "Đăng ký" >
-<!ENTITY help.keyboard.name.locationbar         "Tập trung vào thanh địa chỉ" >
-<!ENTITY help.keyboard.name.tab.new             "Thẻ mới" >
-<!ENTITY help.keyboard.name.tab.close           "Tắt Thẻ" >
-<!ENTITY help.keyboard.name.tab.next            "Thẻ kế" >
-<!ENTITY help.keyboard.name.tab.previous        "Thẻ trước" >
-<!ENTITY help.keyboard.name.tab.1               "Chuyển đến Tab 1" >
-<!ENTITY help.keyboard.name.tab.2               "Chuyển đến Tab 2" >
-<!ENTITY help.keyboard.name.tab.3               "Chuyển đến Tab 3" >
-<!ENTITY help.keyboard.name.tab.4               "Chuyển đến Tab 4" >
-<!ENTITY help.keyboard.name.tab.5               "Chuyển đến Tab 5" >
-<!ENTITY help.keyboard.name.tab.6               "Chuyển đến Tab 6" >
-<!ENTITY help.keyboard.name.tab.7               "Chuyển đến Tab 7" >
-<!ENTITY help.keyboard.name.tab.8               "Chuyển đến Tab 8" >
-<!ENTITY help.keyboard.name.tab.9               "Chuyển đến Tab 9" >
-<!ENTITY help.keyboard.name.page.top            "Di chuyển đến đầu trang" >
-<!ENTITY help.keyboard.name.page.bottom         "Di chuyển đến cuối trang" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Toàn màn hình" >
-<!ENTITY help.keyboard.name.mac.minimize        "Thu nhỏ vào dock" >
-<!ENTITY help.keyboard.name.mac.hide            "Ẩn Cửa Sổ" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Ẩn Các Ứng Dụng Khác" >
-<!ENTITY help.keyboard.name.downloads           "Tải" >
-<!ENTITY help.keyboard.name.find                "Tìm" >
-<!ENTITY help.keyboard.name.find.again          "Một lần nữa tìm" >
-<!ENTITY help.keyboard.name.find.text           "Tìm khi bạn nhập văn bản" >
-<!ENTITY help.keyboard.name.find.link           "Tìm khi bạn nhập vào liên kết" >
-<!ENTITY help.keyboard.name.search.focus        "Tập trung vào khung tìm kiếm" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Toàn Màn Hình" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video trên cùng" >
-<!ENTITY help.keyboard.name.video.escape        "Thoát khỏi Toàn Màn Hình" >
-<!ENTITY help.keyboard.name.cdrip.start         "Sao CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Dừng Sao CD" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Rút CD" >
-<!ENTITY help.keyboard.name.quit                "Thoát" >
-<!ENTITY help.keyboard.name.preferences         "Cấu hình" >
-<!ENTITY help.keyboard.name.help                "Những Chủ Đề Trợ giúp" >
-<!ENTITY help.keyboard.name.sanitize            "Xóa dữ liệu riêng tư của bạn" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Phát/Tạm dừng bản nhạc được chọn">
+<!ENTITY help.keyboard.name.playcontrol.prev "Phát bản nhạc kề trước trong danh sách">
+<!ENTITY help.keyboard.name.playcontrol.next "Phát bản nhạc kế tiếp trong danh sách">
+<!ENTITY help.keyboard.name.volume.down "Giảm âm lượng">
+<!ENTITY help.keyboard.name.volume.up "Giảm âm lượng">
+<!ENTITY help.keyboard.name.volume.mute "Tắt âm thanh">
+<!ENTITY help.keyboard.name.volume.max "Âm lượng lớn nhất">
+<!ENTITY help.keyboard.name.jumpto "Nhảy đến Cửa sổ">
+<!ENTITY help.keyboard.name.equalizer "Mở Equalizer">
+<!ENTITY help.keyboard.name.new.playlist "Danh sách nhạc mới">
+<!ENTITY help.keyboard.name.new.smartplaylist "Danh sách nhạc thông minh mới">
+<!ENTITY help.keyboard.name.import "Nhập dữ liệu">
+<!ENTITY help.keyboard.name.currenttrack "Định vị tập tin media đang mở">
+<!ENTITY help.keyboard.name.mediapage.switch "Đổi MediaView">
+<!ENTITY help.keyboard.name.feather.switch "Thay lông">
+<!ENTITY help.keyboard.name.trackeditor "Trình biên soạn thông tin bài hát">
+<!ENTITY help.keyboard.name.edit.undo "Làm lại">
+<!ENTITY help.keyboard.name.edit.redo "Làm lại trước đó">
+<!ENTITY help.keyboard.name.edit.selectall "Chọn Tất cả">
+<!ENTITY help.keyboard.name.edit.cut "Cắt">
+<!ENTITY help.keyboard.name.edit.copy "Sao chép">
+<!ENTITY help.keyboard.name.edit.paste "Dán">
+<!ENTITY help.keyboard.name.edit.delete "Xoá">
+<!ENTITY help.keyboard.name.browser.back "Trước">
+<!ENTITY help.keyboard.name.browser.forward "Tiếp">
+<!ENTITY help.keyboard.name.browser.reload "Tải lại">
+<!ENTITY help.keyboard.name.browser.stop "Ngừng tải">
+<!ENTITY help.keyboard.name.open.file "Mở File">
+<!ENTITY help.keyboard.name.open.url "Mở Đường Dẫn URL">
+<!ENTITY help.keyboard.name.tab.open.link "Mở liên kết ở tab mới">
+<!ENTITY help.keyboard.name.save.link "Lưu lại đường dẫn">
+<!ENTITY help.keyboard.name.file.print "In">
+<!ENTITY help.keyboard.name.view.source "Xem mã nguồn">
+<!ENTITY help.keyboard.name.view.zoomin "Phóng to">
+<!ENTITY help.keyboard.name.view.zoomout "Thu nhỏ">
+<!ENTITY help.keyboard.name.view.zoomreset "Độ phóng ban đầu">
+<!ENTITY help.keyboard.name.subscribe "Đăng ký">
+<!ENTITY help.keyboard.name.locationbar "Tập trung vào thanh địa chỉ">
+<!ENTITY help.keyboard.name.tab.new "Thẻ mới">
+<!ENTITY help.keyboard.name.tab.close "Tắt Thẻ">
+<!ENTITY help.keyboard.name.tab.next "Thẻ kế">
+<!ENTITY help.keyboard.name.tab.previous "Thẻ trước">
+<!ENTITY help.keyboard.name.tab.1 "Chuyển đến Tab 1">
+<!ENTITY help.keyboard.name.tab.2 "Chuyển đến Tab 2">
+<!ENTITY help.keyboard.name.tab.3 "Chuyển đến Tab 3">
+<!ENTITY help.keyboard.name.tab.4 "Chuyển đến Tab 4">
+<!ENTITY help.keyboard.name.tab.5 "Chuyển đến Tab 5">
+<!ENTITY help.keyboard.name.tab.6 "Chuyển đến Tab 6">
+<!ENTITY help.keyboard.name.tab.7 "Chuyển đến Tab 7">
+<!ENTITY help.keyboard.name.tab.8 "Chuyển đến Tab 8">
+<!ENTITY help.keyboard.name.tab.9 "Chuyển đến Tab 9">
+<!ENTITY help.keyboard.name.page.top "Di chuyển đến đầu trang">
+<!ENTITY help.keyboard.name.page.bottom "Di chuyển đến cuối trang">
+<!ENTITY help.keyboard.name.view.fullscreen "Toàn màn hình">
+<!ENTITY help.keyboard.name.mac.minimize "Thu nhỏ vào dock">
+<!ENTITY help.keyboard.name.mac.hide "Ẩn Cửa Sổ">
+<!ENTITY help.keyboard.name.mac.hideothers "Ẩn Các Ứng Dụng Khác">
+<!ENTITY help.keyboard.name.downloads "Tải">
+<!ENTITY help.keyboard.name.find "Tìm">
+<!ENTITY help.keyboard.name.find.again "Một lần nữa tìm">
+<!ENTITY help.keyboard.name.find.text "Tìm khi bạn nhập văn bản">
+<!ENTITY help.keyboard.name.find.link "Tìm khi bạn nhập vào liên kết">
+<!ENTITY help.keyboard.name.search.focus "Tập trung vào khung tìm kiếm">
+<!ENTITY help.keyboard.name.video.fullscreen "Toàn Màn Hình">
+<!ENTITY help.keyboard.name.video.bringtofront "Video trên cùng">
+<!ENTITY help.keyboard.name.video.escape "Thoát khỏi Toàn Màn Hình">
+<!ENTITY help.keyboard.name.cdrip.start "Sao CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Dừng Sao CD">
+<!ENTITY help.keyboard.name.cdrip.eject "Rút CD">
+<!ENTITY help.keyboard.name.quit "Thoát">
+<!ENTITY help.keyboard.name.preferences "Cấu hình">
+<!ENTITY help.keyboard.name.help "Những Chủ Đề Trợ giúp">
+<!ENTITY help.keyboard.name.sanitize "Xóa dữ liệu riêng tư của bạn">

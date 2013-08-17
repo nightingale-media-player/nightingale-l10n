@@ -1,501 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "OK" >
-<!ENTITY window.cancel      "Annuller" >
-<!ENTITY window.apply       "Anvend" >
-<!ENTITY window.browse      "Gennemse…" >
-<!ENTITY window.save        "Gem">
-<!ENTITY window.yes         "Ja">
-<!ENTITY window.no          "Nej">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "OK">
+<!ENTITY window.cancel "Annuller">
+<!ENTITY window.apply "Anvend">
+<!ENTITY window.browse "Gennemse…">
+<!ENTITY window.save "Gem">
+<!ENTITY window.yes "Ja">
+<!ENTITY window.no "Nej">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Afslut &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Indstillinger">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Afslut &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Indstillinger">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Servicer">
-<!ENTITY menu.mac.hide                  "Skjul &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Skjul andre">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Vis alle">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Filer" >
-<!ENTITY menu.file.new          "Ny afspilningsliste…" >
-<!ENTITY menu.file.smart        "Ny smart afspilningsliste…" >
-<!ENTITY menu.file.remote       "Nyt abonnement…" >
-<!ENTITY menu.file.podcast      "Ny Podcast…" >
-<!ENTITY menu.file.open         "Åbn fil…" >
-<!ENTITY menu.file.url          "Åbn URL-placering…" >
-<!ENTITY menu.file.playlist     "Importer en afspilningsliste…" >
-<!ENTITY menu.file.library      "Importer et bibliotek…" >
-<!ENTITY menu.file.newtab       "Nyt faneblad" >
-<!ENTITY menu.file.closetab     "Luk faneblad" >
-<!ENTITY menu.file.metadata     "Vis metadata">
-<!ENTITY menu.file.scan         "Importer medier…" >
-<!ENTITY menu.file.exit         "Afslut" >
-
-<!ENTITY menu.edit          "Rediger" >
-<!ENTITY menu.edit.undo     "Fortryd" >
-<!ENTITY menu.edit.redo     "Gendan" >
-<!ENTITY menu.edit.cut      "Klip" >
-<!ENTITY menu.edit.copy     "Kopier" >
-<!ENTITY menu.edit.paste    "Sæt ind" >
-<!ENTITY menu.edit.delete   "Slet" >
-<!ENTITY menu.edit.selall   "Marker alle" >
-<!ENTITY menu.edit.find        "Find" >
-<!ENTITY menu.edit.findagain   "Find næste" >
-
+<!ENTITY menu.mac.services "Servicer">
+<!ENTITY menu.mac.hide "Skjul &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Skjul andre">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Vis alle">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Filer">
+<!ENTITY menu.file.new "Ny afspilningsliste…">
+<!ENTITY menu.file.smart "Ny smart afspilningsliste…">
+<!ENTITY menu.file.remote "Nyt abonnement…">
+<!ENTITY menu.file.podcast "Ny Podcast…">
+<!ENTITY menu.file.open "Åbn fil…">
+<!ENTITY menu.file.url "Åbn URL-placering…">
+<!ENTITY menu.file.playlist "Importer en afspilningsliste…">
+<!ENTITY menu.file.library "Importer et bibliotek…">
+<!ENTITY menu.file.newtab "Nyt faneblad">
+<!ENTITY menu.file.closetab "Luk faneblad">
+<!ENTITY menu.file.metadata "Vis metadata">
+<!ENTITY menu.file.scan "Importer medier…">
+<!ENTITY menu.file.exit "Afslut">
+<!ENTITY menu.edit "Rediger">
+<!ENTITY menu.edit.undo "Fortryd">
+<!ENTITY menu.edit.redo "Gendan">
+<!ENTITY menu.edit.cut "Klip">
+<!ENTITY menu.edit.copy "Kopier">
+<!ENTITY menu.edit.paste "Sæt ind">
+<!ENTITY menu.edit.delete "Slet">
+<!ENTITY menu.edit.selall "Marker alle">
+<!ENTITY menu.edit.find "Find">
+<!ENTITY menu.edit.findagain "Find næste">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Indstillinger">
+<!ENTITY menu.linux.preferences "Indstillinger">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Betjening" >
-<!ENTITY menu.control.play  "Afspil" >
-<!ENTITY menu.control.pause "Pause" >
-<!ENTITY menu.control.next  "Næste spor" >
-<!ENTITY menu.control.prev  "Forrige spor" >
-<!ENTITY menu.control.shuf  "Bland" >
-<!ENTITY menu.control.repa  "Gentag alle" >
-<!ENTITY menu.control.rep1  "Gentag en gang" >
-<!ENTITY menu.control.repx  "Gentag ikke" >
-<!ENTITY menu.control.jumpto "Hop til…" >
-
-<!ENTITY menu.control.play.button      "Afspil" >
-<!ENTITY menu.control.pause.button     "Pause" >
-<!ENTITY menu.control.stop.button      "Stop" >
-
+<!ENTITY menu.controls "Betjening">
+<!ENTITY menu.control.play "Afspil">
+<!ENTITY menu.control.pause "Pause">
+<!ENTITY menu.control.next "Næste spor">
+<!ENTITY menu.control.prev "Forrige spor">
+<!ENTITY menu.control.shuf "Bland">
+<!ENTITY menu.control.repa "Gentag alle">
+<!ENTITY menu.control.rep1 "Gentag en gang">
+<!ENTITY menu.control.repx "Gentag ikke">
+<!ENTITY menu.control.jumpto "Hop til…">
+<!ENTITY menu.control.play.button "Afspil">
+<!ENTITY menu.control.pause.button "Pause">
+<!ENTITY menu.control.stop.button "Stop">
 <!ENTITY displaypane.default.image.pre "Vælg en tilføjelse fra menuen">
 <!ENTITY displaypane.default.image.tooltip "Ikon til vælger af tilføjelser">
 <!ENTITY displaypane.default.image.post "menuen eller besøg">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "webstedet for tilføjelser">
 <!ENTITY displaypane.default.link.post "for at gennemse tilføjelser">
-<!ENTITY displaypane.name.servicepane   "Betjeningsruden i bunden">
-<!ENTITY displaypane.name.browser       "Indholdsruden i bunden">
-<!ENTITY displaypane.name.sidebar       "højre sidebjælke">
-<!ENTITY servicepane.title.label        "Betjeningsrude">
-
-<!ENTITY menu.tools            "Funktioner" >
+<!ENTITY displaypane.name.servicepane "Betjeningsruden i bunden">
+<!ENTITY displaypane.name.browser "Indholdsruden i bunden">
+<!ENTITY displaypane.name.sidebar "højre sidebjælke">
+<!ENTITY servicepane.title.label "Betjeningsrude">
+<!ENTITY menu.tools "Funktioner">
 <!ENTITY menu.tools.getartwork "Hent albumcovers…">
 <!ENTITY menu.tools.exportmedia "Eksporter biblioteksændringer">
-
-<!ENTITY menu.help          "Hjælp" >
-<!ENTITY menu.help.homepage "&brandShortName; websted" >
-<!ENTITY menu.help.bugz     "Rapporter en fejl…" >
-<!ENTITY menu.help.topics   "Emner i Hjælp" >
+<!ENTITY menu.help "Hjælp">
+<!ENTITY menu.help.homepage "&brandShortName; websted">
+<!ENTITY menu.help.bugz "Rapporter en fejl…">
+<!ENTITY menu.help.topics "Emner i Hjælp">
 <!ENTITY menu.help.keyboard "Tastaturgenveje">
-<!ENTITY menu.help.about    "Om &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Equalizer…" >
-<!ENTITY menu.preferences   "Indstillinger" >
-<!ENTITY menu.extensions    "Tilføjelser" >
+<!ENTITY menu.help.about "Om &brandShortName;">
+<!ENTITY menu.equalizer "Equalizer…">
+<!ENTITY menu.preferences "Indstillinger">
+<!ENTITY menu.extensions "Tilføjelser">
 <!ENTITY menu.clearprivatedata "Ryd private data…">
 <!ENTITY menu.errorconsole "Fejlkonsol">
-<!ENTITY menu.downloadmgr   "Filhentninger" >
-<!ENTITY menu.switchplayercontrols  "Afspillerbetjening" >
-<!ENTITY menu.controllerontop       "Vis øverst">
-<!ENTITY menu.controlleronbottom    "Vis nederst">
-
-<!ENTITY menu.fullscreen            "Fuld skærm">
-<!ENTITY menu.videotofront          "Video forrest">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Venter på enheder.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Venter på at alle enhedsfunktioner bliver fuldført. Klik på &quot;Afslut&quot; for at stoppe og lukke programmet.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Afslut">
-
-<!ENTITY tooltip.minimize         "Minimer" >
-<!ENTITY tooltip.maximize         "Maksimer/gendan" >
-<!ENTITY tooltip.exit             "Luk" >
-<!ENTITY tooltip.close            "Luk" >
-<!ENTITY tooltip.hide             "Skjul" >
-<!ENTITY tooltip.fullscreen       "Fuldskærm" >
-<!ENTITY tooltip.control.back     "Forrige spor" >
-<!ENTITY tooltip.control.play     "Afspil" >
-<!ENTITY tooltip.control.pause    "Pause" >
-<!ENTITY tooltip.control.resume   "Genoptag" >
-<!ENTITY tooltip.control.stop     "Stop" >
-<!ENTITY tooltip.control.fwd      "Næste spor" >
-<!ENTITY tooltip.control.mute     "Lydløs" >
-<!ENTITY tooltip.control.volume   "Lydstyrke" >
-<!ENTITY tooltip.control.shuffle  "Bland" >
-<!ENTITY tooltip.control.shuf_off "Bland fra" >
-<!ENTITY tooltip.control.curtrack "Find det aktuelle spor" >
-<!ENTITY tooltip.search           "Søg" >
-<!ENTITY tooltip.browser.back     "Gå tilbage" >
-<!ENTITY tooltip.browser.fwd      "Gå fremad" >
-<!ENTITY tooltip.browser.stop     "Stop browser" >
-<!ENTITY tooltip.browser.home     "Startside" >
-<!ENTITY tooltip.browser.refresh  "Genindlæs" >
-<!ENTITY tooltip.browser.subscription "Opret abonnement" >
-<!ENTITY tooltip.browser.mediapages.list "Se som liste" >
-<!ENTITY tooltip.browser.mediapages.filter "Filtervisning" >
-<!ENTITY tooltip.browser.mediapages "Skift medievisninger…" >
-<!ENTITY tooltip.servicepane.show    "Vis betjeningsrude" >
-<!ENTITY tooltip.servicepane.collapse    "Minimer betjeningsrude" >
-<!ENTITY tooltip.servicepane.newnode "Ny afspilningsliste" >
+<!ENTITY menu.downloadmgr "Filhentninger">
+<!ENTITY menu.switchplayercontrols "Afspillerbetjening">
+<!ENTITY menu.controllerontop "Vis øverst">
+<!ENTITY menu.controlleronbottom "Vis nederst">
+<!ENTITY menu.fullscreen "Fuld skærm">
+<!ENTITY menu.videotofront "Video forrest">
+<!ENTITY device.dialog.wait_for_completion.title "Venter på enheder.">
+<!ENTITY device.dialog.wait_for_completion.msg "Venter på at alle enhedsfunktioner bliver fuldført. Klik på &quot;Afslut&quot; for at stoppe og lukke programmet.">
+<!ENTITY device.dialog.wait_for_completion.quit "Afslut">
+<!ENTITY tooltip.minimize "Minimer">
+<!ENTITY tooltip.maximize "Maksimer/gendan">
+<!ENTITY tooltip.exit "Luk">
+<!ENTITY tooltip.close "Luk">
+<!ENTITY tooltip.hide "Skjul">
+<!ENTITY tooltip.fullscreen "Fuldskærm">
+<!ENTITY tooltip.control.back "Forrige spor">
+<!ENTITY tooltip.control.play "Afspil">
+<!ENTITY tooltip.control.pause "Pause">
+<!ENTITY tooltip.control.resume "Genoptag">
+<!ENTITY tooltip.control.stop "Stop">
+<!ENTITY tooltip.control.fwd "Næste spor">
+<!ENTITY tooltip.control.mute "Lydløs">
+<!ENTITY tooltip.control.volume "Lydstyrke">
+<!ENTITY tooltip.control.shuffle "Bland">
+<!ENTITY tooltip.control.shuf_off "Bland fra">
+<!ENTITY tooltip.control.curtrack "Find det aktuelle spor">
+<!ENTITY tooltip.search "Søg">
+<!ENTITY tooltip.browser.back "Gå tilbage">
+<!ENTITY tooltip.browser.fwd "Gå fremad">
+<!ENTITY tooltip.browser.stop "Stop browser">
+<!ENTITY tooltip.browser.home "Startside">
+<!ENTITY tooltip.browser.refresh "Genindlæs">
+<!ENTITY tooltip.browser.subscription "Opret abonnement">
+<!ENTITY tooltip.browser.mediapages.list "Se som liste">
+<!ENTITY tooltip.browser.mediapages.filter "Filtervisning">
+<!ENTITY tooltip.browser.mediapages "Skift medievisninger…">
+<!ENTITY tooltip.servicepane.show "Vis betjeningsrude">
+<!ENTITY tooltip.servicepane.collapse "Minimer betjeningsrude">
+<!ENTITY tooltip.servicepane.newnode "Ny afspilningsliste">
 <!ENTITY tooltip.displaypane.options "Kontrolpanels indstillinger">
-
-<!ENTITY smart.window             "Smart afspilningsliste" >
-<!ENTITY smart.limit              "Begræns til" >
-<!ENTITY smart.match              "Match" >
-<!ENTITY smart.matchsingle        "Match følgende betingelse:" >
-<!ENTITY smart.any                "enhver" >
-<!ENTITY smart.all                "alle" >
-<!ENTITY smart.following          "af følgende betingelse(r):" >
-<!ENTITY smart.random             "tilfældig" >
-<!ENTITY smart.album              "album" >
-<!ENTITY smart.artist             "kunstner" >
-<!ENTITY smart.genre              "genre" >
-<!ENTITY smart.title              "titel" >
-<!ENTITY smart.high_rating        "højeste bedømmelse" >
-<!ENTITY smart.low_rating         "laveste bedømmelse" >
-<!ENTITY smart.most_recent        "senest afspillet" >
-<!ENTITY smart.least_recent       "Mindst nyligt afspillet" >
-<!ENTITY smart.most_often         "oftest afspillet" >
-<!ENTITY smart.least_often        "Mindst ofte afspillet" >
-<!ENTITY smart.most_added         "senest tilføjet" >
-<!ENTITY smart.least_added        "Mindst nyligt tilføjet" >
-<!ENTITY smart.minutes            "minutter" >
-<!ENTITY smart.hours              "timer" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "emner" >
-<!ENTITY smart.selectedby         "valgt efter" >
-<!ENTITY smart.to                 "til" >
-<!ENTITY smart.autoupdate         "Opdater automatisk">
+<!ENTITY smart.window "Smart afspilningsliste">
+<!ENTITY smart.limit "Begræns til">
+<!ENTITY smart.match "Match">
+<!ENTITY smart.matchsingle "Match følgende betingelse:">
+<!ENTITY smart.any "enhver">
+<!ENTITY smart.all "alle">
+<!ENTITY smart.following "af følgende betingelse(r):">
+<!ENTITY smart.random "tilfældig">
+<!ENTITY smart.album "album">
+<!ENTITY smart.artist "kunstner">
+<!ENTITY smart.genre "genre">
+<!ENTITY smart.title "titel">
+<!ENTITY smart.high_rating "højeste bedømmelse">
+<!ENTITY smart.low_rating "laveste bedømmelse">
+<!ENTITY smart.most_recent "senest afspillet">
+<!ENTITY smart.least_recent "Mindst nyligt afspillet">
+<!ENTITY smart.most_often "oftest afspillet">
+<!ENTITY smart.least_often "Mindst ofte afspillet">
+<!ENTITY smart.most_added "senest tilføjet">
+<!ENTITY smart.least_added "Mindst nyligt tilføjet">
+<!ENTITY smart.minutes "minutter">
+<!ENTITY smart.hours "timer">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "emner">
+<!ENTITY smart.selectedby "valgt efter">
+<!ENTITY smart.to "til">
+<!ENTITY smart.autoupdate "Opdater automatisk">
 <!ENTITY smart.playlistcondition.library "Bibliotek">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Musik">
-
 <!ENTITY textbox.songbird_open_url "Indtast URL&apos;en eller stien på mediet du ønsker at afspille:">
-
-<!ENTITY open_url.title           "Åbn URL">
-<!ENTITY subscribe.title          "Abonner">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Minut(ter)">
-<!ENTITY subscribe.hours          "time">
-<!ENTITY subscribe.days           "Dag(e)">
-<!ENTITY subscribe.autocheck      "Opdater automatisk hver">
-<!ENTITY subscribe.destinationfolder      "Vælg destinationsmappe">
-
-<!ENTITY feed.subscribe.label     "Abonner">
-<!ENTITY feed.subscribe.dontask   "Vis ikke automatisk denne dialog igen">
-<!ENTITY feed.subscribe.close     "Luk">
-
-<!ENTITY podcast.creation_dialog.title       "Ny Podcast">
+<!ENTITY open_url.title "Åbn URL">
+<!ENTITY subscribe.title "Abonner">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Minut(ter)">
+<!ENTITY subscribe.hours "time">
+<!ENTITY subscribe.days "Dag(e)">
+<!ENTITY subscribe.autocheck "Opdater automatisk hver">
+<!ENTITY subscribe.destinationfolder "Vælg destinationsmappe">
+<!ENTITY feed.subscribe.label "Abonner">
+<!ENTITY feed.subscribe.dontask "Vis ikke automatisk denne dialog igen">
+<!ENTITY feed.subscribe.close "Luk">
+<!ENTITY podcast.creation_dialog.title "Ny Podcast">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Mappeovervågning">
-<!ENTITY watchfolder.folderlist   "Overvåg disse mapper for nye medier">
-
-<!ENTITY locale.language          "Sprog" >
-<!ENTITY menu.view                "Vis" >
-<!ENTITY about.version            "Version" >
-<!ENTITY about.buttons.credits    "Tak til…" >
-
-<!ENTITY equalizer.title          "Equalizer" >
-<!ENTITY equalizer.on.checkbox    "Til" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Tilpas" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Blød rock" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Live" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Party" >
-<!ENTITY equalizer.preset.classical   "Klassisk" >
-<!ENTITY equalizer.preset.large_hall  "Stor sal" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Blød" >
-<!ENTITY equalizer.preset.small_speakers   "Bærbar/hovedtelefoner" >
-<!ENTITY equalizer.preset.full_bass_treble "Fuld bas og diskant" >
-<!ENTITY equalizer.preset.full_treble "Fuld diskant" >
-<!ENTITY equalizer.preset.full_bass   "Fuld bas" >
-
-
-<!ENTITY setupprogress.pleasewait "Vent venligst…" >
-<!ENTITY setupprogress.cancel     "Annuller">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "y" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "Å" >
-<!ENTITY menu.file.url.accesskey          "B" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "L" >
-<!ENTITY menu.file.scan.accesskey         "m" >
-<!ENTITY locale.language.accesskey        "o" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "I" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "T" >
-<!ENTITY menu.clearprivatedata.accesskey  "R" >
-<!ENTITY menu.errorconsole.accesskey      "E" >
-<!ENTITY menu.file.exit.accesskey         "A" >
-<!ENTITY menu.downloadmgr.accesskey       "F" >
-
-<!ENTITY menu.edit.accesskey          "R" >
-<!ENTITY menu.edit.undo.accesskey     "F" >
-<!ENTITY menu.edit.redo.accesskey     "G" >
-<!ENTITY menu.edit.cut.accesskey      "K" >
-<!ENTITY menu.edit.copy.accesskey     "O" >
-<!ENTITY menu.edit.paste.accesskey    "S" >
-<!ENTITY menu.edit.delete.accesskey   "L" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "N" >
-
-<!ENTITY menu.controls.accesskey      "B" >
-<!ENTITY menu.control.play.accesskey  "A" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "F" >
-<!ENTITY menu.control.shuf.accesskey  "B" >
-<!ENTITY menu.control.repa.accesskey  "t" >
-<!ENTITY menu.control.rep1.accesskey  "e" >
-<!ENTITY menu.control.repx.accesskey  "G" >
-<!ENTITY menu.control.jumpto.accesskey "H" >
-
-
-<!ENTITY menu.tools.accesskey            "U" >
-<!ENTITY menu.tools.getartwork.accesskey "H" >
-
-<!ENTITY menu.tools.reveal             "Vis markeret fil" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "w" >
-<!ENTITY menu.help.bugz.accesskey     "R" >
-<!ENTITY menu.help.help.accesskey     "H" >
-<!ENTITY menu.help.keyboard.accesskey "a" >
-<!ENTITY menu.help.about.accesskey    "O" >
-
-
+<!ENTITY watchfolder.title "Mappeovervågning">
+<!ENTITY watchfolder.folderlist "Overvåg disse mapper for nye medier">
+<!ENTITY locale.language "Sprog">
+<!ENTITY menu.view "Vis">
+<!ENTITY about.version "Version">
+<!ENTITY about.buttons.credits "Tak til…">
+<!ENTITY equalizer.title "Equalizer">
+<!ENTITY equalizer.on.checkbox "Til">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Tilpas">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Blød rock">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Live">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Klassisk">
+<!ENTITY equalizer.preset.large_hall "Stor sal">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Blød">
+<!ENTITY equalizer.preset.small_speakers "Bærbar/hovedtelefoner">
+<!ENTITY equalizer.preset.full_bass_treble "Fuld bas og diskant">
+<!ENTITY equalizer.preset.full_treble "Fuld diskant">
+<!ENTITY equalizer.preset.full_bass "Fuld bas">
+<!ENTITY setupprogress.pleasewait "Vent venligst…">
+<!ENTITY setupprogress.cancel "Annuller">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "y">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "Å">
+<!ENTITY menu.file.url.accesskey "B">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "L">
+<!ENTITY menu.file.scan.accesskey "m">
+<!ENTITY locale.language.accesskey "o">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "I">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "T">
+<!ENTITY menu.clearprivatedata.accesskey "R">
+<!ENTITY menu.errorconsole.accesskey "E">
+<!ENTITY menu.file.exit.accesskey "A">
+<!ENTITY menu.downloadmgr.accesskey "F">
+<!ENTITY menu.edit.accesskey "R">
+<!ENTITY menu.edit.undo.accesskey "F">
+<!ENTITY menu.edit.redo.accesskey "G">
+<!ENTITY menu.edit.cut.accesskey "K">
+<!ENTITY menu.edit.copy.accesskey "O">
+<!ENTITY menu.edit.paste.accesskey "S">
+<!ENTITY menu.edit.delete.accesskey "L">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "N">
+<!ENTITY menu.controls.accesskey "B">
+<!ENTITY menu.control.play.accesskey "A">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "F">
+<!ENTITY menu.control.shuf.accesskey "B">
+<!ENTITY menu.control.repa.accesskey "t">
+<!ENTITY menu.control.rep1.accesskey "e">
+<!ENTITY menu.control.repx.accesskey "G">
+<!ENTITY menu.control.jumpto.accesskey "H">
+<!ENTITY menu.tools.accesskey "U">
+<!ENTITY menu.tools.getartwork.accesskey "H">
+<!ENTITY menu.tools.reveal "Vis markeret fil">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.homepage.accesskey "w">
+<!ENTITY menu.help.bugz.accesskey "R">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "a">
+<!ENTITY menu.help.about.accesskey "O">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Metadata-redaktør" >
-<!ENTITY trackeditor.tab.summary.title            "Resume" >
-<!ENTITY trackeditor.tab.edit.title               "Egenskaber" >
-<!ENTITY trackeditor.tab.lyrics.title             "Sangtekster" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "F" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "F" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Metadata-redaktør">
+<!ENTITY trackeditor.tab.summary.title "Resume">
+<!ENTITY trackeditor.tab.edit.title "Egenskaber">
+<!ENTITY trackeditor.tab.lyrics.title "Sangtekster">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "F">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "F">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Tilføj mærke" >
-<!ENTITY trackeditor.addtag.tag       "Mærke:" >
-
-<!ENTITY jumptofile.title             "Hop til" >
-<!ENTITY jumptofile.search            "Søg:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Brug globale genvejstaster" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Handling" >
-<!ENTITY hotkeys.hotkey               "Genvejstast" >
-<!ENTITY hotkeys.add                  "Tilføj" >
-<!ENTITY hotkeys.set                  "Brug" >
-<!ENTITY hotkeys.remove               "Fjern" >
-<!ENTITY hotkeys.prefpane             "Genvejstaster" >
-<!ENTITY hotkeys.info                 "Globale genvejstaster giver dig adgang til funktionalitet i &brandShortName;, selv hvis &brandShortName; ikke er det aktive program. Visse kombinationer af genvejstaster skal inkludere ændrings-taster for at minimere uønsket indblanding med andre programmer." >
-
-<!ENTITY rapi.prefpane.title             "Web-integration" >
-<!ENTITY rapi.prefpane.access.caption    "Web-integrations tilladelser" >
-<!ENTITY rapi.prefpane.access.text       "Du kan tillade websteder at integrere med &brandShortName; for at oprette en tættere forbindelse mellem nettet og dit medie. Konfigurer &brandShortName; til at tillade eller blokere de følgende integrationspunkter." >
-<!ENTITY rapi.whitelist.label            "Undtagelser…" >
-<!ENTITY rapi.restore_defaults.label      "Gendan til standard" >
-<!ENTITY rapi.playback_control_disable.label "Nægt websteder at kontrollere medie afspilning" >
-<!ENTITY rapi.playback_read_disable.label    "Nægt websteder at se information om spillende medie." >
-<!ENTITY rapi.library_read_disable.label     "Nægt websteder at se information om medier i mit bibliotek og i mine enheder." >
-<!ENTITY rapi.library_write_disable.label    "Bloker hjemmesider fra at tilføje/redigere medier og afspilningslister i mit bibliotek og på mine enheder" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Tilføjelser">
-<!ENTITY prefpane.content.label       "Webindhold">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Ingen USB-enheder er tilsluttet." >
-<!ENTITY umsd.music.tab                     "Musik" >
-<!ENTITY umsd.music.music_files_group       "Musikfiler" >
-<!ENTITY umsd.music.music_path_desc         "Ved kopiering af musikfiler til enheden, placer dem i følgende mappe:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Vælg hvilken mappe på enheden musikfiler skal placeres i." >
-<!ENTITY umsd.music.music_ext_desc          "Kopier musikfiler med følgende fil-endelser til enheden:" >
-<!ENTITY umsd.video.tab                     "Video" >
-<!ENTITY umsd.video.video_files_group       "Videofiler" >
-<!ENTITY umsd.video.video_path_desc         "Placer videofiler i følgende mappe på enheden under kopiering:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Vælg mappen på enheden hvori der skal gemmes videofiler." >
-<!ENTITY umsd.video.video_ext_desc          "Kopier videofiler med følgende fil-endelser til enheden:" >
-
-<!ENTITY device.error.dialog.link           "Vis Fejl Detaljer" >
-
-<!ENTITY restartbox.restartnow        "Genstart nu" >
-<!ENTITY restartbox.restartonplaybackend "Genstart ved endt afspilning" >
-<!ENTITY restartbox.restartlater      "Genstart senere" >
-
-<!ENTITY setupprogress.installingextensions "Installerer tilføjelser" >
-
-<!ENTITY jobprogress.details "Detaljer" >
-
-<!ENTITY menu.updateCmd.label          "Tjek for opdateringer…">
-<!ENTITY menu.updateCmd.accessKey      "T">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "H" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "H" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Slet" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "Y" >
-
-<!ENTITY menu.control.playpause.spacebar "Mellemrum" >
-
+<!ENTITY trackeditor.addtag.title "Tilføj mærke">
+<!ENTITY trackeditor.addtag.tag "Mærke:">
+<!ENTITY jumptofile.title "Hop til">
+<!ENTITY jumptofile.search "Søg:">
+<!ENTITY hotkeys.useglobalhotkeys "Brug globale genvejstaster">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Handling">
+<!ENTITY hotkeys.hotkey "Genvejstast">
+<!ENTITY hotkeys.add "Tilføj">
+<!ENTITY hotkeys.set "Brug">
+<!ENTITY hotkeys.remove "Fjern">
+<!ENTITY hotkeys.prefpane "Genvejstaster">
+<!ENTITY hotkeys.info "Globale genvejstaster giver dig adgang til funktionalitet i &brandShortName;, selv hvis &brandShortName; ikke er det aktive program. Visse kombinationer af genvejstaster skal inkludere ændrings-taster for at minimere uønsket indblanding med andre programmer.">
+<!ENTITY rapi.prefpane.title "Web-integration">
+<!ENTITY rapi.prefpane.access.caption "Web-integrations tilladelser">
+<!ENTITY rapi.prefpane.access.text "Du kan tillade websteder at integrere med &brandShortName; for at oprette en tættere forbindelse mellem nettet og dit medie. Konfigurer &brandShortName; til at tillade eller blokere de følgende integrationspunkter.">
+<!ENTITY rapi.whitelist.label "Undtagelser…">
+<!ENTITY rapi.restore_defaults.label "Gendan til standard">
+<!ENTITY rapi.playback_control_disable.label "Nægt websteder at kontrollere medie afspilning">
+<!ENTITY rapi.playback_read_disable.label "Nægt websteder at se information om spillende medie.">
+<!ENTITY rapi.library_read_disable.label "Nægt websteder at se information om medier i mit bibliotek og i mine enheder.">
+<!ENTITY rapi.library_write_disable.label "Bloker hjemmesider fra at tilføje/redigere medier og afspilningslister i mit bibliotek og på mine enheder">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Tilføjelser">
+<!ENTITY prefpane.content.label "Webindhold">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Ingen USB-enheder er tilsluttet.">
+<!ENTITY umsd.music.tab "Musik">
+<!ENTITY umsd.music.music_files_group "Musikfiler">
+<!ENTITY umsd.music.music_path_desc "Ved kopiering af musikfiler til enheden, placer dem i følgende mappe:">
+<!ENTITY umsd.music.music_path_browse_msg "Vælg hvilken mappe på enheden musikfiler skal placeres i.">
+<!ENTITY umsd.music.music_ext_desc "Kopier musikfiler med følgende fil-endelser til enheden:">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Videofiler">
+<!ENTITY umsd.video.video_path_desc "Placer videofiler i følgende mappe på enheden under kopiering:">
+<!ENTITY umsd.video.video_path_browse_msg "Vælg mappen på enheden hvori der skal gemmes videofiler.">
+<!ENTITY umsd.video.video_ext_desc "Kopier videofiler med følgende fil-endelser til enheden:">
+<!ENTITY device.error.dialog.link "Vis Fejl Detaljer">
+<!ENTITY restartbox.restartnow "Genstart nu">
+<!ENTITY restartbox.restartonplaybackend "Genstart ved endt afspilning">
+<!ENTITY restartbox.restartlater "Genstart senere">
+<!ENTITY setupprogress.installingextensions "Installerer tilføjelser">
+<!ENTITY jobprogress.details "Detaljer">
+<!ENTITY menu.updateCmd.label "Tjek for opdateringer…">
+<!ENTITY menu.updateCmd.accessKey "T">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "H">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "H">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Slet">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "Y">
+<!ENTITY menu.control.playpause.spacebar "Mellemrum">
 <!ENTITY tabs.closeTab "Luk faneblad">
 <!ENTITY tabs.listAllTabs "Vis alle faneblade">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Startside" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Installation af tilføjelser" >
-
+<!ENTITY prefs.homepage.label "Startside">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Installation af tilføjelser">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Annuller">
-<!ENTITY command.device.cancel.accesskey                "A">
-<!ENTITY command.device.canceldevicecopy                "Annuller kopiering">
-<!ENTITY command.device.canceldevicecopy.accesskey      "A">
-<!ENTITY command.device.canceldevicedelete              "Annuller sletning">
-<!ENTITY command.device.canceldevicedelete.accesskey    "A">
-<!ENTITY command.device.canceldevicesync                "Annuller synkronisering">
-<!ENTITY command.device.canceldevicesync.accesskey      "A">
-<!ENTITY command.device.canceldeviceupdate              "Annuller opdatering">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "A">
-<!ENTITY command.device.ejectdevice                     "Skub ud">
-<!ENTITY command.device.ejectdevice.accesskey           "S">
-<!ENTITY command.device.formatdevice                    "Formatér">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Ignorer">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Hent informationer">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Omdøb">
-<!ENTITY command.device.renamedevice.accesskey          "O">
-<!ENTITY command.device.devicesync                      "Synkroniser">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Annuller">
+<!ENTITY command.device.cancel.accesskey "A">
+<!ENTITY command.device.canceldevicecopy "Annuller kopiering">
+<!ENTITY command.device.canceldevicecopy.accesskey "A">
+<!ENTITY command.device.canceldevicedelete "Annuller sletning">
+<!ENTITY command.device.canceldevicedelete.accesskey "A">
+<!ENTITY command.device.canceldevicesync "Annuller synkronisering">
+<!ENTITY command.device.canceldevicesync.accesskey "A">
+<!ENTITY command.device.canceldeviceupdate "Annuller opdatering">
+<!ENTITY command.device.canceldeviceupdate.accesskey "A">
+<!ENTITY command.device.ejectdevice "Skub ud">
+<!ENTITY command.device.ejectdevice.accesskey "S">
+<!ENTITY command.device.formatdevice "Formatér">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Ignorer">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Hent informationer">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Omdøb">
+<!ENTITY command.device.renamedevice.accesskey "O">
+<!ENTITY command.device.devicesync "Synkroniser">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Rip CD">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "Stop Rip">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Find CD information">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Skub Ud">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Reparer min enhed">
-
-<!ENTITY device.firmware.wizard.title                     "Opdater firmware">
-<!ENTITY device.firmware.wizard.check.page.title          "Tjek for opdateret firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Tjekker for opdateret firmware…">
+<!ENTITY command.device.rip "Rip CD">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "Stop Rip">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Find CD information">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Skub Ud">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Reparer min enhed">
+<!ENTITY device.firmware.wizard.title "Opdater firmware">
+<!ENTITY device.firmware.wizard.check.page.title "Tjek for opdateret firmware">
+<!ENTITY device.firmware.wizard.check.progress.title "Tjekker for opdateret firmware…">
 <!ENTITY device.firmware.wizard.check.install.description "Installering af den opdaterede firmware skulle vare mindre end 10 minutter. Du kan altid udføre opdateringen på et senere tidspunkt.">
 <!ENTITY device.firmware.wizard.check.already.description "Din enheds firmware er allerede opdateret.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Udgivelsesnoter">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Enheden skal være forbundet i firmware tilstand for at fortsætte. Følg nedenstående instruktioner for sætte din enhed i firmware tilstand. ">
-<!ENTITY device.firmware.wizard.download.title            "Henter ny firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "At gendanne enheden skulle tage mindre end 5 minutter.">
-<!ENTITY device.firmware.wizard.repair.warning            "Når enheden nulstilles til fabriksindstillingerne vil alt musik og data på enheden blive slettet. Sikkerhedskopier alle dine filer før du fortsætter.">
-<!ENTITY device.firmware.wizard.install.title             "Installerer firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "Det ser ud til din enhed er optaget. Firmware kan kun installeres når din enhed er ledig.">
+<!ENTITY device.firmware.wizard.download.title "Henter ny firmware…">
+<!ENTITY device.firmware.wizard.repair.time.description "At gendanne enheden skulle tage mindre end 5 minutter.">
+<!ENTITY device.firmware.wizard.repair.warning "Når enheden nulstilles til fabriksindstillingerne vil alt musik og data på enheden blive slettet. Sikkerhedskopier alle dine filer før du fortsætter.">
+<!ENTITY device.firmware.wizard.install.title "Installerer firmware…">
+<!ENTITY device.firmware.wizard.busy.description "Det ser ud til din enhed er optaget. Firmware kan kun installeres når din enhed er ledig.">
 <!ENTITY device.firmware.wizard.retry.description "Prøv igen efter din enhed har fuldført dens nuværende handling.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "Der opstod en fejl under søgningen efter en firmware opdatering. Tjek din netværksforbindelse og forsøg igen.">
+<!ENTITY device.firmware.wizard.check.error.description "Der opstod en fejl under søgningen efter en firmware opdatering. Tjek din netværksforbindelse og forsøg igen.">
 <!ENTITY device.firmware.wizard.download.error.description "Der opstod en fejl under hentningen af den nye firmware. Tjek din netværksforbindelse og forsøg igen.">
-<!ENTITY device.firmware.wizard.support.description        "Support ressourcer  som FAQ&apos;er og problemløsnings tips kan findes på">
-
-<!ENTITY device.info.icon.device            "Generisk enhedsikon">
-<!ENTITY device.info.icon.readonly          "Ikon for skrivebeskyttelse">
-<!ENTITY device.info.model.label            "Model">
-<!ENTITY device.info.capacity.label         "Kapacitet">
-<!ENTITY device.info.product.label          "Produkt">
-<!ENTITY device.info.friendly_name.label    "Navn">
-<!ENTITY device.info.serial_number.label    "Serienummer">
-<!ENTITY device.info.vendor.label           "Producent">
-<!ENTITY device.info.access.label           "Adgangskompatibilitet">
+<!ENTITY device.firmware.wizard.support.description "Support ressourcer  som FAQ&apos;er og problemløsnings tips kan findes på">
+<!ENTITY device.info.icon.device "Generisk enhedsikon">
+<!ENTITY device.info.icon.readonly "Ikon for skrivebeskyttelse">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY device.info.capacity.label "Kapacitet">
+<!ENTITY device.info.product.label "Produkt">
+<!ENTITY device.info.friendly_name.label "Navn">
+<!ENTITY device.info.serial_number.label "Serienummer">
+<!ENTITY device.info.vendor.label "Producent">
+<!ENTITY device.info.access.label "Adgangskompatibilitet">
 <!ENTITY device.info.playback_formats.label "Afspilningsformater">
-<!ENTITY device.info.battery.label          "Batteri">
+<!ENTITY device.info.battery.label "Batteri">
 <!ENTITY device.info.firmware_version.label "Firmware version">
-
-<!ENTITY device.progress.sync               "Synkroniser">
-
-<!ENTITY device.capacity.music.label    "Musik">
-<!ENTITY device.capacity.video.label    "Video">
-<!ENTITY device.capacity.image.label    "Fotos">
-<!ENTITY device.capacity.other.label    "Andet">
-<!ENTITY device.capacity.free.label     "Ledig">
-
-<!ENTITY device.unsupported_media.dialog.title  "Inkompatible filer blev fundet">
+<!ENTITY device.progress.sync "Synkroniser">
+<!ENTITY device.capacity.music.label "Musik">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Fotos">
+<!ENTITY device.capacity.other.label "Andet">
+<!ENTITY device.capacity.free.label "Ledig">
+<!ENTITY device.unsupported_media.dialog.title "Inkompatible filer blev fundet">
 <!ENTITY device.unsupported_media.dialog.enable "Fortæl mig når inkompatible filer bliver fundet">
-
 <!ENTITY device.sync.header.label "Indstillinger for synkronisering">
 <!ENTITY device.import.header.label "Importer">
 <!ENTITY device.sync.auto_sync.label "Synkroniser">
@@ -510,7 +449,6 @@
 <!ENTITY device.sync.images.selected.label "Markerede undermapper">
 <!ENTITY device.sync.images.foldername "Mappenavn">
 <!ENTITY device.sync.images.filecount "Fotos">
-
 <!ENTITY device.settings.header.label "Indstillinger">
 <!ENTITY device.settings.general.label "Generelt">
 <!ENTITY device.settings.auto_launch.checkbox.label "Åbn &brandShortName; når denne enhed opdages">
@@ -520,219 +458,183 @@
 <!ENTITY device.settings.disk.label "Diskhåndtering">
 <!ENTITY device.settings.disk.management.label "Tilpas mappestruktur">
 <!ENTITY device.settings.disk.management.filename "Sangfiler">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Konfigurer omkoderen automatisk">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Angiv lydkvalitet og format manuelt">
 <!ENTITY device.settings.music.transcoding.format.label "Format til indkodning">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Musik">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY device.management.tabs.image.label "Fotos">
 <!ENTITY device.management.tabs.tools.label "Funktioner">
 <!ENTITY device.management.tabs.settings.label "Indstillinger">
-
 <!ENTITY device.tools.product_registration.title "Produktregistrering">
 <!ENTITY device.tools.product_registration.description "Ønsker du at sikre dig købsbeviser, yderligere fordele ved produktmedlemskab, eller at modtage sikkerhedsmeddelelser?">
 <!ENTITY device.tools.product_registration.label "Registrer produkt">
-
 <!ENTITY device.tools.update_firmware.title "Opdater firmware">
 <!ENTITY device.tools.update_firmware.description "Din enhed bliver styret af et indre program, kaldet firmwaren. Nyere udgaver af fimwaren kan være blevet udgivet siden du sidst forbandt din enhed til din computer.">
 <!ENTITY device.tools.update_firmware.label "Tjek for opdateret firmware">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Nuværende firmware version:">
-
 <!ENTITY device.tools.restore_device.title "Nulstil enhed">
 <!ENTITY device.tools.restore_device.description "At nulstille enheden tilbage til fabriksindstillingerne vil slette alle filer på enheden, og genoprette fabrikantens firmware og standard indstillinger. ">
 <!ENTITY device.tools.restore_device.label "Nulstil enhed til fabriksindstillinger">
-
 <!ENTITY device.tools.format_device.title "Formater enhed">
 <!ENTITY device.tools.format_device.description "En formatering af din enhed vil slette al musik og data på enheden.">
 <!ENTITY device.tools.format_device.label "Formater enhed">
 <!ENTITY device.tools.format_volume.button.label "Formater">
-
 <!ENTITY device.tools.support.title "Understøttelse">
 <!ENTITY device.tools.support.description "Se de seneste nyheder om understøttelse, brugervejledninger, dokumentation, ofte spurgte spørgsmål, og produktinformation. Tjenester for understøttelse er tilgængelige for kunder, der har registreret deres produkt.">
 <!ENTITY device.tools.support.label "Vis hjælpekilder for understøttelse">
-
 <!ENTITY device.tools.reset_warnings.title "Nulstil advarsler">
 <!ENTITY device.tools.reset_warnings.description "Nulstillelse af advarselsdialogerne vil aktivere disse dialoger til at klarmelde dig om at bekræfte bestemte opgaver som du ønsker at fuldføre.">
 <!ENTITY device.tools.reset_warnings.label "Nulstil meddelelser">
-
 <!ENTITY device.dialog.setup.title "Opsætning af enhed">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Vælg hvilket lagringsmedie du ønsker &brandShortName; skal håndtere:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignorer denne enhed">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Vælg kun hvis du ikke ønsker at &brandShortName; skal håndtere denne enhed.">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Hvis &brandShortName; skal administrere denne enhed, kan du">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorer denne enhed">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Åbn link i standardbrowser">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Åbn side i standardbrowser">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Åbn ramme i standardbrowser">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Åbn billede i standardbrowser">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Kopier markeret tekst">
-<!ENTITY copySelectionCmd.accesskey                     "o">
-<!ENTITY playMediaCmd.label                             "Afspil">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Hent til bibliotek">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Hent til afspilningsliste">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Ingen afspilningslister&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Ny afspilningsliste">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Abonner på denne side…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Abonner på denne ramme…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Hjælp til med at gøre &brandShortName; bedre!">
-<!ENTITY feedback.dialog.yes        "Ja">
-<!ENTITY feedback.dialog.no         "Nej">
-<!ENTITY feedback.dialog.sentence1  "Vil du hjælpe os med at gøre &brandShortName; bedre, ved at deltage i en hurtig og anonym undersøgelse?">
-<!ENTITY feedback.dialog.sentence2  "Hvis du ikke er interesseret vil vi ikke spørge dig igen. Tak for overvejelsen. Vi værdsætter din brug af &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Venligst,">
-<!ENTITY feedback.dialog.sentence4  "Holdet bag &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Åbn link i standardbrowser">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Åbn side i standardbrowser">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Åbn ramme i standardbrowser">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Åbn billede i standardbrowser">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Kopier markeret tekst">
+<!ENTITY copySelectionCmd.accesskey "o">
+<!ENTITY playMediaCmd.label "Afspil">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "Hent til bibliotek">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Hent til afspilningsliste">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Ingen afspilningslister&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Ny afspilningsliste">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Abonner på denne side…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Abonner på denne ramme…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Hjælp til med at gøre &brandShortName; bedre!">
+<!ENTITY feedback.dialog.yes "Ja">
+<!ENTITY feedback.dialog.no "Nej">
+<!ENTITY feedback.dialog.sentence1 "Vil du hjælpe os med at gøre &brandShortName; bedre, ved at deltage i en hurtig og anonym undersøgelse?">
+<!ENTITY feedback.dialog.sentence2 "Hvis du ikke er interesseret vil vi ikke spørge dig igen. Tak for overvejelsen. Vi værdsætter din brug af &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "Venligst,">
+<!ENTITY feedback.dialog.sentence4 "Holdet bag &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Velkommen til &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "Velkommen til &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName; Opsætning">
-
+<!ENTITY first_run.title "&brandShortName; Opsætning">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Anbefalede tilføjelser">
+<!ENTITY first_run.add_ons.header.label "Anbefalede tilføjelser">
 <!ENTITY first_run.add_ons.description.line1 "Tilføjelser udvider &brandShortName;s funktionalitet, og lader dig tilpasse din medieafspiller-oplevelse.">
 <!ENTITY first_run.add_ons.description.line2 "Tilføjelser kan integrere med andre applikationer og service, understøtte forbindelser til eksterne enheder, ændre udseendet og meget andet!">
-<!ENTITY first_run.add_ons.loading.label     "Henter anbefalede tilføjelser.">
+<!ENTITY first_run.add_ons.loading.label "Henter anbefalede tilføjelser.">
 <!ENTITY first_run.add_ons.load_failed.label "Kunne ikke hente anbefalede tilføjelser.">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Opdatering parat til installation">
 <!ENTITY first_run.app_update.finished.text "Opdateringen vil blive installeret når &brandShortName; bliver genstartet.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; kan ikke forbinde til internettet">
-<!ENTITY first_run.connection.description          "Kontroller dine forbindelsesindstillinger eller fortsæt med installationsguiden.">
-<!ENTITY first_run.connection.settings.button      "Indstillinger for forbindelse…">
+<!ENTITY first_run.connection.header.label "&brandShortName; kan ikke forbinde til internettet">
+<!ENTITY first_run.connection.description "Kontroller dine forbindelsesindstillinger eller fortsæt med installationsguiden.">
+<!ENTITY first_run.connection.settings.button "Indstillinger for forbindelse…">
 <!ENTITY first_run.connection.settings.description "Er din computer eller dit netværk beskyttet af en firewall eller proxy? Almindelige netværksproblemer kan løses ved at rette forkerte forbindelsesindstillinger.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Licensaftale">
+<!ENTITY first_run.eula.header.label "Licensaftale">
 <!ENTITY first_run.eula.accept_checkbox.label "Jeg har læst og accepterer betingelserne for denne licens.">
-<!ENTITY first_run.eula.language.label        "Sprog:">
-
+<!ENTITY first_run.eula.language.label "Sprog:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Hjælp med at gøre &brandShortName; bedre">
-<!ENTITY first_run.feedback.description             "Kunne du tænke dig at hjælpe os med at gøre  &brandShortName; bedre ved at sende os tilbagemeldinger i form af statistiske data og brugerundersøgelser om hvordan du bruger programmet?">
-<!ENTITY first_run.feedback.metrics.label           "Indsaml og send mine brugsmønstre til holdet bag &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "Statistiske brugsdata er fuldstændigt anonyme og der indsamles ingen personlige data.">
-<!ENTITY first_run.feedback.email.header.label      "Hold mig underrettet">
-<!ENTITY first_run.feedback.email.description       "Tilmeld dig vores nyhedsbrev for at høre om nye udgivelser og vigtige opdateringer.">
+<!ENTITY first_run.feedback.header.label "Hjælp med at gøre &brandShortName; bedre">
+<!ENTITY first_run.feedback.description "Kunne du tænke dig at hjælpe os med at gøre  &brandShortName; bedre ved at sende os tilbagemeldinger i form af statistiske data og brugerundersøgelser om hvordan du bruger programmet?">
+<!ENTITY first_run.feedback.metrics.label "Indsaml og send mine brugsmønstre til holdet bag &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "Statistiske brugsdata er fuldstændigt anonyme og der indsamles ingen personlige data.">
+<!ENTITY first_run.feedback.email.header.label "Hold mig underrettet">
+<!ENTITY first_run.feedback.email.description "Tilmeld dig vores nyhedsbrev for at høre om nye udgivelser og vigtige opdateringer.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "Indtast din e-mailadresse for at holde dig opdateret">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes import/eksport">
-<!ENTITY first_run.itunes.description                   "Det lader til at du har iTunes installeret. &brandShortName; kan konfigureres til at importere og/eller eksportere spor mellem &brandShortName; og iTunes så dine biblioteker forbliver synkroniseret.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Importer spor og afspilningslister fra iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts og musik købt gennem iTunes Store kan importeres til &brandShortName;. Denne funktion fungerer hvis &brandShortName; bliver din primære musikafspiller.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Eksporter nye spor og afspilningslister til iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Musik erhvervet gennem &brandShortName; kan eksporteres til iTunes så den kan blive overført til din iPod eller iPhone.">
-
+<!ENTITY first_run.itunes.header.label "iTunes import/eksport">
+<!ENTITY first_run.itunes.description "Det lader til at du har iTunes installeret. &brandShortName; kan konfigureres til at importere og/eller eksportere spor mellem &brandShortName; og iTunes så dine biblioteker forbliver synkroniseret.">
+<!ENTITY first_run.itunes.checkbox.import.label "Importer spor og afspilningslister fra iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts og musik købt gennem iTunes Store kan importeres til &brandShortName;. Denne funktion fungerer hvis &brandShortName; bliver din primære musikafspiller.">
+<!ENTITY first_run.itunes.checkbox.export.label "Eksporter nye spor og afspilningslister til iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "Musik erhvervet gennem &brandShortName; kan eksporteres til iTunes så den kan blive overført til din iPod eller iPhone.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Importer medier">
-<!ENTITY first_run.import_media.description                  "Denne side vil hjælpe dig igennem import af mediefiler til &brandShortName; ved at forsøge at finde dine lokale medier. Når &brandShortName; starter kan du tilføje yderligere medier på flere måder.">
+<!ENTITY first_run.import_media.header.label "Importer medier">
+<!ENTITY first_run.import_media.description "Denne side vil hjælpe dig igennem import af mediefiler til &brandShortName; ved at forsøge at finde dine lokale medier. Når &brandShortName; starter kan du tilføje yderligere medier på flere måder.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Skan mapper på min computer">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Importer ikke medier">
+<!ENTITY first_run.import_media.radio.dont_import.label "Importer ikke medier">
 <!ENTITY first_run.import_media.scan_directories.description "Skal &brandShortName; forsøge at importere medier ved at skanne bestemte mapper på din  computer?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Overvåg denne mappe for ændringer">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Henter tilføjelser">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Velkommen til &brandShortName;">
+<!ENTITY first_run.welcome.header.label "Velkommen til &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; er et tilpasnings dygtigt alternativ til traditionelle digitale medieafspillere">
 <!ENTITY first_run.welcome.description.line2 "Denne guide sørger for at &brandShortName; kommer op at køre på en hurtig og effektiv måde.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Medie-importering">
-
+<!ENTITY import_media.prefs.title "Medie-importering">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Importer et bibliotek">
-<!ENTITY import_library.prefs.title                       "iTunes-importering">
-<!ENTITY import_library.library_file_label                "Biblioteksfil:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Advar mig når ikke-understøttede spor eller afspilningslister ikke bliver importeret">
-<!ENTITY import_library.prefs.path_group_caption          "Placering af iTunes-musikbibliotek">
-<!ENTITY import_library.prefs.options_group_caption       "Indstillinger for importering">
-<!ENTITY import_library.import_command                    "Importer bibliotek">
-<!ENTITY import_tracks_itunes_checkbox                    "Importer spor fra iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Importer afspilningslister">
-<!ENTITY export_tracks_itunes_checkbox                    "Eksporter spor til iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Eksporter afspilningsliste med musik">
-<!ENTITY export_subscriptions_itunes_checkbox             "Eksporter abonnementer">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Eksporter smarte afspilningslister">
-<!ENTITY importexport_show_notifications_checkbox         "Giv besked når importeringen/eksporteringen er fuldført">
-
+<!ENTITY import_library.dialog.title "Importer et bibliotek">
+<!ENTITY import_library.prefs.title "iTunes-importering">
+<!ENTITY import_library.library_file_label "Biblioteksfil:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Advar mig når ikke-understøttede spor eller afspilningslister ikke bliver importeret">
+<!ENTITY import_library.prefs.path_group_caption "Placering af iTunes-musikbibliotek">
+<!ENTITY import_library.prefs.options_group_caption "Indstillinger for importering">
+<!ENTITY import_library.import_command "Importer bibliotek">
+<!ENTITY import_tracks_itunes_checkbox "Importer spor fra iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Importer afspilningslister">
+<!ENTITY export_tracks_itunes_checkbox "Eksporter spor til iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Eksporter afspilningsliste med musik">
+<!ENTITY export_subscriptions_itunes_checkbox "Eksporter abonnementer">
+<!ENTITY export_smartplaylists_itunes_checkbox "Eksporter smarte afspilningslister">
+<!ENTITY importexport_show_notifications_checkbox "Giv besked når importeringen/eksporteringen er fuldført">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Afspilningslisten er ændret">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Behold den nuværende &brandShortName; afspilningsliste (Importer ikke denne afspilningsliste)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Foren de nuværende afspilningslister fra &brandShortName; dem fra iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Erstat denne afspilningsliste fra &brandShortName; med den nuværende fra iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Bemærk: At sammenlægge og erstatte kan ikke fortrydes.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Anvend markering på alle afspilningslister">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Afspilningslisten er ændret">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Behold den nuværende &brandShortName; afspilningsliste (Importer ikke denne afspilningsliste)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Foren de nuværende afspilningslister fra &brandShortName; dem fra iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Erstat denne afspilningsliste fra &brandShortName; med den nuværende fra iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note "Bemærk: At sammenlægge og erstatte kan ikke fortrydes.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Anvend markering på alle afspilningslister">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "Aktiver ikke overvågning af mapper i den samme mappe som dit Automatisk administrerede musikbibliotek. Det vil medføre dubleter i biblioteket. ">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Mappeovervågning">
+<!ENTITY watch_folder.prefs.title "Mappeovervågning">
 <!ENTITY watch_folder.prefs.settings_group_caption "Indstillinger for mappeovervågning">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; kan overvåge indholdet af en mappe og automatisk tilføje eller fjerne objekter indeholdt i den.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Hold automatisk øje med ændringer i den følgende mappe">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Mappe:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; kan overvåge indholdet af en mappe og automatisk tilføje eller fjerne objekter indeholdt i den.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Hold automatisk øje med ændringer i den følgende mappe">
+<!ENTITY watch_folder.prefs.watch_folder_label "Mappe:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Anbefalede tilføjelser">
+<!ENTITY enable_recommended_addons_update.label "Anbefalede tilføjelser">
 <!ENTITY enable_recommended_addons_update.accesskey "a">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; Opsætning">
-
+<!ENTITY recommended_add_ons.title "&brandShortName; Opsætning">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Detaljer">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Detaljer">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Intet afspilles" >
-<!ENTITY albumart.displaypane.not_selected_message  "Intet er markeret" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Træk albumcover hertil" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Vis markerede" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Vis hvad der spilles nu" >
+<!ENTITY albumart.displaypane.not_playing_message "Intet afspilles">
+<!ENTITY albumart.displaypane.not_selected_message "Intet er markeret">
+<!ENTITY albumart.displaypane.drag_and_drop "Træk albumcover hertil">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Vis markerede">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Vis hvad der spilles nu">
 <!ENTITY albumart.displaypane.selected.menu.cut "Klip">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopier">
 <!ENTITY albumart.displaypane.selected.menu.paste "Sæt ind">
 <!ENTITY albumart.displaypane.selected.menu.clear "Ryd">
 <!ENTITY albumart.coverpreview.title "Albumcovers">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Albumcover">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Gem albumcover i biblioteket">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Dette vil give &brandShortName; tilladelse til at indsætte covers til kompatible medie filer">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Søg efter filnavne:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Indtast kommasepareret liste med filnavne her">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Søg efter filendelser:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Indtast kommasepararet liste med filendelser her">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Nedhentnings prioriteter ">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Lav om på listen af hentede filer der skal bruges først.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Op">
@@ -740,62 +642,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nulstil">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Hent automatisk albumcovers">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Hent automatisk albumcovers når et spor afspilles eller markeres, afhængig af panelet for albumcoverets tilstand. Denne egenskab kan have betydning for ydeevnen.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Tilbage">
-<!ENTITY wizard.button.back.accesskey  "T">
-<!ENTITY wizard.button.cancel.label    "Annuller">
-<!ENTITY wizard.button.next.label      "Fortsæt">
-<!ENTITY wizard.button.next.accesskey  "F">
-<!ENTITY wizard.button.finish.label    "Afslut">
-
+<!ENTITY wizard.button.back.label "Tilbage">
+<!ENTITY wizard.button.back.accesskey "T">
+<!ENTITY wizard.button.cancel.label "Annuller">
+<!ENTITY wizard.button.next.label "Fortsæt">
+<!ENTITY wizard.button.next.accesskey "F">
+<!ENTITY wizard.button.finish.label "Afslut">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Mediekerne-fejl">
-<!ENTITY mediacore.error.preface  "&brandShortName; er stødt på følgende fejl i mediekernen:">
+<!ENTITY mediacore.error.title "Mediekerne-fejl">
+<!ENTITY mediacore.error.preface "&brandShortName; er stødt på følgende fejl i mediekernen:">
 <!ENTITY mediacore.error.continue "Fortsæt">
-<!ENTITY mediacore.error.stop     "Stop afspilning">
+<!ENTITY mediacore.error.stop "Stop afspilning">
 <!ENTITY mediacore.error.dontshowme "Vis ikke flere fejl fra mediekernen">
 <!ENTITY mediacore.error.codec_not_found.text.pre "For mere information om manglende codecs, se:">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Meddelelse omkring medieimportering">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "For mere information om manglende codecs, se:">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Påmind mig ikke igen om ikke-understøttede videofiler under importering">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Afspilning">
-
-<!ENTITY playback.prefpane.audio_output.label   "Lydudgang">
-<!ENTITY playback.prefpane.audio_output.buffer  "Udgangsbuffer:">
-
-<!ENTITY playback.prefpane.streaming.label      "Netværk og streaming">
-<!ENTITY playback.prefpane.streaming.buffer     "Streamingbuffer:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalisering">
+<!ENTITY playback.prefpane.label "Afspilning">
+<!ENTITY playback.prefpane.audio_output.label "Lydudgang">
+<!ENTITY playback.prefpane.audio_output.buffer "Udgangsbuffer:">
+<!ENTITY playback.prefpane.streaming.label "Netværk og streaming">
+<!ENTITY playback.prefpane.streaming.buffer "Streamingbuffer:">
+<!ENTITY playback.prefpane.normalization.label "Normalisering">
 <!ENTITY playback.prefpane.normalization.enable "Brug lyd normaliserings data hvis tilgængeligt">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Foretrukken forøgelses data:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Spor">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Metadata for bedømmelser">
 <!ENTITY playback.prefpane.ratings.enablewriting "Gem bedømmelsesinformation i hver enkelt fils metadata">
-
 <!ENTITY fetch_album_art.dialog.title "Hent albumcovers">
 <!ENTITY fetch_album_art.dialog.message "Er endnu ikke implementeret. (Se fejl 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Kunstner">
-<!ENTITY cdrip.lookup.info_not_found.album  "Album">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD information blev ikke fundet">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Du kan skrive kunster-, og albumnavn her. Du kan redigere resten af detaljerne i CD Rip afspilningslisten.">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY cdrip.lookup.info_not_found.title "CD information blev ikke fundet">
+<!ENTITY cdrip.lookup.info_not_found.descr "Du kan skrive kunster-, og albumnavn her. Du kan redigere resten af detaljerne i CD Rip afspilningslisten.">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Titel">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "CD rip">
 <!ENTITY cdrip.prefpane.format "Format">
@@ -805,33 +694,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Afspil systemets alarmlyd efter CD rip">
 <!ENTITY cdrip.prefpane.providers.title "CD Lookup leverandør">
 <!ENTITY cdrip.prefpane.quality_desc "En højere kbps kvalitets indstilling vil medføre en højere lydkvalitet og en større fil størrelse. ">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip indstillinger">
-<!ENTITY cdrip.mediaview.format_label              "Format:">
-<!ENTITY cdrip.mediaview.quality_label             "Kvalitet:">
-<!ENTITY cdrip.mediaview.settings_button           "Indstillinger">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Rip CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Stop Rip">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Vis spor">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Skub CD&apos;en ud">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Rip indstillinger">
+<!ENTITY cdrip.mediaview.format_label "Format:">
+<!ENTITY cdrip.mediaview.quality_label "Kvalitet:">
+<!ENTITY cdrip.mediaview.settings_button "Indstillinger">
+<!ENTITY cdrip.mediaview.rip_cd_button "Rip CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stop Rip">
+<!ENTITY cdrip.mediaview.view_tracks_button "Vis spor">
+<!ENTITY cdrip.mediaview.eject_cd_button "Skub CD&apos;en ud">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Video vindue">
 <!ENTITY videowindow.actualsize "Rigtig størrelse">
 <!ENTITY videowindow.fullscreen "Fuld skærm">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Vi vil gerne takke vores bidragydere, hvis bestræbelser gør Songbird til hvad den er. Disse folk har hjulpet ved at skrive kode og dokumentation, og ved at teste. De har skabt og vedligeholdt dette produkt, dets tilknyttede udviklingsværktøjer, vores byggeværktøjer og vores hjemmesider. Navne er efterfulgt af IRC-kendenavne, kom forbi #songbird på irc.mozilla.org og sig hej!">
 <!ENTITY about.credits.footer.beforeLink "Dette ville selvfølgelig ikke være muligt uden det hårde arbejde og bestræbelserne fra">
@@ -842,15 +726,12 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird Champions er de dedikerede Songbird brugere og fans der har gjort en ekstraordinær indsats for at hjælpe andre Songbird brugere.">
 <!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction support forum">
 <!ENTITY about.credits.description.champs.link.post "De er de mest aktive folk på vores forum, og arbejder hårdt for at alle Songbird brugere er glade Songbird brugere. ">
-
-<!ENTITY cdrip.lookup.multiple.title       "Flere CD&apos;er blev fundet">
+<!ENTITY cdrip.lookup.multiple.title "Flere CD&apos;er blev fundet">
 <!ENTITY cdrip.lookup.multiple.description "Vælg en af de følgende eller tilføj selv information.">
-<!ENTITY cdinfo.other.label                "Tilføj selv Kunstner og Album information">
-
+<!ENTITY cdinfo.other.label "Tilføj selv Kunstner og Album information">
 <!ENTITY playqueue.label "Afspilningskø">
 <!ENTITY playqueue.instructions "Træk spor eller afspilningslister hertil for starte en kø af filer du ønsker at høre med det samme">
 <!ENTITY playqueue.inprogress "Tilføjer spor">
-
 <!ENTITY mediamanagement.removed.dialog.title "Medie håndtering er ikke længere understøttet ">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediehåndtering er blevet fjernet fra &brandShortName; siden version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "Denne ændring er en del af vores arbejde for at simplificere vores produkt og give en mere enkel og brugervenlig oplevelse " >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Mediehåndtering er blevet fjernet fra &brandShortName; siden version 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Denne ændring er en del af vores arbejde for at simplificere vores produkt og give en mere enkel og brugervenlig oplevelse ">

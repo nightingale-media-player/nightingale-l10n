@@ -1,503 +1,441 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "Gerai" >
-<!ENTITY window.cancel      "Atšaukti" >
-<!ENTITY window.apply       "Taikyti" >
-<!ENTITY window.browse      "Naršyti…" >
-<!ENTITY window.save        "Įrašyti">
-<!ENTITY window.yes         "Taip">
-<!ENTITY window.no          "Ne">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "Gerai">
+<!ENTITY window.cancel "Atšaukti">
+<!ENTITY window.apply "Taikyti">
+<!ENTITY window.browse "Naršyti…">
+<!ENTITY window.save "Įrašyti">
+<!ENTITY window.yes "Taip">
+<!ENTITY window.no "Ne">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Baigti „&brandShortName;“ darbą" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Nuostatos">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Baigti „&brandShortName;“ darbą">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Nuostatos">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Tarnybos">
-<!ENTITY menu.mac.hide                  "Nerodyti „&brandShortName;“">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel,alt">
-<!ENTITY menu.mac.hideothers            "Nerodyti kitų">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Rodyti viską">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Failas" >
-<!ENTITY menu.file.new          "Naujas grojaraštis…" >
-<!ENTITY menu.file.smart        "Naujas sumanusis grojaraštis…" >
-<!ENTITY menu.file.remote       "Prenumeruoti…" >
-<!ENTITY menu.file.podcast      "Nauja laidos prenumerata…" >
-<!ENTITY menu.file.open         "Atverti failą…" >
-<!ENTITY menu.file.url          "Atverti adresą…" >
-<!ENTITY menu.file.playlist     "Įkelti grojaraštį…" >
-<!ENTITY menu.file.library      "Įkelti biblioteką…" >
-<!ENTITY menu.file.newtab       "Nauja kortelė" >
-<!ENTITY menu.file.closetab     "Užverti kortelę" >
-<!ENTITY menu.file.metadata     "Peržiūrėti metaduomenis">
-<!ENTITY menu.file.scan         "Ieškoti failų…" >
-<!ENTITY menu.file.exit         "Baigti darbą" >
-
-<!ENTITY menu.edit          "Taisa" >
-<!ENTITY menu.edit.undo     "Atšaukti" >
-<!ENTITY menu.edit.redo     "Atkurti" >
-<!ENTITY menu.edit.cut      "Iškirpti" >
-<!ENTITY menu.edit.copy     "Kopijuoti" >
-<!ENTITY menu.edit.paste    "Įdėti" >
-<!ENTITY menu.edit.delete   "Šalinti" >
-<!ENTITY menu.edit.selall   "Pažymėti viską" >
-<!ENTITY menu.edit.find        "Ieškoti" >
-<!ENTITY menu.edit.findagain   "Ieškoti toliau" >
-
+<!ENTITY menu.mac.services "Tarnybos">
+<!ENTITY menu.mac.hide "Nerodyti „&brandShortName;“">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel,alt">
+<!ENTITY menu.mac.hideothers "Nerodyti kitų">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Rodyti viską">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Failas">
+<!ENTITY menu.file.new "Naujas grojaraštis…">
+<!ENTITY menu.file.smart "Naujas sumanusis grojaraštis…">
+<!ENTITY menu.file.remote "Prenumeruoti…">
+<!ENTITY menu.file.podcast "Nauja laidos prenumerata…">
+<!ENTITY menu.file.open "Atverti failą…">
+<!ENTITY menu.file.url "Atverti adresą…">
+<!ENTITY menu.file.playlist "Įkelti grojaraštį…">
+<!ENTITY menu.file.library "Įkelti biblioteką…">
+<!ENTITY menu.file.newtab "Nauja kortelė">
+<!ENTITY menu.file.closetab "Užverti kortelę">
+<!ENTITY menu.file.metadata "Peržiūrėti metaduomenis">
+<!ENTITY menu.file.scan "Ieškoti failų…">
+<!ENTITY menu.file.exit "Baigti darbą">
+<!ENTITY menu.edit "Taisa">
+<!ENTITY menu.edit.undo "Atšaukti">
+<!ENTITY menu.edit.redo "Atkurti">
+<!ENTITY menu.edit.cut "Iškirpti">
+<!ENTITY menu.edit.copy "Kopijuoti">
+<!ENTITY menu.edit.paste "Įdėti">
+<!ENTITY menu.edit.delete "Šalinti">
+<!ENTITY menu.edit.selall "Pažymėti viską">
+<!ENTITY menu.edit.find "Ieškoti">
+<!ENTITY menu.edit.findagain "Ieškoti toliau">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Nuostatos">
+<!ENTITY menu.linux.preferences "Nuostatos">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Valdymas" >
-<!ENTITY menu.control.play  "Groti/stabdyti" >
-<!ENTITY menu.control.pause "Pristabdyti" >
-<!ENTITY menu.control.next  "Paskesnė daina" >
-<!ENTITY menu.control.prev  "Ankstesnė daina" >
-<!ENTITY menu.control.shuf  "Maišyti" >
-<!ENTITY menu.control.repa  "Kartoti viską" >
-<!ENTITY menu.control.rep1  "Kartoti vieną" >
-<!ENTITY menu.control.repx  "Nieko nekartoti" >
-<!ENTITY menu.control.jumpto "Šokti į…" >
-
-<!ENTITY menu.control.play.button      "Groti" >
-<!ENTITY menu.control.pause.button     "Pauzė" >
-<!ENTITY menu.control.stop.button      "Stabdyti" >
-
+<!ENTITY menu.controls "Valdymas">
+<!ENTITY menu.control.play "Groti/stabdyti">
+<!ENTITY menu.control.pause "Pristabdyti">
+<!ENTITY menu.control.next "Paskesnė daina">
+<!ENTITY menu.control.prev "Ankstesnė daina">
+<!ENTITY menu.control.shuf "Maišyti">
+<!ENTITY menu.control.repa "Kartoti viską">
+<!ENTITY menu.control.rep1 "Kartoti vieną">
+<!ENTITY menu.control.repx "Nieko nekartoti">
+<!ENTITY menu.control.jumpto "Šokti į…">
+<!ENTITY menu.control.play.button "Groti">
+<!ENTITY menu.control.pause.button "Pauzė">
+<!ENTITY menu.control.stop.button "Stabdyti">
 <!ENTITY displaypane.default.image.pre "Pasirinkite priedą iš">
 <!ENTITY displaypane.default.image.tooltip "Plėtinio pasirinkimo piktograma">
 <!ENTITY displaypane.default.image.post "meniu arba apsilankykite">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Priedų puslapyje">
 <!ENTITY displaypane.default.link.post ", kad peržiūrėti galimus priedus.">
-<!ENTITY displaypane.name.servicepane   "Paslaugų skilties apačia">
-<!ENTITY displaypane.name.browser       "Turinio skilties apačia">
-<!ENTITY displaypane.name.sidebar       "Šoninė juosta dešinėje">
-<!ENTITY servicepane.title.label        "Palaugų skiltis">
-
-<!ENTITY menu.tools            "Priemonės" >
+<!ENTITY displaypane.name.servicepane "Paslaugų skilties apačia">
+<!ENTITY displaypane.name.browser "Turinio skilties apačia">
+<!ENTITY displaypane.name.sidebar "Šoninė juosta dešinėje">
+<!ENTITY servicepane.title.label "Palaugų skiltis">
+<!ENTITY menu.tools "Priemonės">
 <!ENTITY menu.tools.getartwork "Gauti albumo viršelį…">
 <!ENTITY menu.tools.exportmedia "Eksportuoti bibliotekos pakeitimus">
-
-<!ENTITY menu.help          "Žinynas" >
-<!ENTITY menu.help.homepage "&brandShortName; tinklalapis" >
-<!ENTITY menu.help.bugz     "Pranešti apie klaidą…" >
-<!ENTITY menu.help.topics   "Žinyno turinys…" >
+<!ENTITY menu.help "Žinynas">
+<!ENTITY menu.help.homepage "&brandShortName; tinklalapis">
+<!ENTITY menu.help.bugz "Pranešti apie klaidą…">
+<!ENTITY menu.help.topics "Žinyno turinys…">
 <!ENTITY menu.help.keyboard "Spartieji klavišai">
-<!ENTITY menu.help.about    "Apie &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Ekvalaizeris…" >
-<!ENTITY menu.preferences   "Nuostatos" >
-<!ENTITY menu.extensions    "Priedai" >
+<!ENTITY menu.help.about "Apie &brandShortName;">
+<!ENTITY menu.equalizer "Ekvalaizeris…">
+<!ENTITY menu.preferences "Nuostatos">
+<!ENTITY menu.extensions "Priedai">
 <!ENTITY menu.clearprivatedata "Pašalinti privačius duomenis…">
 <!ENTITY menu.errorconsole "Klaidų pultas">
-<!ENTITY menu.downloadmgr   "Atsiuntimai" >
-<!ENTITY menu.switchplayercontrols  "Grotuvo valdymas" >
-<!ENTITY menu.controllerontop       "Rodyti viršuje">
-<!ENTITY menu.controlleronbottom    "Rodyti apačioje">
-
-<!ENTITY menu.fullscreen            "Visas ekranas">
-<!ENTITY menu.videotofront          "Vaizdo įrašą į priekį">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Laukiama įrenginių.">
-<!ENTITY device.dialog.wait_for_completion.msg    "Laukiama visų įrenginio operacijų pabaigos.  Spauskite „Baigti darbą“, kad baigtumėte darbą su programa.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Baigti darbą">
-
-<!ENTITY tooltip.minimize         "Minimizuoti" >
-<!ENTITY tooltip.maximize         "Maksimizuoti/atkurti" >
-<!ENTITY tooltip.exit             "Uždaryti" >
-<!ENTITY tooltip.close            "Uždaryti" >
-<!ENTITY tooltip.hide             "Slėpti" >
-<!ENTITY tooltip.fullscreen       "Visas ekranas" >
-<!ENTITY tooltip.control.back     "Ankstesnė daina" >
-<!ENTITY tooltip.control.play     "Groti" >
-<!ENTITY tooltip.control.pause    "Pauzė" >
-<!ENTITY tooltip.control.resume   "Tęsti" >
-<!ENTITY tooltip.control.stop     "Stabdyti" >
-<!ENTITY tooltip.control.fwd      "Paskesnė daina" >
-<!ENTITY tooltip.control.mute     "Išjungti garsą" >
-<!ENTITY tooltip.control.volume   "Garsas" >
-<!ENTITY tooltip.control.shuffle  "Maišyti" >
-<!ENTITY tooltip.control.shuf_off "Maišymas išjungtas" >
-<!ENTITY tooltip.control.curtrack "Rasti dabar grojamą dainą" >
-<!ENTITY tooltip.search           "Ieškoti" >
-<!ENTITY tooltip.browser.back     "Atgal" >
-<!ENTITY tooltip.browser.fwd      "Pirmyn" >
-<!ENTITY tooltip.browser.stop     "Stabdyti naršyklę" >
-<!ENTITY tooltip.browser.home     "Pradinis tinklalapis" >
-<!ENTITY tooltip.browser.refresh  "Atnaujinti" >
-<!ENTITY tooltip.browser.subscription "Kurti prenumeratą" >
-<!ENTITY tooltip.browser.mediapages.list "Sąrašo rodinys" >
-<!ENTITY tooltip.browser.mediapages.filter "Filtro polangio rodinys" >
-<!ENTITY tooltip.browser.mediapages "Peržiūra…" >
-<!ENTITY tooltip.servicepane.show    "Rodyti paslaugų skiltį" >
-<!ENTITY tooltip.servicepane.collapse    "Suskleisti paslaugų polangį" >
-<!ENTITY tooltip.servicepane.newnode "Naujas grojaraštis" >
+<!ENTITY menu.downloadmgr "Atsiuntimai">
+<!ENTITY menu.switchplayercontrols "Grotuvo valdymas">
+<!ENTITY menu.controllerontop "Rodyti viršuje">
+<!ENTITY menu.controlleronbottom "Rodyti apačioje">
+<!ENTITY menu.fullscreen "Visas ekranas">
+<!ENTITY menu.videotofront "Vaizdo įrašą į priekį">
+<!ENTITY device.dialog.wait_for_completion.title "Laukiama įrenginių.">
+<!ENTITY device.dialog.wait_for_completion.msg "Laukiama visų įrenginio operacijų pabaigos.  Spauskite „Baigti darbą“, kad baigtumėte darbą su programa.">
+<!ENTITY device.dialog.wait_for_completion.quit "Baigti darbą">
+<!ENTITY tooltip.minimize "Minimizuoti">
+<!ENTITY tooltip.maximize "Maksimizuoti/atkurti">
+<!ENTITY tooltip.exit "Uždaryti">
+<!ENTITY tooltip.close "Uždaryti">
+<!ENTITY tooltip.hide "Slėpti">
+<!ENTITY tooltip.fullscreen "Visas ekranas">
+<!ENTITY tooltip.control.back "Ankstesnė daina">
+<!ENTITY tooltip.control.play "Groti">
+<!ENTITY tooltip.control.pause "Pauzė">
+<!ENTITY tooltip.control.resume "Tęsti">
+<!ENTITY tooltip.control.stop "Stabdyti">
+<!ENTITY tooltip.control.fwd "Paskesnė daina">
+<!ENTITY tooltip.control.mute "Išjungti garsą">
+<!ENTITY tooltip.control.volume "Garsas">
+<!ENTITY tooltip.control.shuffle "Maišyti">
+<!ENTITY tooltip.control.shuf_off "Maišymas išjungtas">
+<!ENTITY tooltip.control.curtrack "Rasti dabar grojamą dainą">
+<!ENTITY tooltip.search "Ieškoti">
+<!ENTITY tooltip.browser.back "Atgal">
+<!ENTITY tooltip.browser.fwd "Pirmyn">
+<!ENTITY tooltip.browser.stop "Stabdyti naršyklę">
+<!ENTITY tooltip.browser.home "Pradinis tinklalapis">
+<!ENTITY tooltip.browser.refresh "Atnaujinti">
+<!ENTITY tooltip.browser.subscription "Kurti prenumeratą">
+<!ENTITY tooltip.browser.mediapages.list "Sąrašo rodinys">
+<!ENTITY tooltip.browser.mediapages.filter "Filtro polangio rodinys">
+<!ENTITY tooltip.browser.mediapages "Peržiūra…">
+<!ENTITY tooltip.servicepane.show "Rodyti paslaugų skiltį">
+<!ENTITY tooltip.servicepane.collapse "Suskleisti paslaugų polangį">
+<!ENTITY tooltip.servicepane.newnode "Naujas grojaraštis">
 <!ENTITY tooltip.displaypane.options "Turinio juostos nuostatos">
-
-<!ENTITY smart.window             "Sumanaus grojaraščio vedlys" >
-<!ENTITY smart.limit              "Riboti iki" >
-<!ENTITY smart.match              "Atitinka" >
-<!ENTITY smart.matchsingle        "Atitikti sąlygą:" >
-<!ENTITY smart.any                "bet kurią" >
-<!ENTITY smart.all                "visas" >
-<!ENTITY smart.following          "iš šių sąlygų:" >
-<!ENTITY smart.random             "atsitiktinai" >
-<!ENTITY smart.album              "albumas" >
-<!ENTITY smart.artist             "atlikėjas" >
-<!ENTITY smart.genre              "žanras" >
-<!ENTITY smart.title              "pavadinimas" >
-<!ENTITY smart.high_rating        "aukščiausias įvertis" >
-<!ENTITY smart.low_rating         "žemiausias įvertis" >
-<!ENTITY smart.most_recent        "grota seniausiai" >
-<!ENTITY smart.least_recent       "grota seniausiai" >
-<!ENTITY smart.most_often         "grota dažniausiai" >
-<!ENTITY smart.least_often        "grota rečiausiai" >
-<!ENTITY smart.most_added         "įtraukta paskiausiai" >
-<!ENTITY smart.least_added        "įtraukta anksčiausiai" >
-<!ENTITY smart.minutes            "min." >
-<!ENTITY smart.hours              "val." >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "el." >
-<!ENTITY smart.selectedby         "parinktas pagal" >
-<!ENTITY smart.to                 "Į" >
-<!ENTITY smart.autoupdate         "Atnaujinti">
+<!ENTITY smart.window "Sumanaus grojaraščio vedlys">
+<!ENTITY smart.limit "Riboti iki">
+<!ENTITY smart.match "Atitinka">
+<!ENTITY smart.matchsingle "Atitikti sąlygą:">
+<!ENTITY smart.any "bet kurią">
+<!ENTITY smart.all "visas">
+<!ENTITY smart.following "iš šių sąlygų:">
+<!ENTITY smart.random "atsitiktinai">
+<!ENTITY smart.album "albumas">
+<!ENTITY smart.artist "atlikėjas">
+<!ENTITY smart.genre "žanras">
+<!ENTITY smart.title "pavadinimas">
+<!ENTITY smart.high_rating "aukščiausias įvertis">
+<!ENTITY smart.low_rating "žemiausias įvertis">
+<!ENTITY smart.most_recent "grota seniausiai">
+<!ENTITY smart.least_recent "grota seniausiai">
+<!ENTITY smart.most_often "grota dažniausiai">
+<!ENTITY smart.least_often "grota rečiausiai">
+<!ENTITY smart.most_added "įtraukta paskiausiai">
+<!ENTITY smart.least_added "įtraukta anksčiausiai">
+<!ENTITY smart.minutes "min.">
+<!ENTITY smart.hours "val.">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "el.">
+<!ENTITY smart.selectedby "parinktas pagal">
+<!ENTITY smart.to "Į">
+<!ENTITY smart.autoupdate "Atnaujinti">
 <!ENTITY smart.playlistcondition.library "Biblioteka">
 <!ENTITY smart.contenttypecondition.video "Vaizdo įrašai">
 <!ENTITY smart.contenttypecondition.audio "Muzika">
-
 <!ENTITY textbox.songbird_open_url "Failo adresas:">
-
-<!ENTITY open_url.title           "Atverti adresą">
-<!ENTITY subscribe.title          "Prenumeruoti">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Min.">
-<!ENTITY subscribe.hours          "Val.">
-<!ENTITY subscribe.days           "D.">
-<!ENTITY subscribe.autocheck      "Automatiškai atnaujinti kas">
-<!ENTITY subscribe.destinationfolder      "Rinktis aplanką:">
-
-<!ENTITY feed.subscribe.label     "Prenumeruoti">
-<!ENTITY feed.subscribe.dontask   "Daugiau nerodyti šio įrašo automatiškai">
-<!ENTITY feed.subscribe.close     "Uždaryti">
-
-<!ENTITY podcast.creation_dialog.title       "Nauja laidos prenumerata">
+<!ENTITY open_url.title "Atverti adresą">
+<!ENTITY subscribe.title "Prenumeruoti">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Min.">
+<!ENTITY subscribe.hours "Val.">
+<!ENTITY subscribe.days "D.">
+<!ENTITY subscribe.autocheck "Automatiškai atnaujinti kas">
+<!ENTITY subscribe.destinationfolder "Rinktis aplanką:">
+<!ENTITY feed.subscribe.label "Prenumeruoti">
+<!ENTITY feed.subscribe.dontask "Daugiau nerodyti šio įrašo automatiškai">
+<!ENTITY feed.subscribe.close "Uždaryti">
+<!ENTITY podcast.creation_dialog.title "Nauja laidos prenumerata">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Stebėti aplankus">
-<!ENTITY watchfolder.folderlist   "Stebėti naujus failus aplankuose:">
-
-<!ENTITY locale.language          "Kalba" >
-<!ENTITY menu.view                "Rodymas" >
-<!ENTITY about.version            "Versija" >
-<!ENTITY about.buttons.credits    "Kūrėjai" >
-
-<!ENTITY equalizer.title          "Ekvalaizeris" >
-<!ENTITY equalizer.on.checkbox    "Įjungti" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "Pasirinktinas" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Roko" >
-<!ENTITY equalizer.preset.soft_rock   "Švelnus rokas" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Regio" >
-<!ENTITY equalizer.preset.live        "Gyvo koncerto" >
-<!ENTITY equalizer.preset.club        "Klubinė" >
-<!ENTITY equalizer.preset.party       "Vakarėlio" >
-<!ENTITY equalizer.preset.classical   "Klasikinė" >
-<!ENTITY equalizer.preset.large_hall  "Didelė salė" >
-<!ENTITY equalizer.preset.dance       "Šokių" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Minkštas" >
-<!ENTITY equalizer.preset.small_speakers   "Nešiojamo kompiuterio/Ausinių" >
-<!ENTITY equalizer.preset.full_bass_treble "Pilni žemi ir aukšti dažniai" >
-<!ENTITY equalizer.preset.full_treble "Pilni aukšti dažniai" >
-<!ENTITY equalizer.preset.full_bass   "Pilni žemi dažniai" >
-
-
-<!ENTITY setupprogress.pleasewait "Prašom palaukti…" >
-<!ENTITY setupprogress.cancel     "Atšaukti">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "s" >
-<!ENTITY menu.file.remote.accesskey       "P" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "A" >
-<!ENTITY menu.file.url.accesskey          "v" >
-<!ENTITY menu.file.playlist.accesskey     "g" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "k" >
-<!ENTITY menu.file.closetab.accesskey     "U" >
-<!ENTITY menu.file.scan.accesskey         "I" >
-<!ENTITY locale.language.accesskey        "l" >
-<!ENTITY menu.view.accesskey              "R" >
-<!ENTITY menu.preferences.accesskey       "N" >
-<!ENTITY menu.equalizer.accesskey         "K" >
-<!ENTITY menu.extensions.accesskey        "P" >
-<!ENTITY menu.clearprivatedata.accesskey  "š" >
-<!ENTITY menu.errorconsole.accesskey      "K" >
-<!ENTITY menu.file.exit.accesskey         "B" >
-<!ENTITY menu.downloadmgr.accesskey       "s" >
-
-<!ENTITY menu.edit.accesskey          "T" >
-<!ENTITY menu.edit.undo.accesskey     "A" >
-<!ENTITY menu.edit.redo.accesskey     "t" >
-<!ENTITY menu.edit.cut.accesskey      "r" >
-<!ENTITY menu.edit.copy.accesskey     "K" >
-<!ENTITY menu.edit.paste.accesskey    "d" >
-<!ENTITY menu.edit.delete.accesskey   "š" >
-<!ENTITY menu.edit.selall.accesskey   "v" >
-<!ENTITY menu.edit.find.accesskey        "I" >
-<!ENTITY menu.edit.findagain.accesskey   "e" >
-
-<!ENTITY menu.controls.accesskey      "V" >
-<!ENTITY menu.control.play.accesskey  "G" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "K" >
-<!ENTITY menu.control.prev.accesskey  "A" >
-<!ENTITY menu.control.shuf.accesskey  "M" >
-<!ENTITY menu.control.repa.accesskey  "r" >
-<!ENTITY menu.control.rep1.accesskey  "v" >
-<!ENTITY menu.control.repx.accesskey  "N" >
-<!ENTITY menu.control.jumpto.accesskey "Š" >
-
-
-<!ENTITY menu.tools.accesskey            "P" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "Rodyti parinktą failą" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "Ž" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "k" >
-<!ENTITY menu.help.help.accesskey     "Ž" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "Stebėti aplankus">
+<!ENTITY watchfolder.folderlist "Stebėti naujus failus aplankuose:">
+<!ENTITY locale.language "Kalba">
+<!ENTITY menu.view "Rodymas">
+<!ENTITY about.version "Versija">
+<!ENTITY about.buttons.credits "Kūrėjai">
+<!ENTITY equalizer.title "Ekvalaizeris">
+<!ENTITY equalizer.on.checkbox "Įjungti">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "Pasirinktinas">
+<!ENTITY equalizer.preset.rock "Roko">
+<!ENTITY equalizer.preset.soft_rock "Švelnus rokas">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Regio">
+<!ENTITY equalizer.preset.live "Gyvo koncerto">
+<!ENTITY equalizer.preset.club "Klubinė">
+<!ENTITY equalizer.preset.party "Vakarėlio">
+<!ENTITY equalizer.preset.classical "Klasikinė">
+<!ENTITY equalizer.preset.large_hall "Didelė salė">
+<!ENTITY equalizer.preset.dance "Šokių">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Minkštas">
+<!ENTITY equalizer.preset.small_speakers "Nešiojamo kompiuterio/Ausinių">
+<!ENTITY equalizer.preset.full_bass_treble "Pilni žemi ir aukšti dažniai">
+<!ENTITY equalizer.preset.full_treble "Pilni aukšti dažniai">
+<!ENTITY equalizer.preset.full_bass "Pilni žemi dažniai">
+<!ENTITY setupprogress.pleasewait "Prašom palaukti…">
+<!ENTITY setupprogress.cancel "Atšaukti">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "s">
+<!ENTITY menu.file.remote.accesskey "P">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "A">
+<!ENTITY menu.file.url.accesskey "v">
+<!ENTITY menu.file.playlist.accesskey "g">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "k">
+<!ENTITY menu.file.closetab.accesskey "U">
+<!ENTITY menu.file.scan.accesskey "I">
+<!ENTITY locale.language.accesskey "l">
+<!ENTITY menu.view.accesskey "R">
+<!ENTITY menu.preferences.accesskey "N">
+<!ENTITY menu.equalizer.accesskey "K">
+<!ENTITY menu.extensions.accesskey "P">
+<!ENTITY menu.clearprivatedata.accesskey "š">
+<!ENTITY menu.errorconsole.accesskey "K">
+<!ENTITY menu.file.exit.accesskey "B">
+<!ENTITY menu.downloadmgr.accesskey "s">
+<!ENTITY menu.edit.accesskey "T">
+<!ENTITY menu.edit.undo.accesskey "A">
+<!ENTITY menu.edit.redo.accesskey "t">
+<!ENTITY menu.edit.cut.accesskey "r">
+<!ENTITY menu.edit.copy.accesskey "K">
+<!ENTITY menu.edit.paste.accesskey "d">
+<!ENTITY menu.edit.delete.accesskey "š">
+<!ENTITY menu.edit.selall.accesskey "v">
+<!ENTITY menu.edit.find.accesskey "I">
+<!ENTITY menu.edit.findagain.accesskey "e">
+<!ENTITY menu.controls.accesskey "V">
+<!ENTITY menu.control.play.accesskey "G">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "K">
+<!ENTITY menu.control.prev.accesskey "A">
+<!ENTITY menu.control.shuf.accesskey "M">
+<!ENTITY menu.control.repa.accesskey "r">
+<!ENTITY menu.control.rep1.accesskey "v">
+<!ENTITY menu.control.repx.accesskey "N">
+<!ENTITY menu.control.jumpto.accesskey "Š">
+<!ENTITY menu.tools.accesskey "P">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "Rodyti parinktą failą">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "Ž">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "k">
+<!ENTITY menu.help.help.accesskey "Ž">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Kūrinių metaduomenų redaktorius" >
-<!ENTITY trackeditor.tab.summary.title            "Santrauka" >
-<!ENTITY trackeditor.tab.edit.title               "Redaguoti" >
-<!ENTITY trackeditor.tab.lyrics.title             "Dainos žodžiai" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Kūrinių metaduomenų redaktorius">
+<!ENTITY trackeditor.tab.summary.title "Santrauka">
+<!ENTITY trackeditor.tab.edit.title "Redaguoti">
+<!ENTITY trackeditor.tab.lyrics.title "Dainos žodžiai">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Pridėti gairę" >
-<!ENTITY trackeditor.addtag.tag       "Gairė:" >
-
-<!ENTITY jumptofile.title             "Peršokti į" >
-<!ENTITY jumptofile.search            "Paieška:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Naudoti globalius sparčiuosius klavišus" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Veiksmas" >
-<!ENTITY hotkeys.hotkey               "Spartusis klavišas" >
-<!ENTITY hotkeys.add                  "Pridėti" >
-<!ENTITY hotkeys.set                  "Nustatyti" >
-<!ENTITY hotkeys.remove               "Šalinti" >
-<!ENTITY hotkeys.prefpane             "Spartieji klavišai" >
-<!ENTITY hotkeys.info                 "Globalūs spartieji klavišai leidžia valdyti &brandShortName; net jei programa nėra aktyvi. Norint išvengti problemų su kitų programų sparčiaisiais klavišais, reiktų rinktis jose nenaudojamas klavišų kombinacijas." >
-
-<!ENTITY rapi.prefpane.title             "Tinklo integravimas" >
-<!ENTITY rapi.prefpane.access.caption    "Tinklalapis" >
-<!ENTITY rapi.prefpane.access.text       "Galite leisti tinklalapiams jungtis su &brandShortName; tam, kad sukurti glaudesnį ryšį tarp tinklo ir jūsų turinio. Prašome nustatyti &brandShortName; tam, kad leisti arba blokuoti šiuos jungimosi taškus." >
-<!ENTITY rapi.whitelist.label            "Konfigūruoti" >
-<!ENTITY rapi.restore_defaults.label      "Atkurti numatytąją " >
-<!ENTITY rapi.playback_control_disable.label "Neleisti tinklalapiams valdyti grojimo" >
-<!ENTITY rapi.playback_read_disable.label    "Neleisti tinklalapiams matyti grojamo kūrinio duomenų" >
-<!ENTITY rapi.library_read_disable.label     "Neleisti tinklalapiams matyti duomenų apie kūrinius &brandShortName;" >
-<!ENTITY rapi.library_write_disable.label    "Neleisti pridėti/redaguoti dainų bibliotekoje ar prietaisuose" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Priedai">
-<!ENTITY prefpane.content.label       "Interneto turinys">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Neprijungta nė viena USB laikmena." >
-<!ENTITY umsd.music.tab                     "Muzika" >
-<!ENTITY umsd.music.music_files_group       "Muzikiniai failai" >
-<!ENTITY umsd.music.music_path_desc         "Kai į prietaisą kopijuojami muzikiniai failai, jie bus įkelti į nurodytą aplanką:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Nurodyk prietaiso aplanką, į kurį bus įkelti muzikiniai failai." >
-<!ENTITY umsd.music.music_ext_desc          "Į prietaisą bus kopijuojami failai su nurodytais plėtiniais:" >
-<!ENTITY umsd.video.tab                     "Video" >
-<!ENTITY umsd.video.video_files_group       "Vaizdo įrašai" >
-<!ENTITY umsd.video.video_path_desc         "Kopijuojant vaizdo įrašus į įrenginį juos perkelti į šį katalogą:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Pasirinkite įrenginio katalogą, į kurį perkelti vaizdo įrašus." >
-<!ENTITY umsd.video.video_ext_desc          "Į prietaisą bus kopijuojami video failai su nurodytais plėtiniais:" >
-
-<!ENTITY device.error.dialog.link           "Peržiūrėti klaidų detales" >
-
-<!ENTITY restartbox.restartnow        "Perkrauti dabar" >
-<!ENTITY restartbox.restartonplaybackend "Perkrauti po kūrinio" >
-<!ENTITY restartbox.restartlater      "Perkrauti vėliau" >
-
-<!ENTITY setupprogress.installingextensions "Diegiami priedai" >
-
-<!ENTITY jobprogress.details "Išsamiau" >
-
-<!ENTITY menu.updateCmd.label          "Tikrinti ar yra naujinimų…">
-<!ENTITY menu.updateCmd.accessKey      "T">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Tarpo klavišas" >
-
+<!ENTITY trackeditor.addtag.title "Pridėti gairę">
+<!ENTITY trackeditor.addtag.tag "Gairė:">
+<!ENTITY jumptofile.title "Peršokti į">
+<!ENTITY jumptofile.search "Paieška:">
+<!ENTITY hotkeys.useglobalhotkeys "Naudoti globalius sparčiuosius klavišus">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Veiksmas">
+<!ENTITY hotkeys.hotkey "Spartusis klavišas">
+<!ENTITY hotkeys.add "Pridėti">
+<!ENTITY hotkeys.set "Nustatyti">
+<!ENTITY hotkeys.remove "Šalinti">
+<!ENTITY hotkeys.prefpane "Spartieji klavišai">
+<!ENTITY hotkeys.info "Globalūs spartieji klavišai leidžia valdyti &brandShortName; net jei programa nėra aktyvi. Norint išvengti problemų su kitų programų sparčiaisiais klavišais, reiktų rinktis jose nenaudojamas klavišų kombinacijas.">
+<!ENTITY rapi.prefpane.title "Tinklo integravimas">
+<!ENTITY rapi.prefpane.access.caption "Tinklalapis">
+<!ENTITY rapi.prefpane.access.text "Galite leisti tinklalapiams jungtis su &brandShortName; tam, kad sukurti glaudesnį ryšį tarp tinklo ir jūsų turinio. Prašome nustatyti &brandShortName; tam, kad leisti arba blokuoti šiuos jungimosi taškus.">
+<!ENTITY rapi.whitelist.label "Konfigūruoti">
+<!ENTITY rapi.restore_defaults.label "Atkurti numatytąją ">
+<!ENTITY rapi.playback_control_disable.label "Neleisti tinklalapiams valdyti grojimo">
+<!ENTITY rapi.playback_read_disable.label "Neleisti tinklalapiams matyti grojamo kūrinio duomenų">
+<!ENTITY rapi.library_read_disable.label "Neleisti tinklalapiams matyti duomenų apie kūrinius &brandShortName;">
+<!ENTITY rapi.library_write_disable.label "Neleisti pridėti/redaguoti dainų bibliotekoje ar prietaisuose">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Priedai">
+<!ENTITY prefpane.content.label "Interneto turinys">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Neprijungta nė viena USB laikmena.">
+<!ENTITY umsd.music.tab "Muzika">
+<!ENTITY umsd.music.music_files_group "Muzikiniai failai">
+<!ENTITY umsd.music.music_path_desc "Kai į prietaisą kopijuojami muzikiniai failai, jie bus įkelti į nurodytą aplanką:">
+<!ENTITY umsd.music.music_path_browse_msg "Nurodyk prietaiso aplanką, į kurį bus įkelti muzikiniai failai.">
+<!ENTITY umsd.music.music_ext_desc "Į prietaisą bus kopijuojami failai su nurodytais plėtiniais:">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Vaizdo įrašai">
+<!ENTITY umsd.video.video_path_desc "Kopijuojant vaizdo įrašus į įrenginį juos perkelti į šį katalogą:">
+<!ENTITY umsd.video.video_path_browse_msg "Pasirinkite įrenginio katalogą, į kurį perkelti vaizdo įrašus.">
+<!ENTITY umsd.video.video_ext_desc "Į prietaisą bus kopijuojami video failai su nurodytais plėtiniais:">
+<!ENTITY device.error.dialog.link "Peržiūrėti klaidų detales">
+<!ENTITY restartbox.restartnow "Perkrauti dabar">
+<!ENTITY restartbox.restartonplaybackend "Perkrauti po kūrinio">
+<!ENTITY restartbox.restartlater "Perkrauti vėliau">
+<!ENTITY setupprogress.installingextensions "Diegiami priedai">
+<!ENTITY jobprogress.details "Išsamiau">
+<!ENTITY menu.updateCmd.label "Tikrinti ar yra naujinimų…">
+<!ENTITY menu.updateCmd.accessKey "T">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Tarpo klavišas">
 <!ENTITY tabs.closeTab "Užverti kortelę">
 <!ENTITY tabs.listAllTabs "Kortelių sąrašas">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator " – " >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator " – ">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Pradžios tinklalapis" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          " " >
-<!ENTITY prefs.security.addons.label   "Priedo diegimas" >
-
+<!ENTITY prefs.homepage.label "Pradžios tinklalapis">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey " ">
+<!ENTITY prefs.security.addons.label "Priedo diegimas">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Atšaukti">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "Nutraukti kopijavimą">
-<!ENTITY command.device.canceldevicecopy.accesskey      "N">
-<!ENTITY command.device.canceldevicedelete              "Nutraukti pašalinimą">
-<!ENTITY command.device.canceldevicedelete.accesskey    "N">
-<!ENTITY command.device.canceldevicesync                "Nutraukti sinchronizaciją">
-<!ENTITY command.device.canceldevicesync.accesskey      "N">
-<!ENTITY command.device.canceldeviceupdate              "Nutraukti atnaujinimą">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "N">
-<!ENTITY command.device.ejectdevice                     "Išstumti">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Formuoti">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Ignoruoti">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Gauti informaciją">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Pervardinti">
-<!ENTITY command.device.renamedevice.accesskey          "P">
-<!ENTITY command.device.devicesync                      "Sinchronizuoti">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Atšaukti">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Nutraukti kopijavimą">
+<!ENTITY command.device.canceldevicecopy.accesskey "N">
+<!ENTITY command.device.canceldevicedelete "Nutraukti pašalinimą">
+<!ENTITY command.device.canceldevicedelete.accesskey "N">
+<!ENTITY command.device.canceldevicesync "Nutraukti sinchronizaciją">
+<!ENTITY command.device.canceldevicesync.accesskey "N">
+<!ENTITY command.device.canceldeviceupdate "Nutraukti atnaujinimą">
+<!ENTITY command.device.canceldeviceupdate.accesskey "N">
+<!ENTITY command.device.ejectdevice "Išstumti">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Formuoti">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Ignoruoti">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Gauti informaciją">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Pervardinti">
+<!ENTITY command.device.renamedevice.accesskey "P">
+<!ENTITY command.device.devicesync "Sinchronizuoti">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Išskleisti CD">
-<!ENTITY command.device.rip.accesskey                   "">
-<!ENTITY command.device.stoprip                         "Stabdyti išskleidimą">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Ieškoti CD informacijos">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Išstumti CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Pataisyti įrenginį">
-
-<!ENTITY device.firmware.wizard.title                     "Atnaujinti įrenginio programą">
-<!ENTITY device.firmware.wizard.check.page.title          "Ieškoti įrenginio programos atnaujinimų">
-<!ENTITY device.firmware.wizard.check.progress.title      "Ieškoma įrenginio programos atnaujinimų">
+<!ENTITY command.device.rip "Išskleisti CD">
+<!ENTITY command.device.rip.accesskey "">
+<!ENTITY command.device.stoprip "Stabdyti išskleidimą">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Ieškoti CD informacijos">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Išstumti CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Pataisyti įrenginį">
+<!ENTITY device.firmware.wizard.title "Atnaujinti įrenginio programą">
+<!ENTITY device.firmware.wizard.check.page.title "Ieškoti įrenginio programos atnaujinimų">
+<!ENTITY device.firmware.wizard.check.progress.title "Ieškoma įrenginio programos atnaujinimų">
 <!ENTITY device.firmware.wizard.check.install.description "Atnaujintos įrenginio programos diegimas neturėtų trukti ilgiau 10 minučių. Visada galite atnaujinimą atlikti vėliau.">
 <!ENTITY device.firmware.wizard.check.already.description "Jūsų įrenginyje esanti programa yra naujausios versijos.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Laidos pastabos">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Norint tęsti, įrenginys turi būti prijungtas taisymo rėžime. Instrukcijas, kaip tai padaryti, rasite žemiau.">
-<!ENTITY device.firmware.wizard.download.title            "Atsiunčiama nauja įrenginio programa…">
-<!ENTITY device.firmware.wizard.repair.time.description   "Ši operacija neturėtų trukti ilgiau nei penkias minutes.">
-<!ENTITY device.firmware.wizard.repair.warning            "Gamyklinių nustatymų atkūrimas įrenginyje &lt;strong class=&quot;loss-of-data-text&quot;&gt;sunaikins visus duomenis&lt;/strong&gt;. Prieš tęsdami, susikurkite visų jame esančių failų atsargines kopijas.">
-<!ENTITY device.firmware.wizard.install.title             "Diegiama įrenginio programa…">
-
-<!ENTITY device.firmware.wizard.busy.description  "Atrodo, jog Jūsų įrenginys užsiėmęs. Įrenginio programos ieškoti galima tik tada, kai įrenginys yra ramybės būsenoje.">
+<!ENTITY device.firmware.wizard.download.title "Atsiunčiama nauja įrenginio programa…">
+<!ENTITY device.firmware.wizard.repair.time.description "Ši operacija neturėtų trukti ilgiau nei penkias minutes.">
+<!ENTITY device.firmware.wizard.repair.warning "Gamyklinių nustatymų atkūrimas įrenginyje &lt;strong class=&quot;loss-of-data-text&quot;&gt;sunaikins visus duomenis&lt;/strong&gt;. Prieš tęsdami, susikurkite visų jame esančių failų atsargines kopijas.">
+<!ENTITY device.firmware.wizard.install.title "Diegiama įrenginio programa…">
+<!ENTITY device.firmware.wizard.busy.description "Atrodo, jog Jūsų įrenginys užsiėmęs. Įrenginio programos ieškoti galima tik tada, kai įrenginys yra ramybės būsenoje.">
 <!ENTITY device.firmware.wizard.retry.description "Bandykite dar kartą, kai įrenginys baigs vykdyti dabartinę operaciją.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "Ieškant įrenginio programos atnaujinimų įvyko klaida. Patikrinkite savo interneto ryšį ir bandykite dar kartą.">
+<!ENTITY device.firmware.wizard.check.error.description "Ieškant įrenginio programos atnaujinimų įvyko klaida. Patikrinkite savo interneto ryšį ir bandykite dar kartą.">
 <!ENTITY device.firmware.wizard.download.error.description "Atsiunčiant naująją įrenginio programą įvyko klaida. Patikrinkite savo interneto ryšį ir bandykite dar kartą.">
-<!ENTITY device.firmware.wizard.support.description        "Tokią palaikymo informaciją kaip D.U.K. ar patarimus sprendžiant problemas galite rasti">
-
-<!ENTITY device.info.icon.device            "Bendroji įrenginio piktograma">
-<!ENTITY device.info.icon.readonly          "Piktograma &quot;Tik skaitymui&quot;">
-<!ENTITY device.info.model.label            "Modelis">
-<!ENTITY device.info.capacity.label         "Talpa">
-<!ENTITY device.info.product.label          "Produktas">
-<!ENTITY device.info.friendly_name.label    "Pavadinimas">
-<!ENTITY device.info.serial_number.label    "Serijinis numeris">
-<!ENTITY device.info.vendor.label           "Gamintojas">
-<!ENTITY device.info.access.label           "Priėjimo suderinamumas">
+<!ENTITY device.firmware.wizard.support.description "Tokią palaikymo informaciją kaip D.U.K. ar patarimus sprendžiant problemas galite rasti">
+<!ENTITY device.info.icon.device "Bendroji įrenginio piktograma">
+<!ENTITY device.info.icon.readonly "Piktograma &quot;Tik skaitymui&quot;">
+<!ENTITY device.info.model.label "Modelis">
+<!ENTITY device.info.capacity.label "Talpa">
+<!ENTITY device.info.product.label "Produktas">
+<!ENTITY device.info.friendly_name.label "Pavadinimas">
+<!ENTITY device.info.serial_number.label "Serijinis numeris">
+<!ENTITY device.info.vendor.label "Gamintojas">
+<!ENTITY device.info.access.label "Priėjimo suderinamumas">
 <!ENTITY device.info.playback_formats.label "Atkūrimo formatai">
-<!ENTITY device.info.battery.label          "Baterija">
+<!ENTITY device.info.battery.label "Baterija">
 <!ENTITY device.info.firmware_version.label "Įrenginio programos versija">
-
-<!ENTITY device.progress.sync               "Sinchronizuoti">
-
-<!ENTITY device.capacity.music.label    "Muzika">
-<!ENTITY device.capacity.video.label    "Vaizdo įrašai">
-<!ENTITY device.capacity.image.label    "Nuotraukos">
-<!ENTITY device.capacity.other.label    "Kita">
-<!ENTITY device.capacity.free.label     "Laisva">
-
-<!ENTITY device.unsupported_media.dialog.title  "Rasta nesuderinamų failų">
+<!ENTITY device.progress.sync "Sinchronizuoti">
+<!ENTITY device.capacity.music.label "Muzika">
+<!ENTITY device.capacity.video.label "Vaizdo įrašai">
+<!ENTITY device.capacity.image.label "Nuotraukos">
+<!ENTITY device.capacity.other.label "Kita">
+<!ENTITY device.capacity.free.label "Laisva">
+<!ENTITY device.unsupported_media.dialog.title "Rasta nesuderinamų failų">
 <!ENTITY device.unsupported_media.dialog.enable "Pranešti, kai randama nesuderinamų failų">
-
 <!ENTITY device.sync.header.label "Sinchronizacijos nustatymai">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Sinchronizuoti">
 <!ENTITY device.sync.sync_all.label "Visa muzika, video ir grojaraščiai">
 <!ENTITY device.sync.sync_selected.label "Pažymėti grojaraščiai:">
@@ -510,7 +448,6 @@
 <!ENTITY device.sync.images.selected.label "Pažymėti poaplankiai">
 <!ENTITY device.sync.images.foldername "Aplanko vardas">
 <!ENTITY device.sync.images.filecount "Nuotraukos">
-
 <!ENTITY device.settings.header.label "Nuostatos">
 <!ENTITY device.settings.general.label "">
 <!ENTITY device.settings.auto_launch.checkbox.label "Atverti &brandShortName; kai aptinkamas šis įrenginys">
@@ -520,219 +457,180 @@
 <!ENTITY device.settings.disk.label "Disko valdymas">
 <!ENTITY device.settings.disk.management.label "Keisti aplankų struktūrą">
 <!ENTITY device.settings.disk.management.filename "">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Automatiškai nustatyti perkodavimą">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Nurodyti bitų srautą  ir formatą rankiniu būdu">
 <!ENTITY device.settings.music.transcoding.format.label "Kodavimo formatas">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitų srautas">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Muzika">
 <!ENTITY device.management.tabs.video.label "Vaizdo įrašai">
 <!ENTITY device.management.tabs.image.label "Nuotraukos">
 <!ENTITY device.management.tabs.tools.label "Įrankiai">
 <!ENTITY device.management.tabs.settings.label "Nuostatos">
-
 <!ENTITY device.tools.product_registration.title "Produkto registracija">
 <!ENTITY device.tools.product_registration.description "Norite užtikrinti pirkimą, gauti papildomas gaminio pirkimo privilegijas bei sužinoti saugumo perspėjimus?">
 <!ENTITY device.tools.product_registration.label "Registruoti produktą">
-
 <!ENTITY device.tools.update_firmware.title "Atnaujinti įrenginio programą">
 <!ENTITY device.tools.update_firmware.description "Jūsų įrenginį valdo to įrenginio vidinė programa. Nuo to laiko, kai paskutinį kartą buvote prijungę šį įrenginį prie kompiuterio, galėjo būti išleista naujesnė įrenginio programa.">
 <!ENTITY device.tools.update_firmware.label "Ieškoti įrenginio programos atnaujinimų">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Dabartinės įrenginio programos versija:">
-
 <!ENTITY device.tools.restore_device.title "Atkurti įrenginį">
 <!ENTITY device.tools.restore_device.description "Atkuriant įrenginio gamyklinius nustatymus arba diegiant seną įrenginio vidaus programą visas jame esantis turinys bus ištrintas. ">
 <!ENTITY device.tools.restore_device.label "Atkurti gamyklinius įrenginio nustatymus">
-
 <!ENTITY device.tools.format_device.title "Formuoti įrenginį">
 <!ENTITY device.tools.format_device.description "Formuojant įrenginį failai, esantys jame, bus ištrinti.">
 <!ENTITY device.tools.format_device.label "Formuoti įrenginį">
 <!ENTITY device.tools.format_volume.button.label "Formatuoti">
-
 <!ENTITY device.tools.support.title "Palaikymas">
 <!ENTITY device.tools.support.description "Peržiūrėkite šviežiausias paramos naujienas, vartotojo vadovus, dokumentaciją, dažniausiai užduodamus klausimus ir produkto informaciją. Paramos paslaugos yra prieinamos vartotojams užregistravusiems savąjį produktą.">
 <!ENTITY device.tools.support.label "Peržiūrėti palaikymo šaltinius">
-
 <!ENTITY device.tools.reset_warnings.title "Iš naujo nustatyti įspėjimus">
 <!ENTITY device.tools.reset_warnings.description "Įspėjimų nustatymas iš naujo iššauks patvirtinimo korteles tam tikriems veiksmams, kuriuos norėsite atlikti.">
 <!ENTITY device.tools.reset_warnings.label "Iš naujo nustatyti įspėjimų pranešimus">
-
 <!ENTITY device.dialog.setup.title "Įrenginio paruošimas">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Pasirinkite kaupiklį, kurį valdys &brandShortName;:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignoruoti šį įrenginį">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Pažymėkite, jei nenorite, kad &brandShortName; valdytų šį įrenginį.">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Jei nenorite, kad &brandShortName; tvarkytų šį įrenginį, galite">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignoruoti šį įrenginį">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Atverti nuorodą naršyklėje">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "A">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Atverti puslapį naršyklėje">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "A">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Atverti rėmą naršyklėje">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "A">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Atverti paveiksliuką naršyklėje">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "A">
-<!ENTITY copySelectionCmd.label                         "Kopijuoti pažymėtą tekstą">
-<!ENTITY copySelectionCmd.accesskey                     "K">
-<!ENTITY playMediaCmd.label                             "Groti">
-<!ENTITY playMediaCmd.accesskey                         "G">
-<!ENTITY downloadMediaCmd.label                         "Parsiųsti">
-<!ENTITY downloadMediaCmd.accesskey                     "s">
-<!ENTITY addMediaToPlaylistCmd.label                    "Pridėti į grojaraštį">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "P">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Nėra grojaraščių&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Naujas grojaraštis">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "N">
-<!ENTITY subscribeMediaPageCmd.label                    "Prenumeruoti šį tinklalapį…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "P">
-<!ENTITY subscribeMediaFrameCmd.label                   "Prenumeruoti šį rėmą…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "P">
-
-<!ENTITY feedback.dialog.title      "Padėkite tobulinti &brandShortName;!">
-<!ENTITY feedback.dialog.yes        "Taip">
-<!ENTITY feedback.dialog.no         "Ne">
-<!ENTITY feedback.dialog.sentence1  "Ar padėsite mums tobulinti &brandShortName; užpildydami trumpą klausimyną?">
-<!ENTITY feedback.dialog.sentence2  "Jeigu Jūs nenorite, daugiau nebesiūlysime. Dėkojame už nuomonę ir linkime malonaus naudojimosi &brandShortName;! ">
-<!ENTITY feedback.dialog.sentence3  "Pagarbiai,">
-<!ENTITY feedback.dialog.sentence4  "&brandShortName; komanda">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Atverti nuorodą naršyklėje">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "A">
+<!ENTITY openPageCmdInDefaultBrowser.label "Atverti puslapį naršyklėje">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "A">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Atverti rėmą naršyklėje">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "A">
+<!ENTITY openImageCmdInDefaultBrowser.label "Atverti paveiksliuką naršyklėje">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "A">
+<!ENTITY copySelectionCmd.label "Kopijuoti pažymėtą tekstą">
+<!ENTITY copySelectionCmd.accesskey "K">
+<!ENTITY playMediaCmd.label "Groti">
+<!ENTITY playMediaCmd.accesskey "G">
+<!ENTITY downloadMediaCmd.label "Parsiųsti">
+<!ENTITY downloadMediaCmd.accesskey "s">
+<!ENTITY addMediaToPlaylistCmd.label "Pridėti į grojaraštį">
+<!ENTITY addMediaToPlaylistCmd.accesskey "P">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Nėra grojaraščių&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Naujas grojaraštis">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "N">
+<!ENTITY subscribeMediaPageCmd.label "Prenumeruoti šį tinklalapį…">
+<!ENTITY subscribeMediaPageCmd.accesskey "P">
+<!ENTITY subscribeMediaFrameCmd.label "Prenumeruoti šį rėmą…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "P">
+<!ENTITY feedback.dialog.title "Padėkite tobulinti &brandShortName;!">
+<!ENTITY feedback.dialog.yes "Taip">
+<!ENTITY feedback.dialog.no "Ne">
+<!ENTITY feedback.dialog.sentence1 "Ar padėsite mums tobulinti &brandShortName; užpildydami trumpą klausimyną?">
+<!ENTITY feedback.dialog.sentence2 "Jeigu Jūs nenorite, daugiau nebesiūlysime. Dėkojame už nuomonę ir linkime malonaus naudojimosi &brandShortName;! ">
+<!ENTITY feedback.dialog.sentence3 "Pagarbiai,">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; komanda">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "">
-
+<!ENTITY mediapages.firstrun.title "">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "„&brandShortName;“ diegimas">
-
+<!ENTITY first_run.title "„&brandShortName;“ diegimas">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Rekomenduojami papildiniai">
+<!ENTITY first_run.add_ons.header.label "Rekomenduojami papildiniai">
 <!ENTITY first_run.add_ons.description.line1 "Papildiniais galima praplėsti „&brandShortName;“ funkcionalumą ir suderinti grotuvą, kaip tik nori.">
 <!ENTITY first_run.add_ons.description.line2 "Jie gali jungtis su kitomis programomis ir paslaugomis, palaikyti išorinius prietaisus, pakeisti programos išvaizdą ir dar daugiau!">
-<!ENTITY first_run.add_ons.loading.label     "Ieškoma rekomenduojamų papildinių.">
+<!ENTITY first_run.add_ons.loading.label "Ieškoma rekomenduojamų papildinių.">
 <!ENTITY first_run.add_ons.load_failed.label "Nepavyko gauti rekomenduojamų papildinių sąrašo.">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "„&brandShortName;“ nepavyko prisijungti prie interneto">
-<!ENTITY first_run.connection.description          "Tikrinti prisijungimo parametrus arba tęsti su diegimo vedliu.">
-<!ENTITY first_run.connection.settings.button      "Prisijungimo parametrai…">
+<!ENTITY first_run.connection.header.label "„&brandShortName;“ nepavyko prisijungti prie interneto">
+<!ENTITY first_run.connection.description "Tikrinti prisijungimo parametrus arba tęsti su diegimo vedliu.">
+<!ENTITY first_run.connection.settings.button "Prisijungimo parametrai…">
 <!ENTITY first_run.connection.settings.description "Galbūt kompiuteris ar tinklas apsaugotas ugniasiene ar proxy serveriu? Teisingos prisijungimo nuostatos dažnai išsprendžia kilusius nesklandumus.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Licencijos sutartis">
+<!ENTITY first_run.eula.header.label "Licencijos sutartis">
 <!ENTITY first_run.eula.accept_checkbox.label "Perskaičiau licenciją ir sutinku su jos sąlygomis.">
-<!ENTITY first_run.eula.language.label        "Kalba:">
-
+<!ENTITY first_run.eula.language.label "Kalba:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Padėkite tobulinti &brandShortName;">
-<!ENTITY first_run.feedback.description             "Ar padėtumėte tobulinti „&brandShortName;“, siųsdami naudojimosi duomenis ir užpildydami klausimynus?">
-<!ENTITY first_run.feedback.metrics.label           "Rinkti ir siųsti naudojimosi „&brandShortName;“ duomenis">
-<!ENTITY first_run.feedback.metrics.description     "Duomenys yra visiškai anoniminiai. Nerenkami jokie asmeniniai duomenys.">
-<!ENTITY first_run.feedback.email.header.label      "Pranešti naujienas">
-<!ENTITY first_run.feedback.email.description       "Prenumeruokite naujienlaiškį, kuriame bus pranešama apie naujas programos versijas ir svarbius atnaujinimus.">
+<!ENTITY first_run.feedback.header.label "Padėkite tobulinti &brandShortName;">
+<!ENTITY first_run.feedback.description "Ar padėtumėte tobulinti „&brandShortName;“, siųsdami naudojimosi duomenis ir užpildydami klausimynus?">
+<!ENTITY first_run.feedback.metrics.label "Rinkti ir siųsti naudojimosi „&brandShortName;“ duomenis">
+<!ENTITY first_run.feedback.metrics.description "Duomenys yra visiškai anoniminiai. Nerenkami jokie asmeniniai duomenys.">
+<!ENTITY first_run.feedback.email.header.label "Pranešti naujienas">
+<!ENTITY first_run.feedback.email.description "Prenumeruokite naujienlaiškį, kuriame bus pranešama apie naujas programos versijas ir svarbius atnaujinimus.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "įveskite el. pašto adresą, į kurį bus siunčiamos naujienos">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes importas/eksportas">
-<!ENTITY first_run.itunes.description                   "Atrodo, jog pas jus įdiegta iTunes. &brandShortName; gali keistis takeliais tarp &brandShortName; ir iTunes tam, kad Jūsų bibliotekos būtų sinchronizuotos.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Importuoti takelius ir grojaraščius iš iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Įrašai ir muzika įsigyti iTunes parduotuvėje gali būti importuoti į &brandShortName;. Ši galimybė tikrai pravers, jei &brandShortName; žada būti jūsų pagrindiniu muzikos grotuvu.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Eksportuoti naujus takelius bei grojaraščius į iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Muzika įsigyta naudojantis &brandShortName; gali būti eksportuota į iTunes tam, kad galėtumėte ją perkelti į savo iPod ar iPhone.">
-
+<!ENTITY first_run.itunes.header.label "iTunes importas/eksportas">
+<!ENTITY first_run.itunes.description "Atrodo, jog pas jus įdiegta iTunes. &brandShortName; gali keistis takeliais tarp &brandShortName; ir iTunes tam, kad Jūsų bibliotekos būtų sinchronizuotos.">
+<!ENTITY first_run.itunes.checkbox.import.label "Importuoti takelius ir grojaraščius iš iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "Įrašai ir muzika įsigyti iTunes parduotuvėje gali būti importuoti į &brandShortName;. Ši galimybė tikrai pravers, jei &brandShortName; žada būti jūsų pagrindiniu muzikos grotuvu.">
+<!ENTITY first_run.itunes.checkbox.export.label "Eksportuoti naujus takelius bei grojaraščius į iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "Muzika įsigyta naudojantis &brandShortName; gali būti eksportuota į iTunes tam, kad galėtumėte ją perkelti į savo iPod ar iPhone.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Įtraukti failus">
-<!ENTITY first_run.import_media.description                  "Šis puslapis padės įkelti failus į „&brandShortName;“ ieškodamas failų. Kai &brandShortName; pasileis, failus bus galima įtraukti keliais būdais.">
+<!ENTITY first_run.import_media.header.label "Įtraukti failus">
+<!ENTITY first_run.import_media.description "Šis puslapis padės įkelti failus į „&brandShortName;“ ieškodamas failų. Kai &brandShortName; pasileis, failus bus galima įtraukti keliais būdais.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Ieškoti kompiuterio aplankuose">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Dabar failų neįtraukti">
+<!ENTITY first_run.import_media.radio.dont_import.label "Dabar failų neįtraukti">
 <!ENTITY first_run.import_media.scan_directories.description "Ar bandyti įtraukti failus į „&brandShortName;“ ieškant jų tam tikruose aplankuose?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Stebėti aplanką dėl pokyčių">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Siunčiami papildiniai">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Sveiki! Čia „&brandShortName;“">
+<!ENTITY first_run.welcome.header.label "Sveiki! Čia „&brandShortName;“">
 <!ENTITY first_run.welcome.description.line1 "„&brandShortName;“ yra grotuvas, sujungtas su internetu.">
 <!ENTITY first_run.welcome.description.line2 "Padėjėjas gelbsti pirmąkart konfigūruojant &brandShortName; ir trumpai pristato pagrindines programos funkcijas.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Failų importavimas">
-
+<!ENTITY import_media.prefs.title "Failų importavimas">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Įkelti biblioteką">
-<!ENTITY import_library.prefs.title                       "Įkelti">
-<!ENTITY import_library.library_file_label                "Bibliotekos failas:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Perspėti, kai įkeliamos nepalaikomų formatų dainos ar grojaraščiai">
-<!ENTITY import_library.prefs.path_group_caption          "Kelias iki bibliotekos">
-<!ENTITY import_library.prefs.options_group_caption       "Įkėlimo nustatymai">
-<!ENTITY import_library.import_command                    "Įkelti biblioteką">
-<!ENTITY import_tracks_itunes_checkbox                    "Importuoti takelius iš iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Importuoti grojaraščius">
-<!ENTITY export_tracks_itunes_checkbox                    "Eksportuoti takelius į iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Eksportuoti grojaraščius">
-<!ENTITY export_subscriptions_itunes_checkbox             "Eksportuoti prenumeratas">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Eksportuoti sumaniuosius grojaraščius">
-<!ENTITY importexport_show_notifications_checkbox         "Rodyti pranešimus, kai importas/eksportas bus baigtas">
-
+<!ENTITY import_library.dialog.title "Įkelti biblioteką">
+<!ENTITY import_library.prefs.title "Įkelti">
+<!ENTITY import_library.library_file_label "Bibliotekos failas:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Perspėti, kai įkeliamos nepalaikomų formatų dainos ar grojaraščiai">
+<!ENTITY import_library.prefs.path_group_caption "Kelias iki bibliotekos">
+<!ENTITY import_library.prefs.options_group_caption "Įkėlimo nustatymai">
+<!ENTITY import_library.import_command "Įkelti biblioteką">
+<!ENTITY import_tracks_itunes_checkbox "Importuoti takelius iš iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Importuoti grojaraščius">
+<!ENTITY export_tracks_itunes_checkbox "Eksportuoti takelius į iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Eksportuoti grojaraščius">
+<!ENTITY export_subscriptions_itunes_checkbox "Eksportuoti prenumeratas">
+<!ENTITY export_smartplaylists_itunes_checkbox "Eksportuoti sumaniuosius grojaraščius">
+<!ENTITY importexport_show_notifications_checkbox "Rodyti pranešimus, kai importas/eksportas bus baigtas">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Grojaraštis pakeistas">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Palikti esamą &brandShortName; grojaraštį (neįkelti grojaraščio)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Sulieti dabartinį &brandShortName; ir iTunes grojaraštį">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Pakeisti grojaraštį &brandShortName; su dabartiniu iTunes grojaraščiu">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Svarbu: suliejimo ir pakeitimo anuliuoti negalima.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Pritaikyti pasirinkimą visiems grojaraščiams">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Grojaraštis pakeistas">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Palikti esamą &brandShortName; grojaraštį (neįkelti grojaraščio)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Sulieti dabartinį &brandShortName; ir iTunes grojaraštį">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Pakeisti grojaraštį &brandShortName; su dabartiniu iTunes grojaraščiu">
+<!ENTITY import_library.dirty_playlist_dialog.note "Svarbu: suliejimo ir pakeitimo anuliuoti negalima.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Pritaikyti pasirinkimą visiems grojaraščiams">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "Nenaudokite aplankų stebėjimo tame pačiame kataloge, kuriame yra ir jūsų tvarkomos muzikos aplankas, nes tai bibliotekoje sukurs dublikatų.">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Stebimi aplankai">
+<!ENTITY watch_folder.prefs.title "Stebimi aplankai">
 <!ENTITY watch_folder.prefs.settings_group_caption "Stebėti aplanko nuostatas">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; gali stebėti aplanko turinį ir automatiškai pridėti ar pašalinti jo elementus.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Automatiškai aptikti pasikietimus šiame aplanke">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Aplankas:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; gali stebėti aplanko turinį ir automatiškai pridėti ar pašalinti jo elementus.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Automatiškai aptikti pasikietimus šiame aplanke">
+<!ENTITY watch_folder.prefs.watch_folder_label "Aplankas:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Rekomenduojami priedai">
+<!ENTITY enable_recommended_addons_update.label "Rekomenduojami priedai">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; diegimas">
-
+<!ENTITY recommended_add_ons.title "&brandShortName; diegimas">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Išsamiau">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Išsamiau">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Niekas negroja" >
-<!ENTITY albumart.displaypane.not_selected_message  "Nieko nepasirinkta" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Čia užtempk albumo viršelį" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Rodyti dabar pasirinktą" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Rodyti dabar grojamą" >
+<!ENTITY albumart.displaypane.not_playing_message "Niekas negroja">
+<!ENTITY albumart.displaypane.not_selected_message "Nieko nepasirinkta">
+<!ENTITY albumart.displaypane.drag_and_drop "Čia užtempk albumo viršelį">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Rodyti dabar pasirinktą">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Rodyti dabar grojamą">
 <!ENTITY albumart.displaypane.selected.menu.cut "Iškirpti">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopijuoti">
 <!ENTITY albumart.displaypane.selected.menu.paste "Įterpti">
 <!ENTITY albumart.displaypane.selected.menu.clear "Valyti">
 <!ENTITY albumart.coverpreview.title "Albumo viršelis">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Albumo viršelis">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Albumo viršelį įrašyti į metaduomenų sritį">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Tai leis &brandShortName; įterpti albumų viršelius į failų žymų sritį.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Ieškoti failų tokiu pavadinimu:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Ieškoti failų plėtinių:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Gavimo prioritetai">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Būdą, kuriuo norite gauti viršelius, perkelkite į viršų.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Į viršų">
@@ -740,62 +638,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nustatyti iš naujo">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Automatiškai atsiųsti albumo viršelį">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Automatiškai atsiųsti albumo viršelį, kai kūrinys yra grojamas arba pažymimas, priklausomai nuo albumo viršelio polangio veiksenos. Šios galimybės naudojimas gali turėti įtakos našumui.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Grįžti">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "Atšaukti">
-<!ENTITY wizard.button.next.label      "Tęsti">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "Baigti">
-
+<!ENTITY wizard.button.back.label "Grįžti">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Atšaukti">
+<!ENTITY wizard.button.next.label "Tęsti">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Baigti">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Grojimo klaida">
-<!ENTITY mediacore.error.preface  "&brandShortName; ištiko klaida grojant.">
+<!ENTITY mediacore.error.title "Grojimo klaida">
+<!ENTITY mediacore.error.preface "&brandShortName; ištiko klaida grojant.">
 <!ENTITY mediacore.error.continue "Tęsti">
-<!ENTITY mediacore.error.stop     "Stabdyti grojimą">
+<!ENTITY mediacore.error.stop "Stabdyti grojimą">
 <!ENTITY mediacore.error.dontshowme "Daugiau neberodyti medijos branduolio klaidų">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Norėdami gauti daugiau informacijos apie trūkstamus kodekus žiūrėkite">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Failų importavimo pranešimas">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Norėdami gauti daugiau informacijos apie trūkstamus kodekus žiūrėkite:">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "Daugiau importavimo metu nebepranešti apie nepalaikomus vaizdo įrašus">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Perklausa">
-
-<!ENTITY playback.prefpane.audio_output.label   "Garso išvestis">
-<!ENTITY playback.prefpane.audio_output.buffer  "Išvesties buferis">
-
-<!ENTITY playback.prefpane.streaming.label      "Tinklas bei Transliavimas">
-<!ENTITY playback.prefpane.streaming.buffer     "Transliavimo buferis:">
-
-<!ENTITY playback.prefpane.normalization.label  "Garso lygio normalizavimas">
+<!ENTITY playback.prefpane.label "Perklausa">
+<!ENTITY playback.prefpane.audio_output.label "Garso išvestis">
+<!ENTITY playback.prefpane.audio_output.buffer "Išvesties buferis">
+<!ENTITY playback.prefpane.streaming.label "Tinklas bei Transliavimas">
+<!ENTITY playback.prefpane.streaming.buffer "Transliavimo buferis:">
+<!ENTITY playback.prefpane.normalization.label "Garso lygio normalizavimas">
 <!ENTITY playback.prefpane.normalization.enable "Naudoti garso lygio normalizavimą, jei įmanoma">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Garsą normalizuoti pagal:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "albumą">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "dainą">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Įverčių metaduomenys">
 <!ENTITY playback.prefpane.ratings.enablewriting "Įrašyti įverčių informaciją į kiekvieno failo metaduomenų sritį.">
-
 <!ENTITY fetch_album_art.dialog.title "Gauti albumo viršelį">
 <!ENTITY fetch_album_art.dialog.message "Dar nerealizuota (žiūrėkite riktą 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Atlikėjas">
-<!ENTITY cdrip.lookup.info_not_found.album  "Albumas">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD informacija nerasta">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Čia galite pridėti atlikėjo ir albumo vardus. Likusią informaciją galite pataisyti CD kopijavimo grojaraštyje">
+<!ENTITY cdrip.lookup.info_not_found.album "Albumas">
+<!ENTITY cdrip.lookup.info_not_found.title "CD informacija nerasta">
+<!ENTITY cdrip.lookup.info_not_found.descr "Čia galite pridėti atlikėjo ir albumo vardus. Likusią informaciją galite pataisyti CD kopijavimo grojaraštyje">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Pavadinimas">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "CD išskleidimas">
 <!ENTITY cdrip.prefpane.format "Formatas">
@@ -805,33 +690,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Pranešti garso signalu, kai CD išskleidimas bus baigtas">
 <!ENTITY cdrip.prefpane.providers.title "Informacijos apie CD tiekėjas">
 <!ENTITY cdrip.prefpane.quality_desc "Aukštesnė kokybė (kbps) reiškia geresnę garso kokybę ir didesnį failo dydį.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD išskleidimo nuostatos">
-<!ENTITY cdrip.mediaview.format_label              "Formatas:">
-<!ENTITY cdrip.mediaview.quality_label             "Kokybė:">
-<!ENTITY cdrip.mediaview.settings_button           "Nuostatos">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Išskleisti CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Stabdyti išskleidimą">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Peržiūrėti takelius">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Išstumti CD">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD išskleidimo nuostatos">
+<!ENTITY cdrip.mediaview.format_label "Formatas:">
+<!ENTITY cdrip.mediaview.quality_label "Kokybė:">
+<!ENTITY cdrip.mediaview.settings_button "Nuostatos">
+<!ENTITY cdrip.mediaview.rip_cd_button "Išskleisti CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stabdyti išskleidimą">
+<!ENTITY cdrip.mediaview.view_tracks_button "Peržiūrėti takelius">
+<!ENTITY cdrip.mediaview.eject_cd_button "Išstumti CD">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Vaizdo įrašo langas">
 <!ENTITY videowindow.actualsize "Tikrasis dydis">
 <!ENTITY videowindow.fullscreen "Pilnas ekranas">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Norėtume padėkoti mūsų kūrybinei komandai, kurios pastangomis &brandShortName; pavirto tuo, kuo yra šiandien. Šie žmonės padėjo kurdami šios programos kodą, dokumentuodami bei testuodami jį. Jų vardai surašyti IRC slapyvardžių pavidalu, tad ateik į irc.mozilla.org #songbird kanalą ir pasakyk LABAS :)">
 <!ENTITY about.credits.footer.beforeLink "Žinoma, nieko nebūtų pavykę jei">
@@ -842,15 +722,6 @@
 <!ENTITY about.credits.description.champs.link.pre "Songbird čempionai yra užkietėję Songbird vartotojai ir gerbėjai, atsiliepę į pareigos šauksmą padėti kitiems Songbird vartotojams mūsų">
 <!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction paramos forume.">
 <!ENTITY about.credits.description.champs.link.post "Jie yra produktyviausi forumo vaikinai, nenuilstamai besidarbuojantys, kad kiekvienas Songbird vartotojas būtų laimingas Songbird vartotojas.">
-
-<!ENTITY cdrip.lookup.multiple.title       "Rasti keli CD įrašai">
+<!ENTITY cdrip.lookup.multiple.title "Rasti keli CD įrašai">
 <!ENTITY cdrip.lookup.multiple.description "Pasirinkite vieną iš šių arba pridėkite informaciją pats:">
-<!ENTITY cdinfo.other.label                "Pridėti atlikėjo ir albumo informaciją pačiam">
-
-<!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >
+<!ENTITY cdinfo.other.label "Pridėti atlikėjo ir albumo informaciją pačiam">

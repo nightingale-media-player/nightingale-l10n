@@ -1,501 +1,440 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "D&apos;acord" >
-<!ENTITY window.cancel      "Cancel·la" >
-<!ENTITY window.apply       "Aplica" >
-<!ENTITY window.browse      "Explora…" >
-<!ENTITY window.save        "Desa">
-<!ENTITY window.yes         "Sí">
-<!ENTITY window.no          "No">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "D&apos;acord">
+<!ENTITY window.cancel "Cancel·la">
+<!ENTITY window.apply "Aplica">
+<!ENTITY window.browse "Explora…">
+<!ENTITY window.save "Desa">
+<!ENTITY window.yes "Sí">
+<!ENTITY window.no "No">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Surt del &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "u">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Preferències">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "Surt del &brandShortName;">
+<!ENTITY menu.mac.exit.key "u">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "Preferències">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Serveis">
-<!ENTITY menu.mac.hide                  "Amaga el &brandShortName;">
-<!ENTITY menu.mac.hide.key              "A">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Amaga els altres">
-<!ENTITY menu.mac.hideothers.key        "A">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Mostra-ho tot">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Fitxer" >
-<!ENTITY menu.file.new          "Crea una llista de reproducció…" >
-<!ENTITY menu.file.smart        "Crea una llista de reproducció inteŀligent…" >
-<!ENTITY menu.file.remote       "Crea una subscripció…" >
-<!ENTITY menu.file.podcast      "Nou podcast…" >
-<!ENTITY menu.file.open         "Obre un fitxer…" >
-<!ENTITY menu.file.url          "Obre una ubicació…" >
-<!ENTITY menu.file.playlist     "Importa una llista de reproducció…" >
-<!ENTITY menu.file.library      "Importa una biblioteca…" >
-<!ENTITY menu.file.newtab       "Obre una pestanya…" >
-<!ENTITY menu.file.closetab     "Tanca la pestanya" >
-<!ENTITY menu.file.metadata     "Visualitza les metadades">
-<!ENTITY menu.file.scan         "Importa fitxers multimèdia…" >
-<!ENTITY menu.file.exit         "Surt" >
-
-<!ENTITY menu.edit          "Edita" >
-<!ENTITY menu.edit.undo     "Desfés" >
-<!ENTITY menu.edit.redo     "Refés" >
-<!ENTITY menu.edit.cut      "Retalla" >
-<!ENTITY menu.edit.copy     "Copia" >
-<!ENTITY menu.edit.paste    "Enganxa" >
-<!ENTITY menu.edit.delete   "Elimina" >
-<!ENTITY menu.edit.selall   "Selecciona-ho tot" >
-<!ENTITY menu.edit.find        "Cerca" >
-<!ENTITY menu.edit.findagain   "Cerca el següent" >
-
+<!ENTITY menu.mac.services "Serveis">
+<!ENTITY menu.mac.hide "Amaga el &brandShortName;">
+<!ENTITY menu.mac.hide.key "A">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "Amaga els altres">
+<!ENTITY menu.mac.hideothers.key "A">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "Mostra-ho tot">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "Fitxer">
+<!ENTITY menu.file.new "Crea una llista de reproducció…">
+<!ENTITY menu.file.smart "Crea una llista de reproducció inteŀligent…">
+<!ENTITY menu.file.remote "Crea una subscripció…">
+<!ENTITY menu.file.podcast "Nou podcast…">
+<!ENTITY menu.file.open "Obre un fitxer…">
+<!ENTITY menu.file.url "Obre una ubicació…">
+<!ENTITY menu.file.playlist "Importa una llista de reproducció…">
+<!ENTITY menu.file.library "Importa una biblioteca…">
+<!ENTITY menu.file.newtab "Obre una pestanya…">
+<!ENTITY menu.file.closetab "Tanca la pestanya">
+<!ENTITY menu.file.metadata "Visualitza les metadades">
+<!ENTITY menu.file.scan "Importa fitxers multimèdia…">
+<!ENTITY menu.file.exit "Surt">
+<!ENTITY menu.edit "Edita">
+<!ENTITY menu.edit.undo "Desfés">
+<!ENTITY menu.edit.redo "Refés">
+<!ENTITY menu.edit.cut "Retalla">
+<!ENTITY menu.edit.copy "Copia">
+<!ENTITY menu.edit.paste "Enganxa">
+<!ENTITY menu.edit.delete "Elimina">
+<!ENTITY menu.edit.selall "Selecciona-ho tot">
+<!ENTITY menu.edit.find "Cerca">
+<!ENTITY menu.edit.findagain "Cerca el següent">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Preferències">
+<!ENTITY menu.linux.preferences "Preferències">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Controls" >
-<!ENTITY menu.control.play  "Reprodueix/Atura" >
-<!ENTITY menu.control.pause "Atura" >
-<!ENTITY menu.control.next  "Peça següent" >
-<!ENTITY menu.control.prev  "Peça anterior" >
-<!ENTITY menu.control.shuf  "Ordre aleatori" >
-<!ENTITY menu.control.repa  "Repeteix-ho tot" >
-<!ENTITY menu.control.rep1  "Repeteix-ne una" >
-<!ENTITY menu.control.repx  "No en repeteixis cap" >
-<!ENTITY menu.control.jumpto "Salta a…" >
-
-<!ENTITY menu.control.play.button      "Reprodueix" >
-<!ENTITY menu.control.pause.button     "Atura" >
-<!ENTITY menu.control.stop.button      "Atura" >
-
+<!ENTITY menu.controls "Controls">
+<!ENTITY menu.control.play "Reprodueix/Atura">
+<!ENTITY menu.control.pause "Atura">
+<!ENTITY menu.control.next "Peça següent">
+<!ENTITY menu.control.prev "Peça anterior">
+<!ENTITY menu.control.shuf "Ordre aleatori">
+<!ENTITY menu.control.repa "Repeteix-ho tot">
+<!ENTITY menu.control.rep1 "Repeteix-ne una">
+<!ENTITY menu.control.repx "No en repeteixis cap">
+<!ENTITY menu.control.jumpto "Salta a…">
+<!ENTITY menu.control.play.button "Reprodueix">
+<!ENTITY menu.control.pause.button "Atura">
+<!ENTITY menu.control.stop.button "Atura">
 <!ENTITY displaypane.default.image.pre "Seleccioneu un complement del menú">
 <!ENTITY displaypane.default.image.tooltip "Icona del selector de complements">
 <!ENTITY displaypane.default.image.post "o visiteu el">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "lloc web de complements">
 <!ENTITY displaypane.default.link.post "per a navegar entre complements.">
-<!ENTITY displaypane.name.servicepane   "la subfinestra inferior de servei">
-<!ENTITY displaypane.name.browser       "la subfinestra inferior de contingut">
-<!ENTITY displaypane.name.sidebar       "la barra lateral dreta">
-<!ENTITY servicepane.title.label        "Subfinestra de servei">
-
-<!ENTITY menu.tools            "Eines" >
+<!ENTITY displaypane.name.servicepane "la subfinestra inferior de servei">
+<!ENTITY displaypane.name.browser "la subfinestra inferior de contingut">
+<!ENTITY displaypane.name.sidebar "la barra lateral dreta">
+<!ENTITY servicepane.title.label "Subfinestra de servei">
+<!ENTITY menu.tools "Eines">
 <!ENTITY menu.tools.getartwork "Aconsegueix les cobertes dels àlbums">
 <!ENTITY menu.tools.exportmedia "Exporta els canvis de la biblioteca">
-
-<!ENTITY menu.help          "Ajuda" >
-<!ENTITY menu.help.homepage "Lloc web del &brandShortName;" >
-<!ENTITY menu.help.bugz     "Informa d&apos;un error…" >
-<!ENTITY menu.help.topics   "Temes de l&apos;ajuda" >
+<!ENTITY menu.help "Ajuda">
+<!ENTITY menu.help.homepage "Lloc web del &brandShortName;">
+<!ENTITY menu.help.bugz "Informa d&apos;un error…">
+<!ENTITY menu.help.topics "Temes de l&apos;ajuda">
 <!ENTITY menu.help.keyboard "Dreceres de teclat">
-<!ENTITY menu.help.about    "Quant al &brandShortName;" >
-
-<!ENTITY menu.equalizer     "Equalitzador…" >
-<!ENTITY menu.preferences   "Opcions" >
-<!ENTITY menu.extensions    "Complements" >
+<!ENTITY menu.help.about "Quant al &brandShortName;">
+<!ENTITY menu.equalizer "Equalitzador…">
+<!ENTITY menu.preferences "Opcions">
+<!ENTITY menu.extensions "Complements">
 <!ENTITY menu.clearprivatedata "Esborra les dades privades…">
 <!ENTITY menu.errorconsole "Consola d&apos;errors">
-<!ENTITY menu.downloadmgr   "Baixades de fitxers" >
-<!ENTITY menu.switchplayercontrols  "Controls de reproducció" >
-<!ENTITY menu.controllerontop       "Mostra&apos;ls a la part superior">
-<!ENTITY menu.controlleronbottom    "Mostra&apos;ls a la part inferior">
-
-<!ENTITY menu.fullscreen            "Pantalla completa">
-<!ENTITY menu.videotofront          "Vídeo en primer pla">
-
-<!ENTITY device.dialog.wait_for_completion.title  "S&apos;estan esperant els dispositius.">
-<!ENTITY device.dialog.wait_for_completion.msg    "S&apos;està esperant que es completin totes les operacions dels dispositius. Feu clic a Surt per deixar d&apos;esperar i sortir de l&apos;aplicació.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Surt">
-
-<!ENTITY tooltip.minimize         "Minimitza" >
-<!ENTITY tooltip.maximize         "Maximitza/Restaura" >
-<!ENTITY tooltip.exit             "Surt" >
-<!ENTITY tooltip.close            "Tanca" >
-<!ENTITY tooltip.hide             "Amaga" >
-<!ENTITY tooltip.fullscreen       "Pantalla completa" >
-<!ENTITY tooltip.control.back     "Peça anterior" >
-<!ENTITY tooltip.control.play     "Reprodueix" >
-<!ENTITY tooltip.control.pause    "Atura" >
-<!ENTITY tooltip.control.resume   "Continua" >
-<!ENTITY tooltip.control.stop     "Atura" >
-<!ENTITY tooltip.control.fwd      "Peça següent" >
-<!ENTITY tooltip.control.mute     "Silenci" >
-<!ENTITY tooltip.control.volume   "Volum" >
-<!ENTITY tooltip.control.shuffle  "Ordre aleatori" >
-<!ENTITY tooltip.control.shuf_off "Desactiva l&apos;ordre aleatori" >
-<!ENTITY tooltip.control.curtrack "Cerca la peça actual" >
-<!ENTITY tooltip.search           "Cerca" >
-<!ENTITY tooltip.browser.back     "Vés enrere" >
-<!ENTITY tooltip.browser.fwd      "Vés endavant" >
-<!ENTITY tooltip.browser.stop     "Atura el navegador" >
-<!ENTITY tooltip.browser.home     "Inici" >
-<!ENTITY tooltip.browser.refresh  "Actualitza" >
-<!ENTITY tooltip.browser.subscription "Crea una subscripció" >
-<!ENTITY tooltip.browser.mediapages.list "Vista de llista" >
-<!ENTITY tooltip.browser.mediapages.filter "Vista de filtre del tauler" >
-<!ENTITY tooltip.browser.mediapages "Commuta les vistes multimèdia…" >
-<!ENTITY tooltip.servicepane.show    "Mostra la subfinestra de servei" >
-<!ENTITY tooltip.servicepane.collapse    "Redueix la subfinestra de servei" >
-<!ENTITY tooltip.servicepane.newnode "Nova llista de reproducció" >
+<!ENTITY menu.downloadmgr "Baixades de fitxers">
+<!ENTITY menu.switchplayercontrols "Controls de reproducció">
+<!ENTITY menu.controllerontop "Mostra&apos;ls a la part superior">
+<!ENTITY menu.controlleronbottom "Mostra&apos;ls a la part inferior">
+<!ENTITY menu.fullscreen "Pantalla completa">
+<!ENTITY menu.videotofront "Vídeo en primer pla">
+<!ENTITY device.dialog.wait_for_completion.title "S&apos;estan esperant els dispositius.">
+<!ENTITY device.dialog.wait_for_completion.msg "S&apos;està esperant que es completin totes les operacions dels dispositius. Feu clic a Surt per deixar d&apos;esperar i sortir de l&apos;aplicació.">
+<!ENTITY device.dialog.wait_for_completion.quit "Surt">
+<!ENTITY tooltip.minimize "Minimitza">
+<!ENTITY tooltip.maximize "Maximitza/Restaura">
+<!ENTITY tooltip.exit "Surt">
+<!ENTITY tooltip.close "Tanca">
+<!ENTITY tooltip.hide "Amaga">
+<!ENTITY tooltip.fullscreen "Pantalla completa">
+<!ENTITY tooltip.control.back "Peça anterior">
+<!ENTITY tooltip.control.play "Reprodueix">
+<!ENTITY tooltip.control.pause "Atura">
+<!ENTITY tooltip.control.resume "Continua">
+<!ENTITY tooltip.control.stop "Atura">
+<!ENTITY tooltip.control.fwd "Peça següent">
+<!ENTITY tooltip.control.mute "Silenci">
+<!ENTITY tooltip.control.volume "Volum">
+<!ENTITY tooltip.control.shuffle "Ordre aleatori">
+<!ENTITY tooltip.control.shuf_off "Desactiva l&apos;ordre aleatori">
+<!ENTITY tooltip.control.curtrack "Cerca la peça actual">
+<!ENTITY tooltip.search "Cerca">
+<!ENTITY tooltip.browser.back "Vés enrere">
+<!ENTITY tooltip.browser.fwd "Vés endavant">
+<!ENTITY tooltip.browser.stop "Atura el navegador">
+<!ENTITY tooltip.browser.home "Inici">
+<!ENTITY tooltip.browser.refresh "Actualitza">
+<!ENTITY tooltip.browser.subscription "Crea una subscripció">
+<!ENTITY tooltip.browser.mediapages.list "Vista de llista">
+<!ENTITY tooltip.browser.mediapages.filter "Vista de filtre del tauler">
+<!ENTITY tooltip.browser.mediapages "Commuta les vistes multimèdia…">
+<!ENTITY tooltip.servicepane.show "Mostra la subfinestra de servei">
+<!ENTITY tooltip.servicepane.collapse "Redueix la subfinestra de servei">
+<!ENTITY tooltip.servicepane.newnode "Nova llista de reproducció">
 <!ENTITY tooltip.displaypane.options "Opcions de la subfinestra de contingut">
-
-<!ENTITY smart.window             "Llista de reproducció inteŀligent" >
-<!ENTITY smart.limit              "Limita a" >
-<!ENTITY smart.match              "Coincideixen" >
-<!ENTITY smart.matchsingle        "Condicions per complir:" >
-<!ENTITY smart.any                "qualsevol" >
-<!ENTITY smart.all                "tot" >
-<!ENTITY smart.following          "en les següent condicions:" >
-<!ENTITY smart.random             "aleatori" >
-<!ENTITY smart.album              "àlbum" >
-<!ENTITY smart.artist             "artista" >
-<!ENTITY smart.genre              "gènere" >
-<!ENTITY smart.title              "títol" >
-<!ENTITY smart.high_rating        "valoració més alta" >
-<!ENTITY smart.low_rating         "valoració més baixa" >
-<!ENTITY smart.most_recent        "reproduït més recentment" >
-<!ENTITY smart.least_recent       "reproduït menys recentment" >
-<!ENTITY smart.most_often         "reproduït més sovint" >
-<!ENTITY smart.least_often        "reproduït menys sovint" >
-<!ENTITY smart.most_added         "afegit més recentment" >
-<!ENTITY smart.least_added        "afegit menys recentment" >
-<!ENTITY smart.minutes            "minuts" >
-<!ENTITY smart.hours              "hores" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "elements" >
-<!ENTITY smart.selectedby         "seleccionat per" >
-<!ENTITY smart.to                 "a" >
-<!ENTITY smart.autoupdate         "Actualitza">
+<!ENTITY smart.window "Llista de reproducció inteŀligent">
+<!ENTITY smart.limit "Limita a">
+<!ENTITY smart.match "Coincideixen">
+<!ENTITY smart.matchsingle "Condicions per complir:">
+<!ENTITY smart.any "qualsevol">
+<!ENTITY smart.all "tot">
+<!ENTITY smart.following "en les següent condicions:">
+<!ENTITY smart.random "aleatori">
+<!ENTITY smart.album "àlbum">
+<!ENTITY smart.artist "artista">
+<!ENTITY smart.genre "gènere">
+<!ENTITY smart.title "títol">
+<!ENTITY smart.high_rating "valoració més alta">
+<!ENTITY smart.low_rating "valoració més baixa">
+<!ENTITY smart.most_recent "reproduït més recentment">
+<!ENTITY smart.least_recent "reproduït menys recentment">
+<!ENTITY smart.most_often "reproduït més sovint">
+<!ENTITY smart.least_often "reproduït menys sovint">
+<!ENTITY smart.most_added "afegit més recentment">
+<!ENTITY smart.least_added "afegit menys recentment">
+<!ENTITY smart.minutes "minuts">
+<!ENTITY smart.hours "hores">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "elements">
+<!ENTITY smart.selectedby "seleccionat per">
+<!ENTITY smart.to "a">
+<!ENTITY smart.autoupdate "Actualitza">
 <!ENTITY smart.playlistcondition.library "Biblioteca">
 <!ENTITY smart.contenttypecondition.video "Vídeo">
 <!ENTITY smart.contenttypecondition.audio "Música">
-
 <!ENTITY textbox.songbird_open_url "Escriviu l&apos;URL o el camí del fitxer multimèdia que voleu reproduir:">
-
-<!ENTITY open_url.title           "Obre un URL">
-<!ENTITY subscribe.title          "Subscripció">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Minuts">
-<!ENTITY subscribe.hours          "Hores">
-<!ENTITY subscribe.days           "Dies">
-<!ENTITY subscribe.autocheck      "Actualitza automàticament cada">
-<!ENTITY subscribe.destinationfolder      "Seleccioneu el directori de destí:">
-
-<!ENTITY feed.subscribe.label     "Subscriu">
-<!ENTITY feed.subscribe.dontask   "No tornis a mostrar automàticament aquest diàleg">
-<!ENTITY feed.subscribe.close     "Tanca">
-
-<!ENTITY podcast.creation_dialog.title       "Nou podcast">
+<!ENTITY open_url.title "Obre un URL">
+<!ENTITY subscribe.title "Subscripció">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Minuts">
+<!ENTITY subscribe.hours "Hores">
+<!ENTITY subscribe.days "Dies">
+<!ENTITY subscribe.autocheck "Actualitza automàticament cada">
+<!ENTITY subscribe.destinationfolder "Seleccioneu el directori de destí:">
+<!ENTITY feed.subscribe.label "Subscriu">
+<!ENTITY feed.subscribe.dontask "No tornis a mostrar automàticament aquest diàleg">
+<!ENTITY feed.subscribe.close "Tanca">
+<!ENTITY podcast.creation_dialog.title "Nou podcast">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Vigila carpetes">
-<!ENTITY watchfolder.folderlist   "Vigila aquestes carpetes per cercar nous fitxers multimèdia:">
-
-<!ENTITY locale.language          "Idioma" >
-<!ENTITY menu.view                "Visualitza" >
-<!ENTITY about.version            "Versió" >
-<!ENTITY about.buttons.credits    "Crèdits" >
-
-<!ENTITY equalizer.title          "Equalitzador" >
-<!ENTITY equalizer.on.checkbox    "Activa" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1.000" >
-<!ENTITY equalizer.band6.label    "2.000" >
-<!ENTITY equalizer.band7.label    "4.000" >
-<!ENTITY equalizer.band8.label    "8.000" >
-<!ENTITY equalizer.band9.label    "16.000" >
-<!ENTITY equalizer.preset.custom      "Personalitzat" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Rock suau" >
-<!ENTITY equalizer.preset.techno      "Techno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "En directe" >
-<!ENTITY equalizer.preset.club        "Club" >
-<!ENTITY equalizer.preset.party       "Festa" >
-<!ENTITY equalizer.preset.classical   "Clàssica" >
-<!ENTITY equalizer.preset.large_hall  "Large Hall" >
-<!ENTITY equalizer.preset.dance       "Dance" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Suau" >
-<!ENTITY equalizer.preset.small_speakers   "Portàtil/Auriculars" >
-<!ENTITY equalizer.preset.full_bass_treble "Greus i agutscomplets" >
-<!ENTITY equalizer.preset.full_treble "Aguts complets" >
-<!ENTITY equalizer.preset.full_bass   "Greus complets" >
-
-
-<!ENTITY setupprogress.pleasewait "Espereu…" >
-<!ENTITY setupprogress.cancel     "Cancel·la">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "P" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "c" >
-<!ENTITY menu.file.scan.accesskey         "m" >
-<!ENTITY locale.language.accesskey        "I" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "N" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "O" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "S" >
-<!ENTITY menu.downloadmgr.accesskey       "B" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "D" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "G" >
-<!ENTITY menu.edit.delete.accesskey   "D" >
-<!ENTITY menu.edit.selall.accesskey   "E" >
-<!ENTITY menu.edit.find.accesskey        "r" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "R" >
-<!ENTITY menu.control.pause.accesskey "A" >
-<!ENTITY menu.control.next.accesskey  "E" >
-<!ENTITY menu.control.prev.accesskey  "N" >
-<!ENTITY menu.control.shuf.accesskey  "A" >
-<!ENTITY menu.control.repa.accesskey  "T" >
-<!ENTITY menu.control.rep1.accesskey  "U" >
-<!ENTITY menu.control.repx.accesskey  "C" >
-<!ENTITY menu.control.jumpto.accesskey "S" >
-
-
-<!ENTITY menu.tools.accesskey            "N" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "Mostra els fitxers" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "A" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "e" >
-<!ENTITY menu.help.help.accesskey     "A" >
-<!ENTITY menu.help.keyboard.accesskey "t" >
-<!ENTITY menu.help.about.accesskey    "Q" >
-
-
+<!ENTITY watchfolder.title "Vigila carpetes">
+<!ENTITY watchfolder.folderlist "Vigila aquestes carpetes per cercar nous fitxers multimèdia:">
+<!ENTITY locale.language "Idioma">
+<!ENTITY menu.view "Visualitza">
+<!ENTITY about.version "Versió">
+<!ENTITY about.buttons.credits "Crèdits">
+<!ENTITY equalizer.title "Equalitzador">
+<!ENTITY equalizer.on.checkbox "Activa">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1.000">
+<!ENTITY equalizer.band6.label "2.000">
+<!ENTITY equalizer.band7.label "4.000">
+<!ENTITY equalizer.band8.label "8.000">
+<!ENTITY equalizer.band9.label "16.000">
+<!ENTITY equalizer.preset.custom "Personalitzat">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Rock suau">
+<!ENTITY equalizer.preset.techno "Techno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "En directe">
+<!ENTITY equalizer.preset.club "Club">
+<!ENTITY equalizer.preset.party "Festa">
+<!ENTITY equalizer.preset.classical "Clàssica">
+<!ENTITY equalizer.preset.large_hall "Large Hall">
+<!ENTITY equalizer.preset.dance "Dance">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Suau">
+<!ENTITY equalizer.preset.small_speakers "Portàtil/Auriculars">
+<!ENTITY equalizer.preset.full_bass_treble "Greus i agutscomplets">
+<!ENTITY equalizer.preset.full_treble "Aguts complets">
+<!ENTITY equalizer.preset.full_bass "Greus complets">
+<!ENTITY setupprogress.pleasewait "Espereu…">
+<!ENTITY setupprogress.cancel "Cancel·la">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "P">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "c">
+<!ENTITY menu.file.scan.accesskey "m">
+<!ENTITY locale.language.accesskey "I">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "N">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "O">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "S">
+<!ENTITY menu.downloadmgr.accesskey "B">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "D">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "G">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "E">
+<!ENTITY menu.edit.find.accesskey "r">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "R">
+<!ENTITY menu.control.pause.accesskey "A">
+<!ENTITY menu.control.next.accesskey "E">
+<!ENTITY menu.control.prev.accesskey "N">
+<!ENTITY menu.control.shuf.accesskey "A">
+<!ENTITY menu.control.repa.accesskey "T">
+<!ENTITY menu.control.rep1.accesskey "U">
+<!ENTITY menu.control.repx.accesskey "C">
+<!ENTITY menu.control.jumpto.accesskey "S">
+<!ENTITY menu.tools.accesskey "N">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "Mostra els fitxers">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "A">
+<!ENTITY menu.help.homepage.accesskey "W">
+<!ENTITY menu.help.bugz.accesskey "e">
+<!ENTITY menu.help.help.accesskey "A">
+<!ENTITY menu.help.keyboard.accesskey "t">
+<!ENTITY menu.help.about.accesskey "Q">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Editor de metadades" >
-<!ENTITY trackeditor.tab.summary.title            "Resum" >
-<!ENTITY trackeditor.tab.edit.title               "Propietats" >
-<!ENTITY trackeditor.tab.lyrics.title             "Lletres" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Editor de metadades">
+<!ENTITY trackeditor.tab.summary.title "Resum">
+<!ENTITY trackeditor.tab.edit.title "Propietats">
+<!ENTITY trackeditor.tab.lyrics.title "Lletres">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Afegeix una etiqueta" >
-<!ENTITY trackeditor.addtag.tag       "Etiqueta:" >
-
-<!ENTITY jumptofile.title             "Salta a" >
-<!ENTITY jumptofile.search            "Cerca:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Utilitza les dreceres de teclat globals" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Acció" >
-<!ENTITY hotkeys.hotkey               "Drecera de teclat" >
-<!ENTITY hotkeys.add                  "Afegeix" >
-<!ENTITY hotkeys.set                  "Estableix" >
-<!ENTITY hotkeys.remove               "Suprimex" >
-<!ENTITY hotkeys.prefpane             "Dreceres de teclat" >
-<!ENTITY hotkeys.info                 "Les dreceres de teclat globals us permeten accedir a les funcionalitats del &brandShortName; fins i tot si no és l&apos;aplicació activa. Algunes combinacions han d&apos;incloure tecles modificadores per minimitzar les interferències amb altres aplicacions." >
-
-<!ENTITY rapi.prefpane.title             "Integració web" >
-<!ENTITY rapi.prefpane.access.caption    "Permisos de la pàgina web" >
-<!ENTITY rapi.prefpane.access.text       "Podeu permetre que els llocs web s&apos;integrin amb el &brandShortName; per a aconseguir una millor comunicació entre el web i els fitxers multimèdia. Configureu el &brandShortName; per permetre o bloquejar els següents paràmetres d&apos;integració." >
-<!ENTITY rapi.whitelist.label            "Excepcions…" >
-<!ENTITY rapi.restore_defaults.label      "Restableix la configuració predeterminada" >
-<!ENTITY rapi.playback_control_disable.label "Evita que els llocs web controlin la meva reproducció" >
-<!ENTITY rapi.playback_read_disable.label    "Evita que els llocs web accedeixin a informació sobre les peces en reproducció" >
-<!ENTITY rapi.library_read_disable.label     "Evita que els llocs web accedeixin a la informació sobre la meva biblioteca o els meus dispositius" >
-<!ENTITY rapi.library_write_disable.label    "Evita que els llocs web afegeixin o eliminin fitxers multimèdia a la meva biblioteca i els meus dispositius" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Complements">
-<!ENTITY prefpane.content.label       "Contingut web">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Cap dispositiu d&apos;emmagatzematge USB connectat." >
-<!ENTITY umsd.music.tab                     "Música" >
-<!ENTITY umsd.music.music_files_group       "Fitxers de música" >
-<!ENTITY umsd.music.music_path_desc         "Quan copiïs música al dispositiu, desa-la al següent directori:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Seleccioneu el directori del dispositiu on voleu desar els fitxers de música." >
-<!ENTITY umsd.music.music_ext_desc          "Copia els fitxers de música amb les següents extensions al dispositiu:" >
-<!ENTITY umsd.video.tab                     "Vídeo" >
-<!ENTITY umsd.video.video_files_group       "Fitxers de vídeo" >
-<!ENTITY umsd.video.video_path_desc         "Quan copiïs vídeos al dispositiu, desa&apos;ls al següent directori:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Seleccioneu el directori del dispositiu on voleu desar els fitxers de vídeo." >
-<!ENTITY umsd.video.video_ext_desc          "Copia els fitxers de vídeo amb les següents extensions al dispositiu:" >
-
-<!ENTITY device.error.dialog.link           "Mostra els detalls dels errors" >
-
-<!ENTITY restartbox.restartnow        "Reinicia ara" >
-<!ENTITY restartbox.restartonplaybackend "Reinicia quan s&apos;acabi la reproducció" >
-<!ENTITY restartbox.restartlater      "Reinicia més tard" >
-
-<!ENTITY setupprogress.installingextensions "S&apos;estan instal·lant les extensions" >
-
-<!ENTITY jobprogress.details "Detalls" >
-
-<!ENTITY menu.updateCmd.label          "Comprova si hi ha actualitzacions…">
-<!ENTITY menu.updateCmd.accessKey      "z">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "S" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "B" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "R" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Supr" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Barra espaiadora" >
-
+<!ENTITY trackeditor.addtag.title "Afegeix una etiqueta">
+<!ENTITY trackeditor.addtag.tag "Etiqueta:">
+<!ENTITY jumptofile.title "Salta a">
+<!ENTITY jumptofile.search "Cerca:">
+<!ENTITY hotkeys.useglobalhotkeys "Utilitza les dreceres de teclat globals">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "Acció">
+<!ENTITY hotkeys.hotkey "Drecera de teclat">
+<!ENTITY hotkeys.add "Afegeix">
+<!ENTITY hotkeys.set "Estableix">
+<!ENTITY hotkeys.remove "Suprimex">
+<!ENTITY hotkeys.prefpane "Dreceres de teclat">
+<!ENTITY hotkeys.info "Les dreceres de teclat globals us permeten accedir a les funcionalitats del &brandShortName; fins i tot si no és l&apos;aplicació activa. Algunes combinacions han d&apos;incloure tecles modificadores per minimitzar les interferències amb altres aplicacions.">
+<!ENTITY rapi.prefpane.title "Integració web">
+<!ENTITY rapi.prefpane.access.caption "Permisos de la pàgina web">
+<!ENTITY rapi.prefpane.access.text "Podeu permetre que els llocs web s&apos;integrin amb el &brandShortName; per a aconseguir una millor comunicació entre el web i els fitxers multimèdia. Configureu el &brandShortName; per permetre o bloquejar els següents paràmetres d&apos;integració.">
+<!ENTITY rapi.whitelist.label "Excepcions…">
+<!ENTITY rapi.restore_defaults.label "Restableix la configuració predeterminada">
+<!ENTITY rapi.playback_control_disable.label "Evita que els llocs web controlin la meva reproducció">
+<!ENTITY rapi.playback_read_disable.label "Evita que els llocs web accedeixin a informació sobre les peces en reproducció">
+<!ENTITY rapi.library_read_disable.label "Evita que els llocs web accedeixin a la informació sobre la meva biblioteca o els meus dispositius">
+<!ENTITY rapi.library_write_disable.label "Evita que els llocs web afegeixin o eliminin fitxers multimèdia a la meva biblioteca i els meus dispositius">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "Complements">
+<!ENTITY prefpane.content.label "Contingut web">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Cap dispositiu d&apos;emmagatzematge USB connectat.">
+<!ENTITY umsd.music.tab "Música">
+<!ENTITY umsd.music.music_files_group "Fitxers de música">
+<!ENTITY umsd.music.music_path_desc "Quan copiïs música al dispositiu, desa-la al següent directori:">
+<!ENTITY umsd.music.music_path_browse_msg "Seleccioneu el directori del dispositiu on voleu desar els fitxers de música.">
+<!ENTITY umsd.music.music_ext_desc "Copia els fitxers de música amb les següents extensions al dispositiu:">
+<!ENTITY umsd.video.tab "Vídeo">
+<!ENTITY umsd.video.video_files_group "Fitxers de vídeo">
+<!ENTITY umsd.video.video_path_desc "Quan copiïs vídeos al dispositiu, desa&apos;ls al següent directori:">
+<!ENTITY umsd.video.video_path_browse_msg "Seleccioneu el directori del dispositiu on voleu desar els fitxers de vídeo.">
+<!ENTITY umsd.video.video_ext_desc "Copia els fitxers de vídeo amb les següents extensions al dispositiu:">
+<!ENTITY device.error.dialog.link "Mostra els detalls dels errors">
+<!ENTITY restartbox.restartnow "Reinicia ara">
+<!ENTITY restartbox.restartonplaybackend "Reinicia quan s&apos;acabi la reproducció">
+<!ENTITY restartbox.restartlater "Reinicia més tard">
+<!ENTITY setupprogress.installingextensions "S&apos;estan instal·lant les extensions">
+<!ENTITY jobprogress.details "Detalls">
+<!ENTITY menu.updateCmd.label "Comprova si hi ha actualitzacions…">
+<!ENTITY menu.updateCmd.accessKey "z">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "S">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "B">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "R">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Supr">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Barra espaiadora">
 <!ENTITY tabs.closeTab "Tanca la pestanya">
 <!ENTITY tabs.listAllTabs "Llista totes les pestanyes">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator " - " >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Pàgina d&apos;inici" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Instal·lació de complements" >
-
+<!ENTITY prefs.homepage.label "Pàgina d&apos;inici">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "Instal·lació de complements">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Atura">
-<!ENTITY command.device.cancel.accesskey                "A">
-<!ENTITY command.device.canceldevicecopy                "Atura la còpia">
-<!ENTITY command.device.canceldevicecopy.accesskey      "A">
-<!ENTITY command.device.canceldevicedelete              "Atura l&apos;eliminació">
-<!ENTITY command.device.canceldevicedelete.accesskey    "A">
-<!ENTITY command.device.canceldevicesync                "Atura la sincronització">
-<!ENTITY command.device.canceldevicesync.accesskey      "A">
-<!ENTITY command.device.canceldeviceupdate              "Atura l&apos;actualització">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "A">
-<!ENTITY command.device.ejectdevice                     "Expulsa">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Format">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Ignora">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Informa&apos;m">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Canvia el nom">
-<!ENTITY command.device.renamedevice.accesskey          "N">
-<!ENTITY command.device.devicesync                      "Sincronitza">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Atura">
+<!ENTITY command.device.cancel.accesskey "A">
+<!ENTITY command.device.canceldevicecopy "Atura la còpia">
+<!ENTITY command.device.canceldevicecopy.accesskey "A">
+<!ENTITY command.device.canceldevicedelete "Atura l&apos;eliminació">
+<!ENTITY command.device.canceldevicedelete.accesskey "A">
+<!ENTITY command.device.canceldevicesync "Atura la sincronització">
+<!ENTITY command.device.canceldevicesync.accesskey "A">
+<!ENTITY command.device.canceldeviceupdate "Atura l&apos;actualització">
+<!ENTITY command.device.canceldeviceupdate.accesskey "A">
+<!ENTITY command.device.ejectdevice "Expulsa">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Format">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Ignora">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Informa&apos;m">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Canvia el nom">
+<!ENTITY command.device.renamedevice.accesskey "N">
+<!ENTITY command.device.devicesync "Sincronitza">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "Grava el CD">
-<!ENTITY command.device.rip.accesskey                   "G">
-<!ENTITY command.device.stoprip                         "Atura la gravació">
-<!ENTITY command.device.stoprip.accesskey               "A">
-<!ENTITY command.device.lookup                          "Revisa la informació del CD">
-<!ENTITY command.device.lookup.accesskey                "R">
-<!ENTITY command.device.ejectcddevice                   "Expulsa el CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Repara el dispositiu">
-
-<!ENTITY device.firmware.wizard.title                     "Actualitza el microprogramari">
-<!ENTITY device.firmware.wizard.check.page.title          "Comprova si hi ha actualitzacions del microprogramari.">
-<!ENTITY device.firmware.wizard.check.progress.title      "S&apos;està comprovant si hi ha actualitzacions del microprogramari.">
+<!ENTITY command.device.rip "Grava el CD">
+<!ENTITY command.device.rip.accesskey "G">
+<!ENTITY command.device.stoprip "Atura la gravació">
+<!ENTITY command.device.stoprip.accesskey "A">
+<!ENTITY command.device.lookup "Revisa la informació del CD">
+<!ENTITY command.device.lookup.accesskey "R">
+<!ENTITY command.device.ejectcddevice "Expulsa el CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Repara el dispositiu">
+<!ENTITY device.firmware.wizard.title "Actualitza el microprogramari">
+<!ENTITY device.firmware.wizard.check.page.title "Comprova si hi ha actualitzacions del microprogramari.">
+<!ENTITY device.firmware.wizard.check.progress.title "S&apos;està comprovant si hi ha actualitzacions del microprogramari.">
 <!ENTITY device.firmware.wizard.check.install.description "La instaŀlació del microprogramari no tardarà més de 10 minuts. Podeu fer l&apos;actualització més tard.">
 <!ENTITY device.firmware.wizard.check.already.description "El microprogramari del vostre dispositiu ja està actualitzat.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Notes de la versió">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "El dispositiu ha d&apos;estar connectat en el mode de microprogramari per a poder continuar. Llegiu les instruccions de sota per posar el dispositiu en aquest mode.">
-<!ENTITY device.firmware.wizard.download.title            "S&apos;està descarregant noves versions del microprogramari…">
-<!ENTITY device.firmware.wizard.repair.time.description   "Aquesta operació hauria de durar menys de 5 minuts.">
-<!ENTITY device.firmware.wizard.repair.warning            "Restaurar el dispositiu als paràmetres de fàbrica esborrarà tota la música i les dades emmagatzemades. Feu una còpia de seguretat dels fitxers abans de continuar.">
-<!ENTITY device.firmware.wizard.install.title             "S&apos;està instaŀlant el microprogramari…">
-
-<!ENTITY device.firmware.wizard.busy.description  "Sembla ser que el dispositiu està ocupat. Només es pot instal·lar microprogramari quan el dispositiu està lliure. ">
+<!ENTITY device.firmware.wizard.download.title "S&apos;està descarregant noves versions del microprogramari…">
+<!ENTITY device.firmware.wizard.repair.time.description "Aquesta operació hauria de durar menys de 5 minuts.">
+<!ENTITY device.firmware.wizard.repair.warning "Restaurar el dispositiu als paràmetres de fàbrica esborrarà tota la música i les dades emmagatzemades. Feu una còpia de seguretat dels fitxers abans de continuar.">
+<!ENTITY device.firmware.wizard.install.title "S&apos;està instaŀlant el microprogramari…">
+<!ENTITY device.firmware.wizard.busy.description "Sembla ser que el dispositiu està ocupat. Només es pot instal·lar microprogramari quan el dispositiu està lliure. ">
 <!ENTITY device.firmware.wizard.retry.description "Torneu-ho a intentar quan el dispositiu hagi completat l&apos;operació en curs.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "S&apos;ha produït un error mentre se cercava nou microprogramari. Verifiqueu la vostra connexió a la xarxa i torneu-ho a provar.">
+<!ENTITY device.firmware.wizard.check.error.description "S&apos;ha produït un error mentre se cercava nou microprogramari. Verifiqueu la vostra connexió a la xarxa i torneu-ho a provar.">
 <!ENTITY device.firmware.wizard.download.error.description "S&apos;ha produït un error mentre es baixava el nou microprogramari. Verifiqueu la vostra connexió a la xarxa i torneu-ho a provar.">
-<!ENTITY device.firmware.wizard.support.description        "Les fonts d&apos;ajuda com les PMF i la resolució de problemes es poden trobar a">
-
-<!ENTITY device.info.icon.device            "Icona genèrica del dispositiu">
-<!ENTITY device.info.icon.readonly          "Icona de bloqueig de només lectura">
-<!ENTITY device.info.model.label            "Model">
-<!ENTITY device.info.capacity.label         "Capacitat">
-<!ENTITY device.info.product.label          "Productora">
-<!ENTITY device.info.friendly_name.label    "Nom">
-<!ENTITY device.info.serial_number.label    "Número de sèrie">
-<!ENTITY device.info.vendor.label           "Fabricant">
-<!ENTITY device.info.access.label           "Compatibilitat d&apos;accés">
+<!ENTITY device.firmware.wizard.support.description "Les fonts d&apos;ajuda com les PMF i la resolució de problemes es poden trobar a">
+<!ENTITY device.info.icon.device "Icona genèrica del dispositiu">
+<!ENTITY device.info.icon.readonly "Icona de bloqueig de només lectura">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY device.info.capacity.label "Capacitat">
+<!ENTITY device.info.product.label "Productora">
+<!ENTITY device.info.friendly_name.label "Nom">
+<!ENTITY device.info.serial_number.label "Número de sèrie">
+<!ENTITY device.info.vendor.label "Fabricant">
+<!ENTITY device.info.access.label "Compatibilitat d&apos;accés">
 <!ENTITY device.info.playback_formats.label "Formats de reproducció">
-<!ENTITY device.info.battery.label          "Bateria">
+<!ENTITY device.info.battery.label "Bateria">
 <!ENTITY device.info.firmware_version.label "Versió del microprogramari">
-
-<!ENTITY device.progress.sync               "Sincronitza">
-
-<!ENTITY device.capacity.music.label    "Música">
-<!ENTITY device.capacity.video.label    "Vídeo">
-<!ENTITY device.capacity.image.label    "Fotos">
-<!ENTITY device.capacity.other.label    "Altres">
-<!ENTITY device.capacity.free.label     "Lliure">
-
-<!ENTITY device.unsupported_media.dialog.title  "S&apos;han detectat fitxers incompatibles">
+<!ENTITY device.progress.sync "Sincronitza">
+<!ENTITY device.capacity.music.label "Música">
+<!ENTITY device.capacity.video.label "Vídeo">
+<!ENTITY device.capacity.image.label "Fotos">
+<!ENTITY device.capacity.other.label "Altres">
+<!ENTITY device.capacity.free.label "Lliure">
+<!ENTITY device.unsupported_media.dialog.title "S&apos;han detectat fitxers incompatibles">
 <!ENTITY device.unsupported_media.dialog.enable "Avisa&apos;m quan es detectin fitxers incompatibles">
-
 <!ENTITY device.sync.header.label "Sincronitza la configuració">
 <!ENTITY device.import.header.label "Importació">
 <!ENTITY device.sync.auto_sync.label "Sincronitza">
@@ -510,7 +449,6 @@
 <!ENTITY device.sync.images.selected.label "Subcarpetes seleccionades">
 <!ENTITY device.sync.images.foldername "Nom de la carpeta">
 <!ENTITY device.sync.images.filecount "Fotos">
-
 <!ENTITY device.settings.header.label "Configuració">
 <!ENTITY device.settings.general.label "General">
 <!ENTITY device.settings.auto_launch.checkbox.label "Obre el &brandShortName; quan es detecti aquest dispositiu">
@@ -520,219 +458,183 @@
 <!ENTITY device.settings.disk.label "Gestió del disc">
 <!ENTITY device.settings.disk.management.label "Personalitza l&apos;estructura dels directoris">
 <!ENTITY device.settings.disk.management.filename "Fitxers de cançons">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Configura automaticament la transcodificació">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Especifica manualment el ràtio de bits i el format">
 <!ENTITY device.settings.music.transcoding.format.label "Format de la codificació">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Ràtio de bits">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "Música">
 <!ENTITY device.management.tabs.video.label "Vídeo">
 <!ENTITY device.management.tabs.image.label "Fotos">
 <!ENTITY device.management.tabs.tools.label "Eines">
 <!ENTITY device.management.tabs.settings.label "Configuració">
-
 <!ENTITY device.tools.product_registration.title "Registrament del producte">
 <!ENTITY device.tools.product_registration.description "Voleu assegurar la prova de compra, beneficis addicionals dels membres o rebre notificacions de seguretat?">
 <!ENTITY device.tools.product_registration.label "Registra el producte">
-
 <!ENTITY device.tools.update_firmware.title "Actualitza el microprogramari">
 <!ENTITY device.tools.update_firmware.description "El vostre dispositiu es controla amb un programa intern anomenat microprogramari. Es podrien haver publicat noves versions d&apos;aquest des del darrer cop que vau connectar el dispositiu a l&apos;ordinador.">
 <!ENTITY device.tools.update_firmware.label "Comprova les actualitzacions del microprogramari">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versió actual del microprogramari:">
-
 <!ENTITY device.tools.restore_device.title "Restaura el dispositiu">
 <!ENTITY device.tools.restore_device.description "Si restaureu el dispositiu als paràmetres de fàbrica s&apos;eliminaran tots els fitxers i es tornarà als paràmetres i microprogramari per defecte.">
 <!ENTITY device.tools.restore_device.label "Restaura el dispositiu als paràmetres de fàbrica">
-
 <!ENTITY device.tools.format_device.title "Formatació del dispositiu">
 <!ENTITY device.tools.format_device.description "Formatar el dispositiu provocarà que se n&apos;esborri tota la música i les dades.">
 <!ENTITY device.tools.format_device.label "Formata el dispositiu">
 <!ENTITY device.tools.format_volume.button.label "Formata">
-
 <!ENTITY device.tools.support.title "Compatibilitat">
 <!ENTITY device.tools.support.description "Vegeu les darreres notícies, manuals d&apos;ajuda, documentació, preguntes més freqüents, i informació del producte. Els serveis d&apos;ajuda són disponibles per a aquells qui han registrat el seu producte.">
 <!ENTITY device.tools.support.label "Mostra els recursos de compatibilitat">
-
 <!ENTITY device.tools.reset_warnings.title "Reinicia els avisos">
 <!ENTITY device.tools.reset_warnings.description "Reiniciar el diàlegs d&apos;avís provocarà que us puguin tornar a demanar confirmació per a complir certes tasques.">
 <!ENTITY device.tools.reset_warnings.label "Reinicia els missatges d&apos;avís">
-
 <!ENTITY device.dialog.setup.title "Configuració del dispositiu">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Escolliu qui suport d&apos;emmagatzematge voleu que gestioni el &brandShortName;:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignora aquest dispositiu">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Seleccioneu-ho només si no voleu que el &brandShortName; gestioni aquest dispositiu">
-
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Si no voleu que el &brandShortName; administri aquest dispositiu, podeu">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignora aquest dispositiu">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Obre l&apos;enllaç al navegador per defecte">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Obre la pàgina al navegador per defecte">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Obre el marc al navegador per defecte">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Obre la imatge al navegador per defecte">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Copia el text seleccionat">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "Reprodueix">
-<!ENTITY playMediaCmd.accesskey                         "r">
-<!ENTITY downloadMediaCmd.label                         "Baixa a la biblioteca">
-<!ENTITY downloadMediaCmd.accesskey                     "B">
-<!ENTITY addMediaToPlaylistCmd.label                    "Baixa-ho a la llista de reproducció">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Cap llista de reproducció&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Nova llista de reproducció">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Subscriviu-vos a aquesta pàgina…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Subscriviu-vos a aquest marc…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Ajudeu a millorar el &brandShortName;!">
-<!ENTITY feedback.dialog.yes        "Sí">
-<!ENTITY feedback.dialog.no         "No">
-<!ENTITY feedback.dialog.sentence1  "Voleu ajudar a millorar el &brandShortName; omplint una enquesta ràpida i anònima? ">
-<!ENTITY feedback.dialog.sentence2  "Si no hi esteu interessat, no us ho preguntarem més. Gràcies per la vostra atenció i per utilitzar el &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "Salutacions cordials,">
-<!ENTITY feedback.dialog.sentence4  "L&apos;equip del &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "Obre l&apos;enllaç al navegador per defecte">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "Obre la pàgina al navegador per defecte">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Obre el marc al navegador per defecte">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "Obre la imatge al navegador per defecte">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "Copia el text seleccionat">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "Reprodueix">
+<!ENTITY playMediaCmd.accesskey "r">
+<!ENTITY downloadMediaCmd.label "Baixa a la biblioteca">
+<!ENTITY downloadMediaCmd.accesskey "B">
+<!ENTITY addMediaToPlaylistCmd.label "Baixa-ho a la llista de reproducció">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Cap llista de reproducció&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nova llista de reproducció">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Subscriviu-vos a aquesta pàgina…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "Subscriviu-vos a aquest marc…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Ajudeu a millorar el &brandShortName;!">
+<!ENTITY feedback.dialog.yes "Sí">
+<!ENTITY feedback.dialog.no "No">
+<!ENTITY feedback.dialog.sentence1 "Voleu ajudar a millorar el &brandShortName; omplint una enquesta ràpida i anònima? ">
+<!ENTITY feedback.dialog.sentence2 "Si no hi esteu interessat, no us ho preguntarem més. Gràcies per la vostra atenció i per utilitzar el &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "Salutacions cordials,">
+<!ENTITY feedback.dialog.sentence4 "L&apos;equip del &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Benvingut a &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "Benvingut a &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "Instal·lació del &brandShortName;">
-
+<!ENTITY first_run.title "Instal·lació del &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Complements recomanats">
+<!ENTITY first_run.add_ons.header.label "Complements recomanats">
 <!ENTITY first_run.add_ons.description.line1 "Els complements afegeixen funcionalitats al &brandShortName; permetent personalitzar l&apos;experiència amb el reproductor. Les opcions de sota són molt recomanables.">
 <!ENTITY first_run.add_ons.description.line2 "Els complements es poden integrar amb altres aplicacions i serveis, permeten connectar-se a dispositius externs, canvien l&apos;aspecte i molt més! Us en podeu baixar més al lloc web de complements del &brandShortName;.">
-<!ENTITY first_run.add_ons.loading.label     "S&apos;estan recuperant els complements recomanats.">
+<!ENTITY first_run.add_ons.loading.label "S&apos;estan recuperant els complements recomanats.">
 <!ENTITY first_run.add_ons.load_failed.label "No es poden recuperar els complements recomanats.">
-
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "L&apos;actualització està preparada per a ser instal·lada.">
 <!ENTITY first_run.app_update.finished.text "L&apos;actualització s&apos;instal·larà quan reinicieu el &brandShortName;.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "El &brandShortName; no es pot connectar a Internet">
-<!ENTITY first_run.connection.description          "Comproveu els Paràmetres de la connexió o continueu amb l&apos;assistent de configuració.">
-<!ENTITY first_run.connection.settings.button      "Paràmetres de la connexió…">
+<!ENTITY first_run.connection.header.label "El &brandShortName; no es pot connectar a Internet">
+<!ENTITY first_run.connection.description "Comproveu els Paràmetres de la connexió o continueu amb l&apos;assistent de configuració.">
+<!ENTITY first_run.connection.settings.button "Paràmetres de la connexió…">
 <!ENTITY first_run.connection.settings.description "Teniu l&apos;ordinador o la connexió protegits per un tallafocs o un proxi? Revisar els Paràmetres de la connexió incorrectes pot resoldre els problemes més comuns.">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "Acord de llicència">
+<!ENTITY first_run.eula.header.label "Acord de llicència">
 <!ENTITY first_run.eula.accept_checkbox.label "He llegit les condicions de la llicència i les accepto.">
-<!ENTITY first_run.eula.language.label        "Idioma:">
-
+<!ENTITY first_run.eula.language.label "Idioma:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Ajudeu a millorar el &brandShortName;">
-<!ENTITY first_run.feedback.description             "Voleu ajudar-nos a millorar el &brandShortName; enviant-nos estadístiques d&apos;ús i responent una enquesta sobre com l&apos;utilitzeu?">
-<!ENTITY first_run.feedback.metrics.label           "S&apos;estan recollint i enviant estadístiques d&apos;ús a l&apos;equip del &brandShortName;.">
-<!ENTITY first_run.feedback.metrics.description     "Les estadístiques d&apos;ús són completament anònimes i no es recull informació personal.">
-<!ENTITY first_run.feedback.email.header.label      "Mantingueu-me informat">
-<!ENTITY first_run.feedback.email.description       "Subscriviu-vos al nostre butlletí per estar informats de nous llançaments i actualitzacions importants.">
+<!ENTITY first_run.feedback.header.label "Ajudeu a millorar el &brandShortName;">
+<!ENTITY first_run.feedback.description "Voleu ajudar-nos a millorar el &brandShortName; enviant-nos estadístiques d&apos;ús i responent una enquesta sobre com l&apos;utilitzeu?">
+<!ENTITY first_run.feedback.metrics.label "S&apos;estan recollint i enviant estadístiques d&apos;ús a l&apos;equip del &brandShortName;.">
+<!ENTITY first_run.feedback.metrics.description "Les estadístiques d&apos;ús són completament anònimes i no es recull informació personal.">
+<!ENTITY first_run.feedback.email.header.label "Mantingueu-me informat">
+<!ENTITY first_run.feedback.email.description "Subscriviu-vos al nostre butlletí per estar informats de nous llançaments i actualitzacions importants.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "Introduïu la vostra adreça de correu electrònic per estar informat">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "Importació/exportació de l&apos;iTunes">
-<!ENTITY first_run.itunes.description                   "Sembla que teniu l&apos;iTunes instaŀlat. Podeu configurar el &brandShortName; per a importar i/o exportar les peces entre el &brandShortName; i l&apos;iTunes de manera que les llibreries quedin sincronitzades.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Importa peces i llistes de reproducció de l&apos;iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Els podcasts i la música adquirida a l&apos;iTunes Store es pot importar al &brandShortName;. Aquesta funció va bé si feu, el &brandShortName;, el vostre reproductor per defecte.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Exporta les noves peces i llistes de reproducció a l&apos;iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "La música adquirida a través del &brandShortName; es pot importar a l&apos;iTunes i, per tant, es pot transferir a l&apos;iPod o l&apos;iPhone.">
-
+<!ENTITY first_run.itunes.header.label "Importació/exportació de l&apos;iTunes">
+<!ENTITY first_run.itunes.description "Sembla que teniu l&apos;iTunes instaŀlat. Podeu configurar el &brandShortName; per a importar i/o exportar les peces entre el &brandShortName; i l&apos;iTunes de manera que les llibreries quedin sincronitzades.">
+<!ENTITY first_run.itunes.checkbox.import.label "Importa peces i llistes de reproducció de l&apos;iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "Els podcasts i la música adquirida a l&apos;iTunes Store es pot importar al &brandShortName;. Aquesta funció va bé si feu, el &brandShortName;, el vostre reproductor per defecte.">
+<!ENTITY first_run.itunes.checkbox.export.label "Exporta les noves peces i llistes de reproducció a l&apos;iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "La música adquirida a través del &brandShortName; es pot importar a l&apos;iTunes i, per tant, es pot transferir a l&apos;iPod o l&apos;iPhone.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Importació de fitxers multimèdia">
-<!ENTITY first_run.import_media.description                  "Seleccioneu els fitxers multimèdia que voleu importar al &brandShortName;. Un cop s&apos;obri, en podeu afegir més de diverses maneres.">
+<!ENTITY first_run.import_media.header.label "Importació de fitxers multimèdia">
+<!ENTITY first_run.import_media.description "Seleccioneu els fitxers multimèdia que voleu importar al &brandShortName;. Un cop s&apos;obri, en podeu afegir més de diverses maneres.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Escaneja directoris de l&apos;ordinador">
-<!ENTITY first_run.import_media.radio.dont_import.label      "No importis res">
+<!ENTITY first_run.import_media.radio.dont_import.label "No importis res">
 <!ENTITY first_run.import_media.scan_directories.description "Voleu que el &brandShortName; provi d&apos;importar fitxers escanejant determinats directoris?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Vigila els canvis d&apos;aquesta carpeta">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "S&apos;està descarregant complements">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Benvingut al &brandShortName;">
+<!ENTITY first_run.welcome.header.label "Benvingut al &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "El &brandShortName; és una alternativa altament personalitzable als tradicionals reproductors multimèdia">
 <!ENTITY first_run.welcome.description.line2 "Aquest assistent és una manera ràpida i eficient de començar a utilitzar-lo.">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Importador de fitxers multimèdia">
-
+<!ENTITY import_media.prefs.title "Importador de fitxers multimèdia">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Importa una biblioteca">
-<!ENTITY import_library.prefs.title                       "Importa/exporta de l&apos;iTunes">
-<!ENTITY import_library.library_file_label                "Fitxer de la biblioteca:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Avisa&apos;m quan no s&apos;importin peces o llistes de reproducció no admeses">
-<!ENTITY import_library.prefs.path_group_caption          "Ruta de la biblioteca de l&apos;iTunes">
-<!ENTITY import_library.prefs.options_group_caption       "Opcions d&apos;importació/exportació">
-<!ENTITY import_library.import_command                    "Importa la biblioteca">
-<!ENTITY import_tracks_itunes_checkbox                    "Importa les peces de l&apos;iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Importa les llistes de reproducció">
-<!ENTITY export_tracks_itunes_checkbox                    "Exporta les peces a l&apos;iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Exporta les llistes de reproducció">
-<!ENTITY export_subscriptions_itunes_checkbox             "Exporta les subscripcions">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Exporta les llistes de reproducció inteŀligents">
-<!ENTITY importexport_show_notifications_checkbox         "Mostra una notificació quan s&apos;hagi completat la importació/exportació">
-
+<!ENTITY import_library.dialog.title "Importa una biblioteca">
+<!ENTITY import_library.prefs.title "Importa/exporta de l&apos;iTunes">
+<!ENTITY import_library.library_file_label "Fitxer de la biblioteca:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Avisa&apos;m quan no s&apos;importin peces o llistes de reproducció no admeses">
+<!ENTITY import_library.prefs.path_group_caption "Ruta de la biblioteca de l&apos;iTunes">
+<!ENTITY import_library.prefs.options_group_caption "Opcions d&apos;importació/exportació">
+<!ENTITY import_library.import_command "Importa la biblioteca">
+<!ENTITY import_tracks_itunes_checkbox "Importa les peces de l&apos;iTunes">
+<!ENTITY import_playlists_itunes_checkbox "Importa les llistes de reproducció">
+<!ENTITY export_tracks_itunes_checkbox "Exporta les peces a l&apos;iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Exporta les llistes de reproducció">
+<!ENTITY export_subscriptions_itunes_checkbox "Exporta les subscripcions">
+<!ENTITY export_smartplaylists_itunes_checkbox "Exporta les llistes de reproducció inteŀligents">
+<!ENTITY importexport_show_notifications_checkbox "Mostra una notificació quan s&apos;hagi completat la importació/exportació">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Llista de reproducció canviada">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Conserva la llista de reproducció actual del &brandShortName; (no l&apos;importis)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Fusiona la llista de reproducció actual del &brandShortName; i la de l&apos;iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Reemplaça aquesta llista de reproducció del &brandShortName; per l&apos;actual de l&apos;iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Nota: No es pot desfer el Fusiona i reemplaça.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Aplica la selecció a totes les llistes de reproducció">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "Llista de reproducció canviada">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Conserva la llista de reproducció actual del &brandShortName; (no l&apos;importis)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Fusiona la llista de reproducció actual del &brandShortName; i la de l&apos;iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Reemplaça aquesta llista de reproducció del &brandShortName; per l&apos;actual de l&apos;iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note "Nota: No es pot desfer el Fusiona i reemplaça.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "Aplica la selecció a totes les llistes de reproducció">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "No activeu Vigila carpetes a la mateixa carpeta que està sent gestionada. Fent això es crearan duplicats a la vostra llibreria.">
-
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Vigila carpetes">
+<!ENTITY watch_folder.prefs.title "Vigila carpetes">
 <!ENTITY watch_folder.prefs.settings_group_caption "Paràmetres de la vigilància de la carpeta">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; pot vigilar el contingut d&apos;una carpeta i afegir o eliminar automàticament els elements que s&apos;hi trobin.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Vigila automàticament els canvis de la següent carpeta">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Carpeta:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; pot vigilar el contingut d&apos;una carpeta i afegir o eliminar automàticament els elements que s&apos;hi trobin.">
+<!ENTITY watch_folder.prefs.enable_checkbox "Vigila automàticament els canvis de la següent carpeta">
+<!ENTITY watch_folder.prefs.watch_folder_label "Carpeta:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Extensions recomanades">
+<!ENTITY enable_recommended_addons_update.label "Extensions recomanades">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "Configuració del &brandShortName;">
-
+<!ENTITY recommended_add_ons.title "Configuració del &brandShortName;">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Detalls">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Detalls">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "No s&apos;està reproduint res" >
-<!ENTITY albumart.displaypane.not_selected_message  "No hi ha res seleccionat" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Arrossegueu la coberta aquí" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Mostra el que està seleccionat" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Mostra el que s&apos;està reproduïnt" >
+<!ENTITY albumart.displaypane.not_playing_message "No s&apos;està reproduint res">
+<!ENTITY albumart.displaypane.not_selected_message "No hi ha res seleccionat">
+<!ENTITY albumart.displaypane.drag_and_drop "Arrossegueu la coberta aquí">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Mostra el que està seleccionat">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Mostra el que s&apos;està reproduïnt">
 <!ENTITY albumart.displaypane.selected.menu.cut "Retalla">
 <!ENTITY albumart.displaypane.selected.menu.copy "Copia">
 <!ENTITY albumart.displaypane.selected.menu.paste "Enganxa">
 <!ENTITY albumart.displaypane.selected.menu.clear "Buit">
 <!ENTITY albumart.coverpreview.title "Coberta de l&apos;àlbum">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Coberta de l&apos;àlbum">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Desa les portades dels l&apos;àlbums a les metadades dels fitxers">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Això permetrà que el &brandShortName; incrusti la coberta als fitxers amb etiquetes compatibles.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Cerca per nom del fitxer:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "Introduïu aquí la llista de fitxers separats per comes">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cerca per l&apos;extensió del fitxer:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Introduïu aquí la llista d&apos;extensions separades per comes">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "Prioritats del cercador">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordeneu la llista de cercadors posant a dalt el que voleu fer servir primer.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Amunt">
@@ -740,62 +642,49 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Reinicia">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Cerca automàtica de les cobertes dels àlbums">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Cerca automàticament les cobertes dels àlbums quan es reprodueix o se selecciona una peça, depenent del mode de la subfinestra de la coberta. Activar aquesta característica pot afectar al rendiment.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Vés enrere">
-<!ENTITY wizard.button.back.accesskey  "E">
-<!ENTITY wizard.button.cancel.label    "Canceŀla">
-<!ENTITY wizard.button.next.label      "Continua">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "Finalitza">
-
+<!ENTITY wizard.button.back.label "Vés enrere">
+<!ENTITY wizard.button.back.accesskey "E">
+<!ENTITY wizard.button.cancel.label "Canceŀla">
+<!ENTITY wizard.button.next.label "Continua">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Finalitza">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "S&apos;ha produït un error en el nucli multimèdia">
-<!ENTITY mediacore.error.preface  "El &brandShortName; ha trobat un error en la reproducció.">
+<!ENTITY mediacore.error.title "S&apos;ha produït un error en el nucli multimèdia">
+<!ENTITY mediacore.error.preface "El &brandShortName; ha trobat un error en la reproducció.">
 <!ENTITY mediacore.error.continue "Continua">
-<!ENTITY mediacore.error.stop     "Atura la reproducció">
+<!ENTITY mediacore.error.stop "Atura la reproducció">
 <!ENTITY mediacore.error.dontshowme "No mostris més errors del nucli multimèdia">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Per a més informació sobre els còdecs que falten, vegeu">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
-
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Avís d&apos;importació de suports">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Per a més informació sobre els còdecs que falten, vegeu:">
 <!ENTITY mediaimporter.filtered_extensions.dontshowme "No em tornis a notificar si hi ha fitxers de vídeo incompatibles durant la importació">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Reproducció">
-
-<!ENTITY playback.prefpane.audio_output.label   "Sortida d&apos;àudio">
-<!ENTITY playback.prefpane.audio_output.buffer  "Sortida de la memòria intermèdia:">
-
-<!ENTITY playback.prefpane.streaming.label      "Xarxa i flux">
-<!ENTITY playback.prefpane.streaming.buffer     "Flux de la memòria intermèdia:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalització">
+<!ENTITY playback.prefpane.label "Reproducció">
+<!ENTITY playback.prefpane.audio_output.label "Sortida d&apos;àudio">
+<!ENTITY playback.prefpane.audio_output.buffer "Sortida de la memòria intermèdia:">
+<!ENTITY playback.prefpane.streaming.label "Xarxa i flux">
+<!ENTITY playback.prefpane.streaming.buffer "Flux de la memòria intermèdia:">
+<!ENTITY playback.prefpane.normalization.label "Normalització">
 <!ENTITY playback.prefpane.normalization.enable "Utilitza la normalització d&apos;àudio si es troba disponible">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Dades de guany preferides:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Àlbum">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Peça">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY playback.prefpane.ratings.label "Metadades de valoració">
 <!ENTITY playback.prefpane.ratings.enablewriting "Emmagatzema les valoracions als fitxers de metadades de cada fitxer.">
-
 <!ENTITY fetch_album_art.dialog.title "Cerca de cobertes">
 <!ENTITY fetch_album_art.dialog.message "Encara no està implementat. (Vegeu l&apos;error 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Artista">
-<!ENTITY cdrip.lookup.info_not_found.album  "Àlbum">
-<!ENTITY cdrip.lookup.info_not_found.title  "No s&apos;ha pogut trobar la informació del CD">
-<!ENTITY cdrip.lookup.info_not_found.descr  "Podeu afegir el nom de l&apos;artista i de l&apos;àlbum aquí. Podeu editar la informació restant a la llista de reproducció de la gravació de CD.">
+<!ENTITY cdrip.lookup.info_not_found.album "Àlbum">
+<!ENTITY cdrip.lookup.info_not_found.title "No s&apos;ha pogut trobar la informació del CD">
+<!ENTITY cdrip.lookup.info_not_found.descr "Podeu afegir el nom de l&apos;artista i de l&apos;àlbum aquí. Podeu editar la informació restant a la llista de reproducció de la gravació de CD.">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Títol">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Gravació de CD">
 <!ENTITY cdrip.prefpane.format "Formata">
@@ -805,33 +694,28 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Reprodueix un so d&apos;alerta quan s&apos;acabi la gravació">
 <!ENTITY cdrip.prefpane.providers.title "Cerca proveïdors de CD">
 <!ENTITY cdrip.prefpane.quality_desc "Una alta qualitat de kbps comporta una bona qualitat d&apos;àudio i una mida de fitxer gran.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "Opcions de la gravació de CD">
-<!ENTITY cdrip.mediaview.format_label              "Format:">
-<!ENTITY cdrip.mediaview.quality_label             "Qualitat:">
-<!ENTITY cdrip.mediaview.settings_button           "Configuració">
-<!ENTITY cdrip.mediaview.rip_cd_button             "Grava el CD">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Atura la gravació">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Mostra les peces">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Expulsa el CD">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "Opcions de la gravació de CD">
+<!ENTITY cdrip.mediaview.format_label "Format:">
+<!ENTITY cdrip.mediaview.quality_label "Qualitat:">
+<!ENTITY cdrip.mediaview.settings_button "Configuració">
+<!ENTITY cdrip.mediaview.rip_cd_button "Grava el CD">
+<!ENTITY cdrip.mediaview.stop_rip_button "Atura la gravació">
+<!ENTITY cdrip.mediaview.view_tracks_button "Mostra les peces">
+<!ENTITY cdrip.mediaview.eject_cd_button "Expulsa el CD">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   " C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              " X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key " C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key " X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Finestra de vídeo">
 <!ENTITY videowindow.actualsize "Mida actual">
 <!ENTITY videowindow.fullscreen "Pantalla completa">
-
-<!ENTITY videowindow.fullscreen.key   "P">
+<!ENTITY videowindow.fullscreen.key "P">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Voldríem donar les gràcies al nostre equip de col·laboració, l&apos;esforç dels quals fa el Songbird el que és. Aquesta gent ha ajudat escrivint codi, documentació i provant les novetats. Han creat i mantingut aquest producte, l&apos;equipament de desenvolupament, les nostres eines i els llocs web. Els noms estan seguits pels àlies IRC, aneu a #songbird de l&apos;irc.mozilla.org i saludeu-los!">
 <!ENTITY about.credits.footer.beforeLink "Per descomptat, res d&apos;això hagués estat possible sense la dura feina i l&apos;esforç dels">
@@ -842,15 +726,12 @@
 <!ENTITY about.credits.description.champs.link.pre "Els campions del Songbird són els usuaris i fans acèrrims que han anat més enllà del deure d&apos;ajudar els altres usuaris del Songbird">
 <!ENTITY about.credits.description.champs.link.text "Fòrum d&apos;ajuda GetSatisfactiion del Songbird">
 <!ENTITY about.credits.description.champs.link.post "Són els membres més prolífics del nostre fòrum i treballen incansablement per assegurar que tots i cada un dels usuaris són usuaris feliços del Songbird.">
-
-<!ENTITY cdrip.lookup.multiple.title       "S&apos;ha trobat múltiples gravacions per al CD">
+<!ENTITY cdrip.lookup.multiple.title "S&apos;ha trobat múltiples gravacions per al CD">
 <!ENTITY cdrip.lookup.multiple.description "Trieu una de les següents o afegiu la vostra informació.">
-<!ENTITY cdinfo.other.label                "Afegiu la vostra informació sobre l&apos;artista i l&apos;àlbum">
-
+<!ENTITY cdinfo.other.label "Afegiu la vostra informació sobre l&apos;artista i l&apos;àlbum">
 <!ENTITY playqueue.label "Cua de reproducció">
 <!ENTITY playqueue.instructions "Arrossegueu i deixeu anar peces o llistes de reproducció aquí per a crear una cua de reproducció">
 <!ENTITY playqueue.inprogress "S&apos;estan afegint peces">
-
 <!ENTITY mediamanagement.removed.dialog.title "S&apos;ha eliminat la Gestió de suports">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "El gestor de suports es va eliminar del &brandShortName; a la versió 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "Aquest canvi forma part d&apos;un esforç per fer el nostre producte més simple i donar una experiència d&apos;ús més fàcil als usuaris." >
+<!ENTITY mediamanagement.removed.dialog.text.line1 "El gestor de suports es va eliminar del &brandShortName; a la versió 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Aquest canvi forma part d&apos;un esforç per fer el nostre producte més simple i donar una experiència d&apos;ús més fàcil als usuaris.">

@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "&brandShortName; laster-teklak" >
-<!ENTITY help.keyboard.subtitle           "Laster-teklak" >
-<!ENTITY help.keyboard.description        "Laster-teklen laguntzarekin &brandShortName;en erabilera errazagoa izan daiteke. Ondoren, baliagarriak diren aginduen zerrenda bat dago bakoitzari dagokion laster-teklarekin.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Komando" >
-<!ENTITY help.keyboard.heading.shortcut   "Larter-tekla" >
-<!ENTITY help.keyboard.section.playback   "Erreprodukzio kontrolak" >
-<!ENTITY help.keyboard.section.library    "Liburutegia eta errreproduzio-zerrendak" >
-<!ENTITY help.keyboard.section.editing    "Editatu" >
-<!ENTITY help.keyboard.section.navigation "Nabigazioa" >
-<!ENTITY help.keyboard.section.browser    "Nabigatzailea" >
-<!ENTITY help.keyboard.section.windows    "Leiho eta fitxak" >
-<!ENTITY help.keyboard.section.search     "Bilatu" >
-<!ENTITY help.keyboard.section.video      "Bideoa" >
-<!ENTITY help.keyboard.section.cdrip      "CD erauzketa" >
-<!ENTITY help.keyboard.section.misc       "Denetarik" >
-
-<!ENTITY help.keyboard.key.left           "Gezia ezkerrera" >
-<!ENTITY help.keyboard.key.right          "Gezia eskuinera" >
-<!ENTITY help.keyboard.key.up             "Gezia gora" >
-<!ENTITY help.keyboard.key.down           "Gezia behera" >
-<!ENTITY help.keyboard.key.pgup           "Orria gora" >
-<!ENTITY help.keyboard.key.pgdn           "Orria behera" >
-<!ENTITY help.keyboard.key.home           "Hasierako orria" >
-<!ENTITY help.keyboard.key.end            "Buka" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Ihes" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Klik" >
-<!ENTITY help.keyboard.mouse.click.middle "Erdiko klika" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ktrl" >
-<!ENTITY help.keyboard.key.cmd            "Kmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Maius" >
-<!ENTITY help.keyboard.key.delete         "Ezabatu" >
-
+<!ENTITY help.keyboard.title "&brandShortName; laster-teklak">
+<!ENTITY help.keyboard.subtitle "Laster-teklak">
+<!ENTITY help.keyboard.description "Laster-teklen laguntzarekin &brandShortName;en erabilera errazagoa izan daiteke. Ondoren, baliagarriak diren aginduen zerrenda bat dago bakoitzari dagokion laster-teklarekin.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Komando">
+<!ENTITY help.keyboard.heading.shortcut "Larter-tekla">
+<!ENTITY help.keyboard.section.playback "Erreprodukzio kontrolak">
+<!ENTITY help.keyboard.section.library "Liburutegia eta errreproduzio-zerrendak">
+<!ENTITY help.keyboard.section.editing "Editatu">
+<!ENTITY help.keyboard.section.navigation "Nabigazioa">
+<!ENTITY help.keyboard.section.browser "Nabigatzailea">
+<!ENTITY help.keyboard.section.windows "Leiho eta fitxak">
+<!ENTITY help.keyboard.section.search "Bilatu">
+<!ENTITY help.keyboard.section.video "Bideoa">
+<!ENTITY help.keyboard.section.cdrip "CD erauzketa">
+<!ENTITY help.keyboard.section.misc "Denetarik">
+<!ENTITY help.keyboard.key.left "Gezia ezkerrera">
+<!ENTITY help.keyboard.key.right "Gezia eskuinera">
+<!ENTITY help.keyboard.key.up "Gezia gora">
+<!ENTITY help.keyboard.key.down "Gezia behera">
+<!ENTITY help.keyboard.key.pgup "Orria gora">
+<!ENTITY help.keyboard.key.pgdn "Orria behera">
+<!ENTITY help.keyboard.key.home "Hasierako orria">
+<!ENTITY help.keyboard.key.end "Buka">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Ihes">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Klik">
+<!ENTITY help.keyboard.mouse.click.middle "Erdiko klika">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ktrl">
+<!ENTITY help.keyboard.key.cmd "Kmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Maius">
+<!ENTITY help.keyboard.key.delete "Ezabatu">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Erreproduzitu/Eten aukeratutako multimedia elementua" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Zerrendako aurreko multimedia elementua erreproduzitu" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Zerrendako hurrengo multimedia elementua erreproduzitu" >
-<!ENTITY help.keyboard.name.volume.down         "Bolumena jaitsi" >
-<!ENTITY help.keyboard.name.volume.up           "Bolumena igo" >
-<!ENTITY help.keyboard.name.volume.mute         "Bolumena guztiz jaitsi" >
-<!ENTITY help.keyboard.name.volume.max          "Bolumen maximoa" >
-<!ENTITY help.keyboard.name.jumpto              "Leihora joan" >
-<!ENTITY help.keyboard.name.equalizer           "Ekualizadorea ireki" >
-<!ENTITY help.keyboard.name.new.playlist        "Erreprodukzio-zerrenda berria" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Erreprodukzio-zerrenda jakitun berria" >
-<!ENTITY help.keyboard.name.import              "Multimedia inportatu" >
-<!ENTITY help.keyboard.name.currenttrack        "Erreproduzitzen ari den multimedia aurkitu" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Multimedia ikusteko modua aldatu" >
-<!ENTITY help.keyboard.name.feather.switch      "Lumaren diseinua aldatu" >
-<!ENTITY help.keyboard.name.trackeditor         "Metadatu editorea" >
-<!ENTITY help.keyboard.name.edit.undo           "Desegin" >
-<!ENTITY help.keyboard.name.edit.redo           "Berregin" >
-<!ENTITY help.keyboard.name.edit.selectall      "Aukeratu guztia" >
-<!ENTITY help.keyboard.name.edit.cut            "Ebaki" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopiatu" >
-<!ENTITY help.keyboard.name.edit.paste          "Itsatsi" >
-<!ENTITY help.keyboard.name.edit.delete         "Ezabatu" >
-<!ENTITY help.keyboard.name.browser.back        "Atzera" >
-<!ENTITY help.keyboard.name.browser.forward     "Aurrera" >
-<!ENTITY help.keyboard.name.browser.reload      "Berritu" >
-<!ENTITY help.keyboard.name.browser.stop        "Gelditu kargatzea" >
-<!ENTITY help.keyboard.name.open.file           "Ireki fitxategia" >
-<!ENTITY help.keyboard.name.open.url            "Ireki URL helbidea" >
-<!ENTITY help.keyboard.name.tab.open.link       "Ireki lotura fitxa berri batean" >
-<!ENTITY help.keyboard.name.save.link           "Gorde lotura" >
-<!ENTITY help.keyboard.name.file.print          "Inprimatu" >
-<!ENTITY help.keyboard.name.view.source         "Iturburua ikusi" >
-<!ENTITY help.keyboard.name.view.zoomin         "Gerturatu" >
-<!ENTITY help.keyboard.name.view.zoomout        "Urrundu" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Berrezarri" >
-<!ENTITY help.keyboard.name.subscribe           "Harpidetu" >
-<!ENTITY help.keyboard.name.locationbar         "Helbide-barra aukeratu" >
-<!ENTITY help.keyboard.name.tab.new             "Fitxa berria" >
-<!ENTITY help.keyboard.name.tab.close           "Fitxa itxi" >
-<!ENTITY help.keyboard.name.tab.next            "Hurrengo fitxa" >
-<!ENTITY help.keyboard.name.tab.previous        "Aurreko fitxa" >
-<!ENTITY help.keyboard.name.tab.1               "1 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.2               "2 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.3               "3 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.4               "4 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.5               "5 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.6               "6 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.7               "7 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.8               "8 fitxara aldatu" >
-<!ENTITY help.keyboard.name.tab.9               "9 fitxara aldatu" >
-<!ENTITY help.keyboard.name.page.top            "Orriaren goikaldera mugitu" >
-<!ENTITY help.keyboard.name.page.bottom         "Orriaren behekaldera mugitu" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Pantaila osoan" >
-<!ENTITY help.keyboard.name.mac.minimize        "Dock-era minimizatu" >
-<!ENTITY help.keyboard.name.mac.hide            "Leihoa ezkutatu" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Beste aplikazioak ezkutatu" >
-<!ENTITY help.keyboard.name.downloads           "Deskargak" >
-<!ENTITY help.keyboard.name.find                "Bilatu" >
-<!ENTITY help.keyboard.name.find.again          "Berriz bilatu" >
-<!ENTITY help.keyboard.name.find.text           "Testua idazten duzun heinean bilatu" >
-<!ENTITY help.keyboard.name.find.link           "Lotura idazten duzun heinean bilatu" >
-<!ENTITY help.keyboard.name.search.focus        "Bilaketa kutxa aukeratu" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Pantaila osoan" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Bideoak aurrean" >
-<!ENTITY help.keyboard.name.video.escape        "Pantaila osotik irten" >
-<!ENTITY help.keyboard.name.cdrip.start         "Erauzi CD-a" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Utzi CD-a grabatzeari" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Kanporatu CD-a" >
-<!ENTITY help.keyboard.name.quit                "Irten" >
-<!ENTITY help.keyboard.name.preferences         "Hobespenak" >
-<!ENTITY help.keyboard.name.help                "Laguntzaren edukiak" >
-<!ENTITY help.keyboard.name.sanitize            "Datu pribatuak garbitu" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Erreproduzitu/Eten aukeratutako multimedia elementua">
+<!ENTITY help.keyboard.name.playcontrol.prev "Zerrendako aurreko multimedia elementua erreproduzitu">
+<!ENTITY help.keyboard.name.playcontrol.next "Zerrendako hurrengo multimedia elementua erreproduzitu">
+<!ENTITY help.keyboard.name.volume.down "Bolumena jaitsi">
+<!ENTITY help.keyboard.name.volume.up "Bolumena igo">
+<!ENTITY help.keyboard.name.volume.mute "Bolumena guztiz jaitsi">
+<!ENTITY help.keyboard.name.volume.max "Bolumen maximoa">
+<!ENTITY help.keyboard.name.jumpto "Leihora joan">
+<!ENTITY help.keyboard.name.equalizer "Ekualizadorea ireki">
+<!ENTITY help.keyboard.name.new.playlist "Erreprodukzio-zerrenda berria">
+<!ENTITY help.keyboard.name.new.smartplaylist "Erreprodukzio-zerrenda jakitun berria">
+<!ENTITY help.keyboard.name.import "Multimedia inportatu">
+<!ENTITY help.keyboard.name.currenttrack "Erreproduzitzen ari den multimedia aurkitu">
+<!ENTITY help.keyboard.name.mediapage.switch "Multimedia ikusteko modua aldatu">
+<!ENTITY help.keyboard.name.feather.switch "Lumaren diseinua aldatu">
+<!ENTITY help.keyboard.name.trackeditor "Metadatu editorea">
+<!ENTITY help.keyboard.name.edit.undo "Desegin">
+<!ENTITY help.keyboard.name.edit.redo "Berregin">
+<!ENTITY help.keyboard.name.edit.selectall "Aukeratu guztia">
+<!ENTITY help.keyboard.name.edit.cut "Ebaki">
+<!ENTITY help.keyboard.name.edit.copy "Kopiatu">
+<!ENTITY help.keyboard.name.edit.paste "Itsatsi">
+<!ENTITY help.keyboard.name.edit.delete "Ezabatu">
+<!ENTITY help.keyboard.name.browser.back "Atzera">
+<!ENTITY help.keyboard.name.browser.forward "Aurrera">
+<!ENTITY help.keyboard.name.browser.reload "Berritu">
+<!ENTITY help.keyboard.name.browser.stop "Gelditu kargatzea">
+<!ENTITY help.keyboard.name.open.file "Ireki fitxategia">
+<!ENTITY help.keyboard.name.open.url "Ireki URL helbidea">
+<!ENTITY help.keyboard.name.tab.open.link "Ireki lotura fitxa berri batean">
+<!ENTITY help.keyboard.name.save.link "Gorde lotura">
+<!ENTITY help.keyboard.name.file.print "Inprimatu">
+<!ENTITY help.keyboard.name.view.source "Iturburua ikusi">
+<!ENTITY help.keyboard.name.view.zoomin "Gerturatu">
+<!ENTITY help.keyboard.name.view.zoomout "Urrundu">
+<!ENTITY help.keyboard.name.view.zoomreset "Berrezarri">
+<!ENTITY help.keyboard.name.subscribe "Harpidetu">
+<!ENTITY help.keyboard.name.locationbar "Helbide-barra aukeratu">
+<!ENTITY help.keyboard.name.tab.new "Fitxa berria">
+<!ENTITY help.keyboard.name.tab.close "Fitxa itxi">
+<!ENTITY help.keyboard.name.tab.next "Hurrengo fitxa">
+<!ENTITY help.keyboard.name.tab.previous "Aurreko fitxa">
+<!ENTITY help.keyboard.name.tab.1 "1 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.2 "2 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.3 "3 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.4 "4 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.5 "5 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.6 "6 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.7 "7 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.8 "8 fitxara aldatu">
+<!ENTITY help.keyboard.name.tab.9 "9 fitxara aldatu">
+<!ENTITY help.keyboard.name.page.top "Orriaren goikaldera mugitu">
+<!ENTITY help.keyboard.name.page.bottom "Orriaren behekaldera mugitu">
+<!ENTITY help.keyboard.name.view.fullscreen "Pantaila osoan">
+<!ENTITY help.keyboard.name.mac.minimize "Dock-era minimizatu">
+<!ENTITY help.keyboard.name.mac.hide "Leihoa ezkutatu">
+<!ENTITY help.keyboard.name.mac.hideothers "Beste aplikazioak ezkutatu">
+<!ENTITY help.keyboard.name.downloads "Deskargak">
+<!ENTITY help.keyboard.name.find "Bilatu">
+<!ENTITY help.keyboard.name.find.again "Berriz bilatu">
+<!ENTITY help.keyboard.name.find.text "Testua idazten duzun heinean bilatu">
+<!ENTITY help.keyboard.name.find.link "Lotura idazten duzun heinean bilatu">
+<!ENTITY help.keyboard.name.search.focus "Bilaketa kutxa aukeratu">
+<!ENTITY help.keyboard.name.video.fullscreen "Pantaila osoan">
+<!ENTITY help.keyboard.name.video.bringtofront "Bideoak aurrean">
+<!ENTITY help.keyboard.name.video.escape "Pantaila osotik irten">
+<!ENTITY help.keyboard.name.cdrip.start "Erauzi CD-a">
+<!ENTITY help.keyboard.name.cdrip.stop "Utzi CD-a grabatzeari">
+<!ENTITY help.keyboard.name.cdrip.eject "Kanporatu CD-a">
+<!ENTITY help.keyboard.name.quit "Irten">
+<!ENTITY help.keyboard.name.preferences "Hobespenak">
+<!ENTITY help.keyboard.name.help "Laguntzaren edukiak">
+<!ENTITY help.keyboard.name.sanitize "Datu pribatuak garbitu">

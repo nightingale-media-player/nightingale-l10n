@@ -1,508 +1,411 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "ตกลง" >
-<!ENTITY window.cancel      "ยกเลิก" >
-<!ENTITY window.apply       "ใช้งาน" >
-<!ENTITY window.browse      "เลือก…" >
-<!ENTITY window.save        "บันทึก">
-<!ENTITY window.yes         "ใช่">
-<!ENTITY window.no          "ไม่">
-
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "ตกลง">
+<!ENTITY window.cancel "ยกเลิก">
+<!ENTITY window.apply "ใช้งาน">
+<!ENTITY window.browse "เลือก…">
+<!ENTITY window.save "บันทึก">
+<!ENTITY window.yes "ใช่">
+<!ENTITY window.no "ไม่">
 <!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "ออก &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "ตัวเลือก">
-<!ENTITY menu.mac.preferences.key       ",">
+<!ENTITY menu.mac.exit "ออก &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "ตัวเลือก">
+<!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "บริการ">
-<!ENTITY menu.mac.hide                  "ซ่อน &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "ซ่อนอื่นๆ">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "แสดงทั้งหมด">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "แฟ้ม" >
-<!ENTITY menu.file.new          "รายการเพลงใหม่…" >
-<!ENTITY menu.file.smart        "สร้างรายการเพลงชาญฉลาดใหม่…" >
-<!ENTITY menu.file.remote       "บอกรับสมาชิก…" >
-<!ENTITY menu.file.podcast      "New Podcast…" >
-<!ENTITY menu.file.open         "เปิดไฟล์…" >
-<!ENTITY menu.file.url          "เปิดจากที่ตั้ง…" >
-<!ENTITY menu.file.playlist     "นำรายการเพลงเข้ามา…" >
-<!ENTITY menu.file.library      "นำรายการเข้า…" >
-<!ENTITY menu.file.newtab       "แท็บใหม่" >
-<!ENTITY menu.file.closetab     "ปิดแท็บ" >
-<!ENTITY menu.file.metadata     "ดูข้อมูลเพิ่มเติม">
-<!ENTITY menu.file.scan         "นำสื่อเข้า…" >
-<!ENTITY menu.file.exit         "ออก" >
-
-<!ENTITY menu.edit          "แก้ไข" >
-<!ENTITY menu.edit.undo     "เรียกคืน" >
-<!ENTITY menu.edit.redo     "ทำซ้ำ" >
-<!ENTITY menu.edit.cut      "ตัด" >
-<!ENTITY menu.edit.copy     "คัดลอก" >
-<!ENTITY menu.edit.paste    "วาง" >
-<!ENTITY menu.edit.delete   "ลบ" >
-<!ENTITY menu.edit.selall   "เลือกทั้งหมด" >
-<!ENTITY menu.edit.find        "ค้นหา" >
-<!ENTITY menu.edit.findagain   "ค้นหาต่อ" >
-
+<!ENTITY menu.mac.services "บริการ">
+<!ENTITY menu.mac.hide "ซ่อน &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "ซ่อนอื่นๆ">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "แสดงทั้งหมด">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "แฟ้ม">
+<!ENTITY menu.file.new "รายการเพลงใหม่…">
+<!ENTITY menu.file.smart "สร้างรายการเพลงชาญฉลาดใหม่…">
+<!ENTITY menu.file.remote "บอกรับสมาชิก…">
+<!ENTITY menu.file.open "เปิดไฟล์…">
+<!ENTITY menu.file.url "เปิดจากที่ตั้ง…">
+<!ENTITY menu.file.playlist "นำรายการเพลงเข้ามา…">
+<!ENTITY menu.file.library "นำรายการเข้า…">
+<!ENTITY menu.file.newtab "แท็บใหม่">
+<!ENTITY menu.file.closetab "ปิดแท็บ">
+<!ENTITY menu.file.metadata "ดูข้อมูลเพิ่มเติม">
+<!ENTITY menu.file.scan "นำสื่อเข้า…">
+<!ENTITY menu.file.exit "ออก">
+<!ENTITY menu.edit "แก้ไข">
+<!ENTITY menu.edit.undo "เรียกคืน">
+<!ENTITY menu.edit.redo "ทำซ้ำ">
+<!ENTITY menu.edit.cut "ตัด">
+<!ENTITY menu.edit.copy "คัดลอก">
+<!ENTITY menu.edit.paste "วาง">
+<!ENTITY menu.edit.delete "ลบ">
+<!ENTITY menu.edit.selall "เลือกทั้งหมด">
+<!ENTITY menu.edit.find "ค้นหา">
+<!ENTITY menu.edit.findagain "ค้นหาต่อ">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "ตัวเลือก">
+<!ENTITY menu.linux.preferences "ตัวเลือก">
 <!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "ควบคุม" >
-<!ENTITY menu.control.play  "เล่น" >
-<!ENTITY menu.control.pause "พัก" >
-<!ENTITY menu.control.next  "เพลงต่อไป" >
-<!ENTITY menu.control.prev  "เพลงก่อนหน้า" >
-<!ENTITY menu.control.shuf  "สลับเพลง" >
-<!ENTITY menu.control.repa  "เล่นซ้ำทั้งหมด" >
-<!ENTITY menu.control.rep1  "เล่นซ้ำครั้งเดียว" >
-<!ENTITY menu.control.repx  "ไม่เล่นซ้ำ" >
-<!ENTITY menu.control.jumpto "ข้ามไป…" >
-
-<!ENTITY menu.control.play.button      "เล่น" >
-<!ENTITY menu.control.pause.button     "Pause" >
-<!ENTITY menu.control.stop.button      "หยุด" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY displaypane.default.link.pre "">
-<!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY displaypane.name.servicepane   "บานหน้าต่างเซอร์วิสบานล่าง">
-<!ENTITY displaypane.name.browser       "ช่องหน้าต่างเนื้อหาด้านล่าง">
-<!ENTITY displaypane.name.sidebar       "แถบบานขวา">
-<!ENTITY servicepane.title.label        "บานหน้าต่างเซอร์วิส">
-
-<!ENTITY menu.tools            "เครื่องมือ" >
+<!ENTITY menu.controls "ควบคุม">
+<!ENTITY menu.control.play "เล่น">
+<!ENTITY menu.control.pause "พัก">
+<!ENTITY menu.control.next "เพลงต่อไป">
+<!ENTITY menu.control.prev "เพลงก่อนหน้า">
+<!ENTITY menu.control.shuf "สลับเพลง">
+<!ENTITY menu.control.repa "เล่นซ้ำทั้งหมด">
+<!ENTITY menu.control.rep1 "เล่นซ้ำครั้งเดียว">
+<!ENTITY menu.control.repx "ไม่เล่นซ้ำ">
+<!ENTITY menu.control.jumpto "ข้ามไป…">
+<!ENTITY menu.control.play.button "เล่น">
+<!ENTITY menu.control.pause.button "Pause">
+<!ENTITY menu.control.stop.button "หยุด">
+<!ENTITY displaypane.name.servicepane "บานหน้าต่างเซอร์วิสบานล่าง">
+<!ENTITY displaypane.name.browser "ช่องหน้าต่างเนื้อหาด้านล่าง">
+<!ENTITY displaypane.name.sidebar "แถบบานขวา">
+<!ENTITY servicepane.title.label "บานหน้าต่างเซอร์วิส">
+<!ENTITY menu.tools "เครื่องมือ">
 <!ENTITY menu.tools.getartwork "โหลดปกอัลบัม…">
 <!ENTITY menu.tools.exportmedia "ส่งการเปลี่ยนแปลงตู้เพลงออก">
-
-<!ENTITY menu.help          "ช่วยเหลือ" >
-<!ENTITY menu.help.homepage "&brandShortName; Website" >
-<!ENTITY menu.help.bugz     "รายงานข้อผิดพลาด…" >
-<!ENTITY menu.help.topics   "หัวข้อช่วยเหลือ" >
+<!ENTITY menu.help "ช่วยเหลือ">
+<!ENTITY menu.help.bugz "รายงานข้อผิดพลาด…">
+<!ENTITY menu.help.topics "หัวข้อช่วยเหลือ">
 <!ENTITY menu.help.keyboard "ปุ่มลัดสำหรับแป้นพิมพ์">
-<!ENTITY menu.help.about    "เกี่ยวกับ &brandShortName;" >
-
-<!ENTITY menu.equalizer     "ตัวปรับเท่า…" >
-<!ENTITY menu.preferences   "ตัวเลือก" >
-<!ENTITY menu.extensions    "ส่วนเสริม" >
+<!ENTITY menu.help.about "เกี่ยวกับ &brandShortName;">
+<!ENTITY menu.equalizer "ตัวปรับเท่า…">
+<!ENTITY menu.preferences "ตัวเลือก">
+<!ENTITY menu.extensions "ส่วนเสริม">
 <!ENTITY menu.clearprivatedata "ล้างข้อมูลส่วนตัว">
 <!ENTITY menu.errorconsole "หน้าจอข้อผิดพลาด">
-<!ENTITY menu.downloadmgr   "ดาวน์โหลด" >
-<!ENTITY menu.switchplayercontrols  "แผงควบคุม" >
-<!ENTITY menu.controllerontop       "แสดงด้านบน">
-<!ENTITY menu.controlleronbottom    "แสดงด้านล่าง">
-
-<!ENTITY menu.fullscreen            "เต็มจอ">
-<!ENTITY menu.videotofront          "นำวิดีโอมาไว้ด้านบน">
-
-<!ENTITY device.dialog.wait_for_completion.title  "กำลังรออุปกรณ์.">
-<!ENTITY device.dialog.wait_for_completion.msg    "กำลังให้อุปกรณ์ทุกตัวทำงานจนเสร็จ. กด &quot;ออก&quot; เพื่อหยุดรอและปิดโปรแกรม.">
-<!ENTITY device.dialog.wait_for_completion.quit   "ออก">
-
-<!ENTITY tooltip.minimize         "ย่อ" >
-<!ENTITY tooltip.maximize         "ขยาย/แก้คืน" >
-<!ENTITY tooltip.exit             "ปิด" >
-<!ENTITY tooltip.close            "ปิด" >
-<!ENTITY tooltip.hide             "ซ่อน" >
-<!ENTITY tooltip.fullscreen       "เต็มจอ" >
-<!ENTITY tooltip.control.back     "เพลงก่อนหน้า" >
-<!ENTITY tooltip.control.play     "เล่น" >
-<!ENTITY tooltip.control.pause    "พัก" >
-<!ENTITY tooltip.control.resume   "เล่นต่อ" >
-<!ENTITY tooltip.control.stop     "หยุด" >
-<!ENTITY tooltip.control.fwd      "เพลงถัดไป" >
-<!ENTITY tooltip.control.mute     "ปิดเสียง" >
-<!ENTITY tooltip.control.volume   "เสียง" >
-<!ENTITY tooltip.control.shuffle  "สลับ" >
-<!ENTITY tooltip.control.shuf_off "ปิดการสลับ" >
-<!ENTITY tooltip.control.curtrack "หาเพลงปัจจุบัน" >
-<!ENTITY tooltip.search           "ค้นหา" >
-<!ENTITY tooltip.browser.back     "ก่อนหน้า" >
-<!ENTITY tooltip.browser.fwd      "ต่อไป" >
-<!ENTITY tooltip.browser.stop     "หยุดเบราวเซอร์" >
-<!ENTITY tooltip.browser.home     "หน้าแีรก" >
-<!ENTITY tooltip.browser.refresh  "โหลดใหม่" >
-<!ENTITY tooltip.browser.subscription "สมัครหน้านี้" >
-<!ENTITY tooltip.browser.mediapages.list "แสดงรายการ" >
-<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
-<!ENTITY tooltip.browser.mediapages "เปลี่ยนมุมมองแสดงสื่อ…" >
-<!ENTITY tooltip.servicepane.show    "แสดงบานหน้าต่างเซอร์วิส" >
-<!ENTITY tooltip.servicepane.collapse    "Collapse Service Pane" >
-<!ENTITY tooltip.servicepane.newnode "รายการเพลงใหม่" >
-<!ENTITY tooltip.displaypane.options "Content Pane Options">
-
-<!ENTITY smart.window             "รายการเพลงชาญฉลาด" >
-<!ENTITY smart.limit              "จำกัดที่" >
-<!ENTITY smart.match              "ตรง" >
-<!ENTITY smart.matchsingle        "ตรงกับเงื่อนไขต่อไปนี้:" >
-<!ENTITY smart.any                "ใด ๆ" >
-<!ENTITY smart.all                "ทั้งหมด" >
-<!ENTITY smart.following          "ตามเงื่อนไขต่อไปนี้:" >
-<!ENTITY smart.random             "สุ่ม" >
-<!ENTITY smart.album              "อัลบัม" >
-<!ENTITY smart.artist             "ศิลปิน" >
-<!ENTITY smart.genre              "แนวเพลง" >
-<!ENTITY smart.title              "ชื่อเพลง" >
-<!ENTITY smart.high_rating        "คะแนนสูงสุด" >
-<!ENTITY smart.low_rating         "คะแนนต่ำ" >
-<!ENTITY smart.most_recent        "เล่นล่าสุด" >
-<!ENTITY smart.least_recent       "เล่นนานมาแล้ว" >
-<!ENTITY smart.most_often         "เล่นบ่อยสุด" >
-<!ENTITY smart.least_often        "เล่นไม่บ่อย" >
-<!ENTITY smart.most_added         "เพิ่มล่าสุด" >
-<!ENTITY smart.least_added        "เพิ่มนานมาแล้ว" >
-<!ENTITY smart.minutes            "นาที" >
-<!ENTITY smart.hours              "ชั่วโมง" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "รายการ" >
-<!ENTITY smart.selectedby         "เลือกโดย" >
-<!ENTITY smart.to                 "ถึง" >
-<!ENTITY smart.autoupdate         "ปรับปรุงอัตโนมัติ">
+<!ENTITY menu.downloadmgr "ดาวน์โหลด">
+<!ENTITY menu.switchplayercontrols "แผงควบคุม">
+<!ENTITY menu.controllerontop "แสดงด้านบน">
+<!ENTITY menu.controlleronbottom "แสดงด้านล่าง">
+<!ENTITY menu.fullscreen "เต็มจอ">
+<!ENTITY menu.videotofront "นำวิดีโอมาไว้ด้านบน">
+<!ENTITY device.dialog.wait_for_completion.title "กำลังรออุปกรณ์.">
+<!ENTITY device.dialog.wait_for_completion.msg "กำลังให้อุปกรณ์ทุกตัวทำงานจนเสร็จ. กด &quot;ออก&quot; เพื่อหยุดรอและปิดโปรแกรม.">
+<!ENTITY device.dialog.wait_for_completion.quit "ออก">
+<!ENTITY tooltip.minimize "ย่อ">
+<!ENTITY tooltip.maximize "ขยาย/แก้คืน">
+<!ENTITY tooltip.exit "ปิด">
+<!ENTITY tooltip.close "ปิด">
+<!ENTITY tooltip.hide "ซ่อน">
+<!ENTITY tooltip.fullscreen "เต็มจอ">
+<!ENTITY tooltip.control.back "เพลงก่อนหน้า">
+<!ENTITY tooltip.control.play "เล่น">
+<!ENTITY tooltip.control.pause "พัก">
+<!ENTITY tooltip.control.resume "เล่นต่อ">
+<!ENTITY tooltip.control.stop "หยุด">
+<!ENTITY tooltip.control.fwd "เพลงถัดไป">
+<!ENTITY tooltip.control.mute "ปิดเสียง">
+<!ENTITY tooltip.control.volume "เสียง">
+<!ENTITY tooltip.control.shuffle "สลับ">
+<!ENTITY tooltip.control.shuf_off "ปิดการสลับ">
+<!ENTITY tooltip.control.curtrack "หาเพลงปัจจุบัน">
+<!ENTITY tooltip.search "ค้นหา">
+<!ENTITY tooltip.browser.back "ก่อนหน้า">
+<!ENTITY tooltip.browser.fwd "ต่อไป">
+<!ENTITY tooltip.browser.stop "หยุดเบราวเซอร์">
+<!ENTITY tooltip.browser.home "หน้าแีรก">
+<!ENTITY tooltip.browser.refresh "โหลดใหม่">
+<!ENTITY tooltip.browser.subscription "สมัครหน้านี้">
+<!ENTITY tooltip.browser.mediapages.list "แสดงรายการ">
+<!ENTITY tooltip.browser.mediapages "เปลี่ยนมุมมองแสดงสื่อ…">
+<!ENTITY tooltip.servicepane.show "แสดงบานหน้าต่างเซอร์วิส">
+<!ENTITY tooltip.servicepane.newnode "รายการเพลงใหม่">
+<!ENTITY smart.window "รายการเพลงชาญฉลาด">
+<!ENTITY smart.limit "จำกัดที่">
+<!ENTITY smart.match "ตรง">
+<!ENTITY smart.matchsingle "ตรงกับเงื่อนไขต่อไปนี้:">
+<!ENTITY smart.any "ใด ๆ">
+<!ENTITY smart.all "ทั้งหมด">
+<!ENTITY smart.following "ตามเงื่อนไขต่อไปนี้:">
+<!ENTITY smart.random "สุ่ม">
+<!ENTITY smart.album "อัลบัม">
+<!ENTITY smart.artist "ศิลปิน">
+<!ENTITY smart.genre "แนวเพลง">
+<!ENTITY smart.title "ชื่อเพลง">
+<!ENTITY smart.high_rating "คะแนนสูงสุด">
+<!ENTITY smart.low_rating "คะแนนต่ำ">
+<!ENTITY smart.most_recent "เล่นล่าสุด">
+<!ENTITY smart.least_recent "เล่นนานมาแล้ว">
+<!ENTITY smart.most_often "เล่นบ่อยสุด">
+<!ENTITY smart.least_often "เล่นไม่บ่อย">
+<!ENTITY smart.most_added "เพิ่มล่าสุด">
+<!ENTITY smart.least_added "เพิ่มนานมาแล้ว">
+<!ENTITY smart.minutes "นาที">
+<!ENTITY smart.hours "ชั่วโมง">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "รายการ">
+<!ENTITY smart.selectedby "เลือกโดย">
+<!ENTITY smart.to "ถึง">
+<!ENTITY smart.autoupdate "ปรับปรุงอัตโนมัติ">
 <!ENTITY smart.playlistcondition.library "ตู้เพลง">
 <!ENTITY smart.contenttypecondition.video "วีดีโอ">
 <!ENTITY smart.contenttypecondition.audio "เพลง">
-
 <!ENTITY textbox.songbird_open_url "โปรดใส่เส้นทางที่ถูกต้องสำหรับมิเดียที่ท่านต้องการเล่น:">
-
-<!ENTITY open_url.title           "เปิดที่อยู่">
-<!ENTITY subscribe.title          "บอกรับ">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "นาที">
-<!ENTITY subscribe.hours          "ชั่วโมง">
-<!ENTITY subscribe.days           "วัน">
-<!ENTITY subscribe.autocheck      "ปรับปรุงอัตโนมัติทุก">
-<!ENTITY subscribe.destinationfolder      "เลือกโฟลเดอร์ปลายทาง:">
-
-<!ENTITY feed.subscribe.label     "บอกรับ">
-<!ENTITY feed.subscribe.dontask   "ไม่แสดงหน้าหน้านี้โดยอัตโนมัติอีก">
-<!ENTITY feed.subscribe.close     "ปิด">
-
-<!ENTITY podcast.creation_dialog.title       "New Podcast">
-<!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "โฟลเดอร์ที่ถูกจับตามอง">
-<!ENTITY watchfolder.folderlist   "จับตามองโฟลเดอร์ดังต่อไปนี้หามีการเพิ่มมิเดียใหม่:">
-
-<!ENTITY locale.language          "ภาษา" >
-<!ENTITY menu.view                "มุมมอง" >
-<!ENTITY about.version            "เวอร์ชัน" >
-<!ENTITY about.buttons.credits    "เครดิต" >
-
-<!ENTITY equalizer.title          "ตัวปรับเท่า" >
-<!ENTITY equalizer.on.checkbox    "เปิด" >
-<!ENTITY equalizer.band0.label    "30" >
-<!ENTITY equalizer.band1.label    "60" >
-<!ENTITY equalizer.band2.label    "120" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "ตามสั่ง" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "ร็อก" >
-<!ENTITY equalizer.preset.soft_rock   "ซอฟต์ร็อก" >
-<!ENTITY equalizer.preset.techno      "เทคโน" >
-<!ENTITY equalizer.preset.ska         "สกา" >
-<!ENTITY equalizer.preset.reggae      "เร็กเก้" >
-<!ENTITY equalizer.preset.live        "ดนตรีสด" >
-<!ENTITY equalizer.preset.club        "คลับ" >
-<!ENTITY equalizer.preset.party       "สังสรรค์" >
-<!ENTITY equalizer.preset.classical   "คลาสสิก" >
-<!ENTITY equalizer.preset.large_hall  "ห้องโถง" >
-<!ENTITY equalizer.preset.dance       "แดนซ์" >
-<!ENTITY equalizer.preset.pop         "สมัยนิยม" >
-<!ENTITY equalizer.preset.soft        "ซอฟต์" >
-<!ENTITY equalizer.preset.small_speakers   "คอมพิวเตอร์พกพา/เฮดโฟน" >
-<!ENTITY equalizer.preset.full_bass_treble "เน้นเบสและเสียงแหลม" >
-<!ENTITY equalizer.preset.full_treble "เน้นเสียงแหลม" >
-<!ENTITY equalizer.preset.full_bass   "เน้นเบส" >
-
-
-<!ENTITY setupprogress.pleasewait "กรุณารอสักครู่" >
-<!ENTITY setupprogress.cancel     "ยกเลิก">
-
-<!ENTITY menu.file.accesskey              "ฟ" >
-<!ENTITY menu.file.new.accesskey          "ม" >
-<!ENTITY menu.file.smart.accesskey        "ช" >
-<!ENTITY menu.file.remote.accesskey       "ส" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "ป" >
-<!ENTITY menu.file.url.accesskey          "ต" >
-<!ENTITY menu.file.playlist.accesskey     "ร" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "P" >
-<!ENTITY menu.file.newtab.accesskey       "ท" >
-<!ENTITY menu.file.closetab.accesskey     "ป" >
-<!ENTITY menu.file.scan.accesskey         "ข" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "ม" >
-<!ENTITY menu.preferences.accesskey       "ล" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "ส" >
-<!ENTITY menu.clearprivatedata.accesskey  "ส" >
-<!ENTITY menu.errorconsole.accesskey      "จ" >
-<!ENTITY menu.file.exit.accesskey         "อ" >
-<!ENTITY menu.downloadmgr.accesskey       "ด" >
-
-<!ENTITY menu.edit.accesskey          "ก" >
-<!ENTITY menu.edit.undo.accesskey     "ย" >
-<!ENTITY menu.edit.redo.accesskey     "ท" >
-<!ENTITY menu.edit.cut.accesskey      "ต" >
-<!ENTITY menu.edit.copy.accesskey     "ค" >
-<!ENTITY menu.edit.paste.accesskey    "ว" >
-<!ENTITY menu.edit.delete.accesskey   "ล" >
-<!ENTITY menu.edit.selall.accesskey   "ท" >
-<!ENTITY menu.edit.find.accesskey        "ห" >
-<!ENTITY menu.edit.findagain.accesskey   "ต" >
-
-<!ENTITY menu.controls.accesskey      "ค" >
-<!ENTITY menu.control.play.accesskey  "ล" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "ต" >
-<!ENTITY menu.control.prev.accesskey  "ก" >
-<!ENTITY menu.control.shuf.accesskey  "ส" >
-<!ENTITY menu.control.repa.accesskey  "ท" >
-<!ENTITY menu.control.rep1.accesskey  "ด" >
-<!ENTITY menu.control.repx.accesskey  "ซ" >
-<!ENTITY menu.control.jumpto.accesskey "ข" >
-
-
-<!ENTITY menu.tools.accesskey            "ค" >
-<!ENTITY menu.tools.getartwork.accesskey "อ" >
-
-<!ENTITY menu.tools.reveal             "แสดงไฟล์ในตัวจัดการไฟล์" >
-<!ENTITY menu.tools.reveal.accesskey   "จ" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "ช" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "ผ" >
-<!ENTITY menu.help.help.accesskey     "ช" >
-<!ENTITY menu.help.keyboard.accesskey "ป" >
-<!ENTITY menu.help.about.accesskey    "ก" >
-
-
+<!ENTITY open_url.title "เปิดที่อยู่">
+<!ENTITY subscribe.title "บอกรับ">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "นาที">
+<!ENTITY subscribe.hours "ชั่วโมง">
+<!ENTITY subscribe.days "วัน">
+<!ENTITY subscribe.autocheck "ปรับปรุงอัตโนมัติทุก">
+<!ENTITY subscribe.destinationfolder "เลือกโฟลเดอร์ปลายทาง:">
+<!ENTITY feed.subscribe.label "บอกรับ">
+<!ENTITY feed.subscribe.dontask "ไม่แสดงหน้าหน้านี้โดยอัตโนมัติอีก">
+<!ENTITY feed.subscribe.close "ปิด">
+<!ENTITY watchfolder.title "โฟลเดอร์ที่ถูกจับตามอง">
+<!ENTITY watchfolder.folderlist "จับตามองโฟลเดอร์ดังต่อไปนี้หามีการเพิ่มมิเดียใหม่:">
+<!ENTITY locale.language "ภาษา">
+<!ENTITY menu.view "มุมมอง">
+<!ENTITY about.version "เวอร์ชัน">
+<!ENTITY about.buttons.credits "เครดิต">
+<!ENTITY equalizer.title "ตัวปรับเท่า">
+<!ENTITY equalizer.on.checkbox "เปิด">
+<!ENTITY equalizer.band0.label "30">
+<!ENTITY equalizer.band1.label "60">
+<!ENTITY equalizer.band2.label "120">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "ตามสั่ง">
+<!ENTITY equalizer.preset.rock "ร็อก">
+<!ENTITY equalizer.preset.soft_rock "ซอฟต์ร็อก">
+<!ENTITY equalizer.preset.techno "เทคโน">
+<!ENTITY equalizer.preset.ska "สกา">
+<!ENTITY equalizer.preset.reggae "เร็กเก้">
+<!ENTITY equalizer.preset.live "ดนตรีสด">
+<!ENTITY equalizer.preset.club "คลับ">
+<!ENTITY equalizer.preset.party "สังสรรค์">
+<!ENTITY equalizer.preset.classical "คลาสสิก">
+<!ENTITY equalizer.preset.large_hall "ห้องโถง">
+<!ENTITY equalizer.preset.dance "แดนซ์">
+<!ENTITY equalizer.preset.pop "สมัยนิยม">
+<!ENTITY equalizer.preset.soft "ซอฟต์">
+<!ENTITY equalizer.preset.small_speakers "คอมพิวเตอร์พกพา/เฮดโฟน">
+<!ENTITY equalizer.preset.full_bass_treble "เน้นเบสและเสียงแหลม">
+<!ENTITY equalizer.preset.full_treble "เน้นเสียงแหลม">
+<!ENTITY equalizer.preset.full_bass "เน้นเบส">
+<!ENTITY setupprogress.pleasewait "กรุณารอสักครู่">
+<!ENTITY setupprogress.cancel "ยกเลิก">
+<!ENTITY menu.file.accesskey "ฟ">
+<!ENTITY menu.file.new.accesskey "ม">
+<!ENTITY menu.file.smart.accesskey "ช">
+<!ENTITY menu.file.remote.accesskey "ส">
+<!ENTITY menu.file.open.accesskey "ป">
+<!ENTITY menu.file.url.accesskey "ต">
+<!ENTITY menu.file.playlist.accesskey "ร">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "ท">
+<!ENTITY menu.file.closetab.accesskey "ป">
+<!ENTITY menu.file.scan.accesskey "ข">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "ม">
+<!ENTITY menu.preferences.accesskey "ล">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "ส">
+<!ENTITY menu.clearprivatedata.accesskey "ส">
+<!ENTITY menu.errorconsole.accesskey "จ">
+<!ENTITY menu.file.exit.accesskey "อ">
+<!ENTITY menu.downloadmgr.accesskey "ด">
+<!ENTITY menu.edit.accesskey "ก">
+<!ENTITY menu.edit.undo.accesskey "ย">
+<!ENTITY menu.edit.redo.accesskey "ท">
+<!ENTITY menu.edit.cut.accesskey "ต">
+<!ENTITY menu.edit.copy.accesskey "ค">
+<!ENTITY menu.edit.paste.accesskey "ว">
+<!ENTITY menu.edit.delete.accesskey "ล">
+<!ENTITY menu.edit.selall.accesskey "ท">
+<!ENTITY menu.edit.find.accesskey "ห">
+<!ENTITY menu.edit.findagain.accesskey "ต">
+<!ENTITY menu.controls.accesskey "ค">
+<!ENTITY menu.control.play.accesskey "ล">
+<!ENTITY menu.control.next.accesskey "ต">
+<!ENTITY menu.control.prev.accesskey "ก">
+<!ENTITY menu.control.shuf.accesskey "ส">
+<!ENTITY menu.control.repa.accesskey "ท">
+<!ENTITY menu.control.rep1.accesskey "ด">
+<!ENTITY menu.control.repx.accesskey "ซ">
+<!ENTITY menu.control.jumpto.accesskey "ข">
+<!ENTITY menu.tools.accesskey "ค">
+<!ENTITY menu.tools.getartwork.accesskey "อ">
+<!ENTITY menu.tools.reveal "แสดงไฟล์ในตัวจัดการไฟล์">
+<!ENTITY menu.tools.reveal.accesskey "จ">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "ช">
+<!ENTITY menu.help.bugz.accesskey "ผ">
+<!ENTITY menu.help.help.accesskey "ช">
+<!ENTITY menu.help.keyboard.accesskey "ป">
+<!ENTITY menu.help.about.accesskey "ก">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "แก้ไขข้อมูลกำกับเพลง" >
-<!ENTITY trackeditor.tab.summary.title            "สรุป" >
-<!ENTITY trackeditor.tab.edit.title               "คุณสมบัติ" >
-<!ENTITY trackeditor.tab.lyrics.title             "เนื้อเพลง" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "แก้ไขข้อมูลกำกับเพลง">
+<!ENTITY trackeditor.tab.summary.title "สรุป">
+<!ENTITY trackeditor.tab.edit.title "คุณสมบัติ">
+<!ENTITY trackeditor.tab.lyrics.title "เนื้อเพลง">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "เพิ่มแท็ก" >
-<!ENTITY trackeditor.addtag.tag       "แท็ก:" >
-
-<!ENTITY jumptofile.title             "กระโดดไปยัง" >
-<!ENTITY jumptofile.search            "ค้นหา:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "ใช้ปุ่มทั่วไป" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "การกระทำ" >
-<!ENTITY hotkeys.hotkey               "ปุ่มลัด" >
-<!ENTITY hotkeys.add                  "เพิ่ม" >
-<!ENTITY hotkeys.set                  "ตั้ง" >
-<!ENTITY hotkeys.remove               "เอาออก" >
-<!ENTITY hotkeys.prefpane             "ปุ่มลัด" >
-<!ENTITY hotkeys.info                 "ปุ่มลัดสำหรับระบบปฏิบัติการที่ทำให้ท่านสามารถเข้าถึงฟังก์ชันต่าง ๆ ของ &brandShortName; แม้ว่า &brandShortName; จะไม่ใช่หน้าต่างที่อยู่บนสุด บางชุดปุ่มลัดต้องแก้ไขปุ่มเพื่อย่อหน้าต่างไม่ให้รบกวนโปรแกรมอื่น" >
-
-<!ENTITY rapi.prefpane.title             "การเชื่อมโยงผ่านเว็บ" >
-<!ENTITY rapi.prefpane.access.caption    "สิทธิ์การเชื่อมโยงผ่านเว็บ" >
-<!ENTITY rapi.prefpane.access.text       "ท่านสามารถอนุญาตให้เว็บไซต์เชื่อมโยงกับ &brandShortName; เพื่อสร้างความสัมพันธ์อันแนบแน่นระหว่งเว็บกับสื่อของท่าน กรุณาตั้งค่า &brandShortName; เพื่ออนุญาตหรือปิดกั้นจุดเชื่อมโยงดังต่อไปนี้" >
-<!ENTITY rapi.whitelist.label            "ยกเว้น…" >
-<!ENTITY rapi.restore_defaults.label      "คืนค่าเป็นค่าเริ่มต้น" >
-<!ENTITY rapi.playback_control_disable.label "ปิดกั้นบางเว็บไซต์ไม่ให้ควบคุมการเล่นสื่อ" >
-<!ENTITY rapi.playback_read_disable.label    "ปิดกันเว็บไซต์จากการดูข้อมูลการเล่นสื่อของท่าน" >
-<!ENTITY rapi.library_read_disable.label     "ปิดกั้นเว็บไซต์จากการดูข้อมูลเกี่ยวกับสื่อในตู้เพลงและอุปกรณ์ของฉัน" >
-<!ENTITY rapi.library_write_disable.label    "ปิดกันเว็บไซต์จากการเพิ่มหรือแก้ไขสื่อและรายการเพลงในตู้เพลงและอุปกรณ์ของท่าน" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "ส่วนเพิ่มเติม">
-<!ENTITY prefpane.content.label       "ข้อมูลจากเว็บ">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "ไม่มีอุปกรณ์ USB เก็บข้อมูล (mass-storage) ถูกเชื่อมต่ออยู่" >
-<!ENTITY umsd.music.tab                     "เพลง" >
-<!ENTITY umsd.music.music_files_group       "ไฟล์เพลง" >
-<!ENTITY umsd.music.music_path_desc         "เวลาคัดลอกไฟล์เพลงไปยังอุปกรณ์, นำลงในไดเรคทอรีนี้:" >
-<!ENTITY umsd.music.music_path_browse_msg   "เลือกไดเรคทอรีของอุปกรณ์ที่ต้องการใส่ไฟล์เพลง" >
-<!ENTITY umsd.music.music_ext_desc          "คัดลอกไฟล์เพลงในฟอร์แมตต่อไปนี้ไปยังอุปกรณ์:" >
-<!ENTITY umsd.video.tab                     "วิดีโอ" >
-<!ENTITY umsd.video.video_files_group       "ไฟล์วิดีโอ" >
-<!ENTITY umsd.video.video_path_desc         "คัดลอกไฟล์วิดีโอไปยังอุปกรณ์ไปยังไดเรคทอรีต่อไปนี้:" >
-<!ENTITY umsd.video.video_path_browse_msg   "เลือกไดเรคทอรีของอุปกรณ์ที่ต้องการเก็บไฟล์วิดีโอ" >
-<!ENTITY umsd.video.video_ext_desc          "คัดลอกไฟล์วิดีโอในฟอร์แมตต่อไปนี้ไปยังอุปกรณ์:" >
-
-<!ENTITY device.error.dialog.link           "แสดงรายการผิดพลาด" >
-
-<!ENTITY restartbox.restartnow        "เริ่มใหม่เดี๋ยวนี้" >
-<!ENTITY restartbox.restartonplaybackend "เริ่มต้นใหม่เหมือนจบการเล่น" >
-<!ENTITY restartbox.restartlater      "เริ่มต้นใหม่ภายหลัง" >
-
-<!ENTITY setupprogress.installingextensions "กำลังติดตั้งส่วนเพิ่มเติม" >
-
-<!ENTITY jobprogress.details "รายละเอียด" >
-
-<!ENTITY menu.updateCmd.label          "ตรวจหาการปรับปรุง…">
-<!ENTITY menu.updateCmd.accessKey      "ป">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "D" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Spacebar" >
-
+<!ENTITY trackeditor.addtag.title "เพิ่มแท็ก">
+<!ENTITY trackeditor.addtag.tag "แท็ก:">
+<!ENTITY jumptofile.title "กระโดดไปยัง">
+<!ENTITY jumptofile.search "ค้นหา:">
+<!ENTITY hotkeys.useglobalhotkeys "ใช้ปุ่มทั่วไป">
+<!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
+<!ENTITY hotkeys.action "การกระทำ">
+<!ENTITY hotkeys.hotkey "ปุ่มลัด">
+<!ENTITY hotkeys.add "เพิ่ม">
+<!ENTITY hotkeys.set "ตั้ง">
+<!ENTITY hotkeys.remove "เอาออก">
+<!ENTITY hotkeys.prefpane "ปุ่มลัด">
+<!ENTITY hotkeys.info "ปุ่มลัดสำหรับระบบปฏิบัติการที่ทำให้ท่านสามารถเข้าถึงฟังก์ชันต่าง ๆ ของ &brandShortName; แม้ว่า &brandShortName; จะไม่ใช่หน้าต่างที่อยู่บนสุด บางชุดปุ่มลัดต้องแก้ไขปุ่มเพื่อย่อหน้าต่างไม่ให้รบกวนโปรแกรมอื่น">
+<!ENTITY rapi.prefpane.title "การเชื่อมโยงผ่านเว็บ">
+<!ENTITY rapi.prefpane.access.caption "สิทธิ์การเชื่อมโยงผ่านเว็บ">
+<!ENTITY rapi.prefpane.access.text "ท่านสามารถอนุญาตให้เว็บไซต์เชื่อมโยงกับ &brandShortName; เพื่อสร้างความสัมพันธ์อันแนบแน่นระหว่งเว็บกับสื่อของท่าน กรุณาตั้งค่า &brandShortName; เพื่ออนุญาตหรือปิดกั้นจุดเชื่อมโยงดังต่อไปนี้">
+<!ENTITY rapi.whitelist.label "ยกเว้น…">
+<!ENTITY rapi.restore_defaults.label "คืนค่าเป็นค่าเริ่มต้น">
+<!ENTITY rapi.playback_control_disable.label "ปิดกั้นบางเว็บไซต์ไม่ให้ควบคุมการเล่นสื่อ">
+<!ENTITY rapi.playback_read_disable.label "ปิดกันเว็บไซต์จากการดูข้อมูลการเล่นสื่อของท่าน">
+<!ENTITY rapi.library_read_disable.label "ปิดกั้นเว็บไซต์จากการดูข้อมูลเกี่ยวกับสื่อในตู้เพลงและอุปกรณ์ของฉัน">
+<!ENTITY rapi.library_write_disable.label "ปิดกันเว็บไซต์จากการเพิ่มหรือแก้ไขสื่อและรายการเพลงในตู้เพลงและอุปกรณ์ของท่าน">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "ส่วนเพิ่มเติม">
+<!ENTITY prefpane.content.label "ข้อมูลจากเว็บ">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "ไม่มีอุปกรณ์ USB เก็บข้อมูล (mass-storage) ถูกเชื่อมต่ออยู่">
+<!ENTITY umsd.music.tab "เพลง">
+<!ENTITY umsd.music.music_files_group "ไฟล์เพลง">
+<!ENTITY umsd.music.music_path_desc "เวลาคัดลอกไฟล์เพลงไปยังอุปกรณ์, นำลงในไดเรคทอรีนี้:">
+<!ENTITY umsd.music.music_path_browse_msg "เลือกไดเรคทอรีของอุปกรณ์ที่ต้องการใส่ไฟล์เพลง">
+<!ENTITY umsd.music.music_ext_desc "คัดลอกไฟล์เพลงในฟอร์แมตต่อไปนี้ไปยังอุปกรณ์:">
+<!ENTITY umsd.video.tab "วิดีโอ">
+<!ENTITY umsd.video.video_files_group "ไฟล์วิดีโอ">
+<!ENTITY umsd.video.video_path_desc "คัดลอกไฟล์วิดีโอไปยังอุปกรณ์ไปยังไดเรคทอรีต่อไปนี้:">
+<!ENTITY umsd.video.video_path_browse_msg "เลือกไดเรคทอรีของอุปกรณ์ที่ต้องการเก็บไฟล์วิดีโอ">
+<!ENTITY umsd.video.video_ext_desc "คัดลอกไฟล์วิดีโอในฟอร์แมตต่อไปนี้ไปยังอุปกรณ์:">
+<!ENTITY device.error.dialog.link "แสดงรายการผิดพลาด">
+<!ENTITY restartbox.restartnow "เริ่มใหม่เดี๋ยวนี้">
+<!ENTITY restartbox.restartonplaybackend "เริ่มต้นใหม่เหมือนจบการเล่น">
+<!ENTITY restartbox.restartlater "เริ่มต้นใหม่ภายหลัง">
+<!ENTITY setupprogress.installingextensions "กำลังติดตั้งส่วนเพิ่มเติม">
+<!ENTITY jobprogress.details "รายละเอียด">
+<!ENTITY menu.updateCmd.label "ตรวจหาการปรับปรุง…">
+<!ENTITY menu.updateCmd.accessKey "ป">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Spacebar">
 <!ENTITY tabs.closeTab "ปิดแท็บ">
 <!ENTITY tabs.listAllTabs "รายการแท็บทั้งหมด">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "หน้าแรก" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "การติดตั้งส่วนเพิ่มเติม" >
-
+<!ENTITY prefs.homepage.label "หน้าแรก">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.security.addons.label "การติดตั้งส่วนเพิ่มเติม">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "ยกเลิก">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "ยกเลิกการคัดลอก">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "ยกเลิกการลบ">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "ยกเลิกการปรับเทียบ">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "ยกเลิกการปรับปรุง">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "เอาออก">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "ฟอร์แมต">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "ข้าม">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "รับรายละเอียด">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "เปลี่ยนชื่อ">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Sync">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "ยกเลิก">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "ยกเลิกการคัดลอก">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "ยกเลิกการลบ">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "ยกเลิกการปรับเทียบ">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "ยกเลิกการปรับปรุง">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "เอาออก">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "ฟอร์แมต">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "ข้าม">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "รับรายละเอียด">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "เปลี่ยนชื่อ">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Sync">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "แปลงซีดี">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "หยุดการแปลงซีดี">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "ค้นหาข้อมูลซีดี">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "เปิดถาดซีดี">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "ซ่อมแซมอุปกรณ์ของฉัน">
-
-<!ENTITY device.firmware.wizard.title                     "อัพเดทเฟริม์แวร์">
-<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
-<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
-
-<!ENTITY device.info.icon.device            "Generic device icon">
-<!ENTITY device.info.icon.readonly          "Read-only lock icon">
-<!ENTITY device.info.model.label            "รุ่น">
-<!ENTITY device.info.capacity.label         "เนื้อที่">
-<!ENTITY device.info.product.label          "Product">
-<!ENTITY device.info.friendly_name.label    "ชื่อ">
-<!ENTITY device.info.serial_number.label    "หมายเลขซีเรียล">
-<!ENTITY device.info.vendor.label           "ผู้ผลิต">
-<!ENTITY device.info.access.label           "การเข้าถึงที่เข้ากันได้">
+<!ENTITY command.device.rip "แปลงซีดี">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "หยุดการแปลงซีดี">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "ค้นหาข้อมูลซีดี">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "เปิดถาดซีดี">
+<!ENTITY device.repair.menuitem.default "ซ่อมแซมอุปกรณ์ของฉัน">
+<!ENTITY device.firmware.wizard.title "อัพเดทเฟริม์แวร์">
+<!ENTITY device.info.model.label "รุ่น">
+<!ENTITY device.info.capacity.label "เนื้อที่">
+<!ENTITY device.info.friendly_name.label "ชื่อ">
+<!ENTITY device.info.serial_number.label "หมายเลขซีเรียล">
+<!ENTITY device.info.vendor.label "ผู้ผลิต">
+<!ENTITY device.info.access.label "การเข้าถึงที่เข้ากันได้">
 <!ENTITY device.info.playback_formats.label "ชนิดของไฟล์">
-<!ENTITY device.info.battery.label          "แบตเตอรี">
+<!ENTITY device.info.battery.label "แบตเตอรี">
 <!ENTITY device.info.firmware_version.label "เวอร์ชั่นเฟอมแวร์">
-
-<!ENTITY device.progress.sync               "Sync">
-
-<!ENTITY device.capacity.music.label    "เพลง">
-<!ENTITY device.capacity.video.label    "วีดีโอ">
-<!ENTITY device.capacity.image.label    "รูปภาพ">
-<!ENTITY device.capacity.other.label    "อื่นๆ">
-<!ENTITY device.capacity.free.label     "ว่าง">
-
-<!ENTITY device.unsupported_media.dialog.title  "พบไฟล์ที่ไม่สนับสนุน">
+<!ENTITY device.progress.sync "Sync">
+<!ENTITY device.capacity.music.label "เพลง">
+<!ENTITY device.capacity.video.label "วีดีโอ">
+<!ENTITY device.capacity.image.label "รูปภาพ">
+<!ENTITY device.capacity.other.label "อื่นๆ">
+<!ENTITY device.capacity.free.label "ว่าง">
+<!ENTITY device.unsupported_media.dialog.title "พบไฟล์ที่ไม่สนับสนุน">
 <!ENTITY device.unsupported_media.dialog.enable "บอกฉันเมื่อเจอไฟล์ที่ไม่สนับสนุน">
-
 <!ENTITY device.sync.header.label "ตั้งค่าการปรับเทียบ">
 <!ENTITY device.import.header.label "นำเข้า">
 <!ENTITY device.sync.auto_sync.label "ปรับเทียบ">
 <!ENTITY device.sync.sync_all.label "เพลง, วีดีโอและรายการเล่นเพลงทั้งหมด">
 <!ENTITY device.sync.sync_selected.label "เลือกรายการเพลง:">
 <!ENTITY device.sync.playlist.title "ชื่อเพลง">
-<!ENTITY device.sync.playlist.video.duration "Video Duration">
 <!ENTITY device.sync.images.from.label "ซิงค์ข้อมูลรูปภาพจาก:">
 <!ENTITY device.sync.images.browse "เลือกโฟลเดอร์…">
 <!ENTITY device.sync.images.all.label "รูปภาพทั้งหมด">
@@ -510,292 +413,196 @@
 <!ENTITY device.sync.images.selected.label "เลือกโฟล์เดอร์ย่อย">
 <!ENTITY device.sync.images.foldername "ชื่อโฟลเดอร์">
 <!ENTITY device.sync.images.filecount "รูปภาพ">
-
 <!ENTITY device.settings.header.label "ตั้งค่า">
-<!ENTITY device.settings.general.label "General">
-<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY device.settings.music.transcoding.label "แปลงไฟล์เพลง">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
 <!ENTITY device.settings.disk.label "บริหารและจัดการดิกส์">
-<!ENTITY device.settings.disk.management.label "Customize directory structure">
 <!ENTITY device.settings.disk.management.filename "ไฟล์เพลง">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
-<!ENTITY device.settings.music.transcoding.format.label "Encoding format">
-<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
-<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
-
 <!ENTITY device.management.tabs.music.label "เพลง">
 <!ENTITY device.management.tabs.video.label "วีดีโอ">
 <!ENTITY device.management.tabs.image.label "รูปภาพ">
 <!ENTITY device.management.tabs.tools.label "เครื่องมือ">
 <!ENTITY device.management.tabs.settings.label "ตั้งค่า">
-
-<!ENTITY device.tools.product_registration.title "Product Registration">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
-<!ENTITY device.tools.product_registration.label "Register product">
-
 <!ENTITY device.tools.update_firmware.title "อัพเดทเฟริม์แวร์">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
-<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
-
-<!ENTITY device.tools.restore_device.title "Restore Device">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-
 <!ENTITY device.tools.format_device.title "ฟอแม็ทอุปกรณ์">
-<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
 <!ENTITY device.tools.format_device.label "ฟอแม็ทอุปกรณ์">
 <!ENTITY device.tools.format_volume.button.label "ฟอร์แมต">
-
-<!ENTITY device.tools.support.title "Support">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
-<!ENTITY device.tools.support.label "View support resources">
-
 <!ENTITY device.tools.reset_warnings.title "รีเซ็ตการแจ้งเตือน">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
 <!ENTITY device.tools.reset_warnings.label "รีเซ็ตข้อความแจ้งเตือน">
-
-<!ENTITY device.dialog.setup.title "Device Setup">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "ข้ามอุปกรณ์นี้">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ข้ามอุปกรณ์นี้">
-<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "เปิดลิงก์ด้วยเว็บเบราวเซอร์ปริยาย">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "เปิดหน้าในเว็บด้วยเว็บเบราวเซอร์ปริยาย">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "เปิดเฟรมด้วยเว็บเบราวเซอร์ปริยาย">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "เปิดรูปด้วยเว็บเบราวเซอร์ปริยาย">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "คัดลอกข้อความที่เลือกไว้">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "เล่น">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "ดาวน์โหลดไปยังตู้เพลง">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "ดาวน์โหลดไปยังรายการเพลง">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "a">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;ไม่มีรายการเพลง&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "สร้างรายการเพลงใหม่">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "บอกรับสมาชิกหน้านี้…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "บอกรับสมาชิกเฟรมนี้…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "ช่วยกันทำให้ &brandShortName; ให้ดีขึ้น!">
-<!ENTITY feedback.dialog.yes        "ใช่">
-<!ENTITY feedback.dialog.no         "ไม่">
-<!ENTITY feedback.dialog.sentence1  "คุณสามารถช่วยทำให้ &brandShortName; ดีขึ้นได้โดยแสดงความคิดเห็นในการทำแบบสำรวจ">
-<!ENTITY feedback.dialog.sentence2  "ถ้าคุณไม่สนใจ,เราจะไม่ถามคุณอีก ขอขอบคุณที่เลือกใช้ &brandShortName;!">
-<!ENTITY feedback.dialog.sentence3  "ด้วยความเคารพ,">
-<!ENTITY feedback.dialog.sentence4  "ทีมงาน &brandShortName;">
-
+<!ENTITY openLinkCmdInDefaultBrowser.label "เปิดลิงก์ด้วยเว็บเบราวเซอร์ปริยาย">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "เปิดหน้าในเว็บด้วยเว็บเบราวเซอร์ปริยาย">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "เปิดเฟรมด้วยเว็บเบราวเซอร์ปริยาย">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "เปิดรูปด้วยเว็บเบราวเซอร์ปริยาย">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "คัดลอกข้อความที่เลือกไว้">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "เล่น">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "ดาวน์โหลดไปยังตู้เพลง">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "ดาวน์โหลดไปยังรายการเพลง">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;ไม่มีรายการเพลง&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "สร้างรายการเพลงใหม่">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "บอกรับสมาชิกหน้านี้…">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.label "บอกรับสมาชิกเฟรมนี้…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "ช่วยกันทำให้ &brandShortName; ให้ดีขึ้น!">
+<!ENTITY feedback.dialog.yes "ใช่">
+<!ENTITY feedback.dialog.no "ไม่">
+<!ENTITY feedback.dialog.sentence1 "คุณสามารถช่วยทำให้ &brandShortName; ดีขึ้นได้โดยแสดงความคิดเห็นในการทำแบบสำรวจ">
+<!ENTITY feedback.dialog.sentence2 "ถ้าคุณไม่สนใจ,เราจะไม่ถามคุณอีก ขอขอบคุณที่เลือกใช้ &brandShortName;!">
+<!ENTITY feedback.dialog.sentence3 "ด้วยความเคารพ,">
+<!ENTITY feedback.dialog.sentence4 "ทีมงาน &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "ยินดีต้องรับสู่ &brandShortName;">
-
+<!ENTITY mediapages.firstrun.title "ยินดีต้องรับสู่ &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "ตั้งค่า &brandShortName;">
-
+<!ENTITY first_run.title "ตั้งค่า &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "ส่วนเพิ่มเติมที่แนะนำ">
+<!ENTITY first_run.add_ons.header.label "ส่วนเพิ่มเติมที่แนะนำ">
 <!ENTITY first_run.add_ons.description.line1 "ส่วนเพิ่มเติมสามารถเพิ่มขีดความสามารถของ &brandShortName; และสามารถทำให้ท่านปรับแต่งการเล่นมิเดียได้ ตัวเลือกด้านล่างนั้นแนะนำให้ใช้เป็นอย่างยิ่ง">
 <!ENTITY first_run.add_ons.description.line2 "ส่วนเพิ่มเติมสามารถหลอมเข้ากับโปรแกรมและบริการอื่น ๆ, รองรับการเชื่อมต่ออุปกรณ์ภายนอก, การเปลี่ยนแปลงรูปลักษณ์โปรแกรม และอื่น ๆ อีกมากมาย! ท่านสามารถดาวน์โหลดส่วนเพิ่มเติมได้จากเว็บของ &brandShortName;">
-<!ENTITY first_run.add_ons.loading.label     "กำลังโหลดส่วนเพิ่มเติมที่แนะนำ">
+<!ENTITY first_run.add_ons.loading.label "กำลังโหลดส่วนเพิ่มเติมที่แนะนำ">
 <!ENTITY first_run.add_ons.load_failed.label "ไม่สามารถโหลดส่วนเพิ่มเติมที่แนะนำได้">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; ไม่สามารถเชื่อมต่อกับอินเทอร์เน็ตได้">
-<!ENTITY first_run.connection.description          "ตรวจสอบตั้งค่าการติดต่อของคุณหรือไปต่อด้วยเครื่องมือช่วยเหลือการติดตั้ง">
-<!ENTITY first_run.connection.settings.button      "ตั้งค่าการเชื่อมต่อ…">
+<!ENTITY first_run.connection.header.label "&brandShortName; ไม่สามารถเชื่อมต่อกับอินเทอร์เน็ตได้">
+<!ENTITY first_run.connection.description "ตรวจสอบตั้งค่าการติดต่อของคุณหรือไปต่อด้วยเครื่องมือช่วยเหลือการติดตั้ง">
+<!ENTITY first_run.connection.settings.button "ตั้งค่าการเชื่อมต่อ…">
 <!ENTITY first_run.connection.settings.description "คอมพิวเตอร์หรือเครือข่ายของคุณได้ถูกปกป้องโดย กำแพงไฟ (Firewall) หรือ พร็อกซี่ (Proxy) หรือไม่? แก้ตั้งค่าการเชื่อต่อที่ผิดพลาดสามารถช่วยในปัญหาของการเชื่อมต่อไ้ด้">
-
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "ข้อตกลงด้านลิขสิทธิ์">
+<!ENTITY first_run.eula.header.label "ข้อตกลงด้านลิขสิทธิ์">
 <!ENTITY first_run.eula.accept_checkbox.label "ฉันได้อ่านและยอมรับข้อตกลงนี้.">
-<!ENTITY first_run.eula.language.label        "ภาษา:">
-
+<!ENTITY first_run.eula.language.label "ภาษา:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "ช่วยสร้างให้ &brandShortName; ดีกว่านี้">
-<!ENTITY first_run.feedback.description             "ท่านต้องการช่วยเราปรับปรุง &brandShortName; ให้ดียิ่งขึ้นด้วยการส่งข้อมูลเกี่ยวกับการใช้งานโปแกรมของท่านโดยไม่ระบุตัวตนของท่านหรือไม่?">
-<!ENTITY first_run.feedback.metrics.label           "เก็บข้อมูลและส่งข้อมูลกลับไปให้ทีมงาน &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description     "ข้อมูลเหล่านี้ไม่สามารถระบุถึงตัวตนของท่านได้ และไม่บันทึกข้อมูลส่วนตัวของท่านแต่อย่างใด">
-<!ENTITY first_run.feedback.email.header.label      "เก็บโพสต์ของฉัน">
-<!ENTITY first_run.feedback.email.description       "สมัครจดหมายข่าวกับเราเพื่อรับข่าวหากโปรแกรมมีการปรับปรุง">
+<!ENTITY first_run.feedback.header.label "ช่วยสร้างให้ &brandShortName; ดีกว่านี้">
+<!ENTITY first_run.feedback.description "ท่านต้องการช่วยเราปรับปรุง &brandShortName; ให้ดียิ่งขึ้นด้วยการส่งข้อมูลเกี่ยวกับการใช้งานโปแกรมของท่านโดยไม่ระบุตัวตนของท่านหรือไม่?">
+<!ENTITY first_run.feedback.metrics.label "เก็บข้อมูลและส่งข้อมูลกลับไปให้ทีมงาน &brandShortName;">
+<!ENTITY first_run.feedback.metrics.description "ข้อมูลเหล่านี้ไม่สามารถระบุถึงตัวตนของท่านได้ และไม่บันทึกข้อมูลส่วนตัวของท่านแต่อย่างใด">
+<!ENTITY first_run.feedback.email.header.label "เก็บโพสต์ของฉัน">
+<!ENTITY first_run.feedback.email.description "สมัครจดหมายข่าวกับเราเพื่อรับข่าวหากโปรแกรมมีการปรับปรุง">
 <!ENTITY first_run.feedback.email.textbox.emptytext "ใส่อีเมลของคุณเพื่อรับข่าวสารการเปลี่ยนแปลง">
-
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "นำเข้า / ส่งออก จาก iTunes">
-<!ENTITY first_run.itunes.description                   "ดูเหมือนว่าท่านลงโปรแกรม iTunes ไว้ในเครื่อง &brandShortName; สามารถปรับแต่งค่าให้นำเข้าและ/หรือส่งออกเพลงระหว่าง &brandShortName; และ iTunes ดังนั้นท่านสามารถทำให้เพลงในตู้เพลงของท่านในทั้งสองโปรแกรมให้เหมือนกันได้">
-<!ENTITY first_run.itunes.checkbox.import.label         "นำเข้าเพลงและรายการเพลงจาก iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "ท่านสามารถนำพอดแคสต์ และ เพลง ที่ซื้อจาก iTunes Store เข้ามาใน &brandShortName; ได้ โดยหากท่านเลือกให้ &brandShortName; เป็นตัวเล่นเพลงหลักของระบบจะทำให้ความสามารถนี้ทำงานได้ดี">
-<!ENTITY first_run.itunes.checkbox.export.label         "ส่งออกเพลงใหม่และรายการเพลงไปยัง iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "เพลงที่ &brandShortName; นำเข้ามาจะถูกส่งต่อไปยัง iTunes นั่นทำให้ท่านสามารถโอนไปยัง iPod หรือ iPhone ได้">
-
+<!ENTITY first_run.itunes.header.label "นำเข้า / ส่งออก จาก iTunes">
+<!ENTITY first_run.itunes.description "ดูเหมือนว่าท่านลงโปรแกรม iTunes ไว้ในเครื่อง &brandShortName; สามารถปรับแต่งค่าให้นำเข้าและ/หรือส่งออกเพลงระหว่าง &brandShortName; และ iTunes ดังนั้นท่านสามารถทำให้เพลงในตู้เพลงของท่านในทั้งสองโปรแกรมให้เหมือนกันได้">
+<!ENTITY first_run.itunes.checkbox.import.label "นำเข้าเพลงและรายการเพลงจาก iTunes">
+<!ENTITY first_run.itunes.checkbox.import.description "ท่านสามารถนำพอดแคสต์ และ เพลง ที่ซื้อจาก iTunes Store เข้ามาใน &brandShortName; ได้ โดยหากท่านเลือกให้ &brandShortName; เป็นตัวเล่นเพลงหลักของระบบจะทำให้ความสามารถนี้ทำงานได้ดี">
+<!ENTITY first_run.itunes.checkbox.export.label "ส่งออกเพลงใหม่และรายการเพลงไปยัง iTunes">
+<!ENTITY first_run.itunes.checkbox.export.description "เพลงที่ &brandShortName; นำเข้ามาจะถูกส่งต่อไปยัง iTunes นั่นทำให้ท่านสามารถโอนไปยัง iPod หรือ iPhone ได้">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "นำมิเดียเข้า">
-<!ENTITY first_run.import_media.description                  "เลือกมิเดียที่ท่านต้องการนำเข้า &brandShortName; อย่างไรก็ตามหลังจากนี้เมื่อท่านเปิดโปรแกรม &brandShortName; ท่านสามารถเพิ่มเติมมิเดียได้อีกหลายทาง">
+<!ENTITY first_run.import_media.header.label "นำมิเดียเข้า">
+<!ENTITY first_run.import_media.description "เลือกมิเดียที่ท่านต้องการนำเข้า &brandShortName; อย่างไรก็ตามหลังจากนี้เมื่อท่านเปิดโปรแกรม &brandShortName; ท่านสามารถเพิ่มเติมมิเดียได้อีกหลายทาง">
 <!ENTITY first_run.import_media.radio.scan_directories.label "สแกนจากไดเรคทรอรีในคอมพิวเตอร์">
-<!ENTITY first_run.import_media.radio.dont_import.label      "อย่านำมิเดียเข้า">
+<!ENTITY first_run.import_media.radio.dont_import.label "อย่านำมิเดียเข้า">
 <!ENTITY first_run.import_media.scan_directories.description "ท่านต้องการให้ &brandShortName; พยายามนำสื่อต่าง ๆ เข้ามาโดยการระบุบไดเรคทอรีที่ต้องการสแกนในคอมพิวเตอร์ของท่านหรือไม่?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "จับตามองโฟลเดอร์นี้เพื่อดูการเปลี่ยนแปลง">
-
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "กำลังดาวน์โหลดส่วนเพิ่มเติม">
-
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY first_run.welcome.header.label "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "&brandShortName; เป็นโปรแกรมสำหรับเล่นมิเดียที่ท่านสามารถปรับแต่งได้มากเมื่อเทียบกับโปรแกรมเล่นมิเดียทั่วไป">
 <!ENTITY first_run.welcome.description.line2 "ตัวช่วยเหลือการปรับแต่งนี้สามารถช่วยให้ท่านปรับแต่ง &brandShortName; ได้รวดเร็วและมีประสิทธิภาพ">
-
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "ตัวนำเข้าสื่อ">
-
+<!ENTITY import_media.prefs.title "ตัวนำเข้าสื่อ">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "นำตู้เพลงเข้ามา">
-<!ENTITY import_library.prefs.title                       "การนำ iTunes เข้า">
-<!ENTITY import_library.library_file_label                "ไฟล์ตู้เพลง:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "เตือนฉันหากมีแทรคหรือรายการเพลงที่เล่นไม่ได้ไม่ได้ถูกนำเข้ามา">
-<!ENTITY import_library.prefs.path_group_caption          "ที่ตั้งของรายการของ iTunes">
-<!ENTITY import_library.prefs.options_group_caption       "ตัวเลือกการนำเข้า">
-<!ENTITY import_library.import_command                    "นำตู้เพลงเข้า">
-<!ENTITY import_tracks_itunes_checkbox                    "นำเข้าเพลงจาก iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "นำเข้ารายการเพลง">
-<!ENTITY export_tracks_itunes_checkbox                    "ส่งออกเพลงไปยัง iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "ส่งออกรายการเพลง">
-<!ENTITY export_subscriptions_itunes_checkbox             "ส่งออกการบอกรับ">
-<!ENTITY export_smartplaylists_itunes_checkbox            "ส่งออกรายการเพลงชาญฉลาด">
-<!ENTITY importexport_show_notifications_checkbox         "แจ้งเมื่อการนำเข้า/ส่งออกเสร็จ">
-
+<!ENTITY import_library.dialog.title "นำตู้เพลงเข้ามา">
+<!ENTITY import_library.prefs.title "การนำ iTunes เข้า">
+<!ENTITY import_library.library_file_label "ไฟล์ตู้เพลง:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "เตือนฉันหากมีแทรคหรือรายการเพลงที่เล่นไม่ได้ไม่ได้ถูกนำเข้ามา">
+<!ENTITY import_library.prefs.path_group_caption "ที่ตั้งของรายการของ iTunes">
+<!ENTITY import_library.prefs.options_group_caption "ตัวเลือกการนำเข้า">
+<!ENTITY import_library.import_command "นำตู้เพลงเข้า">
+<!ENTITY import_tracks_itunes_checkbox "นำเข้าเพลงจาก iTunes">
+<!ENTITY import_playlists_itunes_checkbox "นำเข้ารายการเพลง">
+<!ENTITY export_tracks_itunes_checkbox "ส่งออกเพลงไปยัง iTunes">
+<!ENTITY export_playlists_itunes_checkbox "ส่งออกรายการเพลง">
+<!ENTITY export_subscriptions_itunes_checkbox "ส่งออกการบอกรับ">
+<!ENTITY export_smartplaylists_itunes_checkbox "ส่งออกรายการเพลงชาญฉลาด">
+<!ENTITY importexport_show_notifications_checkbox "แจ้งเมื่อการนำเข้า/ส่งออกเสร็จ">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "เปลี่ยนแปลงรายการเพลงแล้ว">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "เก็บรายการเพลงปัจจุบันของ &brandShortName; (อย่านำรายการเพลงนี้เข้ามาเพิ่ม)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "รวมรายการเพลง &brandShortName; และ iTunes เข้าด้วยกัน">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "ทำซ้ำรายการเพลงของ &brandShortName; ด้วยรายการเพลงปัจจุบันของ iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note         "แนะนำ: การรวมและการทำซ้ำไม่สามารถย้อนค่าได้.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "ใช้สิ่งที่เลือกสำหรับตู้เพลงทั้งหมด">
-
-<!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-
+<!ENTITY import_library.dirty_playlist_dialog.title "เปลี่ยนแปลงรายการเพลงแล้ว">
+<!ENTITY import_library.dirty_playlist_dialog.keep "เก็บรายการเพลงปัจจุบันของ &brandShortName; (อย่านำรายการเพลงนี้เข้ามาเพิ่ม)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "รวมรายการเพลง &brandShortName; และ iTunes เข้าด้วยกัน">
+<!ENTITY import_library.dirty_playlist_dialog.replace "ทำซ้ำรายการเพลงของ &brandShortName; ด้วยรายการเพลงปัจจุบันของ iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.note "แนะนำ: การรวมและการทำซ้ำไม่สามารถย้อนค่าได้.">
+<!ENTITY import_library.dirty_playlist_dialog.apply_all "ใช้สิ่งที่เลือกสำหรับตู้เพลงทั้งหมด">
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "จับตามองโฟลเดอร์">
+<!ENTITY watch_folder.prefs.title "จับตามองโฟลเดอร์">
 <!ENTITY watch_folder.prefs.settings_group_caption "ตั้งค่าการจับตามองโฟลเดอร์">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; สามารถจับตาเนื้อหาของโฟลเดอร์และเพิ่มหรือลบไฟล์ที่อยู่ในนั้นได้">
-<!ENTITY watch_folder.prefs.enable_checkbox        "จับตาการเปลี่ยนโฟลเดอร์เหล่านี้อัตโนมัติ">
-<!ENTITY watch_folder.prefs.watch_folder_label     "โฟลเดอร์:">
-
+<!ENTITY watch_folder.prefs.description "&brandShortName; สามารถจับตาเนื้อหาของโฟลเดอร์และเพิ่มหรือลบไฟล์ที่อยู่ในนั้นได้">
+<!ENTITY watch_folder.prefs.enable_checkbox "จับตาการเปลี่ยนโฟลเดอร์เหล่านี้อัตโนมัติ">
+<!ENTITY watch_folder.prefs.watch_folder_label "โฟลเดอร์:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "ส่วนเพิ่มเติมที่แนะนำ">
+<!ENTITY enable_recommended_addons_update.label "ส่วนเพิ่มเติมที่แนะนำ">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
-
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; ติดตั้ง">
-
+<!ENTITY recommended_add_ons.title "&brandShortName; ติดตั้ง">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "รายละเอียด">
-
+<!ENTITY add_on_bundle_installer.error_box.label "รายละเอียด">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "ไม่ได้เล่นอะไรอยู่" >
-<!ENTITY albumart.displaypane.not_selected_message  "ไม่ได้เลือกอะไรอยู่" >
-<!ENTITY albumart.displaypane.drag_and_drop  "ลากปกอัลบัมมาที่นี่" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "แสดงที่ถูกเลือก" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "แสดงที่กำลังเล่นอยู่" >
+<!ENTITY albumart.displaypane.not_playing_message "ไม่ได้เล่นอะไรอยู่">
+<!ENTITY albumart.displaypane.not_selected_message "ไม่ได้เลือกอะไรอยู่">
+<!ENTITY albumart.displaypane.drag_and_drop "ลากปกอัลบัมมาที่นี่">
+<!ENTITY albumart.displaypane.contextmenu.showselected "แสดงที่ถูกเลือก">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "แสดงที่กำลังเล่นอยู่">
 <!ENTITY albumart.displaypane.selected.menu.cut "ตัด">
 <!ENTITY albumart.displaypane.selected.menu.copy "คัดลอก">
 <!ENTITY albumart.displaypane.selected.menu.paste "วาง">
 <!ENTITY albumart.displaypane.selected.menu.clear "ล้าง">
 <!ENTITY albumart.coverpreview.title "ปกอัลบัม">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "ปกอัลบัม">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "เขียนข้อมูลปกอัลบัมไปยังข้อมูลกำกับไฟล์">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "ทำให้ &brandShortName; สามารถแทรกปกอัลบัมลงในแท็กที่เข้ากันได้ลงไฟล์">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "ค้นหาชื่อไฟล์:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "ใส่รายการที่มีจุลภาคคั่นสำหรับชื่อไฟล์นี้">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "ค้นหารูปแบบไฟล์:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "ใส่รายการที่มีจุลภาคคั่นสำหรับตัวเสริมนี้">
-
 <!ENTITY albumartpreferences.prefpane.priorities.label "ลำดับการดึง">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "ขึ้น">
 <!ENTITY albumartpreferences.prefpane.priorities.down "ลง">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "ล้างค่า">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "กลับไป">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "ยกเลิก">
-<!ENTITY wizard.button.next.label      "ต่อไป">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "เสร็จสิ้น">
-
+<!ENTITY wizard.button.back.label "กลับไป">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "ยกเลิก">
+<!ENTITY wizard.button.next.label "ต่อไป">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "เสร็จสิ้น">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Mediacore ผิดพลาด">
-<!ENTITY mediacore.error.preface  "&brandShortName; พบปัญหามิเเดียคอร์ดังต่อไปนี้:">
+<!ENTITY mediacore.error.title "Mediacore ผิดพลาด">
+<!ENTITY mediacore.error.preface "&brandShortName; พบปัญหามิเเดียคอร์ดังต่อไปนี้:">
 <!ENTITY mediacore.error.continue "ต่อไป">
-<!ENTITY mediacore.error.stop     "หยุดการเล่น">
+<!ENTITY mediacore.error.stop "หยุดการเล่น">
 <!ENTITY mediacore.error.dontshowme "ไม่ต้องแสดงรายการผิดพลาดของมิเดียคอร์อีกต่อไป">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
-<!ENTITY mediacore.error.codec_not_found.text.post "">
-
-<!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "เล่น">
-
-<!ENTITY playback.prefpane.audio_output.label   "เสียงขาออก">
-<!ENTITY playback.prefpane.audio_output.buffer  "บัฟเฟอร์สัญญาณออก:">
-
-<!ENTITY playback.prefpane.streaming.label      "เครือข่ายและสตรีมมิง">
-<!ENTITY playback.prefpane.streaming.buffer     "บัฟเฟอร์สำหรับสตรีมมิง:">
-
-<!ENTITY playback.prefpane.normalization.label  "ปรับระดับเสียงให้ดังเท่ากัน">
+<!ENTITY playback.prefpane.label "เล่น">
+<!ENTITY playback.prefpane.audio_output.label "เสียงขาออก">
+<!ENTITY playback.prefpane.audio_output.buffer "บัฟเฟอร์สัญญาณออก:">
+<!ENTITY playback.prefpane.streaming.label "เครือข่ายและสตรีมมิง">
+<!ENTITY playback.prefpane.streaming.buffer "บัฟเฟอร์สำหรับสตรีมมิง:">
+<!ENTITY playback.prefpane.normalization.label "ปรับระดับเสียงให้ดังเท่ากัน">
 <!ENTITY playback.prefpane.normalization.enable "ปรับระดับเสียงให้ดังเท่ากันหากสามารถทำได้">
-
 <!ENTITY playback.prefpane.normalization.preferredGain.label "ข้อมูลระดับเสียงที่ต้องการ:">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "อัลบัม">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "แทรค">
-
-<!ENTITY playback.prefpane.units.kilobytes  "kB">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY fetch_album_art.dialog.title "โหลดปกอัลบัม">
 <!ENTITY fetch_album_art.dialog.message "ยังทำไม่เสร็จ (ดูบั๊ก 14281)">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "ศิลปิน">
-<!ENTITY cdrip.lookup.info_not_found.album  "อัลบัม">
-<!ENTITY cdrip.lookup.info_not_found.title  "ไม่พบข้อมูลซีดี">
-<!ENTITY cdrip.lookup.info_not_found.descr  "ท่านสามารถเพิ่มชื่อศิลปินและอัลบัมที่นี่ ท่านสามารถแก้ไขข้อมูลที่เหลือภายในรายการซีดีที่ดึงลงมาได้">
-<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.info_not_found.album "อัลบัม">
+<!ENTITY cdrip.lookup.info_not_found.title "ไม่พบข้อมูลซีดี">
+<!ENTITY cdrip.lookup.info_not_found.descr "ท่านสามารถเพิ่มชื่อศิลปินและอัลบัมที่นี่ ท่านสามารถแก้ไขข้อมูลที่เหลือภายในรายการซีดีที่ดึงลงมาได้">
 <!ENTITY cdrip.lookup.track_name "ชื่อเพลง">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "แปลงซีดีเป็นไฟล์">
 <!ENTITY cdrip.prefpane.format "ฟอร์แมต">
@@ -803,35 +610,15 @@
 <!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
 <!ENTITY cdrip.prefpane.eject_after_rip "เมื่อแปลงซีดีเป็นไฟล์เสร็จให้ดีดซีดีออก">
 <!ENTITY cdrip.prefpane.soundalert_after_rip "เมื่อแปลงซีดีเป็นไฟล์เสร็จให้แจ้งเตือนด้วยเสียง">
-<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
-<!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Rip Settings">
-<!ENTITY cdrip.mediaview.format_label              "ฟอร์แมต:">
-<!ENTITY cdrip.mediaview.quality_label             "คุณภาพ">
-<!ENTITY cdrip.mediaview.settings_button           "ตั้งค่า">
-<!ENTITY cdrip.mediaview.rip_cd_button             "แปลงซีดี">
-<!ENTITY cdrip.mediaview.stop_rip_button           "หยุดการแปลง">
-<!ENTITY cdrip.mediaview.view_tracks_button        "ดูแทร็ก">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Eject CD">
-
+<!ENTITY cdrip.mediaview.format_label "ฟอร์แมต:">
+<!ENTITY cdrip.mediaview.quality_label "คุณภาพ">
+<!ENTITY cdrip.mediaview.settings_button "ตั้งค่า">
+<!ENTITY cdrip.mediaview.rip_cd_button "แปลงซีดี">
+<!ENTITY cdrip.mediaview.stop_rip_button "หยุดการแปลง">
+<!ENTITY cdrip.mediaview.view_tracks_button "ดูแทร็ก">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
-<!-- Video Window entities -->
-<!ENTITY videowindow.title "Video Window">
-<!ENTITY videowindow.actualsize "Actual Size">
+<!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY videowindow.fullscreen "เต็มจอ">
-
-<!ENTITY videowindow.fullscreen.key   "F">
-<!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "ขอขอบคุณเหล่าผู้มีส่วนร่วมในการสร้าง Songbird ทุกท่าน บุคคลเหล่านี้ช่วยในการเรียบเรียงโคด เขียนเอกสาร และการทดสอบการใช้งานโปรแกรม นอกจากนั้นยังช่วยดูแลผลิตภัณฑ์นี้ รวมถึงชุดการพัฒนา อุปกรณ์ที่ช่วยเหลือในการพัฒนา และเว็บไซต์ของเราด้วย ชื่อเหล่านี้เป็นชื่อเล่นทาง IRC อย่าลืมทักเมื่อแวะเข้าไปที่ #songbird บนเซิร์ฟเวอร์ irc.mozilla.org นะ">
 <!ENTITY about.credits.footer.beforeLink "แน่นอน งานนี้จะไม่สำเร็จหากขาดความทุ่มเทและมีส่วนร่วมจาก">
@@ -839,18 +626,8 @@
 <!ENTITY about.credits.footer.afterLink "ไปยังโครงการมอซิลลา">
 <!ENTITY about.credits.heading.translators "ทีมแปล">
 <!ENTITY about.credits.heading.champs "เหล่าเทพ">
-<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
-<!ENTITY about.credits.description.champs.link.post "They are the most prolific guys on our forum, and tirelessly work to ensure that every Songbird user is a happy Songbird user.">
-
-<!ENTITY cdrip.lookup.multiple.title       "พบข้อมูลซีดีมากกว่าหนึ่งบันทึก">
+<!ENTITY cdrip.lookup.multiple.title "พบข้อมูลซีดีมากกว่าหนึ่งบันทึก">
 <!ENTITY cdrip.lookup.multiple.description "เลือกอย่างน้อยหนึ่งอย่างหรือเพิ่มข้อมูลของท่านเอง">
-<!ENTITY cdinfo.other.label                "เพิ่มข้อมูลศิลปินและอัลบัม">
-
+<!ENTITY cdinfo.other.label "เพิ่มข้อมูลศิลปินและอัลบัม">
 <!ENTITY playqueue.label "เล่นในรายการคิว">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
 <!ENTITY playqueue.inprogress "เพิ่มแทร็ก">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >

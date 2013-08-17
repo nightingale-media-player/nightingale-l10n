@@ -1,837 +1,441 @@
-<!ENTITY songbird           "&brandShortName;" >
-<!ENTITY window.ok          "OK" >
-<!ENTITY window.cancel      "Kanselleer" >
-<!ENTITY window.apply       "Pas toe" >
-<!ENTITY window.browse      "Soek…" >
-<!ENTITY window.save        "Stoor">
-<!ENTITY window.yes         "Ja">
-<!ENTITY window.no          "Nee">
-
-<!-- Mac system menu -->
-<!ENTITY menu.mac.exit                  "Quit &brandShortName;" >
-<!ENTITY menu.mac.exit.key              "Q">
-<!ENTITY menu.mac.exit.modifiers        "accel">
-<!ENTITY menu.mac.preferences           "Preferences">
-<!ENTITY menu.mac.preferences.key       ",">
-<!ENTITY menu.mac.preferences.modifiers "accel">
-<!ENTITY menu.mac.services              "Services">
-<!ENTITY menu.mac.hide                  "Versteek &brandShortName;">
-<!ENTITY menu.mac.hide.key              "H">
-<!ENTITY menu.mac.hide.modifiers        "accel">
-<!ENTITY menu.mac.hideothers            "Hide Others">
-<!ENTITY menu.mac.hideothers.key        "H">
-<!ENTITY menu.mac.hideothers.modifiers  "accel,alt">
-<!ENTITY menu.mac.showall               "Show All">
-<!ENTITY menu.mac.minimize.key          "M">
-
-<!ENTITY menu.file              "Lêer" >
-<!ENTITY menu.file.new          "Nuwe Speellys…" >
-<!ENTITY menu.file.smart        "Nuwe Slim Speellys" >
-<!ENTITY menu.file.remote       "Nuwe Intekening…" >
-<!ENTITY menu.file.podcast      "Nuwe Potgooi" >
-<!ENTITY menu.file.open         "Maak &apos;n Lêer oop…" >
-<!ENTITY menu.file.url          "Maak oop van URL…" >
-<!ENTITY menu.file.playlist     "Voer &apos;n Speellys in…" >
-<!ENTITY menu.file.library      "Import a Library…" >
-<!ENTITY menu.file.newtab       "New Tab" >
-<!ENTITY menu.file.closetab     "Close Tab" >
-<!ENTITY menu.file.metadata     "View Metadata">
-<!ENTITY menu.file.scan         "Voer Media in…" >
-<!ENTITY menu.file.exit         "Verlaat" >
-
-<!ENTITY menu.edit          "Wysig" >
-<!ENTITY menu.edit.undo     "Roep terug" >
-<!ENTITY menu.edit.redo     "Herdoen" >
-<!ENTITY menu.edit.cut      "Sny" >
-<!ENTITY menu.edit.copy     "Kopiëer" >
-<!ENTITY menu.edit.paste    "Plak" >
-<!ENTITY menu.edit.delete   "Skrap" >
-<!ENTITY menu.edit.selall   "Kies Alles" >
-<!ENTITY menu.edit.find        "Vind" >
-<!ENTITY menu.edit.findagain   "Vind Weer" >
-
-<!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences           "Preferences">
-<!ENTITY menu.linux.preferences.accesskey "N">
-
-<!ENTITY menu.controls      "Kontrole" >
-<!ENTITY menu.control.play  "Speel" >
-<!ENTITY menu.control.pause "Pouseer" >
-<!ENTITY menu.control.next  "Volgende Snit" >
-<!ENTITY menu.control.prev  "Vorige Snit" >
-<!ENTITY menu.control.shuf  "Skuifel" >
-<!ENTITY menu.control.repa  "Herhaal Alles" >
-<!ENTITY menu.control.rep1  "Herhaal Een" >
-<!ENTITY menu.control.repx  "Herhaal Geen" >
-<!ENTITY menu.control.jumpto "Spring Na…" >
-
-<!ENTITY menu.control.play.button      "Speel" >
-<!ENTITY menu.control.pause.button     "Pouseer" >
-<!ENTITY menu.control.stop.button      "Staak" >
-
-<!ENTITY displaypane.default.image.pre "Select an add-on from the">
-<!ENTITY displaypane.default.image.tooltip "Add-on Picker Icon">
-<!ENTITY displaypane.default.image.post "menu or visit the">
-<!ENTITY displaypane.default.link.pre "">
-<!ENTITY displaypane.default.link.text "Add-on Site">
-<!ENTITY displaypane.default.link.post "to browse add-ons.">
-<!ENTITY displaypane.name.servicepane   "Dienspaneel Onder">
-<!ENTITY displaypane.name.browser       "Inhoudspaneel Onder">
-<!ENTITY displaypane.name.sidebar       "Right Sidebar">
-<!ENTITY servicepane.title.label        "Dienspaneel">
-
-<!ENTITY menu.tools            "Tools" >
+<!ENTITY window.ok "OK">
+<!ENTITY window.cancel "Kanselleer">
+<!ENTITY window.apply "Pas toe">
+<!ENTITY window.browse "Soek…">
+<!ENTITY window.save "Stoor">
+<!ENTITY window.yes "Ja">
+<!ENTITY window.no "Nee">
+<!ENTITY menu.mac.hide "Versteek &brandShortName;">
+<!ENTITY menu.file "Lêer">
+<!ENTITY menu.file.new "Nuwe Speellys…">
+<!ENTITY menu.file.smart "Nuwe Slim Speellys">
+<!ENTITY menu.file.remote "Nuwe Intekening…">
+<!ENTITY menu.file.podcast "Nuwe Potgooi">
+<!ENTITY menu.file.open "Maak &apos;n Lêer oop…">
+<!ENTITY menu.file.url "Maak oop van URL…">
+<!ENTITY menu.file.playlist "Voer &apos;n Speellys in…">
+<!ENTITY menu.file.scan "Voer Media in…">
+<!ENTITY menu.file.exit "Verlaat">
+<!ENTITY menu.edit "Wysig">
+<!ENTITY menu.edit.undo "Roep terug">
+<!ENTITY menu.edit.redo "Herdoen">
+<!ENTITY menu.edit.cut "Sny">
+<!ENTITY menu.edit.copy "Kopiëer">
+<!ENTITY menu.edit.paste "Plak">
+<!ENTITY menu.edit.delete "Skrap">
+<!ENTITY menu.edit.selall "Kies Alles">
+<!ENTITY menu.edit.find "Vind">
+<!ENTITY menu.edit.findagain "Vind Weer">
+<!ENTITY menu.controls "Kontrole">
+<!ENTITY menu.control.play "Speel">
+<!ENTITY menu.control.pause "Pouseer">
+<!ENTITY menu.control.next "Volgende Snit">
+<!ENTITY menu.control.prev "Vorige Snit">
+<!ENTITY menu.control.shuf "Skuifel">
+<!ENTITY menu.control.repa "Herhaal Alles">
+<!ENTITY menu.control.rep1 "Herhaal Een">
+<!ENTITY menu.control.repx "Herhaal Geen">
+<!ENTITY menu.control.jumpto "Spring Na…">
+<!ENTITY menu.control.play.button "Speel">
+<!ENTITY menu.control.pause.button "Pouseer">
+<!ENTITY menu.control.stop.button "Staak">
+<!ENTITY displaypane.name.servicepane "Dienspaneel Onder">
+<!ENTITY displaypane.name.browser "Inhoudspaneel Onder">
+<!ENTITY servicepane.title.label "Dienspaneel">
 <!ENTITY menu.tools.getartwork "Kry Albumkunswerk">
-<!ENTITY menu.tools.exportmedia "Export Library Changes">
-
-<!ENTITY menu.help          "Help" >
-<!ENTITY menu.help.homepage "&brandShortName; Website" >
-<!ENTITY menu.help.bugz     "Raporteer &apos;n fout…" >
-<!ENTITY menu.help.topics   "Hulp-onderwerpe" >
+<!ENTITY menu.help "Help">
+<!ENTITY menu.help.bugz "Raporteer &apos;n fout…">
+<!ENTITY menu.help.topics "Hulp-onderwerpe">
 <!ENTITY menu.help.keyboard "Sleutelbord-kortpaaie">
-<!ENTITY menu.help.about    "Oor &brandShortName;" >
-
-<!ENTITY menu.equalizer     "" >
-<!ENTITY menu.preferences   "Opsies" >
-<!ENTITY menu.extensions    "Uitbreidings" >
+<!ENTITY menu.help.about "Oor &brandShortName;">
+<!ENTITY menu.equalizer "">
+<!ENTITY menu.preferences "Opsies">
+<!ENTITY menu.extensions "Uitbreidings">
 <!ENTITY menu.clearprivatedata "Wys Private Data">
 <!ENTITY menu.errorconsole "Foutkonsole">
-<!ENTITY menu.downloadmgr   "Lêer Aflaai-sessies" >
-<!ENTITY menu.switchplayercontrols  "Speler Kontrole" >
-<!ENTITY menu.controllerontop       "Vertoon Bo-aan">
-<!ENTITY menu.controlleronbottom    "Vertoon Onderaan">
-
-<!ENTITY menu.fullscreen            "Full Screen">
-<!ENTITY menu.videotofront          "Video to Front">
-
-<!ENTITY device.dialog.wait_for_completion.title  "Wag tans vir toestelle">
-<!ENTITY device.dialog.wait_for_completion.msg    "Waiting for all device operations to complete.  Click &quot;Quit&quot; to stop waiting and quit application.">
-<!ENTITY device.dialog.wait_for_completion.quit   "Maak toe">
-
-<!ENTITY tooltip.minimize         "Minimaliseer" >
-<!ENTITY tooltip.maximize         "Maksimeer/Herstel" >
-<!ENTITY tooltip.exit             "Verlaat" >
-<!ENTITY tooltip.close            "Close" >
-<!ENTITY tooltip.hide             "Versteek" >
-<!ENTITY tooltip.fullscreen       "Volskerm" >
-<!ENTITY tooltip.control.back     "Vorige Snit" >
-<!ENTITY tooltip.control.play     "Speel" >
-<!ENTITY tooltip.control.pause    "Pouseer" >
-<!ENTITY tooltip.control.resume   "Hervat" >
-<!ENTITY tooltip.control.stop     "Stop" >
-<!ENTITY tooltip.control.fwd      "Volgende Snit" >
-<!ENTITY tooltip.control.mute     "Mute" >
-<!ENTITY tooltip.control.volume   "Volume" >
-<!ENTITY tooltip.control.shuffle  "Skommel" >
-<!ENTITY tooltip.control.shuf_off "Skommel Af" >
-<!ENTITY tooltip.control.curtrack "Vind Huidige Snit" >
-<!ENTITY tooltip.search           "Soek" >
-<!ENTITY tooltip.browser.back     "Deursoek Terug" >
-<!ENTITY tooltip.browser.fwd      "Deursoek Voorentoe" >
-<!ENTITY tooltip.browser.stop     "Stop Deursoeker" >
-<!ENTITY tooltip.browser.home     "Tuis" >
-<!ENTITY tooltip.browser.refresh  "Verfris" >
-<!ENTITY tooltip.browser.subscription "Teken in op hierdie bladsy" >
-<!ENTITY tooltip.browser.mediapages.list "Lysaansig" >
-<!ENTITY tooltip.browser.mediapages.filter "Filter Pane View" >
-<!ENTITY tooltip.browser.mediapages "Switch Media Views…" >
-<!ENTITY tooltip.servicepane.show    "Toon Dienspaneel" >
-<!ENTITY tooltip.servicepane.collapse    "Kollabeer Dienspaneel" >
-<!ENTITY tooltip.servicepane.newnode "Nuwe Speellys" >
-<!ENTITY tooltip.displaypane.options "Content Pane Options">
-
-<!ENTITY smart.window             "&quot;Smart&quot; Speellys Maker" >
-<!ENTITY smart.limit              "Beperk tot" >
-<!ENTITY smart.match              "Match" >
-<!ENTITY smart.matchsingle        "Match the following condition:" >
-<!ENTITY smart.any                "enige" >
-<!ENTITY smart.all                "alle" >
-<!ENTITY smart.following          "van die volgende vereiste(s):" >
-<!ENTITY smart.random             "lukraak" >
-<!ENTITY smart.album              "album" >
-<!ENTITY smart.artist             "kunstenaar" >
-<!ENTITY smart.genre              "genre" >
-<!ENTITY smart.title              "titel" >
-<!ENTITY smart.high_rating        "highest rating" >
-<!ENTITY smart.low_rating         "lowest rating" >
-<!ENTITY smart.most_recent        "mees onlangs" >
-<!ENTITY smart.least_recent       "minste onlangs" >
-<!ENTITY smart.most_often         "mees gereeld" >
-<!ENTITY smart.least_often        "minste gereeld" >
-<!ENTITY smart.most_added         "meeste bygevoeg" >
-<!ENTITY smart.least_added        "minste bygevoeg" >
-<!ENTITY smart.minutes            "minute" >
-<!ENTITY smart.hours              "ure" >
-<!ENTITY smart.mb                 "MB" >
-<!ENTITY smart.gb                 "GB" >
-<!ENTITY smart.songs              "liedere" >
-<!ENTITY smart.selectedby         "geselekteer deur" >
-<!ENTITY smart.to                 "na" >
-<!ENTITY smart.autoupdate         "Opdateer outomaties">
+<!ENTITY menu.downloadmgr "Lêer Aflaai-sessies">
+<!ENTITY menu.switchplayercontrols "Speler Kontrole">
+<!ENTITY menu.controllerontop "Vertoon Bo-aan">
+<!ENTITY menu.controlleronbottom "Vertoon Onderaan">
+<!ENTITY device.dialog.wait_for_completion.title "Wag tans vir toestelle">
+<!ENTITY device.dialog.wait_for_completion.quit "Maak toe">
+<!ENTITY tooltip.minimize "Minimaliseer">
+<!ENTITY tooltip.maximize "Maksimeer/Herstel">
+<!ENTITY tooltip.exit "Verlaat">
+<!ENTITY tooltip.hide "Versteek">
+<!ENTITY tooltip.fullscreen "Volskerm">
+<!ENTITY tooltip.control.back "Vorige Snit">
+<!ENTITY tooltip.control.play "Speel">
+<!ENTITY tooltip.control.pause "Pouseer">
+<!ENTITY tooltip.control.resume "Hervat">
+<!ENTITY tooltip.control.stop "Stop">
+<!ENTITY tooltip.control.fwd "Volgende Snit">
+<!ENTITY tooltip.control.volume "Volume">
+<!ENTITY tooltip.control.shuffle "Skommel">
+<!ENTITY tooltip.control.shuf_off "Skommel Af">
+<!ENTITY tooltip.control.curtrack "Vind Huidige Snit">
+<!ENTITY tooltip.search "Soek">
+<!ENTITY tooltip.browser.back "Deursoek Terug">
+<!ENTITY tooltip.browser.fwd "Deursoek Voorentoe">
+<!ENTITY tooltip.browser.stop "Stop Deursoeker">
+<!ENTITY tooltip.browser.home "Tuis">
+<!ENTITY tooltip.browser.refresh "Verfris">
+<!ENTITY tooltip.browser.subscription "Teken in op hierdie bladsy">
+<!ENTITY tooltip.browser.mediapages.list "Lysaansig">
+<!ENTITY tooltip.servicepane.show "Toon Dienspaneel">
+<!ENTITY tooltip.servicepane.collapse "Kollabeer Dienspaneel">
+<!ENTITY tooltip.servicepane.newnode "Nuwe Speellys">
+<!ENTITY smart.window "&quot;Smart&quot; Speellys Maker">
+<!ENTITY smart.limit "Beperk tot">
+<!ENTITY smart.any "enige">
+<!ENTITY smart.all "alle">
+<!ENTITY smart.following "van die volgende vereiste(s):">
+<!ENTITY smart.random "lukraak">
+<!ENTITY smart.album "album">
+<!ENTITY smart.artist "kunstenaar">
+<!ENTITY smart.genre "genre">
+<!ENTITY smart.title "titel">
+<!ENTITY smart.most_recent "mees onlangs">
+<!ENTITY smart.least_recent "minste onlangs">
+<!ENTITY smart.most_often "mees gereeld">
+<!ENTITY smart.least_often "minste gereeld">
+<!ENTITY smart.most_added "meeste bygevoeg">
+<!ENTITY smart.least_added "minste bygevoeg">
+<!ENTITY smart.minutes "minute">
+<!ENTITY smart.hours "ure">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "liedere">
+<!ENTITY smart.selectedby "geselekteer deur">
+<!ENTITY smart.to "na">
+<!ENTITY smart.autoupdate "Opdateer outomaties">
 <!ENTITY smart.playlistcondition.library "Versameling">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Musiek">
-
-<!ENTITY textbox.songbird_open_url "Enter the URL or path of the media you wish to playback:">
-
-<!ENTITY open_url.title           "Maak URL oop">
-<!ENTITY subscribe.title          "Teken in">
-<!ENTITY subscribe.url            "URL:">
-<!ENTITY subscribe.minutes        "Minuut/Minute">
-<!ENTITY subscribe.hours          "Uur/Ure">
-<!ENTITY subscribe.days           "Dag/Dae">
-<!ENTITY subscribe.autocheck      "Opdateer outomaties elke">
-<!ENTITY subscribe.destinationfolder      "Kies bestemmingslêer:">
-
-<!ENTITY feed.subscribe.label     "Teken in">
-<!ENTITY feed.subscribe.dontask   "Moenie weer outomaties hierdie dialoog wys nie">
-<!ENTITY feed.subscribe.close     "Maak Toe">
-
-<!ENTITY podcast.creation_dialog.title       "Nuwe Potgooi">
+<!ENTITY open_url.title "Maak URL oop">
+<!ENTITY subscribe.title "Teken in">
+<!ENTITY subscribe.url "URL:">
+<!ENTITY subscribe.minutes "Minuut/Minute">
+<!ENTITY subscribe.hours "Uur/Ure">
+<!ENTITY subscribe.days "Dag/Dae">
+<!ENTITY subscribe.autocheck "Opdateer outomaties elke">
+<!ENTITY subscribe.destinationfolder "Kies bestemmingslêer:">
+<!ENTITY feed.subscribe.label "Teken in">
+<!ENTITY feed.subscribe.dontask "Moenie weer outomaties hierdie dialoog wys nie">
+<!ENTITY feed.subscribe.close "Maak Toe">
+<!ENTITY podcast.creation_dialog.title "Nuwe Potgooi">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-
-
-<!ENTITY watchfolder.title        "Hou Lêers dop">
-<!ENTITY watchfolder.folderlist   "Hou hierdie lêers dop vir nuwe media:">
-
-<!ENTITY locale.language          "Taal" >
-<!ENTITY menu.view                "View" >
-<!ENTITY about.version            "Weergawe" >
-<!ENTITY about.buttons.credits    "Krediete" >
-
-<!ENTITY equalizer.title          "Equalizer" >
-<!ENTITY equalizer.on.checkbox    "Aan" >
-<!ENTITY equalizer.band0.label    "32" >
-<!ENTITY equalizer.band1.label    "64" >
-<!ENTITY equalizer.band2.label    "125" >
-<!ENTITY equalizer.band3.label    "250" >
-<!ENTITY equalizer.band4.label    "500" >
-<!ENTITY equalizer.band5.label    "1K" >
-<!ENTITY equalizer.band6.label    "2K" >
-<!ENTITY equalizer.band7.label    "4K" >
-<!ENTITY equalizer.band8.label    "8K" >
-<!ENTITY equalizer.band9.label    "16K" >
-<!ENTITY equalizer.preset.custom      "" >
-<!ENTITY equalizer.preset.flat        "Flat" >
-<!ENTITY equalizer.preset.rock        "Rock" >
-<!ENTITY equalizer.preset.soft_rock   "Sagte Rock" >
-<!ENTITY equalizer.preset.techno      "Tegno" >
-<!ENTITY equalizer.preset.ska         "Ska" >
-<!ENTITY equalizer.preset.reggae      "Reggae" >
-<!ENTITY equalizer.preset.live        "Lewendig" >
-<!ENTITY equalizer.preset.club        "Klub" >
-<!ENTITY equalizer.preset.party       "Party" >
-<!ENTITY equalizer.preset.classical   "Klassiek" >
-<!ENTITY equalizer.preset.large_hall  "Groot Saal" >
-<!ENTITY equalizer.preset.dance       "Dans" >
-<!ENTITY equalizer.preset.pop         "Pop" >
-<!ENTITY equalizer.preset.soft        "Sag" >
-<!ENTITY equalizer.preset.small_speakers   "Skootrekenaar/Oorfone" >
-<!ENTITY equalizer.preset.full_bass_treble "Full Bass and Treble" >
-<!ENTITY equalizer.preset.full_treble "Full treble" >
-<!ENTITY equalizer.preset.full_bass   "Volle Bas" >
-
-
-<!ENTITY setupprogress.pleasewait "Wag Asseblief…" >
-<!ENTITY setupprogress.cancel     "Kanselleer">
-
-<!ENTITY menu.file.accesskey              "F" >
-<!ENTITY menu.file.new.accesskey          "N" >
-<!ENTITY menu.file.smart.accesskey        "S" >
-<!ENTITY menu.file.remote.accesskey       "R" >
-<!ENTITY menu.file.podcast.accesskey      "P" >
-<!ENTITY menu.file.open.accesskey         "O" >
-<!ENTITY menu.file.url.accesskey          "A" >
-<!ENTITY menu.file.playlist.accesskey     "I" >
-<!ENTITY menu.file.metadata.accesskey     "V" >
-<!ENTITY menu.file.library.accesskey      "Y" >
-<!ENTITY menu.file.newtab.accesskey       "T" >
-<!ENTITY menu.file.closetab.accesskey     "C" >
-<!ENTITY menu.file.scan.accesskey         "M" >
-<!ENTITY locale.language.accesskey        "L" >
-<!ENTITY menu.view.accesskey              "V" >
-<!ENTITY menu.preferences.accesskey       "P" >
-<!ENTITY menu.equalizer.accesskey         "Q" >
-<!ENTITY menu.extensions.accesskey        "E" >
-<!ENTITY menu.clearprivatedata.accesskey  "P" >
-<!ENTITY menu.errorconsole.accesskey      "C" >
-<!ENTITY menu.file.exit.accesskey         "X" >
-<!ENTITY menu.downloadmgr.accesskey       "D" >
-
-<!ENTITY menu.edit.accesskey          "E" >
-<!ENTITY menu.edit.undo.accesskey     "U" >
-<!ENTITY menu.edit.redo.accesskey     "R" >
-<!ENTITY menu.edit.cut.accesskey      "T" >
-<!ENTITY menu.edit.copy.accesskey     "C" >
-<!ENTITY menu.edit.paste.accesskey    "P" >
-<!ENTITY menu.edit.delete.accesskey   "F" >
-<!ENTITY menu.edit.selall.accesskey   "A" >
-<!ENTITY menu.edit.find.accesskey        "F" >
-<!ENTITY menu.edit.findagain.accesskey   "G" >
-
-<!ENTITY menu.controls.accesskey      "C" >
-<!ENTITY menu.control.play.accesskey  "P" >
-<!ENTITY menu.control.pause.accesskey "P" >
-<!ENTITY menu.control.next.accesskey  "N" >
-<!ENTITY menu.control.prev.accesskey  "R" >
-<!ENTITY menu.control.shuf.accesskey  "S" >
-<!ENTITY menu.control.repa.accesskey  "A" >
-<!ENTITY menu.control.rep1.accesskey  "O" >
-<!ENTITY menu.control.repx.accesskey  "E" >
-<!ENTITY menu.control.jumpto.accesskey "J" >
-
-
-<!ENTITY menu.tools.accesskey            "T" >
-<!ENTITY menu.tools.getartwork.accesskey "G" >
-
-<!ENTITY menu.tools.reveal             "Show File" >
-<!ENTITY menu.tools.reveal.accesskey   "F" >
-<!ENTITY menu.tools.reveal.modifiers   "accel,shift" >
-
-<!ENTITY menu.help.accesskey          "H" >
-<!ENTITY menu.help.homepage.accesskey "W" >
-<!ENTITY menu.help.bugz.accesskey     "" >
-<!ENTITY menu.help.help.accesskey     "" >
-<!ENTITY menu.help.keyboard.accesskey "K" >
-<!ENTITY menu.help.about.accesskey    "A" >
-
-
+<!ENTITY watchfolder.title "Hou Lêers dop">
+<!ENTITY watchfolder.folderlist "Hou hierdie lêers dop vir nuwe media:">
+<!ENTITY locale.language "Taal">
+<!ENTITY about.version "Weergawe">
+<!ENTITY about.buttons.credits "Krediete">
+<!ENTITY equalizer.on.checkbox "Aan">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.custom "">
+<!ENTITY equalizer.preset.rock "Rock">
+<!ENTITY equalizer.preset.soft_rock "Sagte Rock">
+<!ENTITY equalizer.preset.techno "Tegno">
+<!ENTITY equalizer.preset.ska "Ska">
+<!ENTITY equalizer.preset.reggae "Reggae">
+<!ENTITY equalizer.preset.live "Lewendig">
+<!ENTITY equalizer.preset.club "Klub">
+<!ENTITY equalizer.preset.party "Party">
+<!ENTITY equalizer.preset.classical "Klassiek">
+<!ENTITY equalizer.preset.large_hall "Groot Saal">
+<!ENTITY equalizer.preset.dance "Dans">
+<!ENTITY equalizer.preset.pop "Pop">
+<!ENTITY equalizer.preset.soft "Sag">
+<!ENTITY equalizer.preset.small_speakers "Skootrekenaar/Oorfone">
+<!ENTITY equalizer.preset.full_bass "Volle Bas">
+<!ENTITY setupprogress.pleasewait "Wag Asseblief…">
+<!ENTITY setupprogress.cancel "Kanselleer">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.preferences.accesskey "P">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "E">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "F">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "">
+<!ENTITY menu.help.help.accesskey "">
+<!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title                        "Metadata-wysiger" >
-<!ENTITY trackeditor.tab.summary.title            "Opsomming" >
-<!ENTITY trackeditor.tab.edit.title               "Properties" >
-<!ENTITY trackeditor.tab.lyrics.title             "Lirieke" >
-<!ENTITY trackeditor.prev.button.label            "&lt;" >
-<!ENTITY trackeditor.next.button.label            "&gt;" >
-<!ENTITY trackeditor.prev.accesskey               "P" >
-<!ENTITY trackeditor.next.accesskey               "N" >
-<!ENTITY trackeditor.prev.key                     "P" >
-<!ENTITY trackeditor.next.key                     "N" >
-
+<!ENTITY trackeditor.title "Metadata-wysiger">
+<!ENTITY trackeditor.tab.summary.title "Opsomming">
+<!ENTITY trackeditor.tab.lyrics.title "Lirieke">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
 <!-- The following strings are from the old track editor, and can be remove one day -->
-<!ENTITY trackeditor.addtag.title     "Merk" >
-<!ENTITY trackeditor.addtag.tag       "Merk:" >
-
-<!ENTITY jumptofile.title             "Spring na" >
-<!ENTITY jumptofile.search            "Soek:" >
-
-<!ENTITY hotkeys.useglobalhotkeys     "Gebruik Globale Warmsleutels" >
-<!ENTITY hotkeys.useglobalhotkeys.accesskey "U" >
-<!ENTITY hotkeys.action               "Aksie" >
-<!ENTITY hotkeys.hotkey               "Warmsleutel" >
-<!ENTITY hotkeys.add                  "Voeg by" >
-<!ENTITY hotkeys.set                  "Stel" >
-<!ENTITY hotkeys.remove               "Verwyder" >
-<!ENTITY hotkeys.prefpane             "Warmsleutels" >
-<!ENTITY hotkeys.info                 "Global Hotkeys allow you to access &brandShortName; functionality even if &brandShortName; is not the active application.&#10;&#10;Some hotkey combinations must include modifier keys to minimize unwanted interference with other applications." >
-
-<!ENTITY rapi.prefpane.title             "Webintegrasie" >
-<!ENTITY rapi.prefpane.access.caption    "Webintegrasie-toestemming" >
-<!ENTITY rapi.prefpane.access.text       "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the Web and your media. Please configure &brandShortName; to allow or block the following points of integration." >
-<!ENTITY rapi.whitelist.label            "Uitsonderinge…" >
-<!ENTITY rapi.restore_defaults.label      "Restore to Default" >
-<!ENTITY rapi.playback_control_disable.label "Block websites from controlling media playback" >
-<!ENTITY rapi.playback_read_disable.label    "Block websites from viewing information about playing media" >
-<!ENTITY rapi.library_read_disable.label     "Block websites from viewing information about media in my Library and devices" >
-<!ENTITY rapi.library_write_disable.label    "Block websites from adding/editing media and playlists in my Library and devices" >
-<!ENTITY rapi.playback_control_disable.accesskey "p" >
-<!ENTITY rapi.playback_read_disable.accesskey    "m" >
-<!ENTITY rapi.library_read_disable.accesskey     "s" >
-<!ENTITY rapi.library_write_disable.accesskey    "a" >
-
-<!ENTITY prefpane.addons.label        "Byvoegings">
-<!ENTITY prefpane.content.label       "Web Content">
-
-<!ENTITY umsd.prefpane                      "USB" >
-<!ENTITY umsd.no_devices_present            "Geen USB massastoor-toestelle gekonnekteer." >
-<!ENTITY umsd.music.tab                     "Musiek" >
-<!ENTITY umsd.music.music_files_group       "Musiek Lêers" >
-<!ENTITY umsd.music.music_path_desc         "When copying music files to the device, place them within the following directory:" >
-<!ENTITY umsd.music.music_path_browse_msg   "Select the device directory in which to place music files." >
-<!ENTITY umsd.music.music_ext_desc          "Copy music files with the following extensions to the device:" >
-<!ENTITY umsd.video.tab                     "Video" >
-<!ENTITY umsd.video.video_files_group       "Video-lêers" >
-<!ENTITY umsd.video.video_path_desc         "When copying video files to the device, place them within the following directory:" >
-<!ENTITY umsd.video.video_path_browse_msg   "Select the device directory in which to place video files." >
-<!ENTITY umsd.video.video_ext_desc          "Copy video files with the following extensions to the device:" >
-
-<!ENTITY device.error.dialog.link           "Toon Foutdetail" >
-
-<!ENTITY restartbox.restartnow        "Begin nou oor" >
-<!ENTITY restartbox.restartonplaybackend "Begin oor na Einde van Terugspeling" >
-<!ENTITY restartbox.restartlater      "Begin Later oor" >
-
-<!ENTITY setupprogress.installingextensions "Installeer Uitbreidings" >
-
-<!ENTITY jobprogress.details "Besonderhede" >
-
-<!ENTITY menu.updateCmd.label          "Kyk vir Opdaterings…">
-<!ENTITY menu.updateCmd.accessKey      "o">
-
-
-<!ENTITY menu.file.new.key             "N" >
-<!ENTITY menu.file.smart.key           "N" >
-<!ENTITY menu.file.open.key            "O" >
-<!ENTITY menu.file.url.key             "U" >
-<!ENTITY menu.file.newtab.key          "T" >
-<!ENTITY menu.file.closetab.key        "W" >
-<!ENTITY menu.file.mini.key            "M" >
-<!ENTITY menu.file.filescan.key        "O" >
-<!ENTITY menu.edit.undo.key            "Z" >
-<!ENTITY menu.edit.redo.key            "Y" >
-<!ENTITY menu.edit.cut.key             "X" >
-<!ENTITY menu.edit.copy.key            "C" >
-<!ENTITY menu.edit.paste.key           "V" >
-<!ENTITY menu.edit.selall.key          "A" >
-<!ENTITY menu.edit.find.key            "F" >
-<!ENTITY menu.edit.findagain.key       "G" >
-<!ENTITY bookmarkPage.key              "F" >
-<!ENTITY jumpto.key                    "J" >
-<!ENTITY equalizer.key                 "E" >
-<!ENTITY switchfeathers.key            "M" >
-<!ENTITY search.key                    "F" >
-<!ENTITY searchFocus.key               "K" >
-<!ENTITY locationbar.key               "L" >
-<!ENTITY locationbar.key2              "D" >
-<!ENTITY currentTrackCmd.commandKey    "L" >
-<!ENTITY mediapage.next.key            "S" >
-<!ENTITY trackeditor.key2              "I" >
-<!ENTITY getartwork.key                "G" >
-<!ENTITY sanitize.keycode              "VK_DELETE" >
-<!ENTITY sanitize.key                  "Del" >
-<!ENTITY menu.viewpagesource.key       "U" >
-<!ENTITY downloadmgr.key               "J" >
-
-<!ENTITY menu.control.playpause.spacebar "Spasiebalk" >
-
+<!ENTITY trackeditor.addtag.title "Merk">
+<!ENTITY trackeditor.addtag.tag "Merk:">
+<!ENTITY jumptofile.title "Spring na">
+<!ENTITY jumptofile.search "Soek:">
+<!ENTITY hotkeys.useglobalhotkeys "Gebruik Globale Warmsleutels">
+<!ENTITY hotkeys.action "Aksie">
+<!ENTITY hotkeys.hotkey "Warmsleutel">
+<!ENTITY hotkeys.add "Voeg by">
+<!ENTITY hotkeys.set "Stel">
+<!ENTITY hotkeys.remove "Verwyder">
+<!ENTITY hotkeys.prefpane "Warmsleutels">
+<!ENTITY rapi.prefpane.title "Webintegrasie">
+<!ENTITY rapi.prefpane.access.caption "Webintegrasie-toestemming">
+<!ENTITY rapi.whitelist.label "Uitsonderinge…">
+<!ENTITY prefpane.addons.label "Byvoegings">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "Geen USB massastoor-toestelle gekonnekteer.">
+<!ENTITY umsd.music.tab "Musiek">
+<!ENTITY umsd.music.music_files_group "Musiek Lêers">
+<!ENTITY umsd.video.tab "Video">
+<!ENTITY umsd.video.video_files_group "Video-lêers">
+<!ENTITY device.error.dialog.link "Toon Foutdetail">
+<!ENTITY restartbox.restartnow "Begin nou oor">
+<!ENTITY restartbox.restartonplaybackend "Begin oor na Einde van Terugspeling">
+<!ENTITY restartbox.restartlater "Begin Later oor">
+<!ENTITY setupprogress.installingextensions "Installeer Uitbreidings">
+<!ENTITY jobprogress.details "Besonderhede">
+<!ENTITY menu.updateCmd.label "Kyk vir Opdaterings…">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "F">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.key "Del">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "Spasiebalk">
 <!ENTITY tabs.closeTab "">
-<!ENTITY tabs.listAllTabs "List all tabs">
-
-<!ENTITY window.browser.titledefault       "" >
-<!ENTITY window.browser.titlemodifier      "&brandShortName;" >
-<!ENTITY window.browser.titlemenuseparator "-" >
-<!ENTITY window.browser.titlepreface       "" >
-
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
-<!ENTITY prefs.homepage.label          "Tuisblad" >
-<!ENTITY prefs.homepage.url.label          "URL:" >
-<!ENTITY prefs.homepage.url.accesskey          "" >
-<!ENTITY prefs.security.addons.label   "Add-on Installation" >
-
+<!ENTITY prefs.homepage.label "Tuisblad">
+<!ENTITY prefs.homepage.url.label "URL:">
+<!ENTITY prefs.homepage.url.accesskey "">
 <!-- Device entities -->
-<!ENTITY command.device.cancel                          "Kanselleer">
-<!ENTITY command.device.cancel.accesskey                "C">
-<!ENTITY command.device.canceldevicecopy                "Kanselleer Kopiëring">
-<!ENTITY command.device.canceldevicecopy.accesskey      "C">
-<!ENTITY command.device.canceldevicedelete              "Kanselleer Skrap">
-<!ENTITY command.device.canceldevicedelete.accesskey    "C">
-<!ENTITY command.device.canceldevicesync                "Kanselleer Sinkronisering">
-<!ENTITY command.device.canceldevicesync.accesskey      "C">
-<!ENTITY command.device.canceldeviceupdate              "Kanselleer Opdatering">
-<!ENTITY command.device.canceldeviceupdate.accesskey    "C">
-<!ENTITY command.device.ejectdevice                     "Ejekteer">
-<!ENTITY command.device.ejectdevice.accesskey           "E">
-<!ENTITY command.device.formatdevice                    "Formateer">
-<!ENTITY command.device.formatdevice.accesskey          "F">
-<!ENTITY command.device.ignoredevice                    "Ignoreer">
-<!ENTITY command.device.ignoredevice.accesskey          "I">
-<!ENTITY command.device.getdeviceinfo                   "Kry Informasie">
-<!ENTITY command.device.getdeviceinfo.accesskey         "I">
-<!ENTITY command.device.renamedevice                    "Hernoem">
-<!ENTITY command.device.renamedevice.accesskey          "R">
-<!ENTITY command.device.devicesync                      "Sinkroniseer">
-<!ENTITY command.device.devicesync.accesskey            "S">
+<!ENTITY command.device.cancel "Kanselleer">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "Kanselleer Kopiëring">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "Kanselleer Skrap">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "Kanselleer Sinkronisering">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "Kanselleer Opdatering">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "Ejekteer">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "Formateer">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "Ignoreer">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "Kry Informasie">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "Hernoem">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "Sinkroniseer">
+<!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip                             "">
-<!ENTITY command.device.rip.accesskey                   "R">
-<!ENTITY command.device.stoprip                         "">
-<!ENTITY command.device.stoprip.accesskey               "S">
-<!ENTITY command.device.lookup                          "Soek CD Inligting">
-<!ENTITY command.device.lookup.accesskey                "L">
-<!ENTITY command.device.ejectcddevice                   "Ejekteer CD">
-<!ENTITY command.device.ejectcddevice.accesskey         "E">
-
-<!ENTITY device.repair.menuitem.default                   "Herstel my toestel">
-
-<!ENTITY device.firmware.wizard.title                     "Update Firmware">
-<!ENTITY device.firmware.wizard.check.page.title          "Check for Updated Firmware">
-<!ENTITY device.firmware.wizard.check.progress.title      "Checking for updated firmware…">
-<!ENTITY device.firmware.wizard.check.install.description "Installing the updated firmware should take less than 10 minutes. You can always perform the update at a later time.">
-<!ENTITY device.firmware.wizard.check.already.description "The firmware for your device is already up to date.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Release Notes">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "The device must be connected in repair mode to continue. Please follow the instructions below to set your device to repair mode.">
-<!ENTITY device.firmware.wizard.download.title            "Downloading new firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description   "This operation should take less than 5 minutes.">
-<!ENTITY device.firmware.wizard.repair.warning            "Unfortunately, any existing content on your device <strong class='loss-of-data-text'>will be erased</strong>. You are advised to re-sync with &brandShortName; once this operation is completed.">
-<!ENTITY device.firmware.wizard.install.title             "Installing firmware…">
-
-<!ENTITY device.firmware.wizard.busy.description  "It appears that your device is busy. Firmware can only be installed when your device is idle.">
-<!ENTITY device.firmware.wizard.retry.description "Please try again after your device has completed its current operation.">
-
-<!ENTITY device.firmware.wizard.check.error.description    "There was an error while checking for new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.download.error.description "There was an error while downloading the new firmware. Please verify your network connection and try again.">
-<!ENTITY device.firmware.wizard.support.description        "Support resources such as FAQs and troubleshooting tips can be found at">
-
-<!ENTITY device.info.icon.device            "Generic device icon">
-<!ENTITY device.info.icon.readonly          "Read-only lock icon">
-<!ENTITY device.info.model.label            "Model">
-<!ENTITY device.info.capacity.label         "Kapasiteit">
-<!ENTITY device.info.product.label          "Produk">
-<!ENTITY device.info.friendly_name.label    "Naam">
-<!ENTITY device.info.serial_number.label    "Serial Nommer">
-<!ENTITY device.info.vendor.label           "Vervaardiger">
-<!ENTITY device.info.access.label           "Access Compatibility">
+<!ENTITY command.device.rip "">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "Soek CD Inligting">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "Ejekteer CD">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.repair.menuitem.default "Herstel my toestel">
+<!ENTITY device.info.model.label "Model">
+<!ENTITY device.info.capacity.label "Kapasiteit">
+<!ENTITY device.info.product.label "Produk">
+<!ENTITY device.info.friendly_name.label "Naam">
+<!ENTITY device.info.serial_number.label "Serial Nommer">
+<!ENTITY device.info.vendor.label "Vervaardiger">
 <!ENTITY device.info.playback_formats.label "Terugspeel Formate">
-<!ENTITY device.info.battery.label          "Batery">
-<!ENTITY device.info.firmware_version.label "Firmware Version">
-
-<!ENTITY device.progress.sync               "Sync">
-
-<!ENTITY device.capacity.music.label    "Musiek">
-<!ENTITY device.capacity.video.label    "Video">
-<!ENTITY device.capacity.image.label    "Foto&apos;s">
-<!ENTITY device.capacity.other.label    "Ander">
-<!ENTITY device.capacity.free.label     "Gratis">
-
-<!ENTITY device.unsupported_media.dialog.title  "Incompatible Files Detected">
-<!ENTITY device.unsupported_media.dialog.enable "Tell me when incompatible files are detected">
-
+<!ENTITY device.info.battery.label "Batery">
+<!ENTITY device.capacity.music.label "Musiek">
+<!ENTITY device.capacity.video.label "Video">
+<!ENTITY device.capacity.image.label "Foto&apos;s">
+<!ENTITY device.capacity.other.label "Ander">
+<!ENTITY device.capacity.free.label "Gratis">
 <!ENTITY device.sync.header.label "Sinkroniseringsinstellings">
-<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Sinkroniseer">
 <!ENTITY device.sync.sync_all.label "Alle musiek, video en speellyste">
 <!ENTITY device.sync.sync_selected.label "Geselekteerde speellyste:">
 <!ENTITY device.sync.playlist.title "Titel">
-<!ENTITY device.sync.playlist.video.duration "Video Duration">
 <!ENTITY device.sync.images.from.label "Sinchroniseer Foto&apos;s Vanaf:">
 <!ENTITY device.sync.images.browse "">
 <!ENTITY device.sync.images.all.label "Alle foto&apos;s">
 <!ENTITY device.sync.images.all.template "Alle foto&apos;s (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Selected sub-folders">
 <!ENTITY device.sync.images.foldername "">
 <!ENTITY device.sync.images.filecount "Foto&apos;s">
-
 <!ENTITY device.settings.header.label "Instellings">
 <!ENTITY device.settings.general.label "Algemeen">
-<!ENTITY device.settings.auto_launch.checkbox.label "Open &brandShortName; when this device is detected">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "Check for new firmware automatically">
 <!ENTITY device.settings.music.transcoding.label "Musiektranskodering">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "No encoders currently available for this device">
 <!ENTITY device.settings.disk.label "Herdeskyfbeheer">
-<!ENTITY device.settings.disk.management.label "Customize directory structure">
 <!ENTITY device.settings.disk.management.filename "Musiekleêrs">
-
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Automatically configure conversion">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Manually specify bitrate and format">
 <!ENTITY device.settings.music.transcoding.format.label "Koderingsformaat">
-<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kgps">
-
 <!ENTITY device.management.tabs.music.label "Musiek">
 <!ENTITY device.management.tabs.video.label "Vides">
 <!ENTITY device.management.tabs.image.label "Foto&apos;s">
-<!ENTITY device.management.tabs.tools.label "Tools">
 <!ENTITY device.management.tabs.settings.label "Instellings">
-
 <!ENTITY device.tools.product_registration.title "Produkregistrasie">
-<!ENTITY device.tools.product_registration.description "Want to ensure proof of purchase, additional product membership benefits, or receive safety notifications?">
 <!ENTITY device.tools.product_registration.label "Registreer produk">
-
-<!ENTITY device.tools.update_firmware.title "Update Firmware">
-<!ENTITY device.tools.update_firmware.description "Your device is controlled by an internal program called the firmware. Newer versions of the firmware may have been released since you last connected your device to your computer.">
-<!ENTITY device.tools.update_firmware.label "Check for updated firmware">
-<!ENTITY device.tools.update_firmware.current_firmware.title "Current firmware version:">
-
-<!ENTITY device.tools.restore_device.title "Restore Device">
-<!ENTITY device.tools.restore_device.description "Restoring your device to factory settings will erase all media on the device, as well as restoring the factory firmware and settings.">
-<!ENTITY device.tools.restore_device.label "Restore device to factory settings">
-
-<!ENTITY device.tools.format_device.title "Format Device">
-<!ENTITY device.tools.format_device.description "Formatting your device will erase all media on the device.">
-<!ENTITY device.tools.format_device.label "Format device">
-<!ENTITY device.tools.format_volume.button.label "Format">
-
 <!ENTITY device.tools.support.title "Ondersteuning">
-<!ENTITY device.tools.support.description "View the latest support news, user manuals, documentation, frequently asked questions, and product information. Support services are available for customers who have registered their product.">
-<!ENTITY device.tools.support.label "View support resources">
-
-<!ENTITY device.tools.reset_warnings.title "Reset warnings">
-<!ENTITY device.tools.reset_warnings.description "Resetting the warning dialogs will enable these dialogs to prompt you to confirm certain tasks you wish to accomplish.">
-<!ENTITY device.tools.reset_warnings.label "Reset warning messages">
-
-<!ENTITY device.dialog.setup.title "Device Setup">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Choose which storage media you would like &brandShortName; to manage:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignoreer hierdie toestel">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Only select if you do not want &brandShortName; to manage this device">
-
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "If you do not want &brandShortName; to manage this device, you can ">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignoreer hierdie toestel">
-<!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-
-<!ENTITY openLinkCmdInDefaultBrowser.label              "Open Link In Default Web Browser">
-<!ENTITY openLinkCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openPageCmdInDefaultBrowser.label              "Open Page In Default Web Browser">
-<!ENTITY openPageCmdInDefaultBrowser.accesskey          "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label             "Open Frame In Default Web Browser">
-<!ENTITY openFrameCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY openImageCmdInDefaultBrowser.label             "Open Image In Default Web Browser">
-<!ENTITY openImageCmdInDefaultBrowser.accesskey         "o">
-<!ENTITY copySelectionCmd.label                         "Kopiëer Geselekteerde Teks">
-<!ENTITY copySelectionCmd.accesskey                     "c">
-<!ENTITY playMediaCmd.label                             "speel">
-<!ENTITY playMediaCmd.accesskey                         "p">
-<!ENTITY downloadMediaCmd.label                         "Laai na Musikoteek">
-<!ENTITY downloadMediaCmd.accesskey                     "d">
-<!ENTITY addMediaToPlaylistCmd.label                    "Laai Af Na Speellys">
-<!ENTITY addMediaToPlaylistCmd.accesskey                "&apos;n">
-<!ENTITY addMediaToPlaylistCmd.noPlaylist.label         "&lt;Geen Speellyste&gt;">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.label        "Nuwe Speellys">
-<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey    "n">
-<!ENTITY subscribeMediaPageCmd.label                    "Teken in op hierdie bladsy…">
-<!ENTITY subscribeMediaPageCmd.accesskey                "u">
-<!ENTITY subscribeMediaFrameCmd.label                   "Subscribe To This Frame…">
-<!ENTITY subscribeMediaFrameCmd.accesskey               "u">
-
-<!ENTITY feedback.dialog.title      "Help om &brandShortName; Beter te Maak!">
-<!ENTITY feedback.dialog.yes        "Ja">
-<!ENTITY feedback.dialog.no         "Nee">
-<!ENTITY feedback.dialog.sentence1  "Sal jy ons help om &brandShortName; beter te maak deur &apos;n vinnige, anonieme vraelys in te vul?">
-<!ENTITY feedback.dialog.sentence2  "As jy nie belang stel nie, sal ons jou nie weer vra nie. Dankie dat jy oorweeg het en ons waardeer dat jy &brandShortName; gebruik!">
-<!ENTITY feedback.dialog.sentence3  "Regards,">
-<!ENTITY feedback.dialog.sentence4  "Die &brandShortName; Span">
-
-<!-- title for the blank firstrun mediapage -->
-<!ENTITY mediapages.firstrun.title        "Welcome to &brandShortName;">
-
-<!-- First-run wizard entities. -->
-<!ENTITY first_run.title                  "&brandShortName; Setup">
-
-<!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label      "Recommended Add-ons">
-<!ENTITY first_run.add_ons.description.line1 "Add-ons extend &brandShortName;'s functionality, allowing you to customize your media player experience. The options below are strongly recommended.">
-<!ENTITY first_run.add_ons.description.line2 "Add-ons can integrate with other applications and services, support connecting to external devices, change the application's appearance and more! You can download additional ones at the &brandShortName; Add-ons site.">
-<!ENTITY first_run.add_ons.loading.label     "Retrieving recommended add-ons.">
-<!ENTITY first_run.add_ons.load_failed.label "Unable to retrieve recommended add-ons.">
-
-<!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Update Ready to Install.">
-<!ENTITY first_run.app_update.finished.text "The update will be installed when &brandShortName; is restarted.">
-
-<!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label         "&brandShortName; Cannot Connect to the Internet">
-<!ENTITY first_run.connection.description          "Check your Connection Settings or Continue with the Setup assistant.">
-<!ENTITY first_run.connection.settings.button      "Konneksie-instellings">
-<!ENTITY first_run.connection.settings.description "Is your computer or network protected by a firewall or proxy? Fixing incorrect Connection Settings can help solve common network problems.">
-
-<!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label          "License Agreement">
-<!ENTITY first_run.eula.accept_checkbox.label "I have read and accepted the terms of this license.">
-<!ENTITY first_run.eula.language.label        "Taal:">
-
-<!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label            "Help Make &brandShortName; Better">
-<!ENTITY first_run.feedback.description             "Would you help us make &brandShortName; better by sending us feedback in the form of anonymous metrics on how you use the application?">
-<!ENTITY first_run.feedback.metrics.label           "Collect and send my metrics to the &brandShortName; team">
-<!ENTITY first_run.feedback.metrics.description     "Metrics are completely anonymous and no personal information is collected.">
-<!ENTITY first_run.feedback.email.header.label      "Keep Me Posted">
-<!ENTITY first_run.feedback.email.description       "Subscribe to our newsletter to hear about new releases and important updates.">
-<!ENTITY first_run.feedback.email.textbox.emptytext "enter your email to stay up-to-date">
-
+<!ENTITY copySelectionCmd.label "Kopiëer Geselekteerde Teks">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "speel">
+<!ENTITY downloadMediaCmd.label "Laai na Musikoteek">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "Laai Af Na Speellys">
+<!ENTITY addMediaToPlaylistCmd.accesskey "&apos;n">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Geen Speellyste&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nuwe Speellys">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.label "Teken in op hierdie bladsy…">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "Help om &brandShortName; Beter te Maak!">
+<!ENTITY feedback.dialog.yes "Ja">
+<!ENTITY feedback.dialog.no "Nee">
+<!ENTITY feedback.dialog.sentence1 "Sal jy ons help om &brandShortName; beter te maak deur &apos;n vinnige, anonieme vraelys in te vul?">
+<!ENTITY feedback.dialog.sentence2 "As jy nie belang stel nie, sal ons jou nie weer vra nie. Dankie dat jy oorweeg het en ons waardeer dat jy &brandShortName; gebruik!">
+<!ENTITY feedback.dialog.sentence4 "Die &brandShortName; Span">
+<!ENTITY first_run.connection.settings.button "Konneksie-instellings">
+<!ENTITY first_run.eula.language.label "Taal:">
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label                  "iTunes Invoer/Uitvoer">
-<!ENTITY first_run.itunes.description                   "It appears you have iTunes installed. &brandShortName; can be configured to import and/or export tracks between &brandShortName; and iTunes so that your libraries are in sync.">
-<!ENTITY first_run.itunes.checkbox.import.label         "Import music tracks and playlists from iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description   "Podcasts and music purchased from the iTunes Store can be imported into &brandShortName;.  This feature works well if &brandShortName; is going to be your primary music player.">
-<!ENTITY first_run.itunes.checkbox.export.label         "Export new music tracks and playlists to iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description   "Music acquired through &brandShortName; can be exported to iTunes so that it can be transferred to your iPod or iPhone.">
-
+<!ENTITY first_run.itunes.header.label "iTunes Invoer/Uitvoer">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label                 "Voer Media In">
-<!ENTITY first_run.import_media.description                  "Select what media you'd like to import into &brandShortName;. Once &brandShortName; launches you can add additional media in a variety of ways.">
-<!ENTITY first_run.import_media.radio.scan_directories.label "Scan directories on my computer">
-<!ENTITY first_run.import_media.radio.dont_import.label      "Moenie media invoer nie">
-<!ENTITY first_run.import_media.scan_directories.description "Would you like &brandShortName; to attempt to import media by scanning specific directories on your computer?">
-<!ENTITY first_run.import_media.scan_directories.watch.label "Watch this directory for changes">
-
-<!-- First-run install add-ons entities. -->
-<!ENTITY first_run.install_add_ons.title "Downloading Add-ons">
-
-<!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label      "Welcome to &brandShortName;">
-<!ENTITY first_run.welcome.description.line1 "the highly customizable alternative to traditional desktop media players.">
-<!ENTITY first_run.welcome.description.line2 "This assistant provides a quick and efficient way to get up and running.">
-
-<!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title                         "Media Importer">
-
-<!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title                      "Import a library">
-<!ENTITY import_library.prefs.title                       "iTunes Invoer/Uitvoer">
-<!ENTITY import_library.library_file_label                "Library File:">
-<!ENTITY import_library.unsupported_media_alert_checkbox  "Alert me when unsupported tracks or playlists are not imported">
-<!ENTITY import_library.prefs.path_group_caption          "iTunes Music Library Location">
-<!ENTITY import_library.prefs.options_group_caption       "Import/Export Options">
-<!ENTITY import_library.import_command                    "Import Library">
-<!ENTITY import_tracks_itunes_checkbox                    "Import music tracks from iTunes">
-<!ENTITY import_playlists_itunes_checkbox                 "Import music playlists">
-<!ENTITY export_tracks_itunes_checkbox                    "Voer snitte uit tot iTunes">
-<!ENTITY export_playlists_itunes_checkbox                 "Voer speellyste uit">
-<!ENTITY export_subscriptions_itunes_checkbox             "Voer intekeninge uit">
-<!ENTITY export_smartplaylists_itunes_checkbox            "Voer slimspeellyste uit">
-<!ENTITY importexport_show_notifications_checkbox         "Show notifications when the import/export is complete">
-
-<!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title        "Playlist changed">
-<!ENTITY import_library.dirty_playlist_dialog.keep         "Keep the current &brandShortName; playlist (Do not import this playlist)">
-<!ENTITY import_library.dirty_playlist_dialog.merge        "Merge the current &brandShortName; and iTunes playlists">
-<!ENTITY import_library.dirty_playlist_dialog.replace      "Replace this &brandShortName; playlist with the current iTunes playlist">
-<!ENTITY import_library.dirty_playlist_dialog.note         "Note: Merge and replace cannot be undone.">
-<!ENTITY import_library.dirty_playlist_dialog.apply_all    "Apply selection to all playlists">
-
-<!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Do not enable Watch Folders on the same directory as your Manage Music folder. Doing so will create duplicates in your library.">
-
+<!ENTITY first_run.import_media.header.label "Voer Media In">
+<!ENTITY first_run.import_media.radio.dont_import.label "Moenie media invoer nie">
+<!ENTITY import_library.prefs.title "iTunes Invoer/Uitvoer">
+<!ENTITY export_tracks_itunes_checkbox "Voer snitte uit tot iTunes">
+<!ENTITY export_playlists_itunes_checkbox "Voer speellyste uit">
+<!ENTITY export_subscriptions_itunes_checkbox "Voer intekeninge uit">
+<!ENTITY export_smartplaylists_itunes_checkbox "Voer slimspeellyste uit">
 <!-- Watch folder preference entities. -->
-<!ENTITY watch_folder.prefs.title                  "Hou Lêers dop">
-<!ENTITY watch_folder.prefs.settings_group_caption "Watch Folder Settings">
-<!ENTITY watch_folder.prefs.description            "&brandShortName; can monitor the contents of a folder and automatically add or remove items contained in it.">
-<!ENTITY watch_folder.prefs.enable_checkbox        "Automatically watch for changes in the following folder">
-<!ENTITY watch_folder.prefs.watch_folder_label     "Folder:">
-
-<!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label     "Recommended Add-ons">
-<!ENTITY enable_recommended_addons_update.accesskey "r">
-
-<!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title        "&brandShortName; Setup">
-
+<!ENTITY watch_folder.prefs.title "Hou Lêers dop">
 <!-- Add-on bundle installer properties. -->
-<!ENTITY add_on_bundle_installer.error_box.label    "Besonderhede">
-
+<!ENTITY add_on_bundle_installer.error_box.label "Besonderhede">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message  "Niks besig om te speel nie" >
-<!ENTITY albumart.displaypane.not_selected_message  "Niks gekies nie" >
-<!ENTITY albumart.displaypane.drag_and_drop  "Sleep albumkunswerk hier" >
-<!ENTITY albumart.displaypane.contextmenu.showselected  "Show Now Selected" >
-<!ENTITY albumart.displaypane.contextmenu.showplaying   "Show Now Playing" >
+<!ENTITY albumart.displaypane.not_playing_message "Niks besig om te speel nie">
+<!ENTITY albumart.displaypane.not_selected_message "Niks gekies nie">
+<!ENTITY albumart.displaypane.drag_and_drop "Sleep albumkunswerk hier">
 <!ENTITY albumart.displaypane.selected.menu.cut "Sny">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopieer">
 <!ENTITY albumart.displaypane.selected.menu.paste "Plak">
 <!ENTITY albumart.displaypane.selected.menu.clear "Maak skoon">
 <!ENTITY albumart.coverpreview.title "Albumkunswerk">
-
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Drukwerk">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "Store artwork within each file's metadata">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "This will allow &brandShortName; to embed artwork in compatible tags for media files.">
-
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Soek lêername:">
-<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Enter comma-separated list of filenames here">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Soek lêeruitbreidings:">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Enter comma-separated list of extensions here">
-
-<!ENTITY albumartpreferences.prefpane.priorities.label "Fetcher Priorities">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Order the list of fetcher you wish to use first at the top.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Op">
 <!ENTITY albumartpreferences.prefpane.priorities.down "Af">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Herstel">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Auto-fetch Album Artwork">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Auto fetch album artwork when a track is played or selected, depending on the mode of the Album Artwork display pane.  Performance may be impacted when this feature is enabled.">
-
 <!-- Wizard entities. -->
-<!ENTITY wizard.button.back.label      "Gaan terug">
-<!ENTITY wizard.button.back.accesskey  "B">
-<!ENTITY wizard.button.cancel.label    "Kanselleer">
-<!ENTITY wizard.button.next.label      "Gaan aan">
-<!ENTITY wizard.button.next.accesskey  "C">
-<!ENTITY wizard.button.finish.label    "Klaar">
-
+<!ENTITY wizard.button.back.label "Gaan terug">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "Kanselleer">
+<!ENTITY wizard.button.next.label "Gaan aan">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "Klaar">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title    "Mediakernfout">
-<!ENTITY mediacore.error.preface  "&brandShortName; het die volgende mediakern-fout(e) getoon:">
+<!ENTITY mediacore.error.title "Mediakernfout">
+<!ENTITY mediacore.error.preface "&brandShortName; het die volgende mediakern-fout(e) getoon:">
 <!ENTITY mediacore.error.continue "Gaan Voort">
-<!ENTITY mediacore.error.stop     "Staak Speel">
+<!ENTITY mediacore.error.stop "Staak Speel">
 <!ENTITY mediacore.error.dontshowme "Moenie verder mediakern-foute toon nie">
-<!ENTITY mediacore.error.codec_not_found.text.pre "For more information on missing codecs, please see">
-<!ENTITY mediacore.error.codec_not_found.text.post "">
-
-<!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Media Import Notice">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "For more information on missing codecs, please see:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Do not notify me of unsupported video files during import again">
-
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
-<!ENTITY playback.prefpane.label          "Speel">
-
-<!ENTITY playback.prefpane.audio_output.label   "Audio Output">
-<!ENTITY playback.prefpane.audio_output.buffer  "Output Buffer:">
-
-<!ENTITY playback.prefpane.streaming.label      "Network and Streaming">
-<!ENTITY playback.prefpane.streaming.buffer     "Streaming Buffer:">
-
-<!ENTITY playback.prefpane.normalization.label  "Normalization">
-<!ENTITY playback.prefpane.normalization.enable "Use audio normalization data if available">
-
-<!ENTITY playback.prefpane.normalization.preferredGain.label "Preferred gain data:">
-<!ENTITY playback.prefpane.normalization.preferredGain.album "Album">
+<!ENTITY playback.prefpane.label "Speel">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Snit">
-
-<!ENTITY playback.prefpane.units.kilobytes  "Kg">
-<!ENTITY playback.prefpane.units.ms         "ms">
-
-<!ENTITY playback.prefpane.ratings.label "Ratings Metadata">
-<!ENTITY playback.prefpane.ratings.enablewriting "Store ratings info within each file's file metadata.">
-
+<!ENTITY playback.prefpane.units.kilobytes "Kg">
+<!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY fetch_album_art.dialog.title "Kry Albumkunswerk">
 <!ENTITY fetch_album_art.dialog.message "Nie tans geïmplementeer nie.">
-
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Kunstenaar">
-<!ENTITY cdrip.lookup.info_not_found.album  "Album">
-<!ENTITY cdrip.lookup.info_not_found.title  "CD Informasie nie gevind nie">
-<!ENTITY cdrip.lookup.info_not_found.descr  "You can add the artist and album name here.  You can edit the remaining information within the CD Rip playlist">
-<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY cdrip.lookup.info_not_found.title "CD Informasie nie gevind nie">
 <!ENTITY cdrip.lookup.track_name "Titel">
-
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "CD Sny">
 <!ENTITY cdrip.prefpane.format "Formaat">
 <!ENTITY cdrip.prefpane.quality "Kwaliteit">
 <!ENTITY cdrip.prefpane.quality.units.kbps "kgps">
-<!ENTITY cdrip.prefpane.eject_after_rip "When CD Rip is completed eject CD">
-<!ENTITY cdrip.prefpane.soundalert_after_rip "When CD Rip is completed play system alert sound">
-<!ENTITY cdrip.prefpane.providers.title "CD Lookup Provider">
-<!ENTITY cdrip.prefpane.quality_desc "A higher kbps quality setting will result in higher quality audio and a larger file size.">
-
 <!-- CD Rip Media View entities -->
-<!ENTITY cdrip.mediaview.cd_rip_settings_label     "CD Sny Stellings">
-<!ENTITY cdrip.mediaview.format_label              "Formaat:">
-<!ENTITY cdrip.mediaview.quality_label             "Kwaliteit:">
-<!ENTITY cdrip.mediaview.settings_button           "Instellings">
-<!ENTITY cdrip.mediaview.rip_cd_button             "">
-<!ENTITY cdrip.mediaview.stop_rip_button           "Stop Sny">
-<!ENTITY cdrip.mediaview.view_tracks_button        "Beskou Snitte">
-<!ENTITY cdrip.mediaview.eject_cd_button           "Eject CD">
-
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "CD Sny Stellings">
+<!ENTITY cdrip.mediaview.format_label "Formaat:">
+<!ENTITY cdrip.mediaview.quality_label "Kwaliteit:">
+<!ENTITY cdrip.mediaview.settings_button "Instellings">
+<!ENTITY cdrip.mediaview.rip_cd_button "">
+<!ENTITY cdrip.mediaview.stop_rip_button "Stop Sny">
+<!ENTITY cdrip.mediaview.view_tracks_button "Beskou Snitte">
 <!-- CD Rip Media View keys -->
-<!ENTITY cdrip.mediaview.eject.key                 "E">
-<!ENTITY cdrip.mediaview.eject.modifiers           "accel shift">
-<!ENTITY cdrip.mediaview.rip.key                   "C">
-<!ENTITY cdrip.mediaview.rip.modifiers             "accel shift">
-<!ENTITY cdrip.mediaview.stop_rip.key              "X">
-<!ENTITY cdrip.mediaview.stop_rip.modifiers        "accel shift">
-
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.rip.key "C">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Videovenster">
 <!ENTITY videowindow.actualsize "Werklike Grootte">
 <!ENTITY videowindow.fullscreen "Volskerm">
-
-<!ENTITY videowindow.fullscreen.key   "F">
+<!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Ons wil dié wat ’n bydrae gelewer het, wie se inspanning Songbird maak wat dit is, graag bedank. Hierdie mense het ons gehelp deur die programmatuur en dokumentasie te skryf, asook deur toetsing. Hulle het hierdie produk, sy gepaardgaande ontwikkelingspakette, ons boutoebehore en ons webwerwe geskep en onderhou. Name word gevolg deur IRC -&quot;nicks&quot;, so kom besoek ons by #songbird op irc.mozilla.org en sê haai!">
 <!ENTITY about.credits.footer.beforeLink "Natuurlik sou niks hiervan enigsins moontlik gewees het sonder die harde werk en pogings van">
@@ -839,18 +443,6 @@
 <!ENTITY about.credits.footer.afterLink "aan die Mozilla projek">
 <!ENTITY about.credits.heading.translators "Vertalers">
 <!ENTITY about.credits.heading.champs "Kampioene">
-<!ENTITY about.credits.description.champs.link.pre "The Songbird Champions are the die-hard Songbird users and fans who have gone above and beyond the call of duty to help out other Songbird users on our">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum.">
 <!ENTITY about.credits.description.champs.link.post "">
-
-<!ENTITY cdrip.lookup.multiple.title       "Verskeie CD Rekords gevind">
-<!ENTITY cdrip.lookup.multiple.description "Choose one of the following or add your own info.">
-<!ENTITY cdinfo.other.label                "Voeg jou eie Kunstenaar- en Albuminligting by">
-
-<!ENTITY playqueue.label "Play Queue">
-<!ENTITY playqueue.instructions "Drag and drop tracks or playlists here to create an on-the-fly listening queue">
-<!ENTITY playqueue.inprogress "Adding tracks">
-
-<!ENTITY mediamanagement.removed.dialog.title "Media Management Notice">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "Media Management has been removed from &brandShortName; as of version 1.10." >
-<!ENTITY mediamanagement.removed.dialog.text.line2 "This change is part of an effort to simplify our product and provide an easier-to-use experience." >
+<!ENTITY cdrip.lookup.multiple.title "Verskeie CD Rekords gevind">
+<!ENTITY cdinfo.other.label "Voeg jou eie Kunstenaar- en Albuminligting by">

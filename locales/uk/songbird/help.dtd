@@ -1,131 +1,127 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "Клавіатурні скорочення в &brandShortName;" >
-<!ENTITY help.keyboard.subtitle           "Клавіатурні скорочення" >
-<!ENTITY help.keyboard.description        "Клавіатурні скорочення дозволяють керувати &brandShortName; набагато простіше. Нижче наведено список доступних команд і їх клавіатурні скорочення.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Команда" >
-<!ENTITY help.keyboard.heading.shortcut   "Клавіатурні скорочення" >
-<!ENTITY help.keyboard.section.playback   "Кнопки керування відтворенням" >
-<!ENTITY help.keyboard.section.library    "Збірка та списки відтворення" >
-<!ENTITY help.keyboard.section.editing    "Редагування" >
-<!ENTITY help.keyboard.section.navigation "Навігація" >
-<!ENTITY help.keyboard.section.browser    "Браузер" >
-<!ENTITY help.keyboard.section.windows    "Вікна і вкладки" >
-<!ENTITY help.keyboard.section.search     "Пошук" >
-<!ENTITY help.keyboard.section.video      "Відео" >
-<!ENTITY help.keyboard.section.cdrip      "Копіювання CD" >
-<!ENTITY help.keyboard.section.misc       "Різне" >
-
-<!ENTITY help.keyboard.key.left           "Стрілка вліво" >
-<!ENTITY help.keyboard.key.right          "Стрілка вправо" >
-<!ENTITY help.keyboard.key.up             "Стрілка вверх" >
-<!ENTITY help.keyboard.key.down           "Стрілка вниз" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Клік" >
-<!ENTITY help.keyboard.mouse.click.middle "Середній клік" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Delete" >
-
+<!ENTITY help.keyboard.title "Клавіатурні скорочення в &brandShortName;">
+<!ENTITY help.keyboard.subtitle "Клавіатурні скорочення">
+<!ENTITY help.keyboard.description "Клавіатурні скорочення дозволяють керувати &brandShortName; набагато простіше. Нижче наведено список доступних команд і їх клавіатурні скорочення.">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Команда">
+<!ENTITY help.keyboard.heading.shortcut "Клавіатурні скорочення">
+<!ENTITY help.keyboard.section.playback "Кнопки керування відтворенням">
+<!ENTITY help.keyboard.section.library "Збірка та списки відтворення">
+<!ENTITY help.keyboard.section.editing "Редагування">
+<!ENTITY help.keyboard.section.navigation "Навігація">
+<!ENTITY help.keyboard.section.browser "Браузер">
+<!ENTITY help.keyboard.section.windows "Вікна і вкладки">
+<!ENTITY help.keyboard.section.search "Пошук">
+<!ENTITY help.keyboard.section.video "Відео">
+<!ENTITY help.keyboard.section.cdrip "Копіювання CD">
+<!ENTITY help.keyboard.section.misc "Різне">
+<!ENTITY help.keyboard.key.left "Стрілка вліво">
+<!ENTITY help.keyboard.key.right "Стрілка вправо">
+<!ENTITY help.keyboard.key.up "Стрілка вверх">
+<!ENTITY help.keyboard.key.down "Стрілка вниз">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Клік">
+<!ENTITY help.keyboard.mouse.click.middle "Середній клік">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Delete">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Відтворення/Пауза для обраного медіа-елементу" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Відтворити попередній медіа-елемент у списку" >
-<!ENTITY help.keyboard.name.playcontrol.next    "Відтворити наступний медіа-елемент у списку" >
-<!ENTITY help.keyboard.name.volume.down         "Зменшити гучність" >
-<!ENTITY help.keyboard.name.volume.up           "Збільшити гучність" >
-<!ENTITY help.keyboard.name.volume.mute         "Приглушити звук" >
-<!ENTITY help.keyboard.name.volume.max          "Максимальна гучність" >
-<!ENTITY help.keyboard.name.jumpto              "Перейти до" >
-<!ENTITY help.keyboard.name.equalizer           "Відкрити еквалайзер" >
-<!ENTITY help.keyboard.name.new.playlist        "Новий список відтворення" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Новий кмітливий список відтворення" >
-<!ENTITY help.keyboard.name.import              "Імпортувати медіафайли" >
-<!ENTITY help.keyboard.name.currenttrack        "Показати елемент, що відтворюється" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Перемкнути вид медіа" >
-<!ENTITY help.keyboard.name.feather.switch      "Зміна форми пір&apos;я" >
-<!ENTITY help.keyboard.name.trackeditor         "Редактор метаданих…" >
-<!ENTITY help.keyboard.name.edit.undo           "Повернути" >
-<!ENTITY help.keyboard.name.edit.redo           "Повторити" >
-<!ENTITY help.keyboard.name.edit.selectall      "Виділити все" >
-<!ENTITY help.keyboard.name.edit.cut            "Вирізати" >
-<!ENTITY help.keyboard.name.edit.copy           "Копіювати" >
-<!ENTITY help.keyboard.name.edit.paste          "Вставити" >
-<!ENTITY help.keyboard.name.edit.delete         "Стерти" >
-<!ENTITY help.keyboard.name.browser.back        "Назад на одну сторінку" >
-<!ENTITY help.keyboard.name.browser.forward     "Вперед на одну сторінку" >
-<!ENTITY help.keyboard.name.browser.reload      "Оновити" >
-<!ENTITY help.keyboard.name.browser.stop        "Зупинити завантаження" >
-<!ENTITY help.keyboard.name.open.file           "Відкрити файл" >
-<!ENTITY help.keyboard.name.open.url            "Відкрити URL" >
-<!ENTITY help.keyboard.name.tab.open.link       "Відкрити посилання в новій вкладці" >
-<!ENTITY help.keyboard.name.save.link           "Зберегти посилання" >
-<!ENTITY help.keyboard.name.file.print          "Друкувати" >
-<!ENTITY help.keyboard.name.view.source         "Переглянути початковий код" >
-<!ENTITY help.keyboard.name.view.zoomin         "Збільшити" >
-<!ENTITY help.keyboard.name.view.zoomout        "Зменшити" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Відновити розмір" >
-<!ENTITY help.keyboard.name.subscribe           "Підписатися" >
-<!ENTITY help.keyboard.name.locationbar         "Перейти в адресне поле" >
-<!ENTITY help.keyboard.name.tab.new             "Нова вкладка" >
-<!ENTITY help.keyboard.name.tab.close           "Закрити вкладку" >
-<!ENTITY help.keyboard.name.tab.next            "Наступна вкладка" >
-<!ENTITY help.keyboard.name.tab.previous        "Попередня вкладка" >
-<!ENTITY help.keyboard.name.tab.1               "Перейти до вкладки 1" >
-<!ENTITY help.keyboard.name.tab.2               "Перейти до вкладки 2" >
-<!ENTITY help.keyboard.name.tab.3               "Перейти до вкладки 3" >
-<!ENTITY help.keyboard.name.tab.4               "Перейти до вкладки 4" >
-<!ENTITY help.keyboard.name.tab.5               "Перейти до вкладки 5" >
-<!ENTITY help.keyboard.name.tab.6               "Перейти до вкладки 6" >
-<!ENTITY help.keyboard.name.tab.7               "Перейти до вкладки 7" >
-<!ENTITY help.keyboard.name.tab.8               "Перейти до вкладки 8" >
-<!ENTITY help.keyboard.name.tab.9               "Перейти до вкладки 9" >
-<!ENTITY help.keyboard.name.page.top            "Перейти до верху сторінки" >
-<!ENTITY help.keyboard.name.page.bottom         "Перейти до низу сторінки" >
-<!ENTITY help.keyboard.name.view.fullscreen     "На весь екран" >
-<!ENTITY help.keyboard.name.mac.minimize        "Згорнути в док" >
-<!ENTITY help.keyboard.name.mac.hide            "Сховати вікно" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Приховати інші програми" >
-<!ENTITY help.keyboard.name.downloads           "Завантаження" >
-<!ENTITY help.keyboard.name.find                "Знайти" >
-<!ENTITY help.keyboard.name.find.again          "Знайти знову" >
-<!ENTITY help.keyboard.name.find.text           "Шукати текст у міру його набору" >
-<!ENTITY help.keyboard.name.find.link           "Шукати посилання у міру його введення" >
-<!ENTITY help.keyboard.name.search.focus        "Перейти до поля пошуку" >
-<!ENTITY help.keyboard.name.video.fullscreen    "На весь екран" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Відео на передній план" >
-<!ENTITY help.keyboard.name.video.escape        "Вийти з повноекранного режиму" >
-<!ENTITY help.keyboard.name.cdrip.start         "Копіювати CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Зупинити копіювання CD" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Вийняти CD" >
-<!ENTITY help.keyboard.name.quit                "Вийти" >
-<!ENTITY help.keyboard.name.preferences         "Налаштування" >
-<!ENTITY help.keyboard.name.help                "Розділи довідки" >
-<!ENTITY help.keyboard.name.sanitize            "Стерти особисті дані" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Відтворення/Пауза для обраного медіа-елементу">
+<!ENTITY help.keyboard.name.playcontrol.prev "Відтворити попередній медіа-елемент у списку">
+<!ENTITY help.keyboard.name.playcontrol.next "Відтворити наступний медіа-елемент у списку">
+<!ENTITY help.keyboard.name.volume.down "Зменшити гучність">
+<!ENTITY help.keyboard.name.volume.up "Збільшити гучність">
+<!ENTITY help.keyboard.name.volume.mute "Приглушити звук">
+<!ENTITY help.keyboard.name.volume.max "Максимальна гучність">
+<!ENTITY help.keyboard.name.jumpto "Перейти до">
+<!ENTITY help.keyboard.name.equalizer "Відкрити еквалайзер">
+<!ENTITY help.keyboard.name.new.playlist "Новий список відтворення">
+<!ENTITY help.keyboard.name.new.smartplaylist "Новий кмітливий список відтворення">
+<!ENTITY help.keyboard.name.import "Імпортувати медіафайли">
+<!ENTITY help.keyboard.name.currenttrack "Показати елемент, що відтворюється">
+<!ENTITY help.keyboard.name.mediapage.switch "Перемкнути вид медіа">
+<!ENTITY help.keyboard.name.feather.switch "Зміна форми пір&apos;я">
+<!ENTITY help.keyboard.name.trackeditor "Редактор метаданих…">
+<!ENTITY help.keyboard.name.edit.undo "Повернути">
+<!ENTITY help.keyboard.name.edit.redo "Повторити">
+<!ENTITY help.keyboard.name.edit.selectall "Виділити все">
+<!ENTITY help.keyboard.name.edit.cut "Вирізати">
+<!ENTITY help.keyboard.name.edit.copy "Копіювати">
+<!ENTITY help.keyboard.name.edit.paste "Вставити">
+<!ENTITY help.keyboard.name.edit.delete "Стерти">
+<!ENTITY help.keyboard.name.browser.back "Назад на одну сторінку">
+<!ENTITY help.keyboard.name.browser.forward "Вперед на одну сторінку">
+<!ENTITY help.keyboard.name.browser.reload "Оновити">
+<!ENTITY help.keyboard.name.browser.stop "Зупинити завантаження">
+<!ENTITY help.keyboard.name.open.file "Відкрити файл">
+<!ENTITY help.keyboard.name.open.url "Відкрити URL">
+<!ENTITY help.keyboard.name.tab.open.link "Відкрити посилання в новій вкладці">
+<!ENTITY help.keyboard.name.save.link "Зберегти посилання">
+<!ENTITY help.keyboard.name.file.print "Друкувати">
+<!ENTITY help.keyboard.name.view.source "Переглянути початковий код">
+<!ENTITY help.keyboard.name.view.zoomin "Збільшити">
+<!ENTITY help.keyboard.name.view.zoomout "Зменшити">
+<!ENTITY help.keyboard.name.view.zoomreset "Відновити розмір">
+<!ENTITY help.keyboard.name.subscribe "Підписатися">
+<!ENTITY help.keyboard.name.locationbar "Перейти в адресне поле">
+<!ENTITY help.keyboard.name.tab.new "Нова вкладка">
+<!ENTITY help.keyboard.name.tab.close "Закрити вкладку">
+<!ENTITY help.keyboard.name.tab.next "Наступна вкладка">
+<!ENTITY help.keyboard.name.tab.previous "Попередня вкладка">
+<!ENTITY help.keyboard.name.tab.1 "Перейти до вкладки 1">
+<!ENTITY help.keyboard.name.tab.2 "Перейти до вкладки 2">
+<!ENTITY help.keyboard.name.tab.3 "Перейти до вкладки 3">
+<!ENTITY help.keyboard.name.tab.4 "Перейти до вкладки 4">
+<!ENTITY help.keyboard.name.tab.5 "Перейти до вкладки 5">
+<!ENTITY help.keyboard.name.tab.6 "Перейти до вкладки 6">
+<!ENTITY help.keyboard.name.tab.7 "Перейти до вкладки 7">
+<!ENTITY help.keyboard.name.tab.8 "Перейти до вкладки 8">
+<!ENTITY help.keyboard.name.tab.9 "Перейти до вкладки 9">
+<!ENTITY help.keyboard.name.page.top "Перейти до верху сторінки">
+<!ENTITY help.keyboard.name.page.bottom "Перейти до низу сторінки">
+<!ENTITY help.keyboard.name.view.fullscreen "На весь екран">
+<!ENTITY help.keyboard.name.mac.minimize "Згорнути в док">
+<!ENTITY help.keyboard.name.mac.hide "Сховати вікно">
+<!ENTITY help.keyboard.name.mac.hideothers "Приховати інші програми">
+<!ENTITY help.keyboard.name.downloads "Завантаження">
+<!ENTITY help.keyboard.name.find "Знайти">
+<!ENTITY help.keyboard.name.find.again "Знайти знову">
+<!ENTITY help.keyboard.name.find.text "Шукати текст у міру його набору">
+<!ENTITY help.keyboard.name.find.link "Шукати посилання у міру його введення">
+<!ENTITY help.keyboard.name.search.focus "Перейти до поля пошуку">
+<!ENTITY help.keyboard.name.video.fullscreen "На весь екран">
+<!ENTITY help.keyboard.name.video.bringtofront "Відео на передній план">
+<!ENTITY help.keyboard.name.video.escape "Вийти з повноекранного режиму">
+<!ENTITY help.keyboard.name.cdrip.start "Копіювати CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Зупинити копіювання CD">
+<!ENTITY help.keyboard.name.cdrip.eject "Вийняти CD">
+<!ENTITY help.keyboard.name.quit "Вийти">
+<!ENTITY help.keyboard.name.preferences "Налаштування">
+<!ENTITY help.keyboard.name.help "Розділи довідки">
+<!ENTITY help.keyboard.name.sanitize "Стерти особисті дані">

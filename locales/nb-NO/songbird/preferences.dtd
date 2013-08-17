@@ -1,17 +1,15 @@
 <!-- override chrome://browser/locale/preferences/preferences.dtd -->
-
-<!ENTITY  prefWindow.titleWin     "Alternativer">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Egenskaper">
+<!ENTITY prefWindow.titleWin "Alternativer">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Egenskaper">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2       "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
-<!ENTITY  prefWinMinSize.styleMac        "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
-<!ENTITY  prefWinMinSize.styleGNOME      "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
-
-<!ENTITY  paneGeneral.title       "Hoved">
-<!ENTITY  paneTabs.title          "Arkfaner">
-<!ENTITY  paneContent.title       "Innhold">
-<!ENTITY  paneApplications.title  "Programmer">
-<!ENTITY  panePrivacy.title       "Personvern">
-<!ENTITY  paneSecurity.title      "Sikkerhet">
-<!ENTITY  paneAdvanced.title      "Avansert">
+<!ENTITY prefWinMinSize.styleWin2 "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY prefWinMinSize.styleGNOME "width: 60em; min-height: 45em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
+<!ENTITY paneGeneral.title "Hoved">
+<!ENTITY paneTabs.title "Arkfaner">
+<!ENTITY paneContent.title "Innhold">
+<!ENTITY paneApplications.title "Programmer">
+<!ENTITY panePrivacy.title "Personvern">
+<!ENTITY paneSecurity.title "Sikkerhet">
+<!ENTITY paneAdvanced.title "Avansert">

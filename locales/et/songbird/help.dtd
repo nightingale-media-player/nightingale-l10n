@@ -1,131 +1,121 @@
 <!-- localizations for in-app help -->
-
-<!ENTITY help.keyboard.title              "&brandShortName; kiirklahvid" >
-<!ENTITY help.keyboard.subtitle           "Klaviatuuri kiirklahvid" >
-<!ENTITY help.keyboard.description        "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
-<!ENTITY help.platform.windows            "Windows" >
-<!ENTITY help.platform.macosx             "Mac" >
-<!ENTITY help.platform.linux              "Linux" >
-<!ENTITY help.keyboard.heading.command    "Käsk" >
-<!ENTITY help.keyboard.heading.shortcut   "Kiirklahv" >
-<!ENTITY help.keyboard.section.playback   "Ette mängimise Seaded" >
-<!ENTITY help.keyboard.section.library    "Teek ja esitusloendid" >
-<!ENTITY help.keyboard.section.editing    "Muutmine" >
-<!ENTITY help.keyboard.section.navigation "Navigatsioon" >
-<!ENTITY help.keyboard.section.browser    "Veebilehitseja" >
-<!ENTITY help.keyboard.section.windows    "Aknad ja vahelehed" >
-<!ENTITY help.keyboard.section.search     "Otsi" >
-<!ENTITY help.keyboard.section.video      "Video" >
-<!ENTITY help.keyboard.section.cdrip      "CD Rip" >
-<!ENTITY help.keyboard.section.misc       "Mitmesugune" >
-
-<!ENTITY help.keyboard.key.left           "Nool vasakule" >
-<!ENTITY help.keyboard.key.right          "Nool paremale" >
-<!ENTITY help.keyboard.key.up             "Nool üles" >
-<!ENTITY help.keyboard.key.down           "Nool alla" >
-<!ENTITY help.keyboard.key.pgup           "Page Up" >
-<!ENTITY help.keyboard.key.pgdn           "Page Down" >
-<!ENTITY help.keyboard.key.home           "Home" >
-<!ENTITY help.keyboard.key.end            "End" >
-<!ENTITY help.keyboard.key.tab            "Tab" >
-<!ENTITY help.keyboard.key.escape         "Esc" >
-<!ENTITY help.keyboard.key.f1             "F1" >
-<!ENTITY help.keyboard.key.f2             "F2" >
-<!ENTITY help.keyboard.key.f3             "F3" >
-<!ENTITY help.keyboard.key.f4             "F4" >
-<!ENTITY help.keyboard.key.f5             "F5" >
-<!ENTITY help.keyboard.key.f6             "F6" >
-<!ENTITY help.keyboard.key.f7             "F7" >
-<!ENTITY help.keyboard.key.f8             "F8" >
-<!ENTITY help.keyboard.key.f9             "F9" >
-<!ENTITY help.keyboard.key.f10            "F10" >
-<!ENTITY help.keyboard.key.f11            "F11" >
-<!ENTITY help.keyboard.key.f12            "F12" >
-<!ENTITY help.keyboard.key.f13            "F13" >
-<!ENTITY help.keyboard.key.f14            "F14" >
-<!ENTITY help.keyboard.key.f15            "F15" >
-
-<!ENTITY help.keyboard.mouse.click.primary "Kliki" >
-<!ENTITY help.keyboard.mouse.click.middle "Keskmine-Klikk" >
-<!ENTITY help.keyboard.key.meta           "Win" >
-<!ENTITY help.keyboard.key.ctrl           "Ctrl" >
-<!ENTITY help.keyboard.key.cmd            "Cmd" >
-<!ENTITY help.keyboard.key.alt            "Alt" >
-<!ENTITY help.keyboard.key.opt            "Opt" >
-<!ENTITY help.keyboard.key.shift          "Shift" >
-<!ENTITY help.keyboard.key.delete         "Eemalda" >
-
+<!ENTITY help.keyboard.title "&brandShortName; kiirklahvid">
+<!ENTITY help.keyboard.subtitle "Klaviatuuri kiirklahvid">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Käsk">
+<!ENTITY help.keyboard.heading.shortcut "Kiirklahv">
+<!ENTITY help.keyboard.section.playback "Ette mängimise Seaded">
+<!ENTITY help.keyboard.section.library "Teek ja esitusloendid">
+<!ENTITY help.keyboard.section.editing "Muutmine">
+<!ENTITY help.keyboard.section.navigation "Navigatsioon">
+<!ENTITY help.keyboard.section.browser "Veebilehitseja">
+<!ENTITY help.keyboard.section.windows "Aknad ja vahelehed">
+<!ENTITY help.keyboard.section.search "Otsi">
+<!ENTITY help.keyboard.section.misc "Mitmesugune">
+<!ENTITY help.keyboard.key.left "Nool vasakule">
+<!ENTITY help.keyboard.key.right "Nool paremale">
+<!ENTITY help.keyboard.key.up "Nool üles">
+<!ENTITY help.keyboard.key.down "Nool alla">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Kliki">
+<!ENTITY help.keyboard.mouse.click.middle "Keskmine-Klikk">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Eemalda">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause   "Esita/peata valitud meediaüksus" >
-<!ENTITY help.keyboard.name.playcontrol.prev    "Esita eelmist meediat listis" >
-<!ENTITY help.keyboard.name.playcontrol.next    "" >
-<!ENTITY help.keyboard.name.volume.down         "Vähenda helitugevust" >
-<!ENTITY help.keyboard.name.volume.up           "Suurenda helitugevust" >
-<!ENTITY help.keyboard.name.volume.mute         "Helitu" >
-<!ENTITY help.keyboard.name.volume.max          "Maksimaalne helitugevus" >
-<!ENTITY help.keyboard.name.jumpto              "Hüppa aknasse" >
-<!ENTITY help.keyboard.name.equalizer           "Ava ekvalaiser" >
-<!ENTITY help.keyboard.name.new.playlist        "Uus esitusesitusloend" >
-<!ENTITY help.keyboard.name.new.smartplaylist   "Uus automaatne esitusloend" >
-<!ENTITY help.keyboard.name.import              "Impordi meedia" >
-<!ENTITY help.keyboard.name.currenttrack        "Määra hetkel mängiva loo asukoht" >
-<!ENTITY help.keyboard.name.mediapage.switch    "Vaheta meediavaade" >
-<!ENTITY help.keyboard.name.feather.switch      "Switch Feather Layouts" >
-<!ENTITY help.keyboard.name.trackeditor         "Metaandmete redaktor" >
-<!ENTITY help.keyboard.name.edit.undo           "Unusta" >
-<!ENTITY help.keyboard.name.edit.redo           "Uuesti" >
-<!ENTITY help.keyboard.name.edit.selectall      "Vali kõik" >
-<!ENTITY help.keyboard.name.edit.cut            "Lõika" >
-<!ENTITY help.keyboard.name.edit.copy           "Kopeeri" >
-<!ENTITY help.keyboard.name.edit.paste          "Kleebi" >
-<!ENTITY help.keyboard.name.edit.delete         "Eemalda" >
-<!ENTITY help.keyboard.name.browser.back        "Tagasi" >
-<!ENTITY help.keyboard.name.browser.forward     "Edasi" >
-<!ENTITY help.keyboard.name.browser.reload      "Värskenda" >
-<!ENTITY help.keyboard.name.browser.stop        "Lõpeta laadimine" >
-<!ENTITY help.keyboard.name.open.file           "Ava fail" >
-<!ENTITY help.keyboard.name.open.url            "Ava aadress" >
-<!ENTITY help.keyboard.name.tab.open.link       "Ava Link uues kaardis" >
-<!ENTITY help.keyboard.name.save.link           "Salvesta Link" >
-<!ENTITY help.keyboard.name.file.print          "Prindi" >
-<!ENTITY help.keyboard.name.view.source         "Vaata allikat" >
-<!ENTITY help.keyboard.name.view.zoomin         "Suumi sisse" >
-<!ENTITY help.keyboard.name.view.zoomout        "Suumi välja" >
-<!ENTITY help.keyboard.name.view.zoomreset      "Tühista suum" >
-<!ENTITY help.keyboard.name.subscribe           "Telli" >
-<!ENTITY help.keyboard.name.locationbar         "" >
-<!ENTITY help.keyboard.name.tab.new             "Uus vahekaart" >
-<!ENTITY help.keyboard.name.tab.close           "Sulge vahekaart" >
-<!ENTITY help.keyboard.name.tab.next            "Järgmine vahekaart" >
-<!ENTITY help.keyboard.name.tab.previous        "Eelmine vahekaart" >
-<!ENTITY help.keyboard.name.tab.1               "Lülita 1. vahelehele" >
-<!ENTITY help.keyboard.name.tab.2               "Lülita 2. vahelehele" >
-<!ENTITY help.keyboard.name.tab.3               "Lülita 3. vahelehele" >
-<!ENTITY help.keyboard.name.tab.4               "Lülita 4. vahelehele" >
-<!ENTITY help.keyboard.name.tab.5               "Lülita 5. vahelehele" >
-<!ENTITY help.keyboard.name.tab.6               "Lülita 6. vahelehele" >
-<!ENTITY help.keyboard.name.tab.7               "Lülita 7. vahelehele" >
-<!ENTITY help.keyboard.name.tab.8               "Lülita 8. vahelehele" >
-<!ENTITY help.keyboard.name.tab.9               "Lülita viimasele vahelehele" >
-<!ENTITY help.keyboard.name.page.top            "Liigu ülemisse lehekülge" >
-<!ENTITY help.keyboard.name.page.bottom         "Liigu peamisesse lehekülge" >
-<!ENTITY help.keyboard.name.view.fullscreen     "Täisekraan" >
-<!ENTITY help.keyboard.name.mac.minimize        "Minimeeri dokki" >
-<!ENTITY help.keyboard.name.mac.hide            "Peida aken" >
-<!ENTITY help.keyboard.name.mac.hideothers      "Peida teised programmid" >
-<!ENTITY help.keyboard.name.downloads           "Allalaadimised" >
-<!ENTITY help.keyboard.name.find                "Otsi" >
-<!ENTITY help.keyboard.name.find.again          "Otsi veel" >
-<!ENTITY help.keyboard.name.find.text           "Otsi siis kui sa tipid teksti" >
-<!ENTITY help.keyboard.name.find.link           "Otsi siis kui sa tipid linki" >
-<!ENTITY help.keyboard.name.search.focus        "Fokuseeri otsingulahter" >
-<!ENTITY help.keyboard.name.video.fullscreen    "Täisekraan" >
-<!ENTITY help.keyboard.name.video.bringtofront  "Video peal" >
-<!ENTITY help.keyboard.name.video.escape        "Välju täisekraanirežiimist" >
-<!ENTITY help.keyboard.name.cdrip.start         "Rip CD" >
-<!ENTITY help.keyboard.name.cdrip.stop          "Stop Rip CD" >
-<!ENTITY help.keyboard.name.cdrip.eject         "Väljuta CD" >
-<!ENTITY help.keyboard.name.quit                "lahkuma" >
-<!ENTITY help.keyboard.name.preferences         "Eelistused" >
-<!ENTITY help.keyboard.name.help                "Abiteabe teemad" >
-<!ENTITY help.keyboard.name.sanitize            "Puhasta oma privaatsed andmed" >
+<!ENTITY help.keyboard.name.playcontrol.pause "Esita/peata valitud meediaüksus">
+<!ENTITY help.keyboard.name.playcontrol.prev "Esita eelmist meediat listis">
+<!ENTITY help.keyboard.name.playcontrol.next "">
+<!ENTITY help.keyboard.name.volume.down "Vähenda helitugevust">
+<!ENTITY help.keyboard.name.volume.up "Suurenda helitugevust">
+<!ENTITY help.keyboard.name.volume.mute "Helitu">
+<!ENTITY help.keyboard.name.volume.max "Maksimaalne helitugevus">
+<!ENTITY help.keyboard.name.jumpto "Hüppa aknasse">
+<!ENTITY help.keyboard.name.equalizer "Ava ekvalaiser">
+<!ENTITY help.keyboard.name.new.playlist "Uus esitusesitusloend">
+<!ENTITY help.keyboard.name.new.smartplaylist "Uus automaatne esitusloend">
+<!ENTITY help.keyboard.name.import "Impordi meedia">
+<!ENTITY help.keyboard.name.currenttrack "Määra hetkel mängiva loo asukoht">
+<!ENTITY help.keyboard.name.mediapage.switch "Vaheta meediavaade">
+<!ENTITY help.keyboard.name.trackeditor "Metaandmete redaktor">
+<!ENTITY help.keyboard.name.edit.undo "Unusta">
+<!ENTITY help.keyboard.name.edit.redo "Uuesti">
+<!ENTITY help.keyboard.name.edit.selectall "Vali kõik">
+<!ENTITY help.keyboard.name.edit.cut "Lõika">
+<!ENTITY help.keyboard.name.edit.copy "Kopeeri">
+<!ENTITY help.keyboard.name.edit.paste "Kleebi">
+<!ENTITY help.keyboard.name.edit.delete "Eemalda">
+<!ENTITY help.keyboard.name.browser.back "Tagasi">
+<!ENTITY help.keyboard.name.browser.forward "Edasi">
+<!ENTITY help.keyboard.name.browser.reload "Värskenda">
+<!ENTITY help.keyboard.name.browser.stop "Lõpeta laadimine">
+<!ENTITY help.keyboard.name.open.file "Ava fail">
+<!ENTITY help.keyboard.name.open.url "Ava aadress">
+<!ENTITY help.keyboard.name.tab.open.link "Ava Link uues kaardis">
+<!ENTITY help.keyboard.name.save.link "Salvesta Link">
+<!ENTITY help.keyboard.name.file.print "Prindi">
+<!ENTITY help.keyboard.name.view.source "Vaata allikat">
+<!ENTITY help.keyboard.name.view.zoomin "Suumi sisse">
+<!ENTITY help.keyboard.name.view.zoomout "Suumi välja">
+<!ENTITY help.keyboard.name.view.zoomreset "Tühista suum">
+<!ENTITY help.keyboard.name.subscribe "Telli">
+<!ENTITY help.keyboard.name.locationbar "">
+<!ENTITY help.keyboard.name.tab.new "Uus vahekaart">
+<!ENTITY help.keyboard.name.tab.close "Sulge vahekaart">
+<!ENTITY help.keyboard.name.tab.next "Järgmine vahekaart">
+<!ENTITY help.keyboard.name.tab.previous "Eelmine vahekaart">
+<!ENTITY help.keyboard.name.tab.1 "Lülita 1. vahelehele">
+<!ENTITY help.keyboard.name.tab.2 "Lülita 2. vahelehele">
+<!ENTITY help.keyboard.name.tab.3 "Lülita 3. vahelehele">
+<!ENTITY help.keyboard.name.tab.4 "Lülita 4. vahelehele">
+<!ENTITY help.keyboard.name.tab.5 "Lülita 5. vahelehele">
+<!ENTITY help.keyboard.name.tab.6 "Lülita 6. vahelehele">
+<!ENTITY help.keyboard.name.tab.7 "Lülita 7. vahelehele">
+<!ENTITY help.keyboard.name.tab.8 "Lülita 8. vahelehele">
+<!ENTITY help.keyboard.name.tab.9 "Lülita viimasele vahelehele">
+<!ENTITY help.keyboard.name.page.top "Liigu ülemisse lehekülge">
+<!ENTITY help.keyboard.name.page.bottom "Liigu peamisesse lehekülge">
+<!ENTITY help.keyboard.name.view.fullscreen "Täisekraan">
+<!ENTITY help.keyboard.name.mac.minimize "Minimeeri dokki">
+<!ENTITY help.keyboard.name.mac.hide "Peida aken">
+<!ENTITY help.keyboard.name.mac.hideothers "Peida teised programmid">
+<!ENTITY help.keyboard.name.downloads "Allalaadimised">
+<!ENTITY help.keyboard.name.find "Otsi">
+<!ENTITY help.keyboard.name.find.again "Otsi veel">
+<!ENTITY help.keyboard.name.find.text "Otsi siis kui sa tipid teksti">
+<!ENTITY help.keyboard.name.find.link "Otsi siis kui sa tipid linki">
+<!ENTITY help.keyboard.name.search.focus "Fokuseeri otsingulahter">
+<!ENTITY help.keyboard.name.video.fullscreen "Täisekraan">
+<!ENTITY help.keyboard.name.video.bringtofront "Video peal">
+<!ENTITY help.keyboard.name.video.escape "Välju täisekraanirežiimist">
+<!ENTITY help.keyboard.name.cdrip.eject "Väljuta CD">
+<!ENTITY help.keyboard.name.quit "lahkuma">
+<!ENTITY help.keyboard.name.preferences "Eelistused">
+<!ENTITY help.keyboard.name.help "Abiteabe teemad">
+<!ENTITY help.keyboard.name.sanitize "Puhasta oma privaatsed andmed">
