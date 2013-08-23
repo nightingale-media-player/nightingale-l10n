@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Власні налаштування">
+<!ENTITY equalizer.preset.flat "Прямий">
 <!ENTITY equalizer.preset.rock "Рок">
 <!ENTITY equalizer.preset.soft_rock "М&apos;який рок">
 <!ENTITY equalizer.preset.techno "Техно">
