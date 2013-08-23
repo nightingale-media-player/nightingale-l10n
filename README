@@ -1,19 +1,13 @@
-The purpose of this repo is to keep track of Nightingale localization and also
-every translations. This will be synced later with Babelzilla to help
-translators to contribute more easily.
+This repository is hosting Nightingale localization, it's automatically synchronized with Babelzilla platform to help translators contribute more easily.
 
-Credits for Nightingale translations : every Songbird localizers
-as mentions here :
-http://translate.songbirdnest.com
+Credits for Nightingale translations goes to former Songbird localizers mentioned here: http://translate.songbirdnest.com as well as new Nightingale localizers credited in the logs and at http://beta.babelzilla.org/projects/p/Nightingale/
 
-Wiki page for l10n support :
+Wiki page for L10n support:
 http://wiki.getnightingale.com/doku.php?id=ngale-locales
 
--------|-------------
+------|-------------
     ___|___          
   /////////\   _     
  /////////  \ ('< ♫  
  | (_)   |  | (^)    
  |_______|.===="==   
-                     
----------------------
