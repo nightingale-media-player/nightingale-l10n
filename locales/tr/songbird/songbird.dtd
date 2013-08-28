@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Özel">
+<!ENTITY equalizer.preset.flat "Düz">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Yumuşak Rock">
 <!ENTITY equalizer.preset.techno "Tekno">
