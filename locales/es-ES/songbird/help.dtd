@@ -1,21 +1,21 @@
 <!-- localizations for in-app help -->
-<!ENTITY help.keyboard.title "&brandShortName; Atajos de teclado">
+<!ENTITY help.keyboard.title "Atajos de teclado de &brandShortName;">
 <!ENTITY help.keyboard.subtitle "Atajos de teclado">
-<!ENTITY help.keyboard.description "Los atajos de teclado pueden hacer más fácilmente tareas en &brandShortName;. A continuación se muestra una lista de las órdenes disponibles seguidas de sus correspondientes atajos.">
+<!ENTITY help.keyboard.description "Los atajos de teclado pueden facilitar el uso de &brandShortName;. A continuación se muestra una lista de las órdenes disponibles seguidas de sus correspondientes atajos.">
 <!ENTITY help.platform.windows "Windows">
 <!ENTITY help.platform.macosx "Mac">
 <!ENTITY help.platform.linux "Linux">
-<!ENTITY help.keyboard.heading.command "Comando">
+<!ENTITY help.keyboard.heading.command "Orden">
 <!ENTITY help.keyboard.heading.shortcut "Atajo">
 <!ENTITY help.keyboard.section.playback "Controles de reproducción">
 <!ENTITY help.keyboard.section.library "Biblioteca y listas de reproducción ">
-<!ENTITY help.keyboard.section.editing "Editar">
+<!ENTITY help.keyboard.section.editing "Edición">
 <!ENTITY help.keyboard.section.navigation "Navegación">
 <!ENTITY help.keyboard.section.browser "Navegador">
 <!ENTITY help.keyboard.section.windows "Ventanas y pestañas">
 <!ENTITY help.keyboard.section.search "Buscar">
 <!ENTITY help.keyboard.section.video "Vídeo">
-<!ENTITY help.keyboard.section.cdrip "Grabación de CD">
+<!ENTITY help.keyboard.section.cdrip "Copia desde CD">
 <!ENTITY help.keyboard.section.misc "Miscelánea">
 <!ENTITY help.keyboard.key.left "Flecha izquierda">
 <!ENTITY help.keyboard.key.right "Flecha derecha">
@@ -49,22 +49,22 @@
 <!ENTITY help.keyboard.key.cmd "Cmd">
 <!ENTITY help.keyboard.key.alt "Alt">
 <!ENTITY help.keyboard.key.opt "Opt">
-<!ENTITY help.keyboard.key.shift "Mayúsculas">
+<!ENTITY help.keyboard.key.shift "Mayús">
 <!ENTITY help.keyboard.key.delete "Supr">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause "Reproducir/Pausar el elemento seleccionado">
+<!ENTITY help.keyboard.name.playcontrol.pause "Reproducir/pausar el elemento seleccionado">
 <!ENTITY help.keyboard.name.playcontrol.prev "Reproducir el elemento anterior de la lista">
 <!ENTITY help.keyboard.name.playcontrol.next "Reproducir el siguiente elemento de la lista">
-<!ENTITY help.keyboard.name.volume.down "Bajar Volumen">
-<!ENTITY help.keyboard.name.volume.up "Subir volumen">
-<!ENTITY help.keyboard.name.volume.mute "Silenciar volumen">
+<!ENTITY help.keyboard.name.volume.down "Bajar el volumen">
+<!ENTITY help.keyboard.name.volume.up "Subir el volumen">
+<!ENTITY help.keyboard.name.volume.mute "Silenciar el volumen">
 <!ENTITY help.keyboard.name.volume.max "Volumen máximo">
 <!ENTITY help.keyboard.name.jumpto "Ir a la ventana">
-<!ENTITY help.keyboard.name.equalizer "Abrir el Equalizador">
-<!ENTITY help.keyboard.name.new.playlist "Nueva lista de reproducción">
-<!ENTITY help.keyboard.name.new.smartplaylist "Nueva lista de reproducción inteligente">
-<!ENTITY help.keyboard.name.import "Importar Medios">
-<!ENTITY help.keyboard.name.currenttrack "Localizar el elemento en reproducción">
+<!ENTITY help.keyboard.name.equalizer "Abrir el ecualizador">
+<!ENTITY help.keyboard.name.new.playlist "Lista de reproducción nueva">
+<!ENTITY help.keyboard.name.new.smartplaylist "Lista de reproducción inteligente nueva">
+<!ENTITY help.keyboard.name.import "Importar medios">
+<!ENTITY help.keyboard.name.currenttrack "Ubicar el elemento en reproducción">
 <!ENTITY help.keyboard.name.mediapage.switch "Cambiar la Vista de Medios">
 <!ENTITY help.keyboard.name.feather.switch "Cambiar el diseño de la pluma">
 <!ENTITY help.keyboard.name.trackeditor "Editor de metadatos">
@@ -79,7 +79,7 @@
 <!ENTITY help.keyboard.name.browser.forward "Adelante">
 <!ENTITY help.keyboard.name.browser.reload "Recargar">
 <!ENTITY help.keyboard.name.browser.stop "Parar la carga">
-<!ENTITY help.keyboard.name.open.file "Abrir archivo">
+<!ENTITY help.keyboard.name.open.file "Abrir un archivo">
 <!ENTITY help.keyboard.name.open.url "Abrir dirección URL">
 <!ENTITY help.keyboard.name.tab.open.link "Abrir enlace en una pestaña nueva">
 <!ENTITY help.keyboard.name.save.link "Guardar enlace">
@@ -107,20 +107,20 @@
 <!ENTITY help.keyboard.name.page.bottom "Mover al final de la página">
 <!ENTITY help.keyboard.name.view.fullscreen "Pantalla completa">
 <!ENTITY help.keyboard.name.mac.minimize "Minimizar al Dock">
-<!ENTITY help.keyboard.name.mac.hide "Ocultar Ventana">
-<!ENTITY help.keyboard.name.mac.hideothers "Ocultar Otras Aplicaciones">
+<!ENTITY help.keyboard.name.mac.hide "Ocultar la ventana">
+<!ENTITY help.keyboard.name.mac.hideothers "Ocultar las otras aplicaciones">
 <!ENTITY help.keyboard.name.downloads "Descargas">
 <!ENTITY help.keyboard.name.find "Buscar">
 <!ENTITY help.keyboard.name.find.again "Buscar de nuevo">
 <!ENTITY help.keyboard.name.find.text "Buscar texto mientras escribe">
 <!ENTITY help.keyboard.name.find.link "Buscar mientras escribe">
-<!ENTITY help.keyboard.name.search.focus "Seleccionar la caja de búsqueda">
+<!ENTITY help.keyboard.name.search.focus "Seleccionar el cuadro de búsqueda">
 <!ENTITY help.keyboard.name.video.fullscreen "Pantalla completa">
 <!ENTITY help.keyboard.name.video.bringtofront "Vídeos al frente">
 <!ENTITY help.keyboard.name.video.escape "Salir de la pantalla completa">
-<!ENTITY help.keyboard.name.cdrip.start "Importar CD">
-<!ENTITY help.keyboard.name.cdrip.stop "Detener la grabación del CD">
-<!ENTITY help.keyboard.name.cdrip.eject "Expulsar disco">
+<!ENTITY help.keyboard.name.cdrip.start "Copiar desde CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Detener la copia del CD">
+<!ENTITY help.keyboard.name.cdrip.eject "Expulsar el disco">
 <!ENTITY help.keyboard.name.quit "Salir">
 <!ENTITY help.keyboard.name.preferences "Opciones">
 <!ENTITY help.keyboard.name.help "Temas de ayuda">

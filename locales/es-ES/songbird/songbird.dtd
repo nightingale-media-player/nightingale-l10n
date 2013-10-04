@@ -23,17 +23,17 @@
 <!ENTITY menu.mac.showall "Mostrar todos">
 <!ENTITY menu.mac.minimize.key "M">
 <!ENTITY menu.file "Archivo">
-<!ENTITY menu.file.new "Nueva lista de reproducción…">
-<!ENTITY menu.file.smart "Nueva lista de reproducción inteligente…">
-<!ENTITY menu.file.remote "Nueva suscripción…">
-<!ENTITY menu.file.podcast "Nuevo Podcast…">
-<!ENTITY menu.file.open "Abrir archivo…">
+<!ENTITY menu.file.new "Lista de reproducción nueva…">
+<!ENTITY menu.file.smart "Lista de reproducción inteligente nueva…">
+<!ENTITY menu.file.remote "Suscripción nueva…">
+<!ENTITY menu.file.podcast "Podcast nuevo…">
+<!ENTITY menu.file.open "Abrir un archivo…">
 <!ENTITY menu.file.url "Abrir una dirección…">
 <!ENTITY menu.file.playlist "Importar una lista de reproducción…">
 <!ENTITY menu.file.library "Importar una biblioteca…">
-<!ENTITY menu.file.newtab "Nueva pestaña">
-<!ENTITY menu.file.closetab "Cerrar pestaña">
-<!ENTITY menu.file.metadata "Ver metadatos">
+<!ENTITY menu.file.newtab "Pestaña nueva">
+<!ENTITY menu.file.closetab "Cerrar la pestaña">
+<!ENTITY menu.file.metadata "Ver los metadatos">
 <!ENTITY menu.file.scan "Importar medios…">
 <!ENTITY menu.file.exit "Salir">
 <!ENTITY menu.edit "Editar">
@@ -76,7 +76,7 @@
 <!ENTITY menu.tools.getartwork "Obtener la portada del álbum…">
 <!ENTITY menu.tools.exportmedia "Exportar cambios en la Biblioteca">
 <!ENTITY menu.help "Ayuda">
-<!ENTITY menu.help.homepage "Web de &brandShortName;">
+<!ENTITY menu.help.homepage "Sitio web de &brandShortName;">
 <!ENTITY menu.help.bugz "Informar de un error…">
 <!ENTITY menu.help.topics "Temas de ayuda">
 <!ENTITY menu.help.keyboard "Atajos de teclado">
@@ -93,8 +93,8 @@
 <!ENTITY menu.fullscreen "Pantalla completa">
 <!ENTITY menu.videotofront "Vídeos al frente">
 <!ENTITY device.dialog.wait_for_completion.title "Esperando dispositivos.">
-<!ENTITY device.dialog.wait_for_completion.msg "Esperando que se completen todas las operaciones del dispositivo. Haga clic en &quot;Cerrar&quot; para dejar de esperar y cerrar la aplicación.">
-<!ENTITY device.dialog.wait_for_completion.quit "Cerrar">
+<!ENTITY device.dialog.wait_for_completion.msg "Esperando que se completen todas las operaciones del dispositivo. Pulse en «Salir» para dejar de esperar y cerrar la aplicación.">
+<!ENTITY device.dialog.wait_for_completion.quit "Salir">
 <!ENTITY tooltip.minimize "Minimizar">
 <!ENTITY tooltip.maximize "Maximizar/restaurar">
 <!ENTITY tooltip.exit "Salir">
@@ -124,9 +124,9 @@
 <!ENTITY tooltip.browser.mediapages "Cambiar visualización de medios…">
 <!ENTITY tooltip.servicepane.show "Mostrar panel de servicio">
 <!ENTITY tooltip.servicepane.collapse "Ocultar el panel de servicios">
-<!ENTITY tooltip.servicepane.newnode "Nueva lista de reproducción">
+<!ENTITY tooltip.servicepane.newnode "Lista de reproducción nueva">
 <!ENTITY tooltip.displaypane.options "Opciones de panel de contenido">
-<!ENTITY smart.window "Editor de listas inteligentes">
+<!ENTITY smart.window "Lista inteligente">
 <!ENTITY smart.limit "Limitar a ">
 <!ENTITY smart.match "Coincidir">
 <!ENTITY smart.matchsingle "Cumplir la siguiente condición:">
