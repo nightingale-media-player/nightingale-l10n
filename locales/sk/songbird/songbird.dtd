@@ -83,6 +83,7 @@
 <!ENTITY menu.switchplayercontrols "Ovládanie prehrávača">
 <!ENTITY menu.controllerontop "Zobraziť hore">
 <!ENTITY menu.controlleronbottom "Zobraziť dole">
+<!ENTITY menu.fullscreen "Režim celej obrazovky">
 <!ENTITY device.dialog.wait_for_completion.title "Čakanie na zariadenia.">
 <!ENTITY device.dialog.wait_for_completion.msg "Čaká sa na dokončenie operácií všetkých zariadení. Kliknutim na tlacidlo &quot;Ukončiť&quot; zrušíte toto čakanie a ukončíte aplikáciu.">
 <!ENTITY device.dialog.wait_for_completion.quit "Ukončiť">
@@ -142,6 +143,8 @@
 <!ENTITY smart.to "do">
 <!ENTITY smart.autoupdate "Aktualizovať">
 <!ENTITY smart.playlistcondition.library "Knižnica">
+<!ENTITY smart.contenttypecondition.video "Video">
+<!ENTITY smart.contenttypecondition.audio "Hudba">
 <!ENTITY textbox.songbird_open_url "Vložte URL adresu alebo cestu média, ktoré chcete prehrať:">
 <!ENTITY open_url.title "Otvoriť URL adresu">
 <!ENTITY subscribe.title "Odoberať">
@@ -284,6 +287,7 @@
 <!ENTITY rapi.library_read_disable.accesskey "s">
 <!ENTITY rapi.library_write_disable.accesskey "a">
 <!ENTITY prefpane.addons.label "Doplnky">
+<!ENTITY prefpane.content.label "Webový obsah">
 <!ENTITY umsd.prefpane "USB">
 <!ENTITY umsd.no_devices_present "Nie sú pripojené žiadne pamäťové zariadenia USB.">
 <!ENTITY umsd.music.tab "Hudba">
@@ -371,8 +375,12 @@
 <!ENTITY command.device.renamedevice.accesskey "P">
 <!ENTITY command.device.devicesync "Synchronizovať">
 <!ENTITY command.device.devicesync.accesskey "S">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip "Kopírovať CD">
+<!ENTITY command.device.stoprip "Zastaviť kopírovanie">
 <!ENTITY command.device.lookup "Vyhľadať informácie o CD">
 <!ENTITY command.device.ejectcddevice "Vysunúť CD">
+<!ENTITY device.repair.menuitem.default "Opraviť moje zariadenie">
 <!ENTITY device.firmware.wizard.title "Aktualizovať firmvér">
 <!ENTITY device.firmware.wizard.check.page.title "Hľadať novú verziu firmvéru">
 <!ENTITY device.firmware.wizard.check.progress.title "Hľadá sa nová verzia firmvéru…">
