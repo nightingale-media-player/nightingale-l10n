@@ -62,6 +62,8 @@
 <!ENTITY menu.control.play.button "Prehrať">
 <!ENTITY menu.control.pause.button "Pozastaviť">
 <!ENTITY menu.control.stop.button "Zastaviť">
+<!ENTITY displaypane.default.image.pre "Vyberte doplnok z ">
+<!ENTITY displaypane.default.image.post "menu alebo navštívte">
 <!ENTITY displaypane.name.servicepane "Spodný panel služieb">
 <!ENTITY displaypane.name.browser "Spodný panel obsahu">
 <!ENTITY displaypane.name.sidebar "Pravý bočný panel">
@@ -111,6 +113,8 @@
 <!ENTITY tooltip.browser.home "Domov">
 <!ENTITY tooltip.browser.refresh "Obnoviť">
 <!ENTITY tooltip.browser.subscription "Prihlásiť sa k odberu">
+<!ENTITY tooltip.browser.mediapages.list "Zobrazenie zoznamu">
+<!ENTITY tooltip.browser.mediapages.filter "Zobrazenie filtrovaného zoznamu">
 <!ENTITY tooltip.browser.mediapages "Zobraziť…">
 <!ENTITY tooltip.servicepane.show "Ukázať panel služieb">
 <!ENTITY tooltip.servicepane.newnode "Nový zoznam skladieb">
@@ -133,7 +137,7 @@
 <!ENTITY smart.most_often "najčastejšie prehrávané">
 <!ENTITY smart.least_often "často prehrávané">
 <!ENTITY smart.most_added "naposledy pridané">
-<!ENTITY smart.least_added "nedávno pridané ">
+<!ENTITY smart.least_added "dávno pridané ">
 <!ENTITY smart.minutes "minút">
 <!ENTITY smart.hours "hodiny">
 <!ENTITY smart.mb "MB">
@@ -165,7 +169,7 @@
 <!ENTITY menu.view "Zobraziť">
 <!ENTITY about.version "Verzia">
 <!ENTITY about.buttons.credits "Tvorcovia">
-<!ENTITY equalizer.title "Eqalizér">
+<!ENTITY equalizer.title "Ekvalizér">
 <!ENTITY equalizer.on.checkbox "Zapnúť">
 <!ENTITY equalizer.band0.label "32">
 <!ENTITY equalizer.band1.label "64">
@@ -178,6 +182,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Vlastné">
+<!ENTITY equalizer.preset.flat "Ploché">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Jemný rock">
 <!ENTITY equalizer.preset.techno "Techno">
@@ -191,7 +196,7 @@
 <!ENTITY equalizer.preset.dance "Tanec">
 <!ENTITY equalizer.preset.pop "Pop">
 <!ENTITY equalizer.preset.soft "Jemné">
-<!ENTITY equalizer.preset.small_speakers "Laptop/sluchátka">
+<!ENTITY equalizer.preset.small_speakers "Laptop/slúchadlá">
 <!ENTITY equalizer.preset.full_bass_treble "Plné basy a výšky">
 <!ENTITY equalizer.preset.full_treble "Plné výšky">
 <!ENTITY equalizer.preset.full_bass "Plné basy">
@@ -231,6 +236,7 @@
 <!ENTITY menu.edit.findagain.accesskey "z">
 <!ENTITY menu.controls.accesskey "O">
 <!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
 <!ENTITY menu.control.next.accesskey "a">
 <!ENTITY menu.control.prev.accesskey "r">
 <!ENTITY menu.control.shuf.accesskey "N">
@@ -244,6 +250,7 @@
 <!ENTITY menu.tools.reveal.accesskey "v">
 <!ENTITY menu.tools.reveal.modifiers "accel,shift">
 <!ENTITY menu.help.accesskey "P">
+<!ENTITY menu.help.homepage.accesskey "W">
 <!ENTITY menu.help.bugz.accesskey "c">
 <!ENTITY menu.help.help.accesskey "P">
 <!ENTITY menu.help.keyboard.accesskey "K">
@@ -389,6 +396,7 @@
 <!ENTITY device.firmware.wizard.check.release_notes.label "Poznámky k vydaniu">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Zariadenie musí byť pre pokračovanie pripojené v režime firmvéru. Pre nastavenie zariadenia do režimu firmvéru, prosím, postupujte podľa inštrukcií nižšie.">
 <!ENTITY device.firmware.wizard.download.title "Preberá sa nová verzia firmvéru…">
+<!ENTITY device.firmware.wizard.repair.time.description "Táto operácia by mala trvať menej ako 5 minút.">
 <!ENTITY device.firmware.wizard.install.title "Inštaluje sa firmvér…">
 <!ENTITY device.firmware.wizard.busy.description "Zdá sa, že vaše zariadenie je zaneprázdnené. Firmvér môže byť nainštalovaný len ak je zariadenie v kľude.">
 <!ENTITY device.firmware.wizard.retry.description "Prosím, skúste to znova potom, ako vaše zariadenie dokončí súčasnú operáciu.">
@@ -416,9 +424,18 @@
 <!ENTITY device.unsupported_media.dialog.title "Zistené nekompatibilné súbory">
 <!ENTITY device.unsupported_media.dialog.enable "Oznamovať zistenie nekompatibilných súborov">
 <!ENTITY device.sync.header.label "Nastavenie synchronizácie">
+<!ENTITY device.import.header.label "Importovanie">
 <!ENTITY device.sync.auto_sync.label "Synchronizácia">
 <!ENTITY device.sync.sync_all.label "Všetky hudobné súbory, video a zoznamy skladieb">
 <!ENTITY device.sync.sync_selected.label "Vybrané zoznamy skladieb:">
+<!ENTITY device.sync.playlist.title "Názov">
+<!ENTITY device.sync.images.from.label "Synchronizovať fotky z:">
+<!ENTITY device.sync.images.browse "Vybrať adresár:">
+<!ENTITY device.sync.images.all.label "Všetky fotky">
+<!ENTITY device.sync.images.all.template "Všetky fotky (&#37;S)">
+<!ENTITY device.sync.images.selected.label "Vybrané adresáre">
+<!ENTITY device.sync.images.foldername "Názov adresára">
+<!ENTITY device.sync.images.filecount "Fotky">
 <!ENTITY device.settings.header.label "Nastavenia">
 <!ENTITY device.settings.general.label "Hlavné">
 <!ENTITY device.settings.auto_launch.checkbox.label "Spustiť &brandShortName; pri zistení zariadenia">
@@ -433,6 +450,8 @@
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitová rýchlosť">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbit/s">
 <!ENTITY device.management.tabs.music.label "Hudba">
+<!ENTITY device.management.tabs.video.label "Video">
+<!ENTITY device.management.tabs.image.label "Fotky">
 <!ENTITY device.management.tabs.tools.label "Nástroje">
 <!ENTITY device.management.tabs.settings.label "Nastavenia">
 <!ENTITY device.tools.product_registration.title "Registrácia produktu">
@@ -442,6 +461,8 @@
 <!ENTITY device.tools.update_firmware.description "Vaše zariadenie je kontrolované interným programom nazývaným firmvér. Od vášho posledného pripojenia zariadenia k vášmu počítaču mohli byť vydané novšie verzie firmvéru.">
 <!ENTITY device.tools.update_firmware.label "Vyhľadať aktualizovaný firmvér">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Súčasná verzia firmvéru:">
+<!ENTITY device.tools.restore_device.title "Obnoviť zariadenie">
+<!ENTITY device.tools.restore_device.label "Obnoviť zariadenie podľa výrobných nastavení">
 <!ENTITY device.tools.format_device.title "Formátovanie Zariadenia">
 <!ENTITY device.tools.format_device.description "Formátovanie vášho zariadenia spôsobí stratu všetkých hudobných súborov a údajov na tomto zariadení.">
 <!ENTITY device.tools.format_device.label "Formátovanie zariadenia">
@@ -452,6 +473,7 @@
 <!ENTITY device.tools.reset_warnings.description "Vynulovanie diálogov s upozornením umožní týmto dialógom vyžiadať si potvrdenie splnenia úlohy, ktorú práve vykonávate.">
 <!ENTITY device.tools.reset_warnings.label "Vynulovať správy s varovaním">
 <!ENTITY device.dialog.setup.title "Nastavenie zariadenia">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "Ignorovať toto zariadenie">
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Ak nechcete, aby &brandShortName; spravoval toto zariadenie, môžete">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorovať toto zariadenie">
 <!ENTITY device.dialog.setup.explainIgnore.afterText "">
@@ -495,6 +517,8 @@
 <!ENTITY first_run.add_ons.description.line2 "Doplnky sa môžu integrovať s inými aplikáciami a službami, pomôcť s pripojením na externé zariadenia, zmeniť vzhľad a mnoho iného! Môžete si prevziať ďalšie na &brandShortName; stránke doplnkov.">
 <!ENTITY first_run.add_ons.loading.label "Získava sa zoznam odporúčaných rozšírení.">
 <!ENTITY first_run.add_ons.load_failed.label "Nie je možné získať zoznam odporúčaných rozšírení.">
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Aktualizácia pripravená na inštalovanie.">
 <!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; sa nemôže pripojiť k internetu">
 <!ENTITY first_run.connection.description "Skontrolujte vaše nastavenie pripojenia alebo pokračujte so Sprievodcom nastavenia.">
@@ -619,11 +643,14 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Skladba">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
 <!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY playback.prefpane.ratings.label "Metadáta hodnotení">
 <!ENTITY fetch_album_art.dialog.title "Získať obal albumu">
 <!ENTITY fetch_album_art.dialog.message "Nie je momentálne implementované. (Pozrite Bug 14281)">
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Interpret">
 <!ENTITY cdrip.lookup.info_not_found.album "Album">
+<!ENTITY cdrip.lookup.info_not_found.title "Informácia o CD nenájdená">
+<!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Názov">
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Kopírovanie CD">
@@ -641,6 +668,14 @@
 <!ENTITY cdrip.mediaview.stop_rip_button "">
 <!ENTITY cdrip.mediaview.view_tracks_button "Zobraziť stopy">
 <!ENTITY cdrip.mediaview.eject_cd_button "vysunúť CD">
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY videowindow.actualsize "Aktuálna veľkosť">
+<!ENTITY videowindow.fullscreen "Celá obrazovka">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY videowindow.bringtofront.key "T">
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Chceli by sme poďakovať našim spolupracovníkom, ktorých úsilie spravilo zo &brandShortName; to, čo je. Títo ľudia nám pomohli s písaním kódu, dokumentácie a testovaním. Vytvorili a podporovali tento produkt, vývojárske sady, naše stavebné nástroje a naše webové stránky. Mená sú zoradené podľa IRC prezývok, príďte cez #songbird na irc.mozilla.org a povedzte ahoj!">
 <!ENTITY about.credits.footer.beforeLink "Samozrejme, nič z tohto všetkého by nebolo možné bez usilovnej práce a snahy">
@@ -649,3 +684,4 @@
 <!ENTITY about.credits.heading.translators "Lokalizátori">
 <!ENTITY about.credits.heading.champs "Šampióni Songbirdu">
 <!ENTITY cdinfo.other.label "Pridať vlastné informácie o Interpretovi a Albume">
+<!ENTITY playqueue.label "Prehrať skladby v poradí">
