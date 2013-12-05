@@ -114,6 +114,7 @@
 <!ENTITY help.keyboard.name.find.text "Hľadať počas zadávania textu">
 <!ENTITY help.keyboard.name.find.link "Hľadať počas zadávania adresy">
 <!ENTITY help.keyboard.name.search.focus "Nastaviť panel vyhľadávania ako aktívny">
+<!ENTITY help.keyboard.name.video.fullscreen "Celá obrazovka">
 <!ENTITY help.keyboard.name.cdrip.eject "Vysunúť CD">
 <!ENTITY help.keyboard.name.quit "Ukončiť">
 <!ENTITY help.keyboard.name.preferences "Nastavenia">
