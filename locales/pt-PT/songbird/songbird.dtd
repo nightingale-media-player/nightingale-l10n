@@ -64,7 +64,7 @@
 <!ENTITY menu.control.stop.button "Parar">
 <!ENTITY displaypane.default.image.pre "Selecione um extra do">
 <!ENTITY displaypane.default.image.tooltip "Ícone do seletor de extras">
-<!ENTITY displaypane.default.image.post "menu ou visite o">
+<!ENTITY displaypane.default.image.post "menu ou visite a">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Página de extras">
 <!ENTITY displaypane.default.link.post "para procurar extras.">
@@ -73,7 +73,7 @@
 <!ENTITY displaypane.name.sidebar "Barra lateral direita">
 <!ENTITY servicepane.title.label "Painel de serviço">
 <!ENTITY menu.tools "Ferramentas">
-<!ENTITY menu.tools.getartwork "Obter capa do álbum…">
+<!ENTITY menu.tools.getartwork "Obter capa do álbum">
 <!ENTITY menu.tools.exportmedia "Exportar alterações à coleção">
 <!ENTITY menu.help "Ajuda">
 <!ENTITY menu.help.homepage "Página web do &brandShortName;">
@@ -88,8 +88,8 @@
 <!ENTITY menu.errorconsole "Importar multimédia...">
 <!ENTITY menu.downloadmgr "Transferências">
 <!ENTITY menu.switchplayercontrols "Controlos do reprodutor">
-<!ENTITY menu.controllerontop "Exibir no topo">
-<!ENTITY menu.controlleronbottom "Exibir na base">
+<!ENTITY menu.controllerontop "Mostrar em cima">
+<!ENTITY menu.controlleronbottom "Mostrar em baixo">
 <!ENTITY menu.fullscreen "Ecrã completo">
 <!ENTITY menu.videotofront "Vídeo para a frente">
 <!ENTITY device.dialog.wait_for_completion.title "À espera de dispositivos.">
@@ -140,18 +140,18 @@
 <!ENTITY smart.title "título">
 <!ENTITY smart.high_rating "melhor avaliação">
 <!ENTITY smart.low_rating "menor avaliação">
-<!ENTITY smart.most_recent "mais recentemente reproduzidas">
-<!ENTITY smart.least_recent "menos recentemente reproduzidas">
-<!ENTITY smart.most_often "mais reproduzidas frequentemente">
+<!ENTITY smart.most_recent "mais reproduzidas recentemente">
+<!ENTITY smart.least_recent "menos reproduzidas recentemente">
+<!ENTITY smart.most_often "mais reproduzidas">
 <!ENTITY smart.least_often "menos reproduzidas">
-<!ENTITY smart.most_added "mais recentemente adicionadas">
-<!ENTITY smart.least_added "menos recentemente adicionadas">
+<!ENTITY smart.most_added "adições mais recentes">
+<!ENTITY smart.least_added "adições menos recentes">
 <!ENTITY smart.minutes "minutos">
 <!ENTITY smart.hours "horas">
 <!ENTITY smart.mb "MB">
 <!ENTITY smart.gb "GB">
 <!ENTITY smart.songs "itens">
-<!ENTITY smart.selectedby "selecionada por">
+<!ENTITY smart.selectedby "selecionar por">
 <!ENTITY smart.to "para">
 <!ENTITY smart.autoupdate "Atualização automática">
 <!ENTITY smart.playlistcondition.library "Coleção">
@@ -201,14 +201,14 @@
 <!ENTITY equalizer.preset.party "Festa">
 <!ENTITY equalizer.preset.classical "Clássica">
 <!ENTITY equalizer.preset.large_hall "Salão">
-<!ENTITY equalizer.preset.dance "Dança">
+<!ENTITY equalizer.preset.dance "selecionar por">
 <!ENTITY equalizer.preset.pop "Pop">
 <!ENTITY equalizer.preset.soft "Suave">
 <!ENTITY equalizer.preset.small_speakers "Portátil/Auscultadores">
 <!ENTITY equalizer.preset.full_bass_treble "Graves e agudos">
 <!ENTITY equalizer.preset.full_treble "Agudos">
 <!ENTITY equalizer.preset.full_bass "Graves">
-<!ENTITY setupprogress.pleasewait "Por favor, aguarde…">
+<!ENTITY setupprogress.pleasewait "Por favor aguarde…">
 <!ENTITY setupprogress.cancel "Cancelar">
 <!ENTITY menu.file.accesskey "F">
 <!ENTITY menu.file.new.accesskey "N">
@@ -219,10 +219,10 @@
 <!ENTITY menu.file.url.accesskey "A">
 <!ENTITY menu.file.playlist.accesskey "I">
 <!ENTITY menu.file.metadata.accesskey "V">
-<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY menu.file.newtab.accesskey "T">
-<!ENTITY menu.file.closetab.accesskey "W">
-<!ENTITY menu.file.scan.accesskey "C">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
 <!ENTITY locale.language.accesskey "L">
 <!ENTITY menu.view.accesskey "V">
 <!ENTITY menu.preferences.accesskey "O">
@@ -278,7 +278,7 @@
 <!ENTITY trackeditor.addtag.title "Adicionar etiqueta">
 <!ENTITY trackeditor.addtag.tag "Etiqueta:">
 <!ENTITY jumptofile.title "Ir para">
-<!ENTITY jumptofile.search "Pesquisar:">
+<!ENTITY jumptofile.search "Procurar:">
 <!ENTITY hotkeys.useglobalhotkeys "Utilizar teclas de atalho gerais">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY hotkeys.action "Ação">
@@ -287,16 +287,16 @@
 <!ENTITY hotkeys.set "Definir">
 <!ENTITY hotkeys.remove "Remover">
 <!ENTITY hotkeys.prefpane "Teclas de atalho">
-<!ENTITY hotkeys.info "As teclas de atalho permitem-lhe aceder a uma funcionalidade do &brandShortName; mesmo que este não seja a aplicação ativa. Alguns atalhos requerem teclas modificadoras para minimizar a interferência com outras aplicações.">
+<!ENTITY hotkeys.info "As teclas de atalho permitem-lhe aceder às funcionalidades do &brandShortName;, mesmo que este não seja a aplicação ativa.&#10;&#10; Alguns atalhos requerem teclas modificadoras para minimizar a interferência com outras aplicações.">
 <!ENTITY rapi.prefpane.title "Integração web">
 <!ENTITY rapi.prefpane.access.caption "Permissões de integração web">
-<!ENTITY rapi.prefpane.access.text "Pode permitir a integração das páginas web com o &brandShortName; para criar uma ligação mais forte entre a web e os seus ficheiros multimédia. Por favor, configure o &brandShortName; para permitir ou bloquear os seguintes pontos de integração.">
-<!ENTITY rapi.whitelist.label "Excepções…">
-<!ENTITY rapi.restore_defaults.label "Restaurar valores originais">
+<!ENTITY rapi.prefpane.access.text "Pode permitir a integração das páginas web com o &brandShortName; para criar uma ligação mais forte entre a web e os seus ficheiros multimédia. Configure o &brandShortName; para permitir ou bloquear os seguintes pontos de integração.">
+<!ENTITY rapi.whitelist.label "Exceções…">
+<!ENTITY rapi.restore_defaults.label "Restaurar predefinições">
 <!ENTITY rapi.playback_control_disable.label "Proibir todas as páginas web de controlar a reprodução">
-<!ENTITY rapi.playback_read_disable.label "Proibir que as páginas web visualizem as informações dos itens reproduzidos">
-<!ENTITY rapi.library_read_disable.label "Bloquear páginas web de ver as informações sobre os ficheiros existentes na coleção e nos seus dispositivos.">
-<!ENTITY rapi.library_write_disable.label "Bloquear páginas web de adicionar/editar os ficheiros existentes na coleção e nos seus dispositivos.">
+<!ENTITY rapi.playback_read_disable.label "Proibir as páginas web de visualizem as informações dos itens reproduzidos">
+<!ENTITY rapi.library_read_disable.label "Proibir as páginas web de visualizarem as informações sobre os ficheiros existentes na coleção e nos seus dispositivos.">
+<!ENTITY rapi.library_write_disable.label "Proibir as páginas web de adicionar/editar os ficheiros existentes na coleção e nos seus dispositivos.">
 <!ENTITY rapi.playback_control_disable.accesskey "p">
 <!ENTITY rapi.playback_read_disable.accesskey "m">
 <!ENTITY rapi.library_read_disable.accesskey "s">
@@ -304,18 +304,18 @@
 <!ENTITY prefpane.addons.label "Extras">
 <!ENTITY prefpane.content.label "Conteúdo web">
 <!ENTITY umsd.prefpane "USB">
-<!ENTITY umsd.no_devices_present "Sem unidades USB ligadas.">
+<!ENTITY umsd.no_devices_present "Nenhuma unidade USB ligada.">
 <!ENTITY umsd.music.tab "Música">
 <!ENTITY umsd.music.music_files_group "Ficheiros de música">
 <!ENTITY umsd.music.music_path_desc "Ao copiar ficheiros para o dispositivo, colocar nesta pasta:">
-<!ENTITY umsd.music.music_path_browse_msg "Selecione a pasta do dispositivo na qual os ficheiros serão colocados.">
+<!ENTITY umsd.music.music_path_browse_msg "Selecione a pasta do dispositivo para colocação das músicas.">
 <!ENTITY umsd.music.music_ext_desc "Copiar para o dispositivo os ficheiros com as seguintes extensões:">
 <!ENTITY umsd.video.tab "Vídeos">
 <!ENTITY umsd.video.video_files_group "Ficheiros de vídeo">
 <!ENTITY umsd.video.video_path_desc "Ao copiar ficheiros para o dispositivo, colocar nesta pasta:">
-<!ENTITY umsd.video.video_path_browse_msg "Selecione a pasta do dispositivo na qual os ficheiros serão colocados.">
+<!ENTITY umsd.video.video_path_browse_msg "Selecione a pasta do dispositivo para colocação dos vídeos.">
 <!ENTITY umsd.video.video_ext_desc "Copiar para o dispositivo os ficheiros com as seguintes extensões:">
-<!ENTITY device.error.dialog.link "Ver os detalhes do erro">
+<!ENTITY device.error.dialog.link "Ver detalhes do erro">
 <!ENTITY restartbox.restartnow "Reiniciar agora">
 <!ENTITY restartbox.restartonplaybackend "Reiniciar ao terminar a reprodução">
 <!ENTITY restartbox.restartlater "Reiniciar mais tarde">
@@ -370,13 +370,13 @@
 <!-- Device entities -->
 <!ENTITY command.device.cancel "Cancelar">
 <!ENTITY command.device.cancel.accesskey "C">
-<!ENTITY command.device.canceldevicecopy "Cancelar a cópia">
+<!ENTITY command.device.canceldevicecopy "Cancelar cópia">
 <!ENTITY command.device.canceldevicecopy.accesskey "C">
-<!ENTITY command.device.canceldevicedelete "Cancelar a eliminação">
+<!ENTITY command.device.canceldevicedelete "Cancelar eliminação">
 <!ENTITY command.device.canceldevicedelete.accesskey "C">
-<!ENTITY command.device.canceldevicesync "Cancelar a sincronização">
+<!ENTITY command.device.canceldevicesync "Cancelar sincronização">
 <!ENTITY command.device.canceldevicesync.accesskey "C">
-<!ENTITY command.device.canceldeviceupdate "Cancelar a atualização">
+<!ENTITY command.device.canceldeviceupdate "Cancelar atualização">
 <!ENTITY command.device.canceldeviceupdate.accesskey "C">
 <!ENTITY command.device.ejectdevice "Ejetar">
 <!ENTITY command.device.ejectdevice.accesskey "E">
@@ -385,7 +385,7 @@
 <!ENTITY command.device.ignoredevice "Ignorar">
 <!ENTITY command.device.ignoredevice.accesskey "I">
 <!ENTITY command.device.getdeviceinfo "Obter informações">
-<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.getdeviceinfo.accesskey "O">
 <!ENTITY command.device.renamedevice "Mudar nome">
 <!ENTITY command.device.renamedevice.accesskey "R">
 <!ENTITY command.device.devicesync "Sincronizar">
@@ -394,9 +394,9 @@
 <!ENTITY command.device.rip "Extrair CD">
 <!ENTITY command.device.rip.accesskey "R">
 <!ENTITY command.device.stoprip "Cancelar extração">
-<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.stoprip.accesskey "X">
 <!ENTITY command.device.lookup "Procurar informações do CD">
-<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.lookup.accesskey "D">
 <!ENTITY command.device.ejectcddevice "Ejetar CD">
 <!ENTITY command.device.ejectcddevice.accesskey "E">
 <!ENTITY device.repair.menuitem.default "Reparar o meu dispositivo">
@@ -405,17 +405,17 @@
 <!ENTITY device.firmware.wizard.check.progress.title "A procurar atualizações de &quot;firmware&quot;…">
 <!ENTITY device.firmware.wizard.check.install.description "Instalar uma atualização de &quot;firmware&quot; deve levar menos de 10 minutos. Pode sempre realizar a atualização mais tarde.">
 <!ENTITY device.firmware.wizard.check.already.description "O &quot;firmware&quot; do dispositivo está atualizado.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Notas de lançamento">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Notas da versão">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Para continuar, deve ligar o dispositivo no modo de reparação. Por favor, siga as instruções em baixo para definir o dispositivo neste modo.">
 <!ENTITY device.firmware.wizard.download.title "A transferir atualização…">
 <!ENTITY device.firmware.wizard.repair.time.description "Esta operação deve levar menos de 5 minutos.">
-<!ENTITY device.firmware.wizard.repair.warning "Infelizmente, o conteúdo existente no dispositivo &lt;strong class=&quot;loss-of-data-text&quot;&gt;será apagado&lt;/strong&gt;. Deve fazer uma sincronização com o &brandShortName; assim que a operação termine.">
+<!ENTITY device.firmware.wizard.repair.warning "Infelizmente, o conteúdo existente no dispositivo &lt;strong class=&quot;loss-of-data-text&quot;&gt;será eliminado&lt;/strong&gt;. Deve fazer uma sincronização com o &brandShortName; assim que a operação termine.">
 <!ENTITY device.firmware.wizard.install.title "A instalar &quot;firmware&quot;…">
-<!ENTITY device.firmware.wizard.busy.description "Parece que o seu dispositivo está ocupado. O &quot;firmware&quot; só pode ser instalado quando o dispositivo estiver inativo.">
-<!ENTITY device.firmware.wizard.retry.description "Por favor, tente novamente após o dispositivo concluir a operação atual.">
+<!ENTITY device.firmware.wizard.busy.description "Parece que o seu dispositivo está ocupado. O &quot;firmware&quot; só pode ser instalado se o dispositivo estiver inativo.">
+<!ENTITY device.firmware.wizard.retry.description "Por favor tente novamente após o dispositivo concluir a operação atual.">
 <!ENTITY device.firmware.wizard.check.error.description "Ocorreu um erro ao procurar a atualização. Por favor, verifique a ligação à rede e tente novamente.">
-<!ENTITY device.firmware.wizard.download.error.description "Ocorreu um erro ao transferir a atualização. Por favor, verifique a ligação à rede e tente novamente.">
-<!ENTITY device.firmware.wizard.support.description "As FAQs e dicas para resolução de problemas, podem ser encontradas em">
+<!ENTITY device.firmware.wizard.download.error.description "Ocorreu um erro ao transferir a atualização. Por favor verifique a ligação à rede e tente novamente.">
+<!ENTITY device.firmware.wizard.support.description "As FAQs e dicas para resolução de problemas podem ser encontradas em">
 <!ENTITY device.info.icon.device "Ícone de dispositivo genérico">
 <!ENTITY device.info.icon.readonly "Ícone de bloqueio de escrita">
 <!ENTITY device.info.model.label "Modelo">
@@ -435,15 +435,15 @@
 <!ENTITY device.capacity.other.label "Outros">
 <!ENTITY device.capacity.free.label "Livre">
 <!ENTITY device.unsupported_media.dialog.title "Detetados ficheiros incompatíveis ">
-<!ENTITY device.unsupported_media.dialog.enable "Avisar-me ao detetar ficheiros incompatíveis">
+<!ENTITY device.unsupported_media.dialog.enable "Avisar ao detetar ficheiros incompatíveis">
 <!ENTITY device.sync.header.label "Definições de sincronização">
-<!ENTITY device.import.header.label "Importar">
+<!ENTITY device.import.header.label "Importação">
 <!ENTITY device.sync.auto_sync.label "Sincronização">
 <!ENTITY device.sync.sync_all.label "Sincronizar multimédia e listas de reprodução">
 <!ENTITY device.sync.sync_selected.label "Sincronizar listas de reprodução selecionadas:">
 <!ENTITY device.sync.playlist.title "Título">
 <!ENTITY device.sync.playlist.video.duration "Duração do vídeo ">
-<!ENTITY device.sync.images.from.label "Sincronizar as pastas de:">
+<!ENTITY device.sync.images.from.label "Sincronizar fotos de:">
 <!ENTITY device.sync.images.browse "Escolha a pasta…">
 <!ENTITY device.sync.images.all.label "Todas as fotos">
 <!ENTITY device.sync.images.all.template "Todas as fotos (&#37;S)">
@@ -452,19 +452,19 @@
 <!ENTITY device.sync.images.filecount "Fotos">
 <!ENTITY device.settings.header.label "Definições">
 <!ENTITY device.settings.general.label "Geral">
-<!ENTITY device.settings.auto_launch.checkbox.label "Abrir &brandShortName; ao detetar este dispositivo">
+<!ENTITY device.settings.auto_launch.checkbox.label "Abrir o &brandShortName; ao detetar este dispositivo">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Procurar atualizações de &quot;firmware&quot; automaticamente">
 <!ENTITY device.settings.music.transcoding.label "Conversão de música">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "Atualmente, não há codificadores disponíveis para este dispositivo">
-<!ENTITY device.settings.disk.label "Gestão de Disco">
+<!ENTITY device.settings.disk.label "Gestão de disco">
 <!ENTITY device.settings.disk.management.label "Personalizar estrutura de diretórios">
 <!ENTITY device.settings.disk.management.filename "Ficheiros áudio">
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
 <!ENTITY device.settings.music.transcoding.mode.auto.label "Configurar conversão automaticamente">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Especificar manualmente a taxa de bits e o formato ">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Especificar manualmente a taxa de dados e o formato ">
 <!ENTITY device.settings.music.transcoding.format.label "Formato de codificação">
-<!ENTITY device.settings.music.transcoding.bitrate.label "Taxa de bits">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Taxa de dados">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
 <!ENTITY device.management.tabs.music.label "Músicas">
 <!ENTITY device.management.tabs.video.label "Vídeos">
@@ -473,9 +473,9 @@
 <!ENTITY device.management.tabs.settings.label "Definições">
 <!ENTITY device.tools.product_registration.title "Registo do produto">
 <!ENTITY device.tools.product_registration.description "Quer assegurar a prova de compra, benefícios adicionais de membro ou receber notificações de segurança?">
-<!ENTITY device.tools.product_registration.label "Registar o produto">
+<!ENTITY device.tools.product_registration.label "Registar produto">
 <!ENTITY device.tools.update_firmware.title "Atualizar &quot;firmware&quot;">
-<!ENTITY device.tools.update_firmware.description "O dispositivo é controlado por um programa interno chamado de &quot;firmware&quot;. Pode existir novas versões desse &quot;firmware&quot; desde a última vez que ligou o seu dispositivo ao computador.">
+<!ENTITY device.tools.update_firmware.description "O dispositivo é controlado por um programa interno chamado &quot;firmware&quot;. Podem existir novas versões desse &quot;firmware&quot; desde a última vez que ligou o seu dispositivo ao computador.">
 <!ENTITY device.tools.update_firmware.label "Procurar atualizações de &quot;firmware&quot;">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versão atual de &quot;firmware&quot;:">
 <!ENTITY device.tools.restore_device.title "Restaurar dispositivo">
@@ -494,17 +494,17 @@
 <!ENTITY device.dialog.setup.title "Configuração do dispositivo">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Escolha o disco de armazenamento que deseja que o &brandShortName; faça a gestão:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignorar este dispositivo">
-<!ENTITY device.dialog.setup.ignore.checkbox.description "Só deve escolher esta opção se não pretender que o &brandShortName; faça a gestão deste dispositivo">
+<!ENTITY device.dialog.setup.ignore.checkbox.description "Só deve escolher esta opção se não quiser que o &brandShortName; faça a gestão deste dispositivo">
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "Se não quiser que o &brandShortName; faça a gestão deste dispositivo, você pode">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorar este dispositivo">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
-<!ENTITY openLinkCmdInDefaultBrowser.label "Abrir ligação no navegador web do sistema">
+<!ENTITY openLinkCmdInDefaultBrowser.label "Abrir ligação no navegador web">
 <!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
-<!ENTITY openPageCmdInDefaultBrowser.label "Abrir página no navegador web do sistema">
+<!ENTITY openPageCmdInDefaultBrowser.label "Abrir página no navegador web">
 <!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
-<!ENTITY openFrameCmdInDefaultBrowser.label "Abrir moldura no navegador web do sistema">
+<!ENTITY openFrameCmdInDefaultBrowser.label "Abrir moldura no navegador web">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
-<!ENTITY openImageCmdInDefaultBrowser.label "Abrir imagem no navegador web do sistema">
+<!ENTITY openImageCmdInDefaultBrowser.label "Abrir imagem no navegador web">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY copySelectionCmd.label "Copiar texto selecionado">
 <!ENTITY copySelectionCmd.accesskey "c">
