@@ -1,6 +1,6 @@
 <!-- localizations for in-app help -->
 <!ENTITY help.keyboard.title "Atalhos de teclado do &brandShortName;">
-<!ENTITY help.keyboard.subtitle "Atalhos do teclado">
+<!ENTITY help.keyboard.subtitle "Atalhos de teclado">
 <!ENTITY help.keyboard.description "Os atalhos de teclado facilitam as tarefas no &brandShortName;. Em baixo, está uma lista de comandos disponíveis seguidos do seu respetivo atalho.">
 <!ENTITY help.platform.windows "Windows">
 <!ENTITY help.platform.macosx "Mac">
@@ -9,7 +9,7 @@
 <!ENTITY help.keyboard.heading.shortcut "Atalho">
 <!ENTITY help.keyboard.section.playback "Controlos de reprodução">
 <!ENTITY help.keyboard.section.library "Coleção e listas de reprodução">
-<!ENTITY help.keyboard.section.editing "Editar">
+<!ENTITY help.keyboard.section.editing "Edição">
 <!ENTITY help.keyboard.section.navigation "Navegação">
 <!ENTITY help.keyboard.section.browser "Navegador">
 <!ENTITY help.keyboard.section.windows "Janelas e separadores">

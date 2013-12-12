@@ -14,7 +14,7 @@
 <!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
 <!ENTITY menu.mac.services "Serviços">
-<!ENTITY menu.mac.hide "Ocultar &brandShortName;">
+<!ENTITY menu.mac.hide "Ocultar o &brandShortName;">
 <!ENTITY menu.mac.hide.key "H">
 <!ENTITY menu.mac.hide.modifiers "accel">
 <!ENTITY menu.mac.hideothers "Ocultar outros">
@@ -34,7 +34,7 @@
 <!ENTITY menu.file.newtab "Novo separador">
 <!ENTITY menu.file.closetab "Fechar separador">
 <!ENTITY menu.file.metadata "Ver meta-dados">
-<!ENTITY menu.file.scan "Importar multimédia">
+<!ENTITY menu.file.scan "Importar multimédia...">
 <!ENTITY menu.file.exit "Sair">
 <!ENTITY menu.edit "Editar">
 <!ENTITY menu.edit.undo "Anular">
@@ -85,7 +85,7 @@
 <!ENTITY menu.preferences "Opções">
 <!ENTITY menu.extensions "Extras">
 <!ENTITY menu.clearprivatedata "Limpar dados privados…">
-<!ENTITY menu.errorconsole "Consola de erros">
+<!ENTITY menu.errorconsole "Importar multimédia...">
 <!ENTITY menu.downloadmgr "Transferências">
 <!ENTITY menu.switchplayercontrols "Controlos do reprodutor">
 <!ENTITY menu.controllerontop "Exibir no topo">
@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Personalizado">
+<!ENTITY equalizer.preset.flat "Plano">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Rock suave">
 <!ENTITY equalizer.preset.techno "Techno">
