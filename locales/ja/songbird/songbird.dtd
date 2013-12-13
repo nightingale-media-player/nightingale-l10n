@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "カスタム設定">
+<!ENTITY equalizer.preset.flat "フラット">
 <!ENTITY equalizer.preset.rock "ロック">
 <!ENTITY equalizer.preset.soft_rock "ソフトロック">
 <!ENTITY equalizer.preset.techno "テクノ">
