@@ -82,7 +82,7 @@
 <!ENTITY menu.help.keyboard "キーボードショートカット">
 <!ENTITY menu.help.about "&brandShortName; について">
 <!ENTITY menu.equalizer "イコライザ…">
-<!ENTITY menu.preferences "環境設定">
+<!ENTITY menu.preferences "オプション">
 <!ENTITY menu.extensions "アドオン">
 <!ENTITY menu.clearprivatedata "プライバシー情報の消去…">
 <!ENTITY menu.errorconsole "エラーコンソール">
@@ -222,12 +222,12 @@
 <!ENTITY menu.file.library.accesskey "Y">
 <!ENTITY menu.file.newtab.accesskey "T">
 <!ENTITY menu.file.closetab.accesskey "C">
-<!ENTITY menu.file.scan.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
 <!ENTITY locale.language.accesskey "L">
 <!ENTITY menu.view.accesskey "V">
-<!ENTITY menu.preferences.accesskey "P">
+<!ENTITY menu.preferences.accesskey "O">
 <!ENTITY menu.equalizer.accesskey "Q">
-<!ENTITY menu.extensions.accesskey "E">
+<!ENTITY menu.extensions.accesskey "A">
 <!ENTITY menu.clearprivatedata.accesskey "P">
 <!ENTITY menu.errorconsole.accesskey "C">
 <!ENTITY menu.file.exit.accesskey "X">
@@ -264,7 +264,7 @@
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.help.about.accesskey "A">
 <!-- Track Editor (Metadata Editor) -->
-<!ENTITY trackeditor.title "トラック情報の編集">
+<!ENTITY trackeditor.title "メタデータ編集">
 <!ENTITY trackeditor.tab.summary.title "要約">
 <!ENTITY trackeditor.tab.edit.title "プロパティ">
 <!ENTITY trackeditor.tab.lyrics.title "歌詞">
@@ -287,7 +287,7 @@
 <!ENTITY hotkeys.set "設定">
 <!ENTITY hotkeys.remove "削除">
 <!ENTITY hotkeys.prefpane "ホットキー">
-<!ENTITY hotkeys.info "&brandShortName; がアクティブでなくても、グローバルホットキーで &brandShortName; の機能にアクセスすることができます。  他のアプリケーションによる干渉を避けるため、一部のホットキーの組み合わせには修飾キーが含まれます。">
+<!ENTITY hotkeys.info "&brandShortName; がアクティブでなくても、グローバルホットキーで &brandShortName; の機能にアクセスすることができます。 &#10;&#10;他のアプリケーションによる干渉を避けるため、一部のホットキーの組み合わせには修飾キーが含まれます。">
 <!ENTITY rapi.prefpane.title "ウェブ連携">
 <!ENTITY rapi.prefpane.access.caption "ウェブサイトの許可設定">
 <!ENTITY rapi.prefpane.access.text "ウェブサイトと &brandShortName; を連携させ、ウェブとあなたのメディアを密接に結びつけることができます。ウェブサイトに許可する連携を設定してください。">
@@ -304,7 +304,7 @@
 <!ENTITY prefpane.addons.label "アドオン">
 <!ENTITY prefpane.content.label "ウェブコンテンツ">
 <!ENTITY umsd.prefpane "USB">
-<!ENTITY umsd.no_devices_present "USB デバイスが接続されていません。">
+<!ENTITY umsd.no_devices_present "USB マスストレージデバイスが接続されていません。">
 <!ENTITY umsd.music.tab "音楽">
 <!ENTITY umsd.music.music_files_group "音楽ファイル">
 <!ENTITY umsd.music.music_path_desc "音楽ファイルを USB デバイスにコピーするには、それらを次のディレクトリ内に置いてください:">
@@ -404,9 +404,9 @@
 <!ENTITY device.firmware.wizard.check.page.title "ファームウェアの更新を確認">
 <!ENTITY device.firmware.wizard.check.progress.title "更新されたファームウェアを確認中…">
 <!ENTITY device.firmware.wizard.check.install.description "ファームウェアのアップデートは最大で10分かかります。これは後でいつでも実行できます。">
-<!ENTITY device.firmware.wizard.check.already.description "あなたのデバイスのファームウェアはすでに最新のものです。">
+<!ENTITY device.firmware.wizard.check.already.description "デバイスのファームウェアは最新バージョンです。">
 <!ENTITY device.firmware.wizard.check.release_notes.label "リリースノート">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "続けるには、デバイスをファームウェアモードで接続しなければなりません。 デバイスをファームウェアモードにするには、下記の指示に従ってください。">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "続けるには、デバイスを修復モードで接続しなければなりません。 下記の指示に従ってデバイスを修復モードにしてください。">
 <!ENTITY device.firmware.wizard.download.title "新しいファームウェアをダウンロードしています…">
 <!ENTITY device.firmware.wizard.repair.time.description "デバイスの復旧には最長で 5 分ほどかかります。">
 <!ENTITY device.firmware.wizard.repair.warning "残念ながら、デバイス上の&lt;strong class=&quot;loss-of-data-text&quot;&gt;すべての曲やデータが消去&lt;/strong&gt;されます。 この処理の完了後、再び &brandShortName; と同期してください。">
