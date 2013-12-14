@@ -14,7 +14,7 @@
 <!ENTITY help.keyboard.section.browser "ブラウザ">
 <!ENTITY help.keyboard.section.windows "ウィンドウとタブ">
 <!ENTITY help.keyboard.section.search "検索">
-<!ENTITY help.keyboard.section.video "ビデオ">
+<!ENTITY help.keyboard.section.video "動画">
 <!ENTITY help.keyboard.section.cdrip "CD の取り込み (リッピング)">
 <!ENTITY help.keyboard.section.misc "その他">
 <!ENTITY help.keyboard.key.left "←">
@@ -43,7 +43,7 @@
 <!ENTITY help.keyboard.key.f14 "F14">
 <!ENTITY help.keyboard.key.f15 "F15">
 <!ENTITY help.keyboard.mouse.click.primary "クリック">
-<!ENTITY help.keyboard.mouse.click.middle "中ボタンクリック">
+<!ENTITY help.keyboard.mouse.click.middle "中クリック">
 <!ENTITY help.keyboard.key.meta "Win">
 <!ENTITY help.keyboard.key.ctrl "Ctrl">
 <!ENTITY help.keyboard.key.cmd "Cmd">
