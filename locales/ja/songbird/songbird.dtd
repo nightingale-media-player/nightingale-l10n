@@ -82,7 +82,7 @@
 <!ENTITY menu.help.keyboard "キーボードショートカット">
 <!ENTITY menu.help.about "&brandShortName; について">
 <!ENTITY menu.equalizer "イコライザ…">
-<!ENTITY menu.preferences "オプション">
+<!ENTITY menu.preferences "環境設定">
 <!ENTITY menu.extensions "アドオン">
 <!ENTITY menu.clearprivatedata "プライバシー情報の消去…">
 <!ENTITY menu.errorconsole "エラーコンソール">
@@ -90,8 +90,8 @@
 <!ENTITY menu.switchplayercontrols "再生コントロールパネル">
 <!ENTITY menu.controllerontop "上部に表示">
 <!ENTITY menu.controlleronbottom "下部に表示">
-<!ENTITY menu.fullscreen "フルスクリーン">
-<!ENTITY menu.videotofront "ビデオを前面に表示">
+<!ENTITY menu.fullscreen "全画面表示">
+<!ENTITY menu.videotofront "動画を前面に表示">
 <!ENTITY device.dialog.wait_for_completion.title "デバイスの作業中">
 <!ENTITY device.dialog.wait_for_completion.msg "すべてのデバイスの作業が完了するまで、しばらくお待ちください。作業を中止してアプリケーションを終了するには [終了] をクリックしてください。">
 <!ENTITY device.dialog.wait_for_completion.quit "終了">
@@ -100,7 +100,7 @@
 <!ENTITY tooltip.exit "終了">
 <!ENTITY tooltip.close "閉じる">
 <!ENTITY tooltip.hide "隠す">
-<!ENTITY tooltip.fullscreen "フルスクリーン">
+<!ENTITY tooltip.fullscreen "全画面表示にします">
 <!ENTITY tooltip.control.back "前のトラックへ戻る">
 <!ENTITY tooltip.control.play "再生">
 <!ENTITY tooltip.control.pause "一時停止">
@@ -155,7 +155,7 @@
 <!ENTITY smart.to "～">
 <!ENTITY smart.autoupdate "自動更新">
 <!ENTITY smart.playlistcondition.library "ライブラリ">
-<!ENTITY smart.contenttypecondition.video "ビデオ">
+<!ENTITY smart.contenttypecondition.video "動画">
 <!ENTITY smart.contenttypecondition.audio "音楽">
 <!ENTITY textbox.songbird_open_url "再生するメディアの URL またはパスを入力してください:">
 <!ENTITY open_url.title "URL を開く">
@@ -310,11 +310,11 @@
 <!ENTITY umsd.music.music_path_desc "音楽ファイルを USB デバイスにコピーするには、それらを次のディレクトリ内に置いてください:">
 <!ENTITY umsd.music.music_path_browse_msg "音楽ファイルを置くディレクトリを選択してください。">
 <!ENTITY umsd.music.music_ext_desc "次の拡張子の音楽ファイルを USB デバイスにコピーします:">
-<!ENTITY umsd.video.tab "ビデオ">
-<!ENTITY umsd.video.video_files_group "ビデオファイル">
-<!ENTITY umsd.video.video_path_desc "ビデオファイルを USB デバイスにコピーするには、それらを次のディレクトリ内に置いてください:">
-<!ENTITY umsd.video.video_path_browse_msg "ビデオファイルを置くディレクトリを選択してください。">
-<!ENTITY umsd.video.video_ext_desc "次の拡張子のビデオファイルを USB デバイスにコピーします:">
+<!ENTITY umsd.video.tab "動画">
+<!ENTITY umsd.video.video_files_group "動画ファイル">
+<!ENTITY umsd.video.video_path_desc "動画ファイルを USB デバイスにコピーするには、それらを次のディレクトリ内に置いてください:">
+<!ENTITY umsd.video.video_path_browse_msg "動画ファイルを置くディレクトリを選択してください。">
+<!ENTITY umsd.video.video_ext_desc "次の拡張子の動画ファイルを USB デバイスにコピーします:">
 <!ENTITY device.error.dialog.link "エラーの詳細を表示">
 <!ENTITY restartbox.restartnow "今すぐ再起動">
 <!ENTITY restartbox.restartonplaybackend "再生終了後に再起動">
@@ -409,10 +409,10 @@
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "続けるには、デバイスを修復モードで接続しなければなりません。 下記の指示に従ってデバイスを修復モードにしてください。">
 <!ENTITY device.firmware.wizard.download.title "新しいファームウェアをダウンロードしています…">
 <!ENTITY device.firmware.wizard.repair.time.description "デバイスの復旧には最長で 5 分ほどかかります。">
-<!ENTITY device.firmware.wizard.repair.warning "残念ながら、デバイス上の&lt;strong class=&quot;loss-of-data-text&quot;&gt;すべての曲やデータが消去&lt;/strong&gt;されます。 この処理の完了後、再び &brandShortName; と同期してください。">
+<!ENTITY device.firmware.wizard.repair.warning "残念ながら、デバイス上の既存のコンテンツは <strong class=&quot;loss-of-data-text&quot;>消去されます</strong>。 この処理の完了後、&brandShortName; と再同期してください。">
 <!ENTITY device.firmware.wizard.install.title "ファームウェアをインストールしています…">
 <!ENTITY device.firmware.wizard.busy.description "デバイスがビジー状態です。ファームウェアはデバイスがアイドル状態のときにのみインストール可能です。">
-<!ENTITY device.firmware.wizard.retry.description "デバイスが現在の操作を完了してから再試行してください。">
+<!ENTITY device.firmware.wizard.retry.description "デバイスが現在の処理を完了した後で再試行してください。">
 <!ENTITY device.firmware.wizard.check.error.description "新ファームウェアの確認中にエラーが発生しました。 ネットワーク接続を確認の上、再度試してください。">
 <!ENTITY device.firmware.wizard.download.error.description "新ファームウェアのダウンロード中にエラーが発生しました。 ネットワーク接続を確認の上、再度試してください。">
 <!ENTITY device.firmware.wizard.support.description "FAQ やトラブルシューティングなどのサポート情報は次のサイトで見つけられます:">
@@ -430,7 +430,7 @@
 <!ENTITY device.info.firmware_version.label "ファームウェアのバージョン">
 <!ENTITY device.progress.sync "同期">
 <!ENTITY device.capacity.music.label "音楽">
-<!ENTITY device.capacity.video.label "ビデオ">
+<!ENTITY device.capacity.video.label "動画">
 <!ENTITY device.capacity.image.label "写真">
 <!ENTITY device.capacity.other.label "その他">
 <!ENTITY device.capacity.free.label "空き領域">
@@ -442,7 +442,7 @@
 <!ENTITY device.sync.sync_all.label "すべてのメディアとプレイリストを同期">
 <!ENTITY device.sync.sync_selected.label "選択したプレイリストを同期:">
 <!ENTITY device.sync.playlist.title "タイトル">
-<!ENTITY device.sync.playlist.video.duration "ビデオの長さ">
+<!ENTITY device.sync.playlist.video.duration "動画の長さ">
 <!ENTITY device.sync.images.from.label "写真の同期元:">
 <!ENTITY device.sync.images.browse "フォルダを選択…">
 <!ENTITY device.sync.images.all.label "すべての写真">
@@ -453,7 +453,7 @@
 <!ENTITY device.settings.header.label "設定">
 <!ENTITY device.settings.general.label "一般">
 <!ENTITY device.settings.auto_launch.checkbox.label "このデバイスを検出したとき &brandShortName; を開く">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "自動で新しいファームウェアをチェックする">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "自動で新しいファームウェアへの更新を確認する">
 <!ENTITY device.settings.music.transcoding.label "音楽トランスコード">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "このデバイスで利用可能なエンコーダはありません。">
 <!ENTITY device.settings.disk.label "ディスク管理">
@@ -467,19 +467,19 @@
 <!ENTITY device.settings.music.transcoding.bitrate.label "ビットレート">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
 <!ENTITY device.management.tabs.music.label "音楽">
-<!ENTITY device.management.tabs.video.label "ビデオ">
+<!ENTITY device.management.tabs.video.label "動画">
 <!ENTITY device.management.tabs.image.label "写真">
 <!ENTITY device.management.tabs.tools.label "ツール">
 <!ENTITY device.management.tabs.settings.label "設定">
 <!ENTITY device.tools.product_registration.title "製品登録">
-<!ENTITY device.tools.product_registration.description "購入証明をしたり、製品メンバーの特典を受けたり、安全に関する情報を受け取りたいですか？">
+<!ENTITY device.tools.product_registration.description "購入証明をしたり、製品メンバーの特典を受けたり、安全に関する情報を受け取りますか？">
 <!ENTITY device.tools.product_registration.label "製品を登録">
 <!ENTITY device.tools.update_firmware.title "ファームウェアの更新">
-<!ENTITY device.tools.update_firmware.description "デバイスはファームウェアと呼ばれる内部プログラムによってコントロールされています。新しいバージョンのファームウェアがあなたが最後にデバイスをコンピュータにつないだとき以降にリリースされているかもしれません。">
+<!ENTITY device.tools.update_firmware.description "デバイスはファームウェアと呼ばれる内部プログラムによって制御されています。前回デバイスをコンピュータに接続してから現在までの間にファームウェアの新しいバージョンがリリースされているかもしれません。">
 <!ENTITY device.tools.update_firmware.label "ファームウェアの更新を確認">
 <!ENTITY device.tools.update_firmware.current_firmware.title "現在のファームウェアバージョン:">
 <!ENTITY device.tools.restore_device.title "デバイスの復元">
-<!ENTITY device.tools.restore_device.description "デバイスを工場出荷時の設定に戻すと、このデバイス上のすべてのメディアが消去され、ファームウェアと設定が工場出荷時の状態の戻されます。">
+<!ENTITY device.tools.restore_device.description "デバイスを工場出荷時の設定に戻すと、このデバイス上のすべてのメディアが消去され、ファームウェアと設定が工場出荷時の状態に戻されます。">
 <!ENTITY device.tools.restore_device.label "デバイスを工場出荷時の設定に戻す">
 <!ENTITY device.tools.format_device.title "デバイスの初期化">
 <!ENTITY device.tools.format_device.description "デバイスを初期化すると、デバイス上のすべてのメディアが消去されます。">
@@ -492,7 +492,7 @@
 <!ENTITY device.tools.reset_warnings.description "警告ダイアログの設定をリセットすると、各操作に応じて確認のダイアログが表示されるようになります。">
 <!ENTITY device.tools.reset_warnings.label "警告メッセージをリセットする">
 <!ENTITY device.dialog.setup.title "デバイスのセットアップ">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "&brandShortName; に管理させたいストレージメディアを選択してください:">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "&brandShortName; に管理させるストレージメディアを選択してください:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "このデバイスを無視する">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "このデバイスを &brandShortName; に管理させたくないときだけ選択してください。">
 <!ENTITY device.dialog.setup.explainIgnore.beforeText "&brandShortName; でこのデバイスを管理しない場合は、">
@@ -521,7 +521,7 @@
 <!ENTITY subscribeMediaPageCmd.accesskey "u">
 <!ENTITY subscribeMediaFrameCmd.label "このフレームを購読…">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
-<!ENTITY feedback.dialog.title "&brandShortName; の品質向上への協力">
+<!ENTITY feedback.dialog.title "&brandShortName; の品質向上にご協力ください">
 <!ENTITY feedback.dialog.yes "はい">
 <!ENTITY feedback.dialog.no "いいえ">
 <!ENTITY feedback.dialog.sentence1 "&brandShortName; の品質を向上させるために、匿名でのアンケート調査に協力していただけますか？ ">
@@ -535,23 +535,23 @@
 <!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "おすすめのアドオン">
 <!ENTITY first_run.add_ons.description.line1 "アドオンを使用すると、メディアプレーヤーをカスタマイズして &brandShortName; の機能を拡張できます。以下のオプションを強く推奨します。">
-<!ENTITY first_run.add_ons.description.line2 "アドオンによって他のアプリケーションやサービスとの統合や、外部デバイスとの接続、外観の変更など様々なことが可能になります！アドオンは &brandShortName; アドオンサイトからダウンロードできます。">
-<!ENTITY first_run.add_ons.loading.label "おすすめのアドオンを追加する。">
-<!ENTITY first_run.add_ons.load_failed.label "おすすめのアドオンを追加できませんでした。">
+<!ENTITY first_run.add_ons.description.line2 "アドオンによって他のアプリケーションやサービスとの統合や、外部デバイスとの接続、外観の変更など様々なことが可能になります！ アドオンは &brandShortName; アドオンサイトからダウンロードできます。">
+<!ENTITY first_run.add_ons.loading.label "おすすめのアドオンを取得しています。">
+<!ENTITY first_run.add_ons.load_failed.label "おすすめのアドオンを取得できませんでした。">
 <!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "更新のインストール準備完了">
+<!ENTITY first_run.app_update.finished.title "更新のインストールが準備できました。">
 <!ENTITY first_run.app_update.finished.text "&brandShortName; の再起動後に更新がインストールされます。">
 <!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; がインターネットに接続できません">
 <!ENTITY first_run.connection.description "接続設定を確認するか設定アシスタントを続行してください。">
 <!ENTITY first_run.connection.settings.button "接続設定…">
-<!ENTITY first_run.connection.settings.description "あなたのコンピュータまたはネットワークがファイアウォールやプロキシによって保護されていませんか? 正しい接続設定に修正すれば一般的なネットワークの問題を解決することができます。">
+<!ENTITY first_run.connection.settings.description "あなたのコンピュータまたはネットワークがファイアウォールやプロキシによって保護されていませんか？ 正しい接続設定に修正すれば一般的なネットワークの問題を解決することができます。">
 <!-- First-run eula entities. -->
 <!ENTITY first_run.eula.header.label "利用許諾契約">
-<!ENTITY first_run.eula.accept_checkbox.label "ライセンス条項を読み、これに同意します。">
+<!ENTITY first_run.eula.accept_checkbox.label "このライセンス条項に同意します。">
 <!ENTITY first_run.eula.language.label "言語:">
 <!-- First-run feedback entities. -->
-<!ENTITY first_run.feedback.header.label "&brandShortName; の品質向上への協力">
+<!ENTITY first_run.feedback.header.label "&brandShortName; の品質向上にご協力ください">
 <!ENTITY first_run.feedback.description "&brandShortName; の品質を向上させるために、アプリケーションの利用状況についての匿名の調査に協力していただけますか？">
 <!ENTITY first_run.feedback.metrics.label "&brandShortName; の利用状況の送信">
 <!ENTITY first_run.feedback.metrics.description "記入した内容は完全に匿名で送信されるため、個人情報は収集されません。">
@@ -561,22 +561,22 @@
 <!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "iTunes インポート/エクスポート">
 <!ENTITY first_run.itunes.description "iTunes がインストールされています。&brandShortName; は iTunes との間でトラックのインポートやエクスポートをして、ライブラリを同期するように設定できます。">
-<!ENTITY first_run.itunes.checkbox.import.label "iTunes からトラックとプレイリストをインポートする">
+<!ENTITY first_run.itunes.checkbox.import.label "iTunes から音楽トラックとプレイリストをインポートする">
 <!ENTITY first_run.itunes.checkbox.import.description "iTunes ストアで購入したポッドキャストや音楽を &brandShortName; にインポートできます。この機能は &brandShortName; がメインのミュージックプレーヤーになっても動作します。">
-<!ENTITY first_run.itunes.checkbox.export.label "新しいトラックとプレイリストを iTunes にエクスポートする">
+<!ENTITY first_run.itunes.checkbox.export.label "新しい音楽トラックとプレイリストを iTunes にエクスポートする">
 <!ENTITY first_run.itunes.checkbox.export.description "&brandShortName; に取り込んだ音楽は iTunes にエクスポートできるため、iPod や iPhone にも転送できます。">
 <!-- First-run import media entities. -->
 <!ENTITY first_run.import_media.header.label "メディアのインポート">
 <!ENTITY first_run.import_media.description "このページでは、ローカルメディアを自動検出してメディアファイルを &brandShortName; にインポートします。一度 &brandShortName; を起動すれば、追加のメディアを様々な方法で追加できます。">
 <!ENTITY first_run.import_media.radio.scan_directories.label "コンピュータ上のディレクトリを検索する">
 <!ENTITY first_run.import_media.radio.dont_import.label "今はメディアをインポートしない">
-<!ENTITY first_run.import_media.scan_directories.description "コンピュータ上の特定のフォルダを検索して &brandShortName; にメディアをインポートしますか?">
+<!ENTITY first_run.import_media.scan_directories.description "コンピュータ上の特定のフォルダを検索して &brandShortName; にメディアをインポートしますか？">
 <!ENTITY first_run.import_media.scan_directories.watch.label "このフォルダの変更を監視する">
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "アドオンのダウンロード">
 <!-- First-run welcome entities. -->
 <!ENTITY first_run.welcome.header.label "&brandShortName; のご利用ありがとうございます">
-<!ENTITY first_run.welcome.description.line1 "&brandShortName; は高いカスタマイズ性を備えた、新しいデスクトップメディアプレーヤーです。">
+<!ENTITY first_run.welcome.description.line1 "&brandShortName; は高いカスタマイズ性を備えたデスクトップメディアプレーヤーです。">
 <!ENTITY first_run.welcome.description.line2 "このアシスタントはアプリケーションの初期設定を行い、基本的な機能を紹介します。">
 <!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "メディアのインポート">
@@ -588,9 +588,9 @@
 <!ENTITY import_library.prefs.path_group_caption "iTunes ミュージックライブラリの場所">
 <!ENTITY import_library.prefs.options_group_caption "インポート/エクスポート オプション">
 <!ENTITY import_library.import_command "ライブラリのインポート">
-<!ENTITY import_tracks_itunes_checkbox "トラックを iTunes からインポート">
+<!ENTITY import_tracks_itunes_checkbox "音楽トラックを iTunes からインポート">
 <!ENTITY import_playlists_itunes_checkbox "プレイリストをインポート">
-<!ENTITY export_tracks_itunes_checkbox "トラックを iTunes にエクスポート">
+<!ENTITY export_tracks_itunes_checkbox "音楽トラックを iTunes にエクスポート">
 <!ENTITY export_playlists_itunes_checkbox "プレイリストをエクスポート">
 <!ENTITY export_subscriptions_itunes_checkbox "購読フィードをエクスポート">
 <!ENTITY export_smartplaylists_itunes_checkbox "スマートプレイリストをエクスポート">
@@ -598,12 +598,12 @@
 <!-- Import library dirty playlist dialog entities. -->
 <!ENTITY import_library.dirty_playlist_dialog.title "プレイリストの変更">
 <!ENTITY import_library.dirty_playlist_dialog.keep "現在の &brandShortName; プレイリストを保持する (このプレイリストをインポートしません)">
-<!ENTITY import_library.dirty_playlist_dialog.merge "現在の &brandShortName; プレイリストと iTunes プレイリストをマージする">
+<!ENTITY import_library.dirty_playlist_dialog.merge "現在の &brandShortName; プレイリストと iTunes プレイリストを併合する">
 <!ENTITY import_library.dirty_playlist_dialog.replace "この &brandShortName; プレイリストを現在の iTunes プレイリストで置き換える">
-<!ENTITY import_library.dirty_playlist_dialog.note "注意: マージと置き換えは実行すると元に戻せません。">
+<!ENTITY import_library.dirty_playlist_dialog.note "注意: 併合と置き換えは実行すると元に戻せません。">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "選択した操作をすべてのプレイリストに適用する">
 <!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "管理しているミュージックフォルダを監視フォルダに設定してはいけません。設定すると、ライブラリ内にトラックが重複してしまいます。">
+<!ENTITY watch_folder.prefs.general_description "管理している音楽フォルダを監視フォルダに設定してはいけません。設定すると、ライブラリ内にトラックが重複してしまいます。">
 <!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "フォルダ監視">
 <!ENTITY watch_folder.prefs.settings_group_caption "フォルダ監視設定">
@@ -630,19 +630,19 @@
 <!ENTITY albumart.coverpreview.title "アートワーク">
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "アートワーク">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "アートワークをファイルのメタデータに書き込む">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "アートワークを各ファイルのメタデータに書き込む">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "&brandShortName; がアートワークをメディアファイルの互換タグに埋め込むことを許可します。">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "検索するファイル名:">
 <!ENTITY albumartpreferences.prefpane.search_file_names.empty "ファイル名のリストをカンマ区切りで入力してください">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "検索する拡張子:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "拡張子のリストをカンマ区切りで入力してください">
 <!ENTITY albumartpreferences.prefpane.priorities.label "フェッチャーの優先順位">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "使用したいフェッチャーのリストを先頭に配置してください。">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "最初に使用したいフェッチャーをリストの先頭に配置してください。">
 <!ENTITY albumartpreferences.prefpane.priorities.up "上へ移動">
 <!ENTITY albumartpreferences.prefpane.priorities.down "下へ移動">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "リセット">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "アルバムアートワークを自動取得">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "アルバムアートワーク表示ペインのモードに応じて、トラックを再生または選択したときにアルバムアートワークを自動取得します。この機能をオンにするとパフォーマンスに影響します。">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "アルバムアートワーク表示ペインのモードに応じて、トラックを再生または選択したときにアルバムアートワークを自動取得します。この機能をオンにするとソフトウェアのパフォーマンスに影響します。">
 <!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "戻る">
 <!ENTITY wizard.button.back.accesskey "B">
@@ -655,13 +655,13 @@
 <!ENTITY mediacore.error.preface "再生時にエラーが発生しました:">
 <!ENTITY mediacore.error.continue "続行">
 <!ENTITY mediacore.error.stop "再生中止">
-<!ENTITY mediacore.error.dontshowme "今後、再生エラーを表示しない。">
-<!ENTITY mediacore.error.codec_not_found.text.pre "見付からないコーデックに関する詳細は以下を参照:">
+<!ENTITY mediacore.error.dontshowme "今後は再生エラーを表示しない">
+<!ENTITY mediacore.error.codec_not_found.text.pre "足りないコーデックに関する詳細は以下を参照してください:">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "メディアインポートの警告">
-<!ENTITY mediaimporter.filtered_extensions.bottomdesc "見付からないコーデックに関する詳細は以下を参照:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "今後はインポート中にサポートされていないビデオファイルについて警告しない">
+<!ENTITY mediaimporter.filtered_extensions.bottomdesc "足りないコーデックに関する詳細は以下を参照してください:">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "今後はインポート中にサポートされていない動画ファイルについて警告しない">
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "再生">
 <!ENTITY playback.prefpane.audio_output.label "オーディオ出力">
@@ -712,9 +712,9 @@
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
-<!ENTITY videowindow.title "ビデオ ウィンドウ">
+<!ENTITY videowindow.title "動画ウィンドウ">
 <!ENTITY videowindow.actualsize "実サイズ">
-<!ENTITY videowindow.fullscreen "フルスクリーン">
+<!ENTITY videowindow.fullscreen "全画面表示">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
 <!-- about:credits entities. -->
@@ -725,14 +725,14 @@
 <!ENTITY about.credits.heading.translators "翻訳者">
 <!ENTITY about.credits.heading.champs "チャンピオン">
 <!ENTITY about.credits.description.champs.link.pre "Songbird Campions は熱心な Songbird ユーザで、その義務を超えて">
-<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction Support Forum">
+<!ENTITY about.credits.description.champs.link.text "Songbird GetSatisfaction サポートフォーラム">
 <!ENTITY about.credits.description.champs.link.post "で他の Songbird ユーザを助けることを楽しみとしています。彼らはフォーラムで多くの成果を上げ、すべての Songbird ユーザを幸せにするため、疲れ知らずで働いています。">
 <!ENTITY cdrip.lookup.multiple.title "複数の CD 情報が見つかりました">
-<!ENTITY cdrip.lookup.multiple.description "以下から１つ選ぶか、貴方がお持ちの情報を追加してください。">
+<!ENTITY cdrip.lookup.multiple.description "以下から 1 つ選ぶか、お持ちの情報を追加してください。">
 <!ENTITY cdinfo.other.label "アーティスト名とアルバム名を記入する">
 <!ENTITY playqueue.label "再生キュー">
 <!ENTITY playqueue.instructions "ここにトラックやプレイリストをドラッグ＆ドロップして、再生キューに追加してください">
 <!ENTITY playqueue.inprogress "トラックを追加しています">
-<!ENTITY mediamanagement.removed.dialog.title "メディアの管理機能は削除されました">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "メディアの管理機能は &brandShortName; バージョン 1.10 で無効化されています。">
-<!ENTITY mediamanagement.removed.dialog.text.line2 "詳細はこちらをご覧ください:">
+<!ENTITY mediamanagement.removed.dialog.title "メディアの管理機能について">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "メディアの管理機能は &brandShortName; バージョン 1.10 で削除されました。">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "この変更は、製品を使いやすくするために簡略化されたものの一部です。">
