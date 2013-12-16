@@ -4,7 +4,7 @@
 <!ENTITY window.apply "Applica">
 <!ENTITY window.browse "Sfoglia…">
 <!ENTITY window.save "Salva">
-<!ENTITY window.yes "Si">
+<!ENTITY window.yes "Sì">
 <!ENTITY window.no "No">
 <!-- Mac system menu -->
 <!ENTITY menu.mac.exit "Chiudi &brandShortName;">
@@ -17,24 +17,24 @@
 <!ENTITY menu.mac.hide "Nascondi &brandShortName;">
 <!ENTITY menu.mac.hide.key "H">
 <!ENTITY menu.mac.hide.modifiers "accel">
-<!ENTITY menu.mac.hideothers "Nascondi Altri">
+<!ENTITY menu.mac.hideothers "Nascondi altri">
 <!ENTITY menu.mac.hideothers.key "H">
 <!ENTITY menu.mac.hideothers.modifiers "accel,alt">
 <!ENTITY menu.mac.showall "Mostra tutti">
 <!ENTITY menu.mac.minimize.key "M">
 <!ENTITY menu.file "File">
 <!ENTITY menu.file.new "Nuova playlist…">
-<!ENTITY menu.file.smart "Nuovo playlist intelligente…">
+<!ENTITY menu.file.smart "Nuova playlist intelligente…">
 <!ENTITY menu.file.remote "Nuova sottoscrizione…">
-<!ENTITY menu.file.podcast "Nuovo Podcast…">
-<!ENTITY menu.file.open "Apri File…">
+<!ENTITY menu.file.podcast "Nuovo podcast…">
+<!ENTITY menu.file.open "Apri file…">
 <!ENTITY menu.file.url "Apri indirizzo…">
 <!ENTITY menu.file.playlist "Importa playlist…">
-<!ENTITY menu.file.library "Importa una Libreria…">
+<!ENTITY menu.file.library "Importa una libreria…">
 <!ENTITY menu.file.newtab "Nuova scheda">
 <!ENTITY menu.file.closetab "Chiudi scheda">
 <!ENTITY menu.file.metadata "Visualizza metadati">
-<!ENTITY menu.file.scan "Cerca File Multimediali…">
+<!ENTITY menu.file.scan "Cerca file multimediali…">
 <!ENTITY menu.file.exit "Esci">
 <!ENTITY menu.edit "Modifica">
 <!ENTITY menu.edit.undo "Annulla">
@@ -45,40 +45,40 @@
 <!ENTITY menu.edit.delete "Cancella">
 <!ENTITY menu.edit.selall "Seleziona tutto">
 <!ENTITY menu.edit.find "Trova">
-<!ENTITY menu.edit.findagain "Trova Ancora">
+<!ENTITY menu.edit.findagain "Trova ancora">
 <!-- Linux edit menu -->
 <!ENTITY menu.linux.preferences "Preferenze">
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.controls "Controlli">
 <!ENTITY menu.control.play "Play">
 <!ENTITY menu.control.pause "Pausa">
-<!ENTITY menu.control.next "Traccia Successiva">
-<!ENTITY menu.control.prev "Traccia Precedente">
+<!ENTITY menu.control.next "Traccia successiva">
+<!ENTITY menu.control.prev "Traccia precedente">
 <!ENTITY menu.control.shuf "Casuale">
 <!ENTITY menu.control.repa "Ripeti tutti">
-<!ENTITY menu.control.rep1 "Ripeti Uno">
-<!ENTITY menu.control.repx "Ripeti Nessuno">
+<!ENTITY menu.control.rep1 "Ripeti una volta">
+<!ENTITY menu.control.repx "Non ripetere">
 <!ENTITY menu.control.jumpto "Salta a…">
 <!ENTITY menu.control.play.button "Play">
 <!ENTITY menu.control.pause.button "Pausa">
 <!ENTITY menu.control.stop.button "Stop">
-<!ENTITY displaypane.default.image.pre "Selezionare un Componente aggiuntivo dal menù">
-<!ENTITY displaypane.default.image.tooltip "Prendi Icona Componente Aggiuntivo">
+<!ENTITY displaypane.default.image.pre "Selezionare un componente aggiuntivo dal menù">
+<!ENTITY displaypane.default.image.tooltip "Icona del raccoglitore di componenti aggiuntivi">
 <!ENTITY displaypane.default.image.post "o visita">
 <!ENTITY displaypane.default.link.pre "">
-<!ENTITY displaypane.default.link.text "Sito Componenti Aggiuntivi">
-<!ENTITY displaypane.default.link.post "ai componenti aggiuntivi del browser">
+<!ENTITY displaypane.default.link.text "Sito componenti aggiuntivi">
+<!ENTITY displaypane.default.link.post "per sfogliare le estensioni">
 <!ENTITY displaypane.name.servicepane "Pulsante Pannello di Servizio">
 <!ENTITY displaypane.name.browser "Pulsante Pannello Contenuto">
 <!ENTITY displaypane.name.sidebar "Barra di destra">
 <!ENTITY servicepane.title.label "Pannello di Servizio">
 <!ENTITY menu.tools "Strumenti">
 <!ENTITY menu.tools.getartwork "Ottieni copertina album…">
-<!ENTITY menu.tools.exportmedia "Esporta Cambiamenti Libreria">
+<!ENTITY menu.tools.exportmedia "Esporta cambiamenti libreria">
 <!ENTITY menu.help "Aiuto">
 <!ENTITY menu.help.homepage "Sito web di &brandShortName;">
-<!ENTITY menu.help.bugz "Segnala un Bug…">
-<!ENTITY menu.help.topics "Aiuto topic">
+<!ENTITY menu.help.bugz "Segnala un bug…">
+<!ENTITY menu.help.topics "Argomenti della guida">
 <!ENTITY menu.help.keyboard "Tasti di scelta rapida">
 <!ENTITY menu.help.about "Informazioni su &brandShortName;">
 <!ENTITY menu.equalizer "Equalizzatore…">
@@ -90,7 +90,7 @@
 <!ENTITY menu.switchplayercontrols "Controlli del lettore">
 <!ENTITY menu.controllerontop "Visualizza in alto">
 <!ENTITY menu.controlleronbottom "Visualizza in basso">
-<!ENTITY menu.fullscreen "Schermo Intero">
+<!ENTITY menu.fullscreen "Schermo intero">
 <!ENTITY menu.videotofront "Video in primo piano">
 <!ENTITY device.dialog.wait_for_completion.title "In attesa del dispositivo.">
 <!ENTITY device.dialog.wait_for_completion.msg "In attesa che tutte le operazioni sul dispositivo siano completate. Premi &quot;Chiudi&quot; per interrompere le operazioni e chiudere l&apos;applicazione.">
@@ -539,7 +539,8 @@
 <!ENTITY first_run.add_ons.loading.label "Caricamento estensioni raccomandate.">
 <!ENTITY first_run.add_ons.load_failed.label "Impossibile recuperare le estensioni raccomandate.">
 <!-- First-run application update entities. -->
-<!ENTITY first_run.app_update.finished.title "Aggiornameni pronti per l'installazione.">
+<!ENTITY first_run.app_update.finished.title "Aggiornamenti pronti per l'installazione.">
+<!ENTITY first_run.app_update.finished.text "L'aggiornamento verrà installato quando riavvierai &brandShortName;.">
 <!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; non può connettersi ad Internet">
 <!ENTITY first_run.connection.description "Controlla le impostazioni di connessione o continua con l&apos;Assistente d&apos;installazione.">
@@ -617,7 +618,7 @@
 <!-- Add-on bundle installer properties. -->
 <!ENTITY add_on_bundle_installer.error_box.label "Dettagli">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message "Niente in esecuzione">
+<!ENTITY albumart.displaypane.not_playing_message "Nessuna riproduzione">
 <!ENTITY albumart.displaypane.not_selected_message "Nessuna selezione">
 <!ENTITY albumart.displaypane.drag_and_drop "Trascina qui immagini dell&apos;album">
 <!ENTITY albumart.displaypane.contextmenu.showselected "Visualizza Selezionato">
@@ -731,3 +732,7 @@
 <!ENTITY cdinfo.other.label "Aggiungi informazioni sull&apos;artista e sull&apos;album">
 <!ENTITY playqueue.label "Coda di Riproduzione">
 <!ENTITY playqueue.instructions "Clicca sulle tracce o sulle playlist e trascinale qui per creare una coda di riproduzione al volo">
+<!ENTITY playqueue.inprogress "Aggiunta tracce in corso">
+<!ENTITY mediamanagement.removed.dialog.title "Avviso gestione multimediale">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "La gestione multimediale è stata rimossa da &brandShortName; a partire dalla versione 1.10.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Questa modifica è nata dall'intenzione di semplificare il nostro prodotto e di fornire un'esperienza d'uso più semplice.">

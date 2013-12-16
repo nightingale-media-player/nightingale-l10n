@@ -57,17 +57,17 @@
 <!ENTITY help.keyboard.name.playcontrol.next "Riproduci il prossimo file multimediale in lista">
 <!ENTITY help.keyboard.name.volume.down "Diminuisci volume">
 <!ENTITY help.keyboard.name.volume.up "Aumenta volume">
-<!ENTITY help.keyboard.name.volume.mute "Volume Muto">
-<!ENTITY help.keyboard.name.volume.max "Volume Massimo">
+<!ENTITY help.keyboard.name.volume.mute "Disattiva audio">
+<!ENTITY help.keyboard.name.volume.max "Volume massimo">
 <!ENTITY help.keyboard.name.jumpto "Vai alla finestra">
 <!ENTITY help.keyboard.name.equalizer "Apri equalizzatore">
 <!ENTITY help.keyboard.name.new.playlist "Nuova playlist">
 <!ENTITY help.keyboard.name.new.smartplaylist "Nuova playlist intelligente">
-<!ENTITY help.keyboard.name.import "Importa Media">
-<!ENTITY help.keyboard.name.currenttrack "Localizza il file in esecuzione">
+<!ENTITY help.keyboard.name.import "Importa un media">
+<!ENTITY help.keyboard.name.currenttrack "Trova il file in riproduzione">
 <!ENTITY help.keyboard.name.mediapage.switch "Cambia la visualizzazione dei file multimediali">
 <!ENTITY help.keyboard.name.feather.switch "Cambia il layout della Feather">
-<!ENTITY help.keyboard.name.trackeditor "Editor di Metadata">
+<!ENTITY help.keyboard.name.trackeditor "Editor metadati">
 <!ENTITY help.keyboard.name.edit.undo "Annulla">
 <!ENTITY help.keyboard.name.edit.redo "Ripeti">
 <!ENTITY help.keyboard.name.edit.selectall "Seleziona tutto">
@@ -79,45 +79,45 @@
 <!ENTITY help.keyboard.name.browser.forward "Avanti">
 <!ENTITY help.keyboard.name.browser.reload "Ricarica">
 <!ENTITY help.keyboard.name.browser.stop "Arresta caricamento">
-<!ENTITY help.keyboard.name.open.file "Apri File">
+<!ENTITY help.keyboard.name.open.file "Apri file">
 <!ENTITY help.keyboard.name.open.url "Apri Indirizzo URL">
-<!ENTITY help.keyboard.name.tab.open.link "Apri Indirizzo In Una Nuova Tab">
-<!ENTITY help.keyboard.name.save.link "Salva Indirizzo">
+<!ENTITY help.keyboard.name.tab.open.link "Apri indirizzo in una nuova scheda">
+<!ENTITY help.keyboard.name.save.link "Salva indirizzo">
 <!ENTITY help.keyboard.name.file.print "Stampa">
 <!ENTITY help.keyboard.name.view.source "Visualizza sorgente">
 <!ENTITY help.keyboard.name.view.zoomin "Ingrandisci">
 <!ENTITY help.keyboard.name.view.zoomout "Riduci">
 <!ENTITY help.keyboard.name.view.zoomreset "Riporta alle dimensioni originarie">
 <!ENTITY help.keyboard.name.subscribe "Sottoscrivi">
-<!ENTITY help.keyboard.name.locationbar "Barra di localizzazione selezionata">
+<!ENTITY help.keyboard.name.locationbar "Evidenzia la barra degli indirizzi">
 <!ENTITY help.keyboard.name.tab.new "Nuova scheda">
 <!ENTITY help.keyboard.name.tab.close "Chiudi scheda">
 <!ENTITY help.keyboard.name.tab.next "Prossima scheda">
 <!ENTITY help.keyboard.name.tab.previous "Scheda precedente">
-<!ENTITY help.keyboard.name.tab.1 "Passa al Tab 1">
-<!ENTITY help.keyboard.name.tab.2 "Passa al Tab 2">
-<!ENTITY help.keyboard.name.tab.3 "Passa al Tab 3">
-<!ENTITY help.keyboard.name.tab.4 "Passa al Tab 4">
-<!ENTITY help.keyboard.name.tab.5 "Passa al Tab 5">
-<!ENTITY help.keyboard.name.tab.6 "Passa al Tab 6">
-<!ENTITY help.keyboard.name.tab.7 "Passa al Tab 7">
-<!ENTITY help.keyboard.name.tab.8 "Passa al Tab 8">
-<!ENTITY help.keyboard.name.tab.9 "Passa al Tab 9">
-<!ENTITY help.keyboard.name.page.top "Sposta in Cima alla Pagina">
-<!ENTITY help.keyboard.name.page.bottom "Sposta sul Fondo della Pagina">
+<!ENTITY help.keyboard.name.tab.1 "Passa alla scheda 1">
+<!ENTITY help.keyboard.name.tab.2 "Passa alla scheda 2">
+<!ENTITY help.keyboard.name.tab.3 "Passa alla scheda 3">
+<!ENTITY help.keyboard.name.tab.4 "Passa alla scheda 4">
+<!ENTITY help.keyboard.name.tab.5 "Passa alla scheda 5">
+<!ENTITY help.keyboard.name.tab.6 "Passa alla scheda 6">
+<!ENTITY help.keyboard.name.tab.7 "Passa alla scheda 7">
+<!ENTITY help.keyboard.name.tab.8 "Passa alla scheda 8">
+<!ENTITY help.keyboard.name.tab.9 "Passa alla scheda 9">
+<!ENTITY help.keyboard.name.page.top "Sposta in cima alla pagina">
+<!ENTITY help.keyboard.name.page.bottom "Sposta in fondo alla pagina">
 <!ENTITY help.keyboard.name.view.fullscreen "Schermo intero">
 <!ENTITY help.keyboard.name.mac.minimize "Riduci a icona">
 <!ENTITY help.keyboard.name.mac.hide "Nascondi finestra">
-<!ENTITY help.keyboard.name.mac.hideothers "Nascondi Altre Applicazioni">
-<!ENTITY help.keyboard.name.downloads "Downloads">
+<!ENTITY help.keyboard.name.mac.hideothers "Nascondi altre applicazioni">
+<!ENTITY help.keyboard.name.downloads "Download">
 <!ENTITY help.keyboard.name.find "Trova">
 <!ENTITY help.keyboard.name.find.again "Trova di nuovo">
-<!ENTITY help.keyboard.name.find.text "Ricerca il testo che stai digitando">
+<!ENTITY help.keyboard.name.find.text "Cerca nel testo non appena digiti qualcosa">
 <!ENTITY help.keyboard.name.find.link "Ricerca il link che stai digitando">
-<!ENTITY help.keyboard.name.search.focus "Finestra di ricerca selezionata">
-<!ENTITY help.keyboard.name.video.fullscreen "Schermo Intero">
-<!ENTITY help.keyboard.name.video.bringtofront "Video In Primo Piano">
-<!ENTITY help.keyboard.name.video.escape "Esci da Schermo Intero">
+<!ENTITY help.keyboard.name.search.focus "Seleziona la barra della ricerca">
+<!ENTITY help.keyboard.name.video.fullscreen "Schermo intero">
+<!ENTITY help.keyboard.name.video.bringtofront "Video in primo piano">
+<!ENTITY help.keyboard.name.video.escape "Esci da schermo intero">
 <!ENTITY help.keyboard.name.cdrip.start "Acquisisci CD">
 <!ENTITY help.keyboard.name.cdrip.stop "Interrompi acquisizione CD">
 <!ENTITY help.keyboard.name.cdrip.eject "Espelli CD">
