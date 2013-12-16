@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Personalizzato">
+<!ENTITY equalizer.preset.flat "Piatto">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Soft Rock">
 <!ENTITY equalizer.preset.techno "Techno">
@@ -454,6 +455,7 @@
 <!ENTITY device.settings.auto_launch.checkbox.label "Apri &brandShortName; quando viene rilevato questo dispositivo">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Controllo automatico dell&apos;esistenza di un nuovo firmware">
 <!ENTITY device.settings.music.transcoding.label "Transcodifica dei brani in corso…">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Nessun encoder al momento disponibile per questo dispositivo">
 <!ENTITY device.settings.disk.label "Gestione Disco">
 <!ENTITY device.settings.disk.management.label "Personalizza struttura cartella">
 <!ENTITY device.settings.disk.management.filename "File Canzoni">
@@ -536,6 +538,8 @@
 <!ENTITY first_run.add_ons.description.line2 "Si possono integrare con altre applicazioni e servizi, offrono il supporto alla connessione a dispositivi esterni, possono modificare l&apos;aspetto e molto di più!">
 <!ENTITY first_run.add_ons.loading.label "Caricamento estensioni raccomandate.">
 <!ENTITY first_run.add_ons.load_failed.label "Impossibile recuperare le estensioni raccomandate.">
+<!-- First-run application update entities. -->
+<!ENTITY first_run.app_update.finished.title "Aggiornameni pronti per l'installazione.">
 <!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; non può connettersi ad Internet">
 <!ENTITY first_run.connection.description "Controlla le impostazioni di connessione o continua con l&apos;Assistente d&apos;installazione.">
