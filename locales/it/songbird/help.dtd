@@ -1,18 +1,18 @@
 <!-- localizations for in-app help -->
 <!ENTITY help.keyboard.title "Scorciatoie da tastiera di &brandShortName;">
-<!ENTITY help.keyboard.subtitle "Scorciatoie da Tastiera">
+<!ENTITY help.keyboard.subtitle "Scorciatoie da tastiera">
 <!ENTITY help.keyboard.description "Le scorciatoie da tastiera possono attivare funzioni in &brandShortName; più semplicemente. Qui sotto si trova una lista di comandi disponibili seguiti dalle appropriate scorciatoie.">
 <!ENTITY help.platform.windows "Windows">
 <!ENTITY help.platform.macosx "Mac">
 <!ENTITY help.platform.linux "Linux">
 <!ENTITY help.keyboard.heading.command "Comando">
 <!ENTITY help.keyboard.heading.shortcut "Scorciatoia">
-<!ENTITY help.keyboard.section.playback "Controlli Playback">
+<!ENTITY help.keyboard.section.playback "Controlli playback">
 <!ENTITY help.keyboard.section.library "Librerie e playlist">
 <!ENTITY help.keyboard.section.editing "Modifica">
 <!ENTITY help.keyboard.section.navigation "Navigazione">
 <!ENTITY help.keyboard.section.browser "Browser">
-<!ENTITY help.keyboard.section.windows "Finestre e Schede">
+<!ENTITY help.keyboard.section.windows "Finestre e schede">
 <!ENTITY help.keyboard.section.search "Cerca">
 <!ENTITY help.keyboard.section.video "Video">
 <!ENTITY help.keyboard.section.cdrip "Acquisizione CD">
@@ -43,20 +43,20 @@
 <!ENTITY help.keyboard.key.f14 "F14">
 <!ENTITY help.keyboard.key.f15 "F15">
 <!ENTITY help.keyboard.mouse.click.primary "Click">
-<!ENTITY help.keyboard.mouse.click.middle "Click Centrale">
+<!ENTITY help.keyboard.mouse.click.middle "Click rotellina">
 <!ENTITY help.keyboard.key.meta "Win">
 <!ENTITY help.keyboard.key.ctrl "Ctrl">
 <!ENTITY help.keyboard.key.cmd "Cmd">
 <!ENTITY help.keyboard.key.alt "Alt">
 <!ENTITY help.keyboard.key.opt "Opz">
-<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.shift "Maiusc">
 <!ENTITY help.keyboard.key.delete "Cancella">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause "Riproduci/Metti in Pausa il file multimediale selezionato">
+<!ENTITY help.keyboard.name.playcontrol.pause "Riproduci/Metti in pausa il file multimediale selezionato">
 <!ENTITY help.keyboard.name.playcontrol.prev "Riproduci il file multimediale precedente in lista">
 <!ENTITY help.keyboard.name.playcontrol.next "Riproduci il prossimo file multimediale in lista">
-<!ENTITY help.keyboard.name.volume.down "Diminuisci Volume">
-<!ENTITY help.keyboard.name.volume.up "Aumenta Volume">
+<!ENTITY help.keyboard.name.volume.down "Diminuisci volume">
+<!ENTITY help.keyboard.name.volume.up "Aumenta volume">
 <!ENTITY help.keyboard.name.volume.mute "Volume Muto">
 <!ENTITY help.keyboard.name.volume.max "Volume Massimo">
 <!ENTITY help.keyboard.name.jumpto "Vai alla finestra">
