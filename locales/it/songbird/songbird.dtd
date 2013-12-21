@@ -30,7 +30,7 @@
 <!ENTITY menu.file.open "Apri file…">
 <!ENTITY menu.file.url "Apri indirizzo…">
 <!ENTITY menu.file.playlist "Importa playlist…">
-<!ENTITY menu.file.library "Importa una libreria…">
+<!ENTITY menu.file.library "Importa libreria…">
 <!ENTITY menu.file.newtab "Nuova scheda">
 <!ENTITY menu.file.closetab "Chiudi scheda">
 <!ENTITY menu.file.metadata "Visualizza metadati">
@@ -62,12 +62,12 @@
 <!ENTITY menu.control.play.button "Play">
 <!ENTITY menu.control.pause.button "Pausa">
 <!ENTITY menu.control.stop.button "Stop">
-<!ENTITY displaypane.default.image.pre "Selezionare un componente aggiuntivo dal menù">
+<!ENTITY displaypane.default.image.pre "Seleziona un componente aggiuntivo dal">
 <!ENTITY displaypane.default.image.tooltip "Icona del raccoglitore di componenti aggiuntivi">
-<!ENTITY displaypane.default.image.post "o visita">
+<!ENTITY displaypane.default.image.post "menu o visita">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Sito componenti aggiuntivi">
-<!ENTITY displaypane.default.link.post "per sfogliare le estensioni">
+<!ENTITY displaypane.default.link.post "per sfogliare i componenti aggiuntivi.">
 <!ENTITY displaypane.name.servicepane "Pulsante Pannello di Servizio">
 <!ENTITY displaypane.name.browser "Pulsante Pannello Contenuto">
 <!ENTITY displaypane.name.sidebar "Barra di destra">
