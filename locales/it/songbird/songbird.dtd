@@ -570,24 +570,24 @@
 <!ENTITY first_run.import_media.description "Scegli quali file multimediali vuoi importare in &brandShortName;. Una volta che &brandShortName; sarà avviato, potrai aggiungere altri file multimediali in svariati modi.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Scansiona le cartelle del computer">
 <!ENTITY first_run.import_media.radio.dont_import.label "Non importare file multimediali adesso">
-<!ENTITY first_run.import_media.scan_directories.description "Ti piacerebbe che &brandShortName; provi ad importare file multimediali controllando specifiche cartelle sul tuo computer?">
-<!ENTITY first_run.import_media.scan_directories.watch.label "Controllare questa cartella per le modifiche">
+<!ENTITY first_run.import_media.scan_directories.description "Vuoi che &brandShortName; provi ad importare file multimediali controllando specifiche cartelle sul computer?">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Controlla questa cartella per le modifiche">
 <!-- First-run install add-ons entities. -->
-<!ENTITY first_run.install_add_ons.title "Scaricamento Estensioni in corso">
+<!ENTITY first_run.install_add_ons.title "Download componenti aggiuntivi in corso">
 <!-- First-run welcome entities. -->
-<!ENTITY first_run.welcome.header.label "Benvenuti su &brandShortName;">
-<!ENTITY first_run.welcome.description.line1 "&brandShortName; è un lettore di file multimediali per il tuo desktop combinato al Web.">
-<!ENTITY first_run.welcome.description.line2 "Questo assistente gestisce la configurazione iniziale di &brandShortName; e fornisce un&apos;introduzione base alle funzionalità dell&apos;applicazione.">
+<!ENTITY first_run.welcome.header.label "Benvenuto in &brandShortName;">
+<!ENTITY first_run.welcome.description.line1 "L'alternativa personalizzabile ai tradizionali lettori multimediali.">
+<!ENTITY first_run.welcome.description.line2 "Questo assistente ti consente di configurare &brandShortName; in modo semplice e veloce">
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title "Importatore Media">
+<!ENTITY import_media.prefs.title "Importatore file multimediali">
 <!-- Import library dialog and preference entities. -->
 <!ENTITY import_library.dialog.title "Importa una libreria">
-<!ENTITY import_library.prefs.title "Importa da iTunes">
-<!ENTITY import_library.library_file_label "File Libreria:">
-<!ENTITY import_library.unsupported_media_alert_checkbox "Avvisami quando brani o playlist non supportate non vengono importate">
-<!ENTITY import_library.prefs.path_group_caption "Percorso Catalogo Multimediale di iTunes">
-<!ENTITY import_library.prefs.options_group_caption "Importa Opzioni">
-<!ENTITY import_library.import_command "Importa Catalogo Multimediale">
+<!ENTITY import_library.prefs.title "Importa/Esporta da/a iTunes">
+<!ENTITY import_library.library_file_label "File della libreria:">
+<!ENTITY import_library.unsupported_media_alert_checkbox "Avvisami quando brani o playlist non supportati non vengono importati">
+<!ENTITY import_library.prefs.path_group_caption "Percorso libreria di iTunes">
+<!ENTITY import_library.prefs.options_group_caption "Importa/Esporta opzioni">
+<!ENTITY import_library.import_command "Importa libreria">
 <!ENTITY import_tracks_itunes_checkbox "Importa tracce da iTunes">
 <!ENTITY import_playlists_itunes_checkbox "Importa playlist">
 <!ENTITY export_tracks_itunes_checkbox "Esporta brani per iTunes">
