@@ -488,14 +488,14 @@
 <!ENTITY device.tools.support.title "Supporto">
 <!ENTITY device.tools.support.description "Visualizza le ultime informazioni di supporto, i manuali, la documentazione, le domande frequenti e le informazioni sul prodotto. I servizi di supporto sono disponibili per i clienti che hanno registrato il loro prodotto.">
 <!ENTITY device.tools.support.label "Visualizza le informazioni di supporto">
-<!ENTITY device.tools.reset_warnings.title "Ripristina messaggi d&apos;errore">
+<!ENTITY device.tools.reset_warnings.title "Ripristina messaggi d&apos;avviso">
 <!ENTITY device.tools.reset_warnings.description "Ripristinare i messaggi d&apos;errore attiverà queste finestrelle per chiedere conferma per alcune operazioni effettuate.">
-<!ENTITY device.tools.reset_warnings.label "Ripristina i messaggi d&apos;errore">
-<!ENTITY device.dialog.setup.title "Installazione Dispositivo">
-<!ENTITY device.dialog.setup.sync.volume.selector.description "Scegli quale dispositivo di archiviazione vuoi &brandShortName; gestire:">
+<!ENTITY device.tools.reset_warnings.label "Ripristina messaggi d&apos;errore">
+<!ENTITY device.dialog.setup.title "Installazione dispositivo">
+<!ENTITY device.dialog.setup.sync.volume.selector.description "Scegli quale dispositivo di archiviazione vuoi che &brandShortName; gestisca:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignora questo dispositivo">
 <!ENTITY device.dialog.setup.ignore.checkbox.description "Seleziona solo se non vuoi che &brandShortName; gestisca questo dispositivo">
-<!ENTITY device.dialog.setup.explainIgnore.beforeText "Se non volete che &brandShortName; gestisca questo dispositivo, puoi">
+<!ENTITY device.dialog.setup.explainIgnore.beforeText "Se non vuoi che &brandShortName; gestisca questo dispositivo, puoi ">
 <!ENTITY device.dialog.setup.explainIgnore.linkText "ignorare questo dispositivo">
 <!ENTITY device.dialog.setup.explainIgnore.afterText ".">
 <!ENTITY openLinkCmdInDefaultBrowser.label "Apri il collegamento nel browser predefinito">
@@ -510,18 +510,18 @@
 <!ENTITY copySelectionCmd.accesskey "c">
 <!ENTITY playMediaCmd.label "Play">
 <!ENTITY playMediaCmd.accesskey "p">
-<!ENTITY downloadMediaCmd.label "Download">
+<!ENTITY downloadMediaCmd.label "Aggiungi alla libreria">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY addMediaToPlaylistCmd.label "Aggiungi alla playlist">
 <!ENTITY addMediaToPlaylistCmd.accesskey "a">
 <!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;Nessuna playlist&gt;">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.label "Nuova playlist">
 <!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
-<!ENTITY subscribeMediaPageCmd.label "Iscriviti a questa pagina…">
+<!ENTITY subscribeMediaPageCmd.label "Abbonati a questa pagina…">
 <!ENTITY subscribeMediaPageCmd.accesskey "u">
-<!ENTITY subscribeMediaFrameCmd.label "Iscriviti a questo frame…">
+<!ENTITY subscribeMediaFrameCmd.label "Abbonati a questo frame…">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
-<!ENTITY feedback.dialog.title "Aiuta a rendere &brandShortName; migliore!">
+<!ENTITY feedback.dialog.title "Aiuta a migliorare &brandShortName;!">
 <!ENTITY feedback.dialog.yes "Sì">
 <!ENTITY feedback.dialog.no "No">
 <!ENTITY feedback.dialog.sentence1 "Vorresti aiutarci a rendere migliore &brandShortName; rispondendo ad un veloce questionario anonimo?">
@@ -531,44 +531,44 @@
 <!-- title for the blank firstrun mediapage -->
 <!ENTITY mediapages.firstrun.title "Benvenuto in &brandShortName;">
 <!-- First-run wizard entities. -->
-<!ENTITY first_run.title "&brandShortName; Il programma di installazione">
+<!ENTITY first_run.title "Installazione di &brandShortName;">
 <!-- First-run add-ons entities. -->
-<!ENTITY first_run.add_ons.header.label "Estensioni Raccomandate">
-<!ENTITY first_run.add_ons.description.line1 "Le estensioni ampliano le funzionalità di &brandShortName; permettendoti di personalizzare il tuo lettore multimediale.">
-<!ENTITY first_run.add_ons.description.line2 "Si possono integrare con altre applicazioni e servizi, offrono il supporto alla connessione a dispositivi esterni, possono modificare l&apos;aspetto e molto di più!">
-<!ENTITY first_run.add_ons.loading.label "Caricamento estensioni raccomandate.">
-<!ENTITY first_run.add_ons.load_failed.label "Impossibile recuperare le estensioni raccomandate.">
+<!ENTITY first_run.add_ons.header.label "Componenti aggiuntivi consigliati">
+<!ENTITY first_run.add_ons.description.line1 "I componenti aggiuntivi ampliano le funzionalità di &brandShortName; permettendoti di personalizzare la tua esperienza multimediale. Le seguenti opzioni sono fortemente consigliate.">
+<!ENTITY first_run.add_ons.description.line2 "I componenti aggiuntivi possono integrarsi con altre applicazioni e servizi, semplificare la connessione a dispositivi esterni, modificare l'aspetto e molto altro! Puoi scaricarne altri sul sito dedicato ai componenti aggiuntivi di &brandShortName;.">
+<!ENTITY first_run.add_ons.loading.label "Caricamento dei componenti aggiuntivi consigliati in corso.">
+<!ENTITY first_run.add_ons.load_failed.label "Impossibile recuperare i componenti aggiuntivi consigliati.">
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Aggiornamenti pronti per l'installazione.">
 <!ENTITY first_run.app_update.finished.text "L'aggiornamento verrà installato quando riavvierai &brandShortName;.">
 <!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; non può connettersi ad Internet">
-<!ENTITY first_run.connection.description "Controlla le impostazioni di connessione o continua con l&apos;Assistente d&apos;installazione.">
-<!ENTITY first_run.connection.settings.button "Impostazioni di Connessione…">
-<!ENTITY first_run.connection.settings.description "Il tuo computer o la tua rete sono protetti da un firewall o proxy? La correzione delle impostazioni di connessione consentono di risolvere i problemi di rete più frequenti.">
+<!ENTITY first_run.connection.description "Controlla le impostazioni di connessione o continua con l&apos;assistente d&apos;installazione.">
+<!ENTITY first_run.connection.settings.button "Impostazioni di connessione…">
+<!ENTITY first_run.connection.settings.description "Il tuo computer o la tua rete sono protetti da un firewall o proxy? La correzione delle impostazioni di connessione consente di risolvere i problemi di rete più frequenti.">
 <!-- First-run eula entities. -->
-<!ENTITY first_run.eula.header.label "Accettazione Licenza">
-<!ENTITY first_run.eula.accept_checkbox.label "Ho letto le condizioni di questa licenza ed accetto.">
+<!ENTITY first_run.eula.header.label "Accordo di licenza">
+<!ENTITY first_run.eula.accept_checkbox.label "Ho letto le condizioni di questa licenza e accetto.">
 <!ENTITY first_run.eula.language.label "Lingua:">
 <!-- First-run feedback entities. -->
 <!ENTITY first_run.feedback.header.label "Aiutaci a migliorare &brandShortName;">
-<!ENTITY first_run.feedback.description "Vuoi Aiutarci a rendere &brandShortName; migliore inviandoci statistiche anonime su come utilizzi l&apos;applicazione?">
+<!ENTITY first_run.feedback.description "Vuoi aiutarci a migliorare &brandShortName; inviandoci statistiche anonime su come utilizzi l&apos;applicazione?">
 <!ENTITY first_run.feedback.metrics.label "Raccogli e invia statistiche al team di &brandShortName;">
-<!ENTITY first_run.feedback.metrics.description "Le statistiche sono completamente anonime e nessuna informazione personale viene raccolta.">
-<!ENTITY first_run.feedback.email.header.label "Mantienimi informato">
-<!ENTITY first_run.feedback.email.description "Sottoscrivere la newsletter per essere informato su nuove versioni e sugli aggiornamenti importanti.">
-<!ENTITY first_run.feedback.email.textbox.emptytext "Inserire il proprio indirizzo email per rimanere aggiornato">
+<!ENTITY first_run.feedback.metrics.description "Le statistiche sono completamente anonime e non viene raccolta nessuna informazione personale.">
+<!ENTITY first_run.feedback.email.header.label "Tienimi informato">
+<!ENTITY first_run.feedback.email.description "Abbonati alla newsletter per informarti sulle nuove versioni e sugli aggiornamenti importanti.">
+<!ENTITY first_run.feedback.email.textbox.emptytext "Inserisci il tuo indirizzo email per tenerti aggiornato">
 <!-- First-run iTunes import/export entities. -->
-<!ENTITY first_run.itunes.header.label "iTunes Importa/Esporta">
-<!ENTITY first_run.itunes.description "iTunes sembra essere installato. &brandShortName; può essere configurato per importare e/o esportare le tracce tra &brandShortName; e iTunes cosi le librerie sono sincronizzate.">
+<!ENTITY first_run.itunes.header.label "Importa/Esporta da/a iTunes">
+<!ENTITY first_run.itunes.description "iTunes sembra essere installato. &brandShortName; può essere configurato per importare e/o esportare le tracce tra &brandShortName; e iTunes in modo da sincronizzare le librerie.">
 <!ENTITY first_run.itunes.checkbox.import.label "Importa tracce e playlist da iTunes">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcasts e tracce musicali comprate su iTunes Store possono essere importate in &brandShortName;. Questa caratteristica funziona bene se &brandShortName; è il tuo lettore musicale primario.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasts e tracce musicali comprate su iTunes Store possono essere importate in &brandShortName;. Questa caratteristica funziona bene se &brandShortName; è il tuo lettore musicale predefinito.">
 <!ENTITY first_run.itunes.checkbox.export.label "Esporta nuove tracce e playlist in iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description "La musica acquisita con &brandShortName; può essere esportata in iTunes cosi che possa poi essere trasferita sul vostro iPod o iPhone.">
+<!ENTITY first_run.itunes.checkbox.export.description "La musica acquisita con &brandShortName; può essere esportata in iTunes in modo da poter essere trasferita su iPod o iPhone.">
 <!-- First-run import media entities. -->
-<!ENTITY first_run.import_media.header.label "Importa File Multimediali">
-<!ENTITY first_run.import_media.description "Questa Pagina vi aiuterà ad importare file multimediali in &brandShortName;  tentando di rilevare i file multimediali locali. Una volta aperto &brandShortName; potrete aggiungere file multimediali in diversi modi. ">
-<!ENTITY first_run.import_media.radio.scan_directories.label "Scansiona le cartelle del mio computer">
+<!ENTITY first_run.import_media.header.label "Importa file multimediali">
+<!ENTITY first_run.import_media.description "Scegli quali file multimediali vuoi importare in &brandShortName;. Una volta che &brandShortName; sarà avviato, potrai aggiungere altri file multimediali in svariati modi.">
+<!ENTITY first_run.import_media.radio.scan_directories.label "Scansiona le cartelle del computer">
 <!ENTITY first_run.import_media.radio.dont_import.label "Non importare file multimediali adesso">
 <!ENTITY first_run.import_media.scan_directories.description "Ti piacerebbe che &brandShortName; provi ad importare file multimediali controllando specifiche cartelle sul tuo computer?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Controllare questa cartella per le modifiche">
