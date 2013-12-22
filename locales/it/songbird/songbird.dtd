@@ -402,20 +402,20 @@
 <!ENTITY device.repair.menuitem.default "Ripara il dispositivo">
 <!ENTITY device.firmware.wizard.title "Aggiorna firmware">
 <!ENTITY device.firmware.wizard.check.page.title "Verifica aggiornamenti firmware">
-<!ENTITY device.firmware.wizard.check.progress.title "Verifica aggiornamenti firmware…">
-<!ENTITY device.firmware.wizard.check.install.description "Installazione aggiornamento firmware potrebbe durare meno di 10 minuti. Puoi sempre eseguire l&apos;aggiornamento successivamente.">
-<!ENTITY device.firmware.wizard.check.already.description "Il firmware del vostro dispositivo è già aggiornato.">
-<!ENTITY device.firmware.wizard.check.release_notes.label "Note di Rilascio">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Il dispositivo deve essere connesso in modalità firmware per continuare. Segui le istruzioni per impostare il dispositivo in modalità firmware.">
-<!ENTITY device.firmware.wizard.download.title "Scaricamento Nuovo Firmware…">
-<!ENTITY device.firmware.wizard.repair.time.description "Il ripristino del dispositivo richiederà meno di 5 minuti.">
-<!ENTITY device.firmware.wizard.repair.warning "Il ripristino del dispositivo con le impostazioni iniziali cancellerà ogni dato presente in essa (file e musica). Effettua un back up di tutti i tuoi file prima di procedere.">
-<!ENTITY device.firmware.wizard.install.title "Installazione Firmware…">
+<!ENTITY device.firmware.wizard.check.progress.title "Verifica aggiornamenti firmware in corso...">
+<!ENTITY device.firmware.wizard.check.install.description "L&apos;installazione del firmware dovrebbe durare meno di 10 minuti. Puoi sempre eseguire l&apos;aggiornamento successivamente.">
+<!ENTITY device.firmware.wizard.check.already.description "Il firmware del dispositivo è già aggiornato.">
+<!ENTITY device.firmware.wizard.check.release_notes.label "Note di rilascio">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Il dispositivo deve essere connesso in modalità riparazione per continuare. Segui le istruzioni per impostare il dispositivo in modalità riparazione.">
+<!ENTITY device.firmware.wizard.download.title "Download del nuovo firmware in corso...">
+<!ENTITY device.firmware.wizard.repair.time.description "Il ripristino del dispositivo dovrebbe durare meno di 5 minuti.">
+<!ENTITY device.firmware.wizard.repair.warning "Ogni file personale sul dispositivo <strong class='loss-of-data-text'>sarà cancellato</strong>. E&apos; consigliato rieseguire la sincronizzazione con &brandShortName; una volta che l'operazione sarà completata.">
+<!ENTITY device.firmware.wizard.install.title "Installazione firmware in corso…">
 <!ENTITY device.firmware.wizard.busy.description "Sembra che il dispositivo sia occupato. Il firmware può essere installato solo quando il dispositivo è inattivo.">
-<!ENTITY device.firmware.wizard.retry.description "Perfavore prova ancora dopo che il dispositivo ha completato l&apos;operazione corrente.">
-<!ENTITY device.firmware.wizard.check.error.description "C&apos;è stato un errore nella verifica di un nuovo firmware. Perfavore verifica la tua connessione ad internet e riprova.">
-<!ENTITY device.firmware.wizard.download.error.description "C&apos;è stato un errore durante lo scaricamente del nuovo firmware. Perfavore verifica la tua connessione ad internet e riprova.">
-<!ENTITY device.firmware.wizard.support.description "Risorse di support come FAQ o Consigli per la Risoluzione dei problemi possono essere trovate a">
+<!ENTITY device.firmware.wizard.retry.description "Riprova quando l&apos;operazione sul dispositivo sarà completata.">
+<!ENTITY device.firmware.wizard.check.error.description "Errore durante la verifica di un nuovo firmware. Controlla la connessione ad internet e riprova.">
+<!ENTITY device.firmware.wizard.download.error.description "Errore durante il download del nuovo firmware. Controlla la connessione ad internet e riprova.">
+<!ENTITY device.firmware.wizard.support.description "Risorse di supporto come FAQ o risoluzione problemi sono disponibili qui:">
 <!ENTITY device.info.icon.device "Icona dispositivo generica">
 <!ENTITY device.info.icon.readonly "Icona blocco sola lettura">
 <!ENTITY device.info.model.label "Modello">
@@ -427,7 +427,7 @@
 <!ENTITY device.info.access.label "Compatibilità d&apos;accesso">
 <!ENTITY device.info.playback_formats.label "Formati di riproduzione">
 <!ENTITY device.info.battery.label "Batteria">
-<!ENTITY device.info.firmware_version.label "Versione Firmware">
+<!ENTITY device.info.firmware_version.label "Versione firmware">
 <!ENTITY device.progress.sync "Sincronizzazione">
 <!ENTITY device.capacity.music.label "Musica">
 <!ENTITY device.capacity.video.label "Video">
@@ -435,37 +435,37 @@
 <!ENTITY device.capacity.other.label "Altro">
 <!ENTITY device.capacity.free.label "Libero">
 <!ENTITY device.unsupported_media.dialog.title "Rilevati file incompatibili">
-<!ENTITY device.unsupported_media.dialog.enable "Avvertimi quando vengono rilevati file incompatibili">
+<!ENTITY device.unsupported_media.dialog.enable "Avvisami quando vengono rilevati file incompatibili">
 <!ENTITY device.sync.header.label "Impostazioni di sincronizzazione">
 <!ENTITY device.import.header.label "Importa">
 <!ENTITY device.sync.auto_sync.label "Sincronizzazione">
-<!ENTITY device.sync.sync_all.label "Tutta la musica, i video e le playlist">
-<!ENTITY device.sync.sync_selected.label "Playlist selezionate:">
+<!ENTITY device.sync.sync_all.label "Sincronizza tutta la musica, i video e le playlist">
+<!ENTITY device.sync.sync_selected.label "Sincronizza playlist selezionate:">
 <!ENTITY device.sync.playlist.title "Titolo">
 <!ENTITY device.sync.playlist.video.duration "Durata video">
 <!ENTITY device.sync.images.from.label "Sincronizza foto da:">
 <!ENTITY device.sync.images.browse "Scegli cartella…">
 <!ENTITY device.sync.images.all.label "Tutto le foto">
 <!ENTITY device.sync.images.all.template "Tutte le foto (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Sotto cartelle selezionate">
-<!ENTITY device.sync.images.foldername "Nome Cartella">
+<!ENTITY device.sync.images.selected.label "Sotto-cartelle selezionate">
+<!ENTITY device.sync.images.foldername "Nome cartella">
 <!ENTITY device.sync.images.filecount "Foto">
 <!ENTITY device.settings.header.label "Impostazioni">
-<!ENTITY device.settings.general.label "Dispositivo comune">
+<!ENTITY device.settings.general.label "Generali">
 <!ENTITY device.settings.auto_launch.checkbox.label "Apri &brandShortName; quando viene rilevato questo dispositivo">
-<!ENTITY device.settings.auto_firmware_check.checkbox.label "Controllo automatico dell&apos;esistenza di un nuovo firmware">
-<!ENTITY device.settings.music.transcoding.label "Transcodifica dei brani in corso…">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "Cerca nuovi firmware automaticamente">
+<!ENTITY device.settings.music.transcoding.label "Conversione brani">
 <!ENTITY device.settings.music.transcoding.no_encoders.description "Nessun encoder al momento disponibile per questo dispositivo">
-<!ENTITY device.settings.disk.label "Gestione Disco">
+<!ENTITY device.settings.disk.label "Gestione disco">
 <!ENTITY device.settings.disk.management.label "Personalizza struttura cartella">
-<!ENTITY device.settings.disk.management.filename "File Canzoni">
+<!ENTITY device.settings.disk.management.filename "File canzoni">
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Configurazione automatica della transcodifica">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Configurazione automatica della conversione">
 <!ENTITY device.settings.music.transcoding.mode.manual.label "Specifica manualmente bitrate e formato">
 <!ENTITY device.settings.music.transcoding.format.label "Formato di codifica">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
-<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.settings.music.transcoding.bitrate.units "Kbps">
 <!ENTITY device.management.tabs.music.label "Musica">
 <!ENTITY device.management.tabs.video.label "Video">
 <!ENTITY device.management.tabs.image.label "Foto">
@@ -475,15 +475,15 @@
 <!ENTITY device.tools.product_registration.description "Vuoi assicurarti la prova dell&apos;acquisto, benefici addizionali per i membri, o ricevere notifiche di sicurezza?">
 <!ENTITY device.tools.product_registration.label "Registra il prodotto">
 <!ENTITY device.tools.update_firmware.title "Aggiorna il firmware">
-<!ENTITY device.tools.update_firmware.description "Il tuo dispositivo è controllato da un programma interno detto firmware. Nuove versioni firmware possono essere state rilasciate dall&apos;ultima volta in cui hai connesso il dispositivo al computer.">
+<!ENTITY device.tools.update_firmware.description "Il tuo dispositivo è controllato da un programma interno detto firmware. Nuove versioni firmware possono esser state rilasciate dall&apos;ultima volta in cui hai connesso il dispositivo al computer.">
 <!ENTITY device.tools.update_firmware.label "Controlla aggiornamenti firmware">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versione firmware attuale:">
 <!ENTITY device.tools.restore_device.title "Ripristina dispositivo">
 <!ENTITY device.tools.restore_device.description "Ripristinare lo stato originale del dispositivo cancellerà tutti i file presenti in esso, così come ripristinare il firmware e le impostazioni.">
 <!ENTITY device.tools.restore_device.label "Ripristina dispositivo allo stato originale di fabbrica">
-<!ENTITY device.tools.format_device.title "Formato Dispositivo">
-<!ENTITY device.tools.format_device.description "Formattare il tuo dispositivo cancellerà tutta la tua musica sul dispositivo.">
-<!ENTITY device.tools.format_device.label "Formato dispositivo">
+<!ENTITY device.tools.format_device.title "Formatta dispositivo">
+<!ENTITY device.tools.format_device.description "Formattare il tuo dispositivo cancellerà tutti i file multimediali sul dispositivo.">
+<!ENTITY device.tools.format_device.label "Formatta dispositivo">
 <!ENTITY device.tools.format_volume.button.label "Formatta">
 <!ENTITY device.tools.support.title "Supporto">
 <!ENTITY device.tools.support.description "Visualizza le ultime informazioni di supporto, i manuali, la documentazione, le domande frequenti e le informazioni sul prodotto. I servizi di supporto sono disponibili per i clienti che hanno registrato il loro prodotto.">
