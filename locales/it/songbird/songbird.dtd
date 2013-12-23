@@ -79,7 +79,7 @@
 <!ENTITY menu.help.homepage "Sito web di &brandShortName;">
 <!ENTITY menu.help.bugz "Segnala un bug…">
 <!ENTITY menu.help.topics "Argomenti della guida">
-<!ENTITY menu.help.keyboard "Tasti di scelta rapida">
+<!ENTITY menu.help.keyboard "Scorciatoie da tastiera">
 <!ENTITY menu.help.about "Informazioni su &brandShortName;">
 <!ENTITY menu.equalizer "Equalizzatore…">
 <!ENTITY menu.preferences "Preferenze">
@@ -637,11 +637,11 @@
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cerca estensioni file:">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Inserisci qui la lista delle estensioni, separate da una virgola">
 <!ENTITY albumartpreferences.prefpane.priorities.label "Priorità del motore di ricerca">
-<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordina la lista dei motori di recupero che desideri usare prima in alto.">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordina la lista dei motori di ricerca mettendo i tuoi preferiti in alto.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Su">
 <!ENTITY albumartpreferences.prefpane.priorities.down "Giù">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
-<!ENTITY albumartpreferences.prefpane.autofetch.label "Recupera automaticamente la copertine dell&apos;album">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "Recupera automaticamente la copertine degli album">
 <!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Scarica automaticamente la copertica dell&apos;album quando una traccia viene riprodotta o selezionata, dipende dalla modalità del pannello delle copertine degli album. Le prestazioni potrebbero risentirne quando questa funzione è attiva.">
 <!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "Indietro">
@@ -649,24 +649,24 @@
 <!ENTITY wizard.button.cancel.label "Annulla">
 <!ENTITY wizard.button.next.label "Continua">
 <!ENTITY wizard.button.next.accesskey "C ">
-<!ENTITY wizard.button.finish.label "Continua">
+<!ENTITY wizard.button.finish.label "Termina">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title "Errore di Mediacore">
-<!ENTITY mediacore.error.preface "&brandShortName; ha riscontrato il seguente errore di Mediacore:">
+<!ENTITY mediacore.error.title "Errore di riproduzione">
+<!ENTITY mediacore.error.preface "&brandShortName; ha riscontrato i seguenti errori di riproduzione:">
 <!ENTITY mediacore.error.continue "Continua">
-<!ENTITY mediacore.error.stop "Ferma Riproduzione">
-<!ENTITY mediacore.error.dontshowme "Non visualizzare altri errori di Mediacore in futuro">
-<!ENTITY mediacore.error.codec_not_found.text.pre "Per maggiori informazioni sul codec mancante, perfavore vedi:">
+<!ENTITY mediacore.error.stop "Ferma riproduzione">
+<!ENTITY mediacore.error.dontshowme "Non visualizzare altri errori di riproduzione in futuro">
+<!ENTITY mediacore.error.codec_not_found.text.pre "Per maggiori informazioni sui codec mancanti, visita:">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!-- Media importer filtered extensions warning -->
 <!ENTITY mediaimporter.filtered_extensions.title "Notifica importazione media">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Per maggiori informazioni sul codec mancante, perfavore vedi:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Non notificare più video non supportati durante l&apos;importazione">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Durante l&apos;importazione, non notificare più i video non supportati ">
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "Riproduzione">
 <!ENTITY playback.prefpane.audio_output.label "Uscita audio">
 <!ENTITY playback.prefpane.audio_output.buffer "Buffer di uscita:">
-<!ENTITY playback.prefpane.streaming.label "Rete e Streaming">
+<!ENTITY playback.prefpane.streaming.label "Rete e streaming">
 <!ENTITY playback.prefpane.streaming.buffer "Buffer di streaming">
 <!ENTITY playback.prefpane.normalization.label "Normalizzazione">
 <!ENTITY playback.prefpane.normalization.enable "Utilizza dati di normalizzazione se disponibili">
@@ -675,15 +675,15 @@
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Brano">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
 <!ENTITY playback.prefpane.units.ms "ms">
-<!ENTITY playback.prefpane.ratings.label "Voti meta dati">
-<!ENTITY playback.prefpane.ratings.enablewriting "Salva le informazioni sui voto all&apos;interno dei meta dati di ogni file">
+<!ENTITY playback.prefpane.ratings.label "metadati dei voti">
+<!ENTITY playback.prefpane.ratings.enablewriting "Salva le informazioni sul voto nei metadati di ogni file">
 <!ENTITY fetch_album_art.dialog.title "Ottieni copertina album">
 <!ENTITY fetch_album_art.dialog.message "Non implementato (vedi Bug 14281)">
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Artista">
 <!ENTITY cdrip.lookup.info_not_found.album "Album">
 <!ENTITY cdrip.lookup.info_not_found.title "Nessuna informazione trovata per il CD">
-<!ENTITY cdrip.lookup.info_not_found.descr "Qui puoi aggiungere il nome dell&apos;artista e dell&apos;album. Puoi modificare le informazioni rimanenti con la playlist dell&apos;Acquisitore CD.">
+<!ENTITY cdrip.lookup.info_not_found.descr "Qui puoi aggiungere il nome dell&apos;artista e dell&apos;album. Puoi modificare le informazioni rimanenti con la playlist dell&apos;acquisizione CD.">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Titolo">
 <!-- CD Rip Pref Pane entities -->
@@ -712,25 +712,25 @@
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
-<!ENTITY videowindow.title "Finestra Video">
-<!ENTITY videowindow.actualsize "Dimensione Attuale">
+<!ENTITY videowindow.title "Finestra video">
+<!ENTITY videowindow.actualsize "Dimensione effettiva">
 <!ENTITY videowindow.fullscreen "Schermo Intero">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
 <!-- about:credits entities. -->
-<!ENTITY about.credits.intro "Vorremmo ringraziare tutti i collaboratori, i cui sforzi hanno reso Songbird quello che è. Queste persone hanno aiutato scrivendo codice e documentazione e testando. Hanno creato e sostenuto con i loro mezzi questo prodotto e, aiutato lo sviluppo delle varie versioni e i nostri siti web. I nomi sono di seguito roportati seguiti dal nick IRC, venite su #songbird su irc.mozilla.org e salutateli!">
+<!ENTITY about.credits.intro "Vorremmo ringraziare tutti i collaboratori, i cui sforzi hanno reso Songbird; quello che è. Queste persone hanno aiutato scrivendo codice, documentazione e eseguendo test. Hanno creato e sostenuto con i loro mezzi questo prodotto, e aiutato lo sviluppo delle varie versioni e i nostri siti web. I nomi sono di seguito riportati seguiti dal nick IRC, venite su #songbird su irc.mozilla.org e salutateli!">
 <!ENTITY about.credits.footer.beforeLink "Ovviamente, nulla di tutto ciò sarebbe stato possibile senza il duro lavoro e gli sforzi">
 <!ENTITY about.credits.footer.linkText "dei collaboratori">
 <!ENTITY about.credits.footer.afterLink "al progetto Mozilla.">
 <!ENTITY about.credits.heading.translators "Traduttori">
 <!ENTITY about.credits.heading.champs "Campioni">
 <!ENTITY about.credits.description.champs.link.pre "I campioni di Songbird sono gli utenti &quot;duri a morire&quot; e i fan che hanno aiutato i nostri utenti sul">
-<!ENTITY about.credits.description.champs.link.text "Forum di supporto di Songbird su GetSatisfaction">
-<!ENTITY about.credits.description.champs.link.post "Loro sono i ragazzi più prolifici sul nostro forum, il loro instancabile lavoro assicura che ogni utente di Songbird sia un utente felice">
-<!ENTITY cdrip.lookup.multiple.title "Trovati Più Risultati Corrispondenti al CD">
-<!ENTITY cdrip.lookup.multiple.description "Inserisci o seleziona una delle informazioni seguenti.">
+<!ENTITY about.credits.description.champs.link.text "forum di supporto di Songbird su GetSatisfaction">
+<!ENTITY about.credits.description.champs.link.post "Loro sono i ragazzi più prolifici sul nostro forum, il loro instancabile lavoro assicura che ogni utente di Songbird sia un utente felice.">
+<!ENTITY cdrip.lookup.multiple.title "Sono stati trovati più risultati corrispondenti al CD">
+<!ENTITY cdrip.lookup.multiple.description "Seleziona una delle informazioni seguenti o aggiungine di nuove.">
 <!ENTITY cdinfo.other.label "Aggiungi informazioni sull&apos;artista e sull&apos;album">
-<!ENTITY playqueue.label "Coda di Riproduzione">
+<!ENTITY playqueue.label "Coda di riproduzione">
 <!ENTITY playqueue.instructions "Clicca sulle tracce o sulle playlist e trascinale qui per creare una coda di riproduzione al volo">
 <!ENTITY playqueue.inprogress "Aggiunta tracce in corso">
 <!ENTITY mediamanagement.removed.dialog.title "Avviso gestione multimediale">
