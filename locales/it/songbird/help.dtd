@@ -1,14 +1,14 @@
 <!-- localizations for in-app help -->
 <!ENTITY help.keyboard.title "Scorciatoie da tastiera di &brandShortName;">
 <!ENTITY help.keyboard.subtitle "Scorciatoie da tastiera">
-<!ENTITY help.keyboard.description "Le scorciatoie da tastiera possono attivare funzioni in &brandShortName; più semplicemente. Qui sotto si trova una lista di comandi disponibili seguiti dalle appropriate scorciatoie.">
+<!ENTITY help.keyboard.description "Le scorciatoie da tastiera possono attivare funzioni di &brandShortName; più semplicemente. Ecco una lista di comandi disponibili seguiti dalle appropriate scorciatoie.">
 <!ENTITY help.platform.windows "Windows">
 <!ENTITY help.platform.macosx "Mac">
 <!ENTITY help.platform.linux "Linux">
 <!ENTITY help.keyboard.heading.command "Comando">
 <!ENTITY help.keyboard.heading.shortcut "Scorciatoia">
-<!ENTITY help.keyboard.section.playback "Controlli playback">
-<!ENTITY help.keyboard.section.library "Librerie e playlist">
+<!ENTITY help.keyboard.section.playback "Controlli di riproduzione">
+<!ENTITY help.keyboard.section.library "Libreria e playlist">
 <!ENTITY help.keyboard.section.editing "Modifica">
 <!ENTITY help.keyboard.section.navigation "Navigazione">
 <!ENTITY help.keyboard.section.browser "Browser">
@@ -17,12 +17,12 @@
 <!ENTITY help.keyboard.section.video "Video">
 <!ENTITY help.keyboard.section.cdrip "Acquisizione CD">
 <!ENTITY help.keyboard.section.misc "Varie">
-<!ENTITY help.keyboard.key.left "Freccia Sinistra">
-<!ENTITY help.keyboard.key.right "Freccia Destra">
-<!ENTITY help.keyboard.key.up "Freccia Su">
-<!ENTITY help.keyboard.key.down "Freccia Giù">
-<!ENTITY help.keyboard.key.pgup "Pag Su">
-<!ENTITY help.keyboard.key.pgdn "Pag Giù">
+<!ENTITY help.keyboard.key.left "Freccia sinistra">
+<!ENTITY help.keyboard.key.right "Freccia destra">
+<!ENTITY help.keyboard.key.up "Freccia su">
+<!ENTITY help.keyboard.key.down "Freccia giù">
+<!ENTITY help.keyboard.key.pgup "Pag su">
+<!ENTITY help.keyboard.key.pgdn "Pag giù">
 <!ENTITY help.keyboard.key.home "Home">
 <!ENTITY help.keyboard.key.end "Fine">
 <!ENTITY help.keyboard.key.tab "Tab">
@@ -63,7 +63,7 @@
 <!ENTITY help.keyboard.name.equalizer "Apri equalizzatore">
 <!ENTITY help.keyboard.name.new.playlist "Nuova playlist">
 <!ENTITY help.keyboard.name.new.smartplaylist "Nuova playlist intelligente">
-<!ENTITY help.keyboard.name.import "Importa un media">
+<!ENTITY help.keyboard.name.import "Importa un file multimediale">
 <!ENTITY help.keyboard.name.currenttrack "Trova il file in riproduzione">
 <!ENTITY help.keyboard.name.mediapage.switch "Cambia la visualizzazione dei file multimediali">
 <!ENTITY help.keyboard.name.feather.switch "Cambia il layout della Feather">
@@ -85,10 +85,10 @@
 <!ENTITY help.keyboard.name.save.link "Salva indirizzo">
 <!ENTITY help.keyboard.name.file.print "Stampa">
 <!ENTITY help.keyboard.name.view.source "Visualizza sorgente">
-<!ENTITY help.keyboard.name.view.zoomin "Ingrandisci">
-<!ENTITY help.keyboard.name.view.zoomout "Riduci">
-<!ENTITY help.keyboard.name.view.zoomreset "Riporta alle dimensioni originarie">
-<!ENTITY help.keyboard.name.subscribe "Sottoscrivi">
+<!ENTITY help.keyboard.name.view.zoomin "Aumenta zoom">
+<!ENTITY help.keyboard.name.view.zoomout "Riduci zoom">
+<!ENTITY help.keyboard.name.view.zoomreset "Resetta zoom">
+<!ENTITY help.keyboard.name.subscribe "Abbonati">
 <!ENTITY help.keyboard.name.locationbar "Evidenzia la barra degli indirizzi">
 <!ENTITY help.keyboard.name.tab.new "Nuova scheda">
 <!ENTITY help.keyboard.name.tab.close "Chiudi scheda">
