@@ -592,37 +592,37 @@
 <!ENTITY import_playlists_itunes_checkbox "Importa playlist">
 <!ENTITY export_tracks_itunes_checkbox "Esporta brani per iTunes">
 <!ENTITY export_playlists_itunes_checkbox "Esporta playlist">
-<!ENTITY export_subscriptions_itunes_checkbox "Esporta sottoscrizioni">
+<!ENTITY export_subscriptions_itunes_checkbox "Esporta abbonamenti">
 <!ENTITY export_smartplaylists_itunes_checkbox "Esporta playlist intelligenti">
 <!ENTITY importexport_show_notifications_checkbox "Mostra notifiche quando l&apos;importazione/esportazione è completa">
 <!-- Import library dirty playlist dialog entities. -->
 <!ENTITY import_library.dirty_playlist_dialog.title "Playlist modificata">
-<!ENTITY import_library.dirty_playlist_dialog.keep "Mantenere l&apos;attuale playlist &brandShortName;  (Non importare questa playlist)">
-<!ENTITY import_library.dirty_playlist_dialog.merge "Unire l&apos;attuale playlist di &brandShortName; e le playlist di iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.replace "Sostituire questa playlist di &brandShortName; con quella attuale di iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.keep "Mantieni l&apos;attuale playlist di &brandShortName; (Non importare questa playlist)">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Unisci l&apos;attuale playlist di &brandShortName; e le playlist di iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.replace "Sostituisci questa playlist di &brandShortName; con quella attuale di iTunes">
 <!ENTITY import_library.dirty_playlist_dialog.note "Nota: L&apos;unione e la sostituzione non può essere annullata.">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Applica la selezione a tutte le playlist">
 <!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Non abilitàre la Watch Folder sulla stessa cartella in cui gestisci la tua musica. Farlo creerà dei duplicati nella tua libreria.">
+<!ENTITY watch_folder.prefs.general_description "Non abilitare il Monitoraggio Cartelle sulla stessa cartella in cui gestisci la tua musica. Farlo creerà dei duplicati nella tua libreria.">
 <!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "Monitoraggio Cartelle">
-<!ENTITY watch_folder.prefs.settings_group_caption "Impostazioni Monitoraggio Cartella">
+<!ENTITY watch_folder.prefs.settings_group_caption "Impostazioni Monitoraggio Cartelle">
 <!ENTITY watch_folder.prefs.description "&brandShortName; può monitorare il contenuto di una cartella e aggiungere o rimuovere automaticamente gli elementi contenuti in essa.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Monitora automaticamente i cambiamenti in questa cartella">
 <!ENTITY watch_folder.prefs.watch_folder_label "Cartella:">
 <!-- Advanced preference pane update tab entities. -->
-<!ENTITY enable_recommended_addons_update.label "Estensioni Raccomandate">
+<!ENTITY enable_recommended_addons_update.label "Componenti aggiuntivi consigliati">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
 <!-- Recommended add-ons update dialog entities. -->
-<!ENTITY recommended_add_ons.title "&brandShortName; Setup">
+<!ENTITY recommended_add_ons.title "Installazione di &brandShortName;">
 <!-- Add-on bundle installer properties. -->
 <!ENTITY add_on_bundle_installer.error_box.label "Dettagli">
 <!-- Album Art display pane properties. -->
-<!ENTITY albumart.displaypane.not_playing_message "Nessuna riproduzione">
+<!ENTITY albumart.displaypane.not_playing_message "Nessuna riproduzione in corso">
 <!ENTITY albumart.displaypane.not_selected_message "Nessuna selezione">
-<!ENTITY albumart.displaypane.drag_and_drop "Trascina qui immagini dell&apos;album">
-<!ENTITY albumart.displaypane.contextmenu.showselected "Visualizza Selezionato">
-<!ENTITY albumart.displaypane.contextmenu.showplaying "Mostra In Ascolto">
+<!ENTITY albumart.displaypane.drag_and_drop "Trascina qui la copertina">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Visualizza selezionato">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Mostra cosa c'è in ascolto">
 <!ENTITY albumart.displaypane.selected.menu.cut "Taglia">
 <!ENTITY albumart.displaypane.selected.menu.copy "Copia">
 <!ENTITY albumart.displaypane.selected.menu.paste "Incolla">
@@ -630,13 +630,13 @@
 <!ENTITY albumart.coverpreview.title "Copertina">
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Copertina Album">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "Scrivi Nome copertina nei Meta Data">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Questo Permetterà a &brandShortName; di inserire la copertina nei tag compatibili dei files.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Includi copertina nei metadati di ogni file">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Questo permetterà a &brandShortName; di salvare la copertina nei tag compatibili dei file.">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Cerca nome file:">
-<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Inserisci quì la lista dei file separati da una virgola ">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cerca estensione file:">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Inserisci quì la lista delle estensioni separate da una virgola">
-<!ENTITY albumartpreferences.prefpane.priorities.label "Priorità Del Motore Di Recupero">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Inserisci qui la lista dei file, separati da una virgola">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "Cerca estensioni file:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Inserisci qui la lista delle estensioni, separate da una virgola">
+<!ENTITY albumartpreferences.prefpane.priorities.label "Priorità del motore di ricerca">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Ordina la lista dei motori di recupero che desideri usare prima in alto.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Su">
 <!ENTITY albumartpreferences.prefpane.priorities.down "Giù">
