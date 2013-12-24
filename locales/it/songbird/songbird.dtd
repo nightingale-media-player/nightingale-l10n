@@ -119,9 +119,9 @@
 <!ENTITY tooltip.browser.home "Home">
 <!ENTITY tooltip.browser.refresh "Aggiorna">
 <!ENTITY tooltip.browser.subscription "Abbonati a questa pagina">
-<!ENTITY tooltip.browser.mediapages.list "Lista delle visualizzazioni">
+<!ENTITY tooltip.browser.mediapages.list "Vista a lista">
 <!ENTITY tooltip.browser.mediapages.filter "Filtro Vista Pannello">
-<!ENTITY tooltip.browser.mediapages "Cambia visualizzazione multimediale...">
+<!ENTITY tooltip.browser.mediapages "Cambia vista multimediale...">
 <!ENTITY tooltip.servicepane.show "Mostra pannello servizi">
 <!ENTITY tooltip.servicepane.collapse "Chiudi pannello servizi">
 <!ENTITY tooltip.servicepane.newnode "Nuova playlist">
