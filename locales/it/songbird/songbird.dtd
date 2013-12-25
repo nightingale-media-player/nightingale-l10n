@@ -30,7 +30,7 @@
 <!ENTITY menu.file.open "Apri file…">
 <!ENTITY menu.file.url "Apri indirizzo…">
 <!ENTITY menu.file.playlist "Importa playlist…">
-<!ENTITY menu.file.library "Importa libreria…">
+<!ENTITY menu.file.library "Importa catalogo multimediale…">
 <!ENTITY menu.file.newtab "Nuova scheda">
 <!ENTITY menu.file.closetab "Chiudi scheda">
 <!ENTITY menu.file.metadata "Visualizza metadati">
@@ -74,7 +74,7 @@
 <!ENTITY servicepane.title.label "Pannello servizi">
 <!ENTITY menu.tools "Strumenti">
 <!ENTITY menu.tools.getartwork "Ottieni copertina album…">
-<!ENTITY menu.tools.exportmedia "Esporta cambiamenti libreria">
+<!ENTITY menu.tools.exportmedia "Esporta cambiamenti catalogo">
 <!ENTITY menu.help "Aiuto">
 <!ENTITY menu.help.homepage "Sito web di &brandShortName;">
 <!ENTITY menu.help.bugz "Segnala un bug…">
@@ -86,8 +86,8 @@
 <!ENTITY menu.extensions "Componenti aggiuntivi">
 <!ENTITY menu.clearprivatedata "Cancella dati personali…">
 <!ENTITY menu.errorconsole "Console degli errori">
-<!ENTITY menu.downloadmgr "Download dei file">
-<!ENTITY menu.switchplayercontrols "Controlli del lettore">
+<!ENTITY menu.downloadmgr "Download">
+<!ENTITY menu.switchplayercontrols "Controlli lettore">
 <!ENTITY menu.controllerontop "Visualizza in alto">
 <!ENTITY menu.controlleronbottom "Visualizza in basso">
 <!ENTITY menu.fullscreen "Schermo intero">
@@ -120,7 +120,7 @@
 <!ENTITY tooltip.browser.refresh "Aggiorna">
 <!ENTITY tooltip.browser.subscription "Abbonati a questa pagina">
 <!ENTITY tooltip.browser.mediapages.list "Vista a lista">
-<!ENTITY tooltip.browser.mediapages.filter "Filtro Vista Pannello">
+<!ENTITY tooltip.browser.mediapages.filter "Vista a 3 riquadri con filtro">
 <!ENTITY tooltip.browser.mediapages "Cambia vista multimediale...">
 <!ENTITY tooltip.servicepane.show "Mostra pannello servizi">
 <!ENTITY tooltip.servicepane.collapse "Chiudi pannello servizi">
@@ -154,7 +154,7 @@
 <!ENTITY smart.selectedby "Selezionato da">
 <!ENTITY smart.to "a">
 <!ENTITY smart.autoupdate "Aggiorna automaticamente">
-<!ENTITY smart.playlistcondition.library "Libreria">
+<!ENTITY smart.playlistcondition.library "Catalogo multimediale">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Musica">
 <!ENTITY textbox.songbird_open_url "Inserire l&apos;URL o il percorso del file da riprodurre:">
@@ -295,8 +295,8 @@
 <!ENTITY rapi.restore_defaults.label "Ripristina valori predefiniti">
 <!ENTITY rapi.playback_control_disable.label "Non permettere ai siti web di controllare la riproduzione dei file multimediali">
 <!ENTITY rapi.playback_read_disable.label "Non permettere ai siti web di osservare le informazioni sul file multimediale che stai ascoltando">
-<!ENTITY rapi.library_read_disable.label "Non permettere ai siti web di osservare le informazioni sui file multimediali in libreria e nei dispositivi">
-<!ENTITY rapi.library_write_disable.label "Non permettere ai siti web di aggiungere/eliminare file multimediali e playlist nella libreria e nei dispositivi">
+<!ENTITY rapi.library_read_disable.label "Non permettere ai siti web di osservare le informazioni sui file nel catalogo multimediale e nei dispositivi">
+<!ENTITY rapi.library_write_disable.label "Non permettere ai siti web di aggiungere o eliminare file e playlist nel catalogo multimediale e nei dispositivi">
 <!ENTITY rapi.playback_control_disable.accesskey "p">
 <!ENTITY rapi.playback_read_disable.accesskey "m">
 <!ENTITY rapi.library_read_disable.accesskey "s">
@@ -510,7 +510,7 @@
 <!ENTITY copySelectionCmd.accesskey "c">
 <!ENTITY playMediaCmd.label "Play">
 <!ENTITY playMediaCmd.accesskey "p">
-<!ENTITY downloadMediaCmd.label "Aggiungi alla libreria">
+<!ENTITY downloadMediaCmd.label "Aggiungi al catalogo multimediale">
 <!ENTITY downloadMediaCmd.accesskey "d">
 <!ENTITY addMediaToPlaylistCmd.label "Aggiungi alla playlist">
 <!ENTITY addMediaToPlaylistCmd.accesskey "a">
@@ -581,7 +581,7 @@
 <!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "Importatore file multimediali">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title "Importa una libreria">
+<!ENTITY import_library.dialog.title "Importa una catalogo multimediale">
 <!ENTITY import_library.prefs.title "Importa/Esporta da/a iTunes">
 <!ENTITY import_library.library_file_label "File della libreria:">
 <!ENTITY import_library.unsupported_media_alert_checkbox "Avvisami quando brani o playlist non supportati non vengono importati">
