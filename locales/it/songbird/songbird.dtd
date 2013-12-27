@@ -1,5 +1,5 @@
 <!ENTITY songbird "&brandShortName;">
-<!ENTITY window.ok "Ok">
+<!ENTITY window.ok "OK">
 <!ENTITY window.cancel "Annulla">
 <!ENTITY window.apply "Applica">
 <!ENTITY window.browse "Sfoglia…">
@@ -626,7 +626,7 @@
 <!ENTITY albumart.displaypane.selected.menu.cut "Taglia">
 <!ENTITY albumart.displaypane.selected.menu.copy "Copia">
 <!ENTITY albumart.displaypane.selected.menu.paste "Incolla">
-<!ENTITY albumart.displaypane.selected.menu.clear "Pulisci">
+<!ENTITY albumart.displaypane.selected.menu.clear "Svuota">
 <!ENTITY albumart.coverpreview.title "Copertina">
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Copertina Album">
