@@ -121,7 +121,7 @@
 <!ENTITY tooltip.browser.subscription "Abbonati a questa pagina">
 <!ENTITY tooltip.browser.mediapages.list "Vista a lista">
 <!ENTITY tooltip.browser.mediapages.filter "Vista a 3 riquadri con filtro">
-<!ENTITY tooltip.browser.mediapages "Cambia vista multimediale&hellip;">
+<!ENTITY tooltip.browser.mediapages "Cambia vista multimediale…">
 <!ENTITY tooltip.servicepane.show "Mostra pannello servizi">
 <!ENTITY tooltip.servicepane.collapse "Chiudi pannello servizi">
 <!ENTITY tooltip.servicepane.newnode "Nuova playlist">
@@ -291,7 +291,7 @@
 <!ENTITY rapi.prefpane.title "Integrazione web">
 <!ENTITY rapi.prefpane.access.caption "Permessi integrazione web">
 <!ENTITY rapi.prefpane.access.text "Puoi permettere ai siti di integrarsi con &brandShortName; per creare un rapporto più stretto tra il web e i tuoi file multimediali. Configura &brandShortName; per permettere o bloccare i seguenti punti di integrazione.">
-<!ENTITY rapi.whitelist.label "Eccezioni&hellip;">
+<!ENTITY rapi.whitelist.label "Eccezioni…">
 <!ENTITY rapi.restore_defaults.label "Ripristina valori predefiniti">
 <!ENTITY rapi.playback_control_disable.label "Non permettere ai siti web di controllare la riproduzione dei file multimediali">
 <!ENTITY rapi.playback_read_disable.label "Non permettere ai siti web di osservare le informazioni sul file multimediale che stai ascoltando">
@@ -402,12 +402,12 @@
 <!ENTITY device.repair.menuitem.default "Ripara il dispositivo">
 <!ENTITY device.firmware.wizard.title "Aggiorna firmware">
 <!ENTITY device.firmware.wizard.check.page.title "Verifica aggiornamenti firmware">
-<!ENTITY device.firmware.wizard.check.progress.title "Verifica aggiornamenti firmware in corso&hellip;">
+<!ENTITY device.firmware.wizard.check.progress.title "Verifica aggiornamenti firmware in corso…">
 <!ENTITY device.firmware.wizard.check.install.description "L&apos;installazione del firmware dovrebbe durare meno di 10 minuti. Puoi sempre eseguire l&apos;aggiornamento successivamente.">
 <!ENTITY device.firmware.wizard.check.already.description "Il firmware del dispositivo è già aggiornato.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Note di rilascio">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Il dispositivo deve essere connesso in modalità riparazione per continuare. Segui le istruzioni per impostare il dispositivo in modalità riparazione.">
-<!ENTITY device.firmware.wizard.download.title "Download del nuovo firmware in corso&hellip;">
+<!ENTITY device.firmware.wizard.download.title "Download del nuovo firmware in corso…">
 <!ENTITY device.firmware.wizard.repair.time.description "Il ripristino del dispositivo dovrebbe durare meno di 5 minuti.">
 <!ENTITY device.firmware.wizard.repair.warning "Ogni file personale sul dispositivo <strong class='loss-of-data-text'>sarà cancellato</strong>. E&apos; consigliato rieseguire la sincronizzazione con &brandShortName; una volta che l'operazione sarà completata.">
 <!ENTITY device.firmware.wizard.install.title "Installazione firmware in corso…">
