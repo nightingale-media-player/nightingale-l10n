@@ -171,7 +171,7 @@
 <!ENTITY feed.subscribe.close "Chiudi">
 <!ENTITY podcast.creation_dialog.title "Nuovo podcast">
 <!ENTITY podcast.creation_dialog.url.heading "URL:">
-<!ENTITY watchfolder.title "Controlla cartelle">
+<!ENTITY watchfolder.title "Monitoraggio Cartelle">
 <!ENTITY watchfolder.folderlist "Controlla queste cartelle per cercare nuovi file:">
 <!ENTITY locale.language "Lingua">
 <!ENTITY menu.view "Visualizza">
@@ -629,7 +629,7 @@
 <!ENTITY albumart.displaypane.selected.menu.clear "Svuota">
 <!ENTITY albumart.coverpreview.title "Copertina">
 <!-- Album Art preferences pane entities. -->
-<!ENTITY albumartpreferences.prefpane.label "Copertina Album">
+<!ENTITY albumartpreferences.prefpane.label "Copertine">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Includi copertina nei metadati di ogni file">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Questo permetterà a &brandShortName; di salvare la copertina nei tag compatibili dei file.">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Cerca nome file:">
