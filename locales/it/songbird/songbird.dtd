@@ -93,7 +93,7 @@
 <!ENTITY menu.fullscreen "Schermo intero">
 <!ENTITY menu.videotofront "Video in primo piano">
 <!ENTITY device.dialog.wait_for_completion.title "In attesa di dispositivi.">
-<!ENTITY device.dialog.wait_for_completion.msg "In attesa che tutte le operazioni sul dispositivo siano completate. Premi &quot;Chiudi&quot; per interrompere le operazioni e chiudere l&apos;applicazione.">
+<!ENTITY device.dialog.wait_for_completion.msg "In attesa che tutte le operazioni sul dispositivo siano completate.  Premi &quot;Chiudi&quot; per interrompere le operazioni e chiudere l'applicazione.">
 <!ENTITY device.dialog.wait_for_completion.quit "Chiudi">
 <!ENTITY tooltip.minimize "Minimizza">
 <!ENTITY tooltip.maximize "Massimizza/Ripristina">
@@ -157,7 +157,7 @@
 <!ENTITY smart.playlistcondition.library "Catalogo">
 <!ENTITY smart.contenttypecondition.video "Video">
 <!ENTITY smart.contenttypecondition.audio "Musica">
-<!ENTITY textbox.songbird_open_url "Inserire l&apos;URL o il percorso del file da riprodurre:">
+<!ENTITY textbox.songbird_open_url "Inserire l'URL o il percorso del file da riprodurre:">
 <!ENTITY open_url.title "Apri URL">
 <!ENTITY subscribe.title "Abbonati">
 <!ENTITY subscribe.url "URL:">
@@ -279,15 +279,15 @@
 <!ENTITY trackeditor.addtag.tag "Tag:">
 <!ENTITY jumptofile.title "Vai a">
 <!ENTITY jumptofile.search "Cerca:">
-<!ENTITY hotkeys.useglobalhotkeys "Usa scorciatoie globali">
+<!ENTITY hotkeys.useglobalhotkeys "Usa tasti chiave globali">
 <!ENTITY hotkeys.useglobalhotkeys.accesskey "U">
 <!ENTITY hotkeys.action "Azione">
-<!ENTITY hotkeys.hotkey "Scorciatoia">
+<!ENTITY hotkeys.hotkey "Tasti chiave">
 <!ENTITY hotkeys.add "Aggiungi">
 <!ENTITY hotkeys.set "Imposta">
 <!ENTITY hotkeys.remove "Rimuovi">
-<!ENTITY hotkeys.prefpane "Scorciatoie">
-<!ENTITY hotkeys.info "Le scorciatoie permettono l&apos;accesso alle funzionalità di &brandShortName; anche se questo non è l&apos;applicazione attiva.&#10;&#10;Alcune combinazioni di tasti devono includere delle modifiche ai tasti per evitare interferenze indesiderate con altre applicazioni.">
+<!ENTITY hotkeys.prefpane "Tasti chiave">
+<!ENTITY hotkeys.info "I tasti chiave permettono l'accesso alle funzionalità di &brandShortName; anche se questo non è l'applicazione attiva.&#10;&#10;Alcune combinazioni di tasti devono includere delle modifiche per evitare interferenze indesiderate con altre applicazioni.">
 <!ENTITY rapi.prefpane.title "Integrazione web">
 <!ENTITY rapi.prefpane.access.caption "Permessi integrazione web">
 <!ENTITY rapi.prefpane.access.text "Puoi permettere ai siti di integrarsi con &brandShortName; per creare un rapporto più stretto tra il web e i tuoi file multimediali. Configura &brandShortName; per permettere o bloccare i seguenti punti di integrazione.">
@@ -315,7 +315,7 @@
 <!ENTITY umsd.video.video_path_desc "Durante la copia dei file video, archiviali in questa cartella:">
 <!ENTITY umsd.video.video_path_browse_msg "Scegli la cartella del dispositivo in cui archiviare i file video.">
 <!ENTITY umsd.video.video_ext_desc "Copia nel dispositivo i file video con le seguenti estensioni:">
-<!ENTITY device.error.dialog.link "Vedi dettagli dell&apos;errore">
+<!ENTITY device.error.dialog.link "Vedi dettagli dell'errore">
 <!ENTITY restartbox.restartnow "Riavvia ora">
 <!ENTITY restartbox.restartonplaybackend "Riavvia alla fine della riproduzione">
 <!ENTITY restartbox.restartlater "Riavvia più tardi">
@@ -403,16 +403,16 @@
 <!ENTITY device.firmware.wizard.title "Aggiorna firmware">
 <!ENTITY device.firmware.wizard.check.page.title "Verifica aggiornamenti firmware">
 <!ENTITY device.firmware.wizard.check.progress.title "Verifica aggiornamenti firmware in corso…">
-<!ENTITY device.firmware.wizard.check.install.description "L&apos;installazione del firmware dovrebbe durare meno di 10 minuti. Puoi sempre eseguire l&apos;aggiornamento successivamente.">
+<!ENTITY device.firmware.wizard.check.install.description "L';installazione del firmware dovrebbe durare meno di 10 minuti. Puoi sempre eseguire l'aggiornamento successivamente.">
 <!ENTITY device.firmware.wizard.check.already.description "Il firmware del dispositivo è già aggiornato.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Note di rilascio">
 <!ENTITY device.firmware.wizard.needs_recovery_mode.description "Il dispositivo deve essere connesso in modalità riparazione per continuare. Segui le istruzioni per impostare il dispositivo in modalità riparazione.">
 <!ENTITY device.firmware.wizard.download.title "Download del nuovo firmware in corso…">
 <!ENTITY device.firmware.wizard.repair.time.description "Il ripristino del dispositivo dovrebbe durare meno di 5 minuti.">
-<!ENTITY device.firmware.wizard.repair.warning "Ogni file personale sul dispositivo <strong class='loss-of-data-text'>sarà cancellato</strong>. E&apos; consigliato rieseguire la sincronizzazione con &brandShortName; una volta che l'operazione sarà completata.">
+<!ENTITY device.firmware.wizard.repair.warning "Ogni file personale sul dispositivo <strong class='loss-of-data-text'>sarà cancellato</strong>. E' consigliato rieseguire la sincronizzazione con &brandShortName; una volta che l'operazione sarà completata.">
 <!ENTITY device.firmware.wizard.install.title "Installazione firmware in corso…">
 <!ENTITY device.firmware.wizard.busy.description "Sembra che il dispositivo sia occupato. Il firmware può essere installato solo quando il dispositivo è inattivo.">
-<!ENTITY device.firmware.wizard.retry.description "Riprova quando l&apos;operazione sul dispositivo sarà completata.">
+<!ENTITY device.firmware.wizard.retry.description "Riprova quando l'operazione sul dispositivo sarà completata.">
 <!ENTITY device.firmware.wizard.check.error.description "Errore durante la verifica di un nuovo firmware. Controlla la connessione ad internet e riprova.">
 <!ENTITY device.firmware.wizard.download.error.description "Errore durante il download del nuovo firmware. Controlla la connessione ad internet e riprova.">
 <!ENTITY device.firmware.wizard.support.description "Risorse di supporto come FAQ o risoluzione problemi sono disponibili qui:">
@@ -424,7 +424,7 @@
 <!ENTITY device.info.friendly_name.label "Nome">
 <!ENTITY device.info.serial_number.label "Numero di serie">
 <!ENTITY device.info.vendor.label "Produttore">
-<!ENTITY device.info.access.label "Compatibilità d&apos;accesso">
+<!ENTITY device.info.access.label "Compatibilità di accesso">
 <!ENTITY device.info.playback_formats.label "Formati di riproduzione">
 <!ENTITY device.info.battery.label "Batteria">
 <!ENTITY device.info.firmware_version.label "Versione firmware">
@@ -472,10 +472,10 @@
 <!ENTITY device.management.tabs.tools.label "Strumenti">
 <!ENTITY device.management.tabs.settings.label "Impostazioni">
 <!ENTITY device.tools.product_registration.title "Registrazione prodotto">
-<!ENTITY device.tools.product_registration.description "Vuoi assicurarti la prova dell&apos;acquisto, benefici addizionali per i membri, o ricevere notifiche di sicurezza?">
+<!ENTITY device.tools.product_registration.description "Vuoi assicurarti la prova dell'acquisto, benefici addizionali per i membri, o ricevere notifiche di sicurezza?">
 <!ENTITY device.tools.product_registration.label "Registra il prodotto">
 <!ENTITY device.tools.update_firmware.title "Aggiorna il firmware">
-<!ENTITY device.tools.update_firmware.description "Il tuo dispositivo è controllato da un programma interno detto firmware. Nuove versioni firmware possono esser state rilasciate dall&apos;ultima volta in cui hai connesso il dispositivo al computer.">
+<!ENTITY device.tools.update_firmware.description "Il tuo dispositivo è controllato da un programma interno detto firmware. Possono esser state rilasciate nuove versioni firmware dall'ultima volta in cui hai connesso il dispositivo al computer.">
 <!ENTITY device.tools.update_firmware.label "Controlla aggiornamenti firmware">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Versione firmware attuale:">
 <!ENTITY device.tools.restore_device.title "Ripristina dispositivo">
@@ -488,9 +488,9 @@
 <!ENTITY device.tools.support.title "Supporto">
 <!ENTITY device.tools.support.description "Visualizza le ultime informazioni di supporto, i manuali, la documentazione, le domande frequenti e le informazioni sul prodotto. I servizi di supporto sono disponibili per i clienti che hanno registrato il loro prodotto.">
 <!ENTITY device.tools.support.label "Visualizza le informazioni di supporto">
-<!ENTITY device.tools.reset_warnings.title "Ripristina messaggi d&apos;avviso">
-<!ENTITY device.tools.reset_warnings.description "Ripristinare i messaggi d&apos;errore attiverà queste finestrelle per chiedere conferma per alcune operazioni effettuate.">
-<!ENTITY device.tools.reset_warnings.label "Ripristina messaggi d&apos;errore">
+<!ENTITY device.tools.reset_warnings.title "Ripristina messaggi di avviso">
+<!ENTITY device.tools.reset_warnings.description "Ripristinare i messaggi di errore attiverà queste finestre per chiedere conferma su alcune operazioni da effettuare.">
+<!ENTITY device.tools.reset_warnings.label "Ripristina messaggi di errore">
 <!ENTITY device.dialog.setup.title "Installazione dispositivo">
 <!ENTITY device.dialog.setup.sync.volume.selector.description "Scegli quale dispositivo di archiviazione vuoi che &brandShortName; gestisca:">
 <!ENTITY device.dialog.setup.ignore.checkbox.label "Ignora questo dispositivo">
@@ -504,7 +504,7 @@
 <!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY openFrameCmdInDefaultBrowser.label "Apri il frame nel browser predefinito">
 <!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
-<!ENTITY openImageCmdInDefaultBrowser.label "Apri l&apos;immagine nel browser predefinito">
+<!ENTITY openImageCmdInDefaultBrowser.label "Apri immagine nel browser predefinito">
 <!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
 <!ENTITY copySelectionCmd.label "Copia il testo selezionato">
 <!ENTITY copySelectionCmd.accesskey "c">
@@ -521,7 +521,7 @@
 <!ENTITY subscribeMediaPageCmd.accesskey "u">
 <!ENTITY subscribeMediaFrameCmd.label "Abbonati a questo frame…">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
-<!ENTITY feedback.dialog.title "Aiuta a migliorare &brandShortName;!">
+<!ENTITY feedback.dialog.title "Aiutaci a migliorare &brandShortName;!">
 <!ENTITY feedback.dialog.yes "Sì">
 <!ENTITY feedback.dialog.no "No">
 <!ENTITY feedback.dialog.sentence1 "Vorresti aiutarci a rendere migliore &brandShortName; rispondendo ad un veloce questionario anonimo?">
@@ -543,7 +543,7 @@
 <!ENTITY first_run.app_update.finished.text "L'aggiornamento verrà installato quando riavvierai &brandShortName;.">
 <!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; non può connettersi ad Internet">
-<!ENTITY first_run.connection.description "Controlla le impostazioni di connessione o continua con l&apos;assistente d&apos;installazione.">
+<!ENTITY first_run.connection.description "Controlla le impostazioni di connessione o continua con l'assistente di installazione.">
 <!ENTITY first_run.connection.settings.button "Impostazioni di connessione…">
 <!ENTITY first_run.connection.settings.description "Il tuo computer o la tua rete sono protetti da un firewall o proxy? La correzione delle impostazioni di connessione consente di risolvere i problemi di rete più frequenti.">
 <!-- First-run eula entities. -->
@@ -552,7 +552,7 @@
 <!ENTITY first_run.eula.language.label "Lingua:">
 <!-- First-run feedback entities. -->
 <!ENTITY first_run.feedback.header.label "Aiutaci a migliorare &brandShortName;">
-<!ENTITY first_run.feedback.description "Vuoi aiutarci a migliorare &brandShortName; inviandoci statistiche anonime su come utilizzi l&apos;applicazione?">
+<!ENTITY first_run.feedback.description "Vuoi aiutarci a migliorare &brandShortName; inviandoci statistiche anonime su come utilizzi l'applicazione?">
 <!ENTITY first_run.feedback.metrics.label "Raccogli e invia statistiche al team di &brandShortName;">
 <!ENTITY first_run.feedback.metrics.description "Le statistiche sono completamente anonime e non viene raccolta nessuna informazione personale.">
 <!ENTITY first_run.feedback.email.header.label "Tienimi informato">
@@ -573,7 +573,7 @@
 <!ENTITY first_run.import_media.scan_directories.description "Vuoi che &brandShortName; provi ad importare file multimediali controllando specifiche cartelle sul computer?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Controlla questa cartella per le modifiche">
 <!-- First-run install add-ons entities. -->
-<!ENTITY first_run.install_add_ons.title "Download componenti aggiuntivi in corso">
+<!ENTITY first_run.install_add_ons.title "Download componenti aggiuntivi">
 <!-- First-run welcome entities. -->
 <!ENTITY first_run.welcome.header.label "Benvenuto in &brandShortName;">
 <!ENTITY first_run.welcome.description.line1 "L'alternativa personalizzabile ai tradizionali lettori multimediali.">
@@ -581,7 +581,7 @@
 <!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "Importatore file multimediali">
 <!-- Import library dialog and preference entities. -->
-<!ENTITY import_library.dialog.title "Importa una catalogo">
+<!ENTITY import_library.dialog.title "Importa un catalogo">
 <!ENTITY import_library.prefs.title "Importa/Esporta da/a iTunes">
 <!ENTITY import_library.library_file_label "File del catalogo:">
 <!ENTITY import_library.unsupported_media_alert_checkbox "Avvisami quando brani o playlist non supportati non vengono importati">
@@ -594,13 +594,13 @@
 <!ENTITY export_playlists_itunes_checkbox "Esporta playlist">
 <!ENTITY export_subscriptions_itunes_checkbox "Esporta abbonamenti">
 <!ENTITY export_smartplaylists_itunes_checkbox "Esporta playlist intelligenti">
-<!ENTITY importexport_show_notifications_checkbox "Mostra notifiche quando l&apos;importazione/esportazione è completa">
+<!ENTITY importexport_show_notifications_checkbox "Mostra notifiche quando l'importazione/esportazione è completa">
 <!-- Import library dirty playlist dialog entities. -->
 <!ENTITY import_library.dirty_playlist_dialog.title "Playlist modificata">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Mantieni l&apos;attuale playlist di &brandShortName; (Non importare questa playlist)">
-<!ENTITY import_library.dirty_playlist_dialog.merge "Unisci l&apos;attuale playlist di &brandShortName; e le playlist di iTunes">
+<!ENTITY import_library.dirty_playlist_dialog.merge "Unisci l'attuale playlist di &brandShortName; e le playlist di iTunes">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Sostituisci questa playlist di &brandShortName; con quella attuale di iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note "Nota: L&apos;unione e la sostituzione non può essere annullata.">
+<!ENTITY import_library.dirty_playlist_dialog.note "Nota: L'unione e la sostituzione non possono essere annullate.">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Applica la selezione a tutte le playlist">
 <!-- Watch folder general description. -->
 <!ENTITY watch_folder.prefs.general_description "Non abilitare il Monitoraggio Cartelle sulla stessa cartella in cui gestisci la tua musica. Farlo creerà dei duplicati nel catalogo.">
@@ -642,7 +642,7 @@
 <!ENTITY albumartpreferences.prefpane.priorities.down "Giù">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Reset">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Recupera automaticamente la copertine degli album">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Scarica automaticamente la copertica dell&apos;album quando una traccia viene riprodotta o selezionata, dipende dalla modalità del pannello delle copertine degli album. Le prestazioni potrebbero risentirne quando questa funzione è attiva.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Scarica automaticamente la copertina dell'album quando una traccia viene riprodotta o selezionata, dipendentemente dalla modalità del pannello delle copertine. Le prestazioni potrebbero risentirne quando questa funzione è attiva.">
 <!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "Indietro">
 <!ENTITY wizard.button.back.accesskey "B">
@@ -659,9 +659,9 @@
 <!ENTITY mediacore.error.codec_not_found.text.pre "Per maggiori informazioni sui codec mancanti, visita:">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Notifica importazione media">
+<!ENTITY mediaimporter.filtered_extensions.title "Avviso importazione file multimediali">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Per maggiori informazioni sul codec mancante, perfavore vedi:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Durante l&apos;importazione, non notificare più i video non supportati ">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Durante l'importazione, non notificare più i video non supportati ">
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "Riproduzione">
 <!ENTITY playback.prefpane.audio_output.label "Uscita audio">
@@ -682,8 +682,8 @@
 <!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Artista">
 <!ENTITY cdrip.lookup.info_not_found.album "Album">
-<!ENTITY cdrip.lookup.info_not_found.title "Nessuna informazione trovata per il CD">
-<!ENTITY cdrip.lookup.info_not_found.descr "Qui puoi aggiungere il nome dell&apos;artista e dell&apos;album. Puoi modificare le informazioni rimanenti con la playlist dell&apos;acquisizione CD.">
+<!ENTITY cdrip.lookup.info_not_found.title "Nessuna informazione per il CD trovata">
+<!ENTITY cdrip.lookup.info_not_found.descr "Qui puoi aggiungere il nome dell'artista e dell'album. Puoi modificare le informazioni rimanenti dalla playlist dell'acquisizione CD.">
 <!ENTITY cdrip.lookup.ordinal "#">
 <!ENTITY cdrip.lookup.track_name "Titolo">
 <!-- CD Rip Pref Pane entities -->
@@ -691,9 +691,9 @@
 <!ENTITY cdrip.prefpane.format "Formato">
 <!ENTITY cdrip.prefpane.quality "Qualità">
 <!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
-<!ENTITY cdrip.prefpane.eject_after_rip "Espelli il CD al termine dell&apos;acquisizione">
-<!ENTITY cdrip.prefpane.soundalert_after_rip "Riproduci il suono predefinito di allerta di sistema al completamento dell&apos;acquisizione">
-<!ENTITY cdrip.prefpane.providers.title "Fornitore d&apos;informazioni CD">
+<!ENTITY cdrip.prefpane.eject_after_rip "Espelli il CD al termine dell'acquisizione">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "Riproduci il suono predefinito di avviso di sistema al completamento dell';acquisizione">
+<!ENTITY cdrip.prefpane.providers.title "Ricerca informazioni CD">
 <!ENTITY cdrip.prefpane.quality_desc "Aumentare la qualità audio espressa in kbps incrementerà anche le dimensioni del file sul disco.">
 <!-- CD Rip Media View entities -->
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "Impostazioni Acquisizione CD">
@@ -729,7 +729,7 @@
 <!ENTITY about.credits.description.champs.link.post "Loro sono i ragazzi più prolifici sul nostro forum, il loro instancabile lavoro assicura che ogni utente di Songbird sia un utente felice.">
 <!ENTITY cdrip.lookup.multiple.title "Sono stati trovati più risultati corrispondenti al CD">
 <!ENTITY cdrip.lookup.multiple.description "Seleziona una delle informazioni seguenti o aggiungine di nuove.">
-<!ENTITY cdinfo.other.label "Aggiungi informazioni sull&apos;artista e sull&apos;album">
+<!ENTITY cdinfo.other.label "Aggiungi informazioni sull'artista e sull'album">
 <!ENTITY playqueue.label "Coda di riproduzione">
 <!ENTITY playqueue.instructions "Clicca sulle tracce o sulle playlist e trascinale qui per creare una coda di riproduzione al volo">
 <!ENTITY playqueue.inprogress "Aggiunta tracce in corso">
