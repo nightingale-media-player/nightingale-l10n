@@ -579,7 +579,7 @@
 <!ENTITY first_run.welcome.description.line1 "L'alternativa personalizzabile ai tradizionali lettori multimediali.">
 <!ENTITY first_run.welcome.description.line2 "Questo assistente ti consente di configurare &brandShortName; in modo semplice e veloce">
 <!-- Import media dialog preference entities. -->
-<!ENTITY import_media.prefs.title "Importatore file multimediali">
+<!ENTITY import_media.prefs.title "Importazione file multimediali">
 <!-- Import library dialog and preference entities. -->
 <!ENTITY import_library.dialog.title "Importa un catalogo">
 <!ENTITY import_library.prefs.title "Importa/Esporta da/a iTunes">

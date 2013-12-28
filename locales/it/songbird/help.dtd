@@ -1,7 +1,7 @@
 <!-- localizations for in-app help -->
 <!ENTITY help.keyboard.title "Scorciatoie da tastiera di &brandShortName;">
 <!ENTITY help.keyboard.subtitle "Scorciatoie da tastiera">
-<!ENTITY help.keyboard.description "Le scorciatoie da tastiera possono attivare funzioni di &brandShortName; più semplicemente. Ecco una lista di comandi disponibili seguiti dalle appropriate scorciatoie.">
+<!ENTITY help.keyboard.description "Le scorciatoie da tastiera possono attivare funzioni di &brandShortName; più velocemente. Ecco una lista di comandi disponibili.">
 <!ENTITY help.platform.windows "Windows">
 <!ENTITY help.platform.macosx "Mac">
 <!ENTITY help.platform.linux "Linux">
@@ -102,7 +102,7 @@
 <!ENTITY help.keyboard.name.tab.6 "Passa alla scheda 6">
 <!ENTITY help.keyboard.name.tab.7 "Passa alla scheda 7">
 <!ENTITY help.keyboard.name.tab.8 "Passa alla scheda 8">
-<!ENTITY help.keyboard.name.tab.9 "Passa alla scheda 9">
+<!ENTITY help.keyboard.name.tab.9 "Passa all'ultima scheda">
 <!ENTITY help.keyboard.name.page.top "Sposta in cima alla pagina">
 <!ENTITY help.keyboard.name.page.bottom "Sposta in fondo alla pagina">
 <!ENTITY help.keyboard.name.view.fullscreen "Schermo intero">
@@ -114,7 +114,7 @@
 <!ENTITY help.keyboard.name.find.again "Trova di nuovo">
 <!ENTITY help.keyboard.name.find.text "Cerca nel testo non appena digiti qualcosa">
 <!ENTITY help.keyboard.name.find.link "Ricerca il link che stai digitando">
-<!ENTITY help.keyboard.name.search.focus "Seleziona la barra della ricerca">
+<!ENTITY help.keyboard.name.search.focus "Evidenzia la barra della ricerca">
 <!ENTITY help.keyboard.name.video.fullscreen "Schermo intero">
 <!ENTITY help.keyboard.name.video.bringtofront "Video in primo piano">
 <!ENTITY help.keyboard.name.video.escape "Esci da schermo intero">
