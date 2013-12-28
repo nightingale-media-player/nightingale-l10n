@@ -50,9 +50,9 @@
 <!ENTITY help.keyboard.key.alt "Alt">
 <!ENTITY help.keyboard.key.opt "Opz">
 <!ENTITY help.keyboard.key.shift "Maiusc">
-<!ENTITY help.keyboard.key.delete "Cancella">
+<!ENTITY help.keyboard.key.delete "Canc">
 <!-- keyboard shortcuts: command names -->
-<!ENTITY help.keyboard.name.playcontrol.pause "Riproduci/Metti in pausa il file multimediale selezionato">
+<!ENTITY help.keyboard.name.playcontrol.pause "Riproduci/Metti in pausa">
 <!ENTITY help.keyboard.name.playcontrol.prev "Riproduci il file multimediale precedente in lista">
 <!ENTITY help.keyboard.name.playcontrol.next "Riproduci il prossimo file multimediale in lista">
 <!ENTITY help.keyboard.name.volume.down "Diminuisci volume">
@@ -103,16 +103,16 @@
 <!ENTITY help.keyboard.name.tab.7 "Passa alla scheda 7">
 <!ENTITY help.keyboard.name.tab.8 "Passa alla scheda 8">
 <!ENTITY help.keyboard.name.tab.9 "Passa all'ultima scheda">
-<!ENTITY help.keyboard.name.page.top "Sposta in cima alla pagina">
-<!ENTITY help.keyboard.name.page.bottom "Sposta in fondo alla pagina">
+<!ENTITY help.keyboard.name.page.top "Vai in cima alla pagina">
+<!ENTITY help.keyboard.name.page.bottom "Vai in fondo alla pagina">
 <!ENTITY help.keyboard.name.view.fullscreen "Schermo intero">
 <!ENTITY help.keyboard.name.mac.minimize "Riduci a icona">
 <!ENTITY help.keyboard.name.mac.hide "Nascondi finestra">
 <!ENTITY help.keyboard.name.mac.hideothers "Nascondi altre applicazioni">
 <!ENTITY help.keyboard.name.downloads "Download">
 <!ENTITY help.keyboard.name.find "Trova">
-<!ENTITY help.keyboard.name.find.again "Trova di nuovo">
-<!ENTITY help.keyboard.name.find.text "Cerca nel testo non appena digiti qualcosa">
+<!ENTITY help.keyboard.name.find.again "Trova ancora">
+<!ENTITY help.keyboard.name.find.text "Cerca nel testo della pagina">
 <!ENTITY help.keyboard.name.find.link "Ricerca il link che stai digitando">
 <!ENTITY help.keyboard.name.search.focus "Evidenzia la barra della ricerca">
 <!ENTITY help.keyboard.name.video.fullscreen "Schermo intero">
