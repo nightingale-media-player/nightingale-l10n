@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Tilpas">
+<!ENTITY equalizer.preset.flat "Flad">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Blød rock">
 <!ENTITY equalizer.preset.techno "Techno">
