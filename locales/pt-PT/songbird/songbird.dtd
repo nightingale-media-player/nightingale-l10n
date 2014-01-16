@@ -85,7 +85,7 @@
 <!ENTITY menu.preferences "Opções">
 <!ENTITY menu.extensions "Extras">
 <!ENTITY menu.clearprivatedata "Limpar dados privados…">
-<!ENTITY menu.errorconsole "Importar multimédia...">
+<!ENTITY menu.errorconsole "Consola de erros">
 <!ENTITY menu.downloadmgr "Transferências">
 <!ENTITY menu.switchplayercontrols "Controlos do reprodutor">
 <!ENTITY menu.controllerontop "Mostrar em cima">
@@ -201,7 +201,7 @@
 <!ENTITY equalizer.preset.party "Festa">
 <!ENTITY equalizer.preset.classical "Clássica">
 <!ENTITY equalizer.preset.large_hall "Salão">
-<!ENTITY equalizer.preset.dance "selecionar por">
+<!ENTITY equalizer.preset.dance "Dança">
 <!ENTITY equalizer.preset.pop "Pop">
 <!ENTITY equalizer.preset.soft "Suave">
 <!ENTITY equalizer.preset.small_speakers "Portátil/Auscultadores">
@@ -521,10 +521,10 @@
 <!ENTITY subscribeMediaPageCmd.accesskey "u">
 <!ENTITY subscribeMediaFrameCmd.label "Subscrever esta moldura…">
 <!ENTITY subscribeMediaFrameCmd.accesskey "u">
-<!ENTITY feedback.dialog.title "Ajude a tornar o &brandShortName; melhor!">
+<!ENTITY feedback.dialog.title "Ajude a melhorar o &brandShortName;!">
 <!ENTITY feedback.dialog.yes "Sim">
 <!ENTITY feedback.dialog.no "Não">
-<!ENTITY feedback.dialog.sentence1 "Pretende ajudar a tornar o &brandShortName; melhor, realizando um inquérito rápido e anónimo?">
+<!ENTITY feedback.dialog.sentence1 "Pretende ajudar melhorar o &brandShortName;, realizando um inquérito rápido e anónimo?">
 <!ENTITY feedback.dialog.sentence2 "Se não estiver interessado, não lhe vamos voltar a pedir. Obrigado pela consideração e agradecemos por estar a utilizar o &brandShortName;!">
 <!ENTITY feedback.dialog.sentence3 "Atenciosamente,">
 <!ENTITY feedback.dialog.sentence4 "A equipa &brandShortName;">
@@ -535,14 +535,14 @@
 <!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "Extras recomendados">
 <!ENTITY first_run.add_ons.description.line1 "Os extras alargam as funcionalidades do &brandShortName;, e permitem-lhe personalizar a utilização do reprodutor.  As opções abaixo são altamente recomendadas.">
-<!ENTITY first_run.add_ons.description.line2 "Os extras podem ser integrados com outras aplicações e serviços, ativar suporte a dispositivos externos, alterar a aparência da aplicação e mais! Pode transferir mais extras na página do &brandShortName;.">
+<!ENTITY first_run.add_ons.description.line2 "Os extras podem integrar outras aplicações e serviços, ativar suporte a dispositivos externos, alterar a aparência da aplicação e mais! Pode transferir mais extras na página do &brandShortName;.">
 <!ENTITY first_run.add_ons.loading.label "A obter extras recomendados.">
 <!ENTITY first_run.add_ons.load_failed.label "Não foi possível obter os extras recomendados.">
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "A atualização está pronta a instalar.">
 <!ENTITY first_run.app_update.finished.text "A atualização será instalada ao reiniciar o &brandShortName;.">
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label "O &brandShortName; não conseguiu ligar à Internet">
+<!ENTITY first_run.connection.header.label "O &brandShortName; não se conseguiu ligar à Internet">
 <!ENTITY first_run.connection.description "Verifique as definições de ligação ou continue com o assistente de configuração.">
 <!ENTITY first_run.connection.settings.button "Definições de ligação…">
 <!ENTITY first_run.connection.settings.description "O seu computador ou rede estão protegidos por firewall ou proxy? Se corrigir as definições de ligação inválidas, pode solucionar problemas de rede comuns.">
@@ -555,13 +555,13 @@
 <!ENTITY first_run.feedback.description "Gostaria de ajudar a melhorar o &brandShortName; enviando-nos estatísticas anónimas sobre a sua utilização da aplicação?">
 <!ENTITY first_run.feedback.metrics.label "Recolher e enviar as minhas estatísticas para a equipa do &brandShortName;">
 <!ENTITY first_run.feedback.metrics.description "As estatísticas são completamente anónimas e nenhuma informação pessoal é recolhida.">
-<!ENTITY first_run.feedback.email.header.label "Quero manter-me informado">
+<!ENTITY first_run.feedback.email.header.label "Manter-me informado">
 <!ENTITY first_run.feedback.email.description "Subscreva o nosso boletim periódico e saiba mais sobre as novas versões.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "indique o endereço eletrónico">
 <!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "Importar/Exportar do iTunes">
 <!ENTITY first_run.itunes.description "Parece que tem o iTunes instalado. Pode configurar o &brandShortName; para importar e/ou exportar faixas entre o &brandShortName; e o iTunes. Deste modo, ambas as coleções estão sempre sincronizadas.">
-<!ENTITY first_run.itunes.checkbox.import.label "Importar músicas e listas de reprodução iTunes">
+<!ENTITY first_run.itunes.checkbox.import.label "Importar músicas e listas de reprodução do iTunes">
 <!ENTITY first_run.itunes.checkbox.import.description "Os podcasts e a música compradas na loja do iTunes podem ser importadas para o &brandShortName;. Esta característica é ótima se o &brandShortName; vier a ser o seu principal leitor de música.">
 <!ENTITY first_run.itunes.checkbox.export.label "Exportar novas músicas e listas para o iTunes">
 <!ENTITY first_run.itunes.checkbox.export.description "A musica adquirida através do &brandShortName; pode ser exportada para o iTunes e posteriormente para o seu iPod ou iPhone.">
@@ -576,8 +576,8 @@
 <!ENTITY first_run.install_add_ons.title "A transferir extras">
 <!-- First-run welcome entities. -->
 <!ENTITY first_run.welcome.header.label "Bem-vindo ao &brandShortName;">
-<!ENTITY first_run.welcome.description.line1 "extremamente personalizado e uma alternativa aos reprodutores multimédia tradicionais.">
-<!ENTITY first_run.welcome.description.line2 "Este assistente fornece um método rápido e eficiente de preparar o &brandShortName;.">
+<!ENTITY first_run.welcome.description.line1 "extremamente personalizável e uma alternativa aos reprodutores multimédia tradicionais.">
+<!ENTITY first_run.welcome.description.line2 "Este assistente disponibiliza um método rápido e eficiente para preparar o &brandShortName;.">
 <!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "Importador multimédia">
 <!-- Import library dialog and preference entities. -->
@@ -596,7 +596,7 @@
 <!ENTITY export_smartplaylists_itunes_checkbox "Exportar listas de reprodução inteligentes">
 <!ENTITY importexport_show_notifications_checkbox "Mostrar notificações ao concluir a importação/exportação">
 <!-- Import library dirty playlist dialog entities. -->
-<!ENTITY import_library.dirty_playlist_dialog.title "Lista de Reprodução alterada">
+<!ENTITY import_library.dirty_playlist_dialog.title "Lista de reprodução alterada">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Manter a lista de reprodução atual do &brandShortName; (não importar esta lista)">
 <!ENTITY import_library.dirty_playlist_dialog.merge "Juntar as listas de reprodução do &brandShortName; e do iTunes">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Substituir esta lista de reprodução do &brandShortName; pela do iTunes">
@@ -665,9 +665,9 @@
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "Reprodução">
 <!ENTITY playback.prefpane.audio_output.label "Sistema áudio:">
-<!ENTITY playback.prefpane.audio_output.buffer "&quot;Buffer&quot; de saída:">
+<!ENTITY playback.prefpane.audio_output.buffer "Memória de saída:">
 <!ENTITY playback.prefpane.streaming.label "Rede e emissões web">
-<!ENTITY playback.prefpane.streaming.buffer "&quot;Buffer&quot; de emissão web:">
+<!ENTITY playback.prefpane.streaming.buffer "Memória de emissão web:">
 <!ENTITY playback.prefpane.normalization.label "Normalização">
 <!ENTITY playback.prefpane.normalization.enable "Se possível, utilizar normalização de volume">
 <!ENTITY playback.prefpane.normalization.preferredGain.label "Dados de ganho preferidos:">
@@ -720,12 +720,12 @@
 <!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Gostaríamos de agradecer aos nossos utilizadores, cujos esforços fazem do Songbird o que ele é. Estas pessoas ajudaram na programação, documentação, e testes. Criaram e mantiveram este produto, kits de desenvolvimento associados, ferramentas de construção e os nossos sítios web. Os nomes são seguidos dos nicks IRC. Passe por #songbird@irc://irc.mozilla.org e cumprimente-nos.">
 <!ENTITY about.credits.footer.beforeLink "Obviamente, nada disto seria possível sem o trabalho árduo e esforços dos">
-<!ENTITY about.credits.footer.linkText "contribuidores">
-<!ENTITY about.credits.footer.afterLink "para o projecto Mozilla.">
+<!ENTITY about.credits.footer.linkText "colaboradores">
+<!ENTITY about.credits.footer.afterLink "do projecto Mozilla.">
 <!ENTITY about.credits.heading.translators "Tradutores">
-<!ENTITY about.credits.heading.champs "Campeões">
-<!ENTITY about.credits.description.champs.link.pre "Os Campeões Songbird são os utilizadores mais obstinados e os fãs que foram mais além para ajudar outros utilizadores Songbird no nosso">
-<!ENTITY about.credits.description.champs.link.text "Fórum de suporte Songbird GetSatisfaction.">
+<!ENTITY about.credits.heading.champs "Memória de emissão web:">
+<!ENTITY about.credits.description.champs.link.pre "Os campeões Songbird são os utilizadores mais obstinados e os fãs que foram mais além para ajudar outros utilizadores Songbird no nosso">
+<!ENTITY about.credits.description.champs.link.text "fórum de suporte Songbird GetSatisfaction.">
 <!ENTITY about.credits.description.champs.link.post "Eles são as pessoas mais participativas no nosso fórum e trabalham incansavelmente para assegurar que cada utilizador Songbird é um utilizador feliz.">
 <!ENTITY cdrip.lookup.multiple.title "Encontrados vários gravadores de CD">
 <!ENTITY cdrip.lookup.multiple.description "Escolha uma das seguintes ou adicione a informação.">
@@ -734,5 +734,5 @@
 <!ENTITY playqueue.instructions "Arraste e largue as faixas/listas de reprodução aqui para criar uma fila de reprodução">
 <!ENTITY playqueue.inprogress "A adicionar faixas">
 <!ENTITY mediamanagement.removed.dialog.title "Aviso de gestão multimédia">
-<!ENTITY mediamanagement.removed.dialog.text.line1 "A gestão multimédia foi desativada na versão 1.10">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "A gestão multimédia foi removida na versão 1.10 do &brandShortName;">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "Esta alteração foi um esforço para simplificar o produto e a utilização.">
