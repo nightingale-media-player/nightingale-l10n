@@ -730,3 +730,5 @@
 <!ENTITY cdinfo.other.label "Dodaj swojego wykonawcę i info o albumie">
 <!ENTITY playqueue.label "Odtwórz Kolejkę">
 <!ENTITY playqueue.instructions "Przeciągnij i Upuść pliki tutaj aby szybko stworzyć kolejkę odtwarzania.">
+<!ENTITY mediamanagement.removed.dialog.text.line1 "Począwszy od wersji 1.10 zarządzanie mediami zostało usunięte.">
+<!ENTITY mediamanagement.removed.dialog.text.line2 "Zmiana ta upraszcza obsługę odtwarzacza.">
