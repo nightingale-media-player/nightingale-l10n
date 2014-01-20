@@ -34,7 +34,7 @@
 <!ENTITY menu.file.newtab "Nowa karta">
 <!ENTITY menu.file.closetab "Zamknij kartę">
 <!ENTITY menu.file.metadata "Wyświetl metadane">
-<!ENTITY menu.file.scan "Importuj media…">
+<!ENTITY menu.file.scan "Importuj multimedia…">
 <!ENTITY menu.file.exit "Zakończ">
 <!ENTITY menu.edit "Edycja">
 <!ENTITY menu.edit.undo "Cofnij">
@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Własny">
+<!ENTITY equalizer.preset.flat "Płaski">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Soft Rock">
 <!ENTITY equalizer.preset.techno "Techno">
@@ -436,6 +437,7 @@
 <!ENTITY device.unsupported_media.dialog.title "Wykryto niekompatybilne pliki">
 <!ENTITY device.unsupported_media.dialog.enable "Poinformuj mnie o wykryciu niekompatybilnych plików">
 <!ENTITY device.sync.header.label "Ustawienia synchronizacji">
+<!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Synchronizacja">
 <!ENTITY device.sync.sync_all.label "Cała muzyka, klipy wideo i listy odtwarzania">
 <!ENTITY device.sync.sync_selected.label "Wybrane listy odtwarzania:">
@@ -730,5 +732,7 @@
 <!ENTITY cdinfo.other.label "Dodaj swojego wykonawcę i info o albumie">
 <!ENTITY playqueue.label "Odtwórz Kolejkę">
 <!ENTITY playqueue.instructions "Przeciągnij i Upuść pliki tutaj aby szybko stworzyć kolejkę odtwarzania.">
+<!ENTITY playqueue.inprogress "Dodawanie utworów">
+<!ENTITY mediamanagement.removed.dialog.title "Informacja o Zarządzaniu mediami">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Począwszy od wersji 1.10 zarządzanie mediami zostało usunięte.">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "Zmiana ta upraszcza obsługę odtwarzacza.">
