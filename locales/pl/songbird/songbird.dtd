@@ -47,10 +47,10 @@
 <!ENTITY menu.edit.find "Znajdź">
 <!ENTITY menu.edit.findagain "Znajdź następne">
 <!-- Linux edit menu -->
-<!ENTITY menu.linux.preferences "Ustawienia">
+<!ENTITY menu.linux.preferences "Preferencje">
 <!ENTITY menu.linux.preferences.accesskey "P">
-<!ENTITY menu.controls "Odtwarzanie">
-<!ENTITY menu.control.play "Odtwarzaj/Pauza">
+<!ENTITY menu.controls "Elementy sterujące">
+<!ENTITY menu.control.play "Odtwarzaj">
 <!ENTITY menu.control.pause "Pauza">
 <!ENTITY menu.control.next "Następny utwór">
 <!ENTITY menu.control.prev "Poprzedni utwór">
@@ -63,7 +63,7 @@
 <!ENTITY menu.control.pause.button "Wstrzymaj">
 <!ENTITY menu.control.stop.button "Zatrzymaj">
 <!ENTITY displaypane.default.image.pre "Wybierz dodatek z">
-<!ENTITY displaypane.default.image.tooltip "Ikona Wyboru Dodatku">
+<!ENTITY displaypane.default.image.tooltip "Ikona wyboru dodatku">
 <!ENTITY displaypane.default.image.post "menu lub odwiedź">
 <!ENTITY displaypane.default.link.pre "">
 <!ENTITY displaypane.default.link.text "Strona z dodatkami">
@@ -87,13 +87,13 @@
 <!ENTITY menu.clearprivatedata "Wyczyść prywatne dane…">
 <!ENTITY menu.errorconsole "Konsola błędów">
 <!ENTITY menu.downloadmgr "Pobieranie plików">
-<!ENTITY menu.switchplayercontrols "Kontrolki odtwarzacza">
+<!ENTITY menu.switchplayercontrols "Elementy sterujące odtwarzacza">
 <!ENTITY menu.controllerontop "Wyświetl na górze">
 <!ENTITY menu.controlleronbottom "Wyświetl na dole">
-<!ENTITY menu.fullscreen "Pełny Ekran">
-<!ENTITY menu.videotofront "Wideo na Wierzch">
+<!ENTITY menu.fullscreen "Pełny ekran">
+<!ENTITY menu.videotofront "Wideo na wierzchu">
 <!ENTITY device.dialog.wait_for_completion.title "Oczekiwanie na urządzenia.">
-<!ENTITY device.dialog.wait_for_completion.msg "Oczekiwanie na zakończenie operacji przez wszystkie urządzenia. Kliknij „Zakończ”, aby przerwać i zamknąć program.">
+<!ENTITY device.dialog.wait_for_completion.msg "Oczekiwanie na zakończenie operacji przez wszystkie urządzenia.  Naciśnij „Zakończ”, aby przerwać i zamknąć program.">
 <!ENTITY device.dialog.wait_for_completion.quit "Zakończ">
 <!ENTITY tooltip.minimize "Minimalizuj">
 <!ENTITY tooltip.maximize "Maksymalizuj/Przywróć">
@@ -119,9 +119,9 @@
 <!ENTITY tooltip.browser.home "Strona domowa">
 <!ENTITY tooltip.browser.refresh "Odśwież">
 <!ENTITY tooltip.browser.subscription "Subskrybuj tę stronę">
-<!ENTITY tooltip.browser.mediapages.list "Widok Listy">
-<!ENTITY tooltip.browser.mediapages.filter "Filtrowany Widok Panelu">
-<!ENTITY tooltip.browser.mediapages "Widok…">
+<!ENTITY tooltip.browser.mediapages.list "Widok listy">
+<!ENTITY tooltip.browser.mediapages.filter "Widok panelu filtra">
+<!ENTITY tooltip.browser.mediapages "Przełącz widok…">
 <!ENTITY tooltip.servicepane.show "Wyświetl panel serwisowy">
 <!ENTITY tooltip.servicepane.collapse "Zamknij panel serwisowy">
 <!ENTITY tooltip.servicepane.newnode "Nowa lista odtwarzania">
@@ -132,16 +132,16 @@
 <!ENTITY smart.matchsingle "Porównaj następujące warunki:">
 <!ENTITY smart.any "dowolny">
 <!ENTITY smart.all "wszystko">
-<!ENTITY smart.following "według następujących warunków:">
+<!ENTITY smart.following "wg następujących warunków:">
 <!ENTITY smart.random "losowy">
 <!ENTITY smart.album "album">
 <!ENTITY smart.artist "wykonawca">
 <!ENTITY smart.genre "gatunek">
 <!ENTITY smart.title "tytuł">
 <!ENTITY smart.high_rating "najwyższa ocena">
-<!ENTITY smart.low_rating "niska ocena">
-<!ENTITY smart.most_recent "najczęściej otwierany">
-<!ENTITY smart.least_recent "najrzadziej otwierany">
+<!ENTITY smart.low_rating "najniższa ocena">
+<!ENTITY smart.most_recent "najczęściej odtwarzany">
+<!ENTITY smart.least_recent "najrzadziej odtwarzany">
 <!ENTITY smart.most_often "najczęściej odtwarzany">
 <!ENTITY smart.least_often "najrzadziej odtwarzany">
 <!ENTITY smart.most_added "najczęściej dodawany">
@@ -266,7 +266,7 @@
 <!-- Track Editor (Metadata Editor) -->
 <!ENTITY trackeditor.title "Edytor metadanych">
 <!ENTITY trackeditor.tab.summary.title "Podsumowanie">
-<!ENTITY trackeditor.tab.edit.title "Edycja">
+<!ENTITY trackeditor.tab.edit.title "Właściwości">
 <!ENTITY trackeditor.tab.lyrics.title "Teksty">
 <!ENTITY trackeditor.prev.button.label "&lt;">
 <!ENTITY trackeditor.next.button.label "&gt;">
@@ -287,7 +287,7 @@
 <!ENTITY hotkeys.set "Określ">
 <!ENTITY hotkeys.remove "Usuń">
 <!ENTITY hotkeys.prefpane "Skróty klawiszowe">
-<!ENTITY hotkeys.info "Globalne skróty klawiszowe pozwalają na dostęp do funkcji &brandShortName; nawet jeśli nie jest on aktywnym programem. Aby uniknąć konfliktów z innymi programami, niektóre skróty muszą wykorzystywać dodatkowy klawisz zwany modyfikatorem.">
+<!ENTITY hotkeys.info "Globalne skróty klawiszowe umożliwiają dostęp do funkcji programu &brandShortName;, nawet jeśli nie jest on aktywnym programem. Aby uniknąć konfliktów z innymi programami niektóre skróty muszą wykorzystywać dodatkowy klawisz zwany modyfikatorem.">
 <!ENTITY rapi.prefpane.title "Integracja sieciowa">
 <!ENTITY rapi.prefpane.access.caption "Uprawnienia stron internetowych">
 <!ENTITY rapi.prefpane.access.text "Aby lepiej powiązać sieć i twoje utwory, możesz zezwolić stronom na integrację z programem &brandShortName;. Skonfiguruj &brandShortName; tak, by zezwolić lub zabronić integracji w następujących obszarach.">
@@ -304,7 +304,7 @@
 <!ENTITY prefpane.addons.label "Dodatki">
 <!ENTITY prefpane.content.label "Treść strony www">
 <!ENTITY umsd.prefpane "USB">
-<!ENTITY umsd.no_devices_present "Nie podłączono żadnego urządzenia USB.">
+<!ENTITY umsd.no_devices_present "Nie podłączono żadnego urządzenia magazynującego USB.">
 <!ENTITY umsd.music.tab "Muzyka">
 <!ENTITY umsd.music.music_files_group "Pliki muzyczne">
 <!ENTITY umsd.music.music_path_desc "Kopiując pliki muzyczne do urządzenia umieść je w następującym folderze:">
@@ -358,10 +358,8 @@
 <!ENTITY menu.control.playpause.spacebar "Spacja">
 <!ENTITY tabs.closeTab "Zamknij kartę">
 <!ENTITY tabs.listAllTabs "Wyświetl wszystkie karty">
-<!ENTITY window.browser.titledefault "">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY window.browser.titlemenuseparator " - ">
-<!ENTITY window.browser.titlepreface "">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
 <!ENTITY prefs.homepage.label "Strona startowa">
 <!ENTITY prefs.homepage.url.label "Adres URL:">
@@ -391,9 +389,9 @@
 <!ENTITY command.device.devicesync "Synchronizacja">
 <!ENTITY command.device.devicesync.accesskey "S">
 <!-- CD Device entities -->
-<!ENTITY command.device.rip "Ripper CD">
+<!ENTITY command.device.rip "Zgrywanie CD">
 <!ENTITY command.device.rip.accesskey "R">
-<!ENTITY command.device.stoprip "Zatrzymaj rippowanie">
+<!ENTITY command.device.stoprip "Anuluj zgrywanie">
 <!ENTITY command.device.stoprip.accesskey "Z">
 <!ENTITY command.device.lookup "Wyszukaj informacje o CD">
 <!ENTITY command.device.lookup.accesskey "C">
@@ -403,19 +401,19 @@
 <!ENTITY device.firmware.wizard.title "Aktualizuj oprogramowanie">
 <!ENTITY device.firmware.wizard.check.page.title "Sprawdź dostępność aktualizacji oprogramowania">
 <!ENTITY device.firmware.wizard.check.progress.title "Sprawdzanie dostępności aktualizacji oprogramowania…">
-<!ENTITY device.firmware.wizard.check.install.description "Instalacja aktualizacji oprogramowania powinna trwać nie dłużej niż 10 minut. Możesz zawsze wykonać ją później.">
+<!ENTITY device.firmware.wizard.check.install.description "Instalacja aktualizacji oprogramowania zajmie około 10 minut. Możesz zawsze wykonać ją później.">
 <!ENTITY device.firmware.wizard.check.already.description "Oprogramowanie twojego urządzenia jest aktualne.">
 <!ENTITY device.firmware.wizard.check.release_notes.label "Informacje o wydaniu">
-<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Aby kontynuować, urządzenie musi być podłączone w trybie oprogramowania firmowego. Aby ustawić urządzenie w tym trybie, postępuj zgodnie z poniższą instrukcją.">
+<!ENTITY device.firmware.wizard.needs_recovery_mode.description "Aby kontynuować, urządzenie musi być podłączone w trybie naprawy. Aby ustawić urządzenie w tym trybie, postępuj zgodnie z poniższą instrukcją.">
 <!ENTITY device.firmware.wizard.download.title "Pobieranie nowego oprogramowania…">
-<!ENTITY device.firmware.wizard.repair.time.description "Przywracanie urządzenia powinno zająć mniej niż 5 minut.">
-<!ENTITY device.firmware.wizard.repair.warning "Przywracanie ustawień fabrycznych urządzenia spowoduje usunięcie wszystkich utworów i danych z urządzenia. Przed kontynuowaniem, wykonaj kopię zapasową wszystkich plików.">
+<!ENTITY device.firmware.wizard.repair.time.description "Ta operacja zajmie około 5 minut.">
+<!ENTITY device.firmware.wizard.repair.warning "Przywracanie ustawień fabrycznych urządzenia spowoduje <strong class='loss-of-data-text'>usunięcie wszystkich</strong> utworów i danych z urządzenia. Po zakończeniu operacji sugerujemy wykonanie ponownej synchronizacji z programem &brandShortName;.">
 <!ENTITY device.firmware.wizard.install.title "Instalowanie oprogramowania…">
 <!ENTITY device.firmware.wizard.busy.description "Urządzenie jest zajęte. Oprogramowanie może być zainstalowane tylko, gdy urządzenie jest nieczynne.">
 <!ENTITY device.firmware.wizard.retry.description "Spróbuj ponownie po zakończeniu obecnej czynności urządzenia.">
 <!ENTITY device.firmware.wizard.check.error.description "Wystąpił błąd podczas sprawdzania dostępności nowego oprogramowania. Sprawdź połączenie sieciowe i spróbuj ponownie.">
 <!ENTITY device.firmware.wizard.download.error.description "Wystąpił błąd podczas pobierania nowego oprogramowania. Sprawdź połączenie sieciowe i spróbuj ponownie.">
-<!ENTITY device.firmware.wizard.support.description "Źródła pomocy takie, jak często zadawane pytania (FAQ) i podpowiedzi rozwiązywania problemów są dostępne na">
+<!ENTITY device.firmware.wizard.support.description "Źródła pomocy, takie jak często zadawane pytania (FAQ) i podpowiedzi rozwiązywania problemów są dostępne na">
 <!ENTITY device.info.icon.device "Standardowa ikona urządzenia">
 <!ENTITY device.info.icon.readonly "Ikona trybu „tylko do odczytu”">
 <!ENTITY device.info.model.label "Model">
@@ -435,34 +433,34 @@
 <!ENTITY device.capacity.other.label "Inne">
 <!ENTITY device.capacity.free.label "Puste">
 <!ENTITY device.unsupported_media.dialog.title "Wykryto niekompatybilne pliki">
-<!ENTITY device.unsupported_media.dialog.enable "Poinformuj mnie o wykryciu niekompatybilnych plików">
+<!ENTITY device.unsupported_media.dialog.enable "Informuj o wykryciu niekompatybilnych plików">
 <!ENTITY device.sync.header.label "Ustawienia synchronizacji">
 <!ENTITY device.import.header.label "Import">
 <!ENTITY device.sync.auto_sync.label "Synchronizacja">
-<!ENTITY device.sync.sync_all.label "Cała muzyka, klipy wideo i listy odtwarzania">
+<!ENTITY device.sync.sync_all.label "Wszystkie multimedia i listy odtwarzania">
 <!ENTITY device.sync.sync_selected.label "Wybrane listy odtwarzania:">
 <!ENTITY device.sync.playlist.title "Tytuł">
-<!ENTITY device.sync.playlist.video.duration "Długość Wideo">
-<!ENTITY device.sync.images.from.label "Synchronizuj zdjęcia z:">
+<!ENTITY device.sync.playlist.video.duration "Długość wideo">
+<!ENTITY device.sync.images.from.label "Zdjęcia z:">
 <!ENTITY device.sync.images.browse "Wybierz folder…">
 <!ENTITY device.sync.images.all.label "Wszystkie zdjęcia">
 <!ENTITY device.sync.images.all.template "Wszystkie zdjęcia (&#37;S)">
-<!ENTITY device.sync.images.selected.label "Wybierz podfoldery">
+<!ENTITY device.sync.images.selected.label "Wybierz subfoldery">
 <!ENTITY device.sync.images.foldername "Nazwa folderu">
 <!ENTITY device.sync.images.filecount "Zdjęcia">
 <!ENTITY device.settings.header.label "Ustawienia">
 <!ENTITY device.settings.general.label "Ogólne">
 <!ENTITY device.settings.auto_launch.checkbox.label "Otwieraj &brandShortName;, gdy to urządzenie zostanie wykryte">
 <!ENTITY device.settings.auto_firmware_check.checkbox.label "Sprawdzaj automatycznie dostępność nowych wersji oprogramowania">
-<!ENTITY device.settings.music.transcoding.label "Transkodowanie muzyki">
-<!ENTITY device.settings.music.transcoding.no_encoders.description "Wykryto brak enkoderów dla tego urządzenia">
+<!ENTITY device.settings.music.transcoding.label "Konwersja muzyki">
+<!ENTITY device.settings.music.transcoding.no_encoders.description "Brak enkoderów dla tego urządzenia">
 <!ENTITY device.settings.disk.label "Zarządzanie dyskami">
 <!ENTITY device.settings.disk.management.label "Dostosuj strukturę katalogu">
 <!ENTITY device.settings.disk.management.filename "Pliki muzyczne">
 <!ENTITY device.settings.disk.100percent.label "100&#37;">
 <!ENTITY device.settings.disk.0percent.label "0&#37;">
-<!ENTITY device.settings.music.transcoding.mode.auto.label "Konfiguruj automatycznie transkodowanie">
-<!ENTITY device.settings.music.transcoding.mode.manual.label "Ręcznie określ bitrate i format">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "Konfiguruj automatycznie konwertowanie">
+<!ENTITY device.settings.music.transcoding.mode.manual.label "Określ ręcznie bitrate i format">
 <!ENTITY device.settings.music.transcoding.format.label "Format kodowania">
 <!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
 <!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
@@ -475,7 +473,7 @@
 <!ENTITY device.tools.product_registration.description "Chcesz uzyskać dowód zakupu, dodatkowe korzyści z członkostwa, odbierać powiadomienia bezpieczeństwa?">
 <!ENTITY device.tools.product_registration.label "Zarejestruj produkt">
 <!ENTITY device.tools.update_firmware.title "Aktualizacja oprogramowania">
-<!ENTITY device.tools.update_firmware.description "Urządzenie jest kontrolowane przez wewnętrzne oprogramowanie. Od czasu ostatniego podłączenia urządzenia do komputera mogły zostać wydane nowsze wersje tego oprogramowania .">
+<!ENTITY device.tools.update_firmware.description "Urządzenie jest sterowane przez wewnętrzny program nazywany oprogramowaniem sprzętowym. Od czasu ostatniego podłączenia urządzenia do komputera mogły zostać wydane nowsze wersje tego oprogramowania .">
 <!ENTITY device.tools.update_firmware.label "Sprawdź dostępność aktualizacji">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Aktualna wersja oprogramowania:">
 <!ENTITY device.tools.restore_device.title "Przywracanie urządzenia">
