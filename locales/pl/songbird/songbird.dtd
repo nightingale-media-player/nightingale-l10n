@@ -477,15 +477,15 @@
 <!ENTITY device.tools.update_firmware.label "Sprawdź dostępność aktualizacji">
 <!ENTITY device.tools.update_firmware.current_firmware.title "Aktualna wersja oprogramowania:">
 <!ENTITY device.tools.restore_device.title "Przywracanie urządzenia">
-<!ENTITY device.tools.restore_device.description "Przywrócenie twojego urządzenia do ustawień fabrycznych usunie wszystkie pliki z urządzenia, przywróci fabryczne oprogramowanie i ustawienia.">
+<!ENTITY device.tools.restore_device.description "Przywrócenie urządzenia do ustawień fabrycznych spowoduje usunięcie wszystkich plików z urządzenia oraz przywróci fabryczne oprogramowanie i ustawienia.">
 <!ENTITY device.tools.restore_device.label "Przywracanie urządzenia do ustawień fabrycznych">
 <!ENTITY device.tools.format_device.title "Formatowanie urządzenia">
-<!ENTITY device.tools.format_device.description "Sformatowanie urządzenia spowoduje skasowanie wszystkich utworów i danych znajdujących się na nim.">
+<!ENTITY device.tools.format_device.description "Sformatowanie urządzenia spowoduje usunięcie wszystkich utworów i danych znajdujących się na nim.">
 <!ENTITY device.tools.format_device.label "Formatuj urządzenie">
 <!ENTITY device.tools.format_volume.button.label "Formatowanie">
-<!ENTITY device.tools.support.title "Wsparcie">
-<!ENTITY device.tools.support.description "Zobacz najnowsze informacyjne dotyczące wsparcia, instrukcje obsługi, dokumentację, często zadawane pytania oraz informacje o produkcie. Wsparcie jest dostępne tylko dla klientów, którzy zarejestrowali swój produkt.">
-<!ENTITY device.tools.support.label "Zobacz zasoby wsparcia">
+<!ENTITY device.tools.support.title "Pomoc">
+<!ENTITY device.tools.support.description "Zobacz najnowsze informacje pomocy technicznej, instrukcje obsługi, dokumentację, często zadawane pytania oraz informacje o produkcie. Pomoc techniczna jest dostępna tylko dla klientów, którzy zarejestrowali swój produkt.">
+<!ENTITY device.tools.support.label "Zobacz zasoby pomocy">
 <!ENTITY device.tools.reset_warnings.title "Resetuj ostrzeżenia">
 <!ENTITY device.tools.reset_warnings.description "Zresetowanie ostrzeżeń spowoduje włączenie wyświetlania okien dialogowych potwierdzania pewnych czynności, jakie chcesz wykonywać.">
 <!ENTITY device.tools.reset_warnings.label "Resetuj ostrzeżenia">
@@ -508,7 +508,7 @@
 <!ENTITY copySelectionCmd.accesskey "K">
 <!ENTITY playMediaCmd.label "Odtwórz">
 <!ENTITY playMediaCmd.accesskey "T">
-<!ENTITY downloadMediaCmd.label "Pobierz">
+<!ENTITY downloadMediaCmd.label "Pobierz do biblioteki">
 <!ENTITY downloadMediaCmd.accesskey "P">
 <!ENTITY addMediaToPlaylistCmd.label "Dodaj do listy odtwarzania">
 <!ENTITY addMediaToPlaylistCmd.accesskey "D">
@@ -522,8 +522,8 @@
 <!ENTITY feedback.dialog.title "Pomóż nam stworzyć lepszego &brandShortName;!">
 <!ENTITY feedback.dialog.yes "Tak">
 <!ENTITY feedback.dialog.no "Nie">
-<!ENTITY feedback.dialog.sentence1 "Czy pomożesz nam rozwijać &brandShortName; wypełniając krótką, anonimową ankietę?">
-<!ENTITY feedback.dialog.sentence2 "Jeśli ta forma komunikacji z nami nie odpowiada ci, nie będziemy cię więcej o to pytać. Dziękujemy za uwagę i zapraszamy do używania programu &brandShortName;!">
+<!ENTITY feedback.dialog.sentence1 "Czy pomożesz nam rozwijać &brandShortName;, wypełniając krótką, anonimową ankietę?">
+<!ENTITY feedback.dialog.sentence2 "Jeśli ta forma komunikacji z nami ci nie odpowiada, nie będziemy więcej o to pytać. Dziękujemy za uwagę i zapraszamy do używania programu &brandShortName;!">
 <!ENTITY feedback.dialog.sentence3 "Pozdrowienia">
 <!ENTITY feedback.dialog.sentence4 "Zespół &brandShortName;">
 <!-- title for the blank firstrun mediapage -->
@@ -532,15 +532,15 @@
 <!ENTITY first_run.title "&brandShortName; – ustawienia">
 <!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "Polecane dodatki">
-<!ENTITY first_run.add_ons.description.line1 "Dodatki zwiększają funkcjonalność programu &brandShortName; i pozwalają dostosować odtwarzacz do twoich upodobań.">
+<!ENTITY first_run.add_ons.description.line1 "Dodatki zwiększają funkcjonalność programu &brandShortName; i umożliwiają dostosowanie odtwarzacza do twoich upodobań.">
 <!ENTITY first_run.add_ons.description.line2 "Mogą one integrować się z innymi programami i usługami, obsługiwać dodatkowe urządzenia zewnętrzne, zmienić wygląd programu i wiele więcej! Można je pobrać z witryny dodatków programu &brandShortName;.">
 <!ENTITY first_run.add_ons.loading.label "Pobieranie polecanych dodatków.">
 <!ENTITY first_run.add_ons.load_failed.label "Nie można pobrać polecanych dodatków.">
 <!-- First-run application update entities. -->
 <!ENTITY first_run.app_update.finished.title "Aktualizacja gotowa do Instalacji.">
-<!ENTITY first_run.app_update.finished.text "Ta aktualizacja zostanie zainstalowana, gdy &brandShortName; zostanie uruchomiony ponownie.">
+<!ENTITY first_run.app_update.finished.text "Ta aktualizacja zostanie zainstalowana, gdy &brandShortName; zostanie ponownie uruchomiony.">
 <!-- First-run connection entities. -->
-<!ENTITY first_run.connection.header.label "&brandShortName; nie może połączyć się z Internetem.">
+<!ENTITY first_run.connection.header.label "&brandShortName; nie może połączyć się z internetem.">
 <!ENTITY first_run.connection.description "Sprawdź ustawienia połączenia lub kontynuuj z pomocą asystenta konfiguracji. ">
 <!ENTITY first_run.connection.settings.button "Ustawienia połączenia…">
 <!ENTITY first_run.connection.settings.description "Czy twój komputer lub sieć lokalna są chronione za pomocą zapory sieciowej lub proxy? Korekta nieprawidłowych ustawień połączenia może pomóc w rozwiązaniu wielu problemów z siecią. ">
@@ -550,26 +550,26 @@
 <!ENTITY first_run.eula.language.label "Język:">
 <!-- First-run feedback entities. -->
 <!ENTITY first_run.feedback.header.label "Pomóż ulepszyć program &brandShortName;">
-<!ENTITY first_run.feedback.description "Czy chcesz pomóc w doskonaleniu programu &brandShortName; poprzez wysyłanie nam ocen w formie anonimowych, ankiet i informacji o sposobie używaniu tego programu?">
+<!ENTITY first_run.feedback.description "Czy chcesz pomóc w doskonaleniu programu &brandShortName; poprzez wysyłanie nam opinii w formie anonimowych ankiet i informacji o sposobie używaniu tego programu?">
 <!ENTITY first_run.feedback.metrics.label "Zbierz i wyślij moje statystyki do zespołu autorów programu &brandShortName;">
 <!ENTITY first_run.feedback.metrics.description "Statystyki są w pełni anonimowe. Żadne dane osobiste nie są zbierane.">
 <!ENTITY first_run.feedback.email.header.label "Powiadamiaj mnie o nowościach!">
-<!ENTITY first_run.feedback.email.description "Subskrybuj nasz newsletter, aby mieć bieżące informacje o nowych wersjach i ważnych aktualizacjach.">
+<!ENTITY first_run.feedback.email.description "Subskrybuj nasz biuletyn, aby mieć bieżące informacje o nowych wersjach i ważnych aktualizacjach.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "wprowadź swój adres e-mail, aby mieć zawsze najnowsze informacje">
 <!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "Eksport/import iTunes.">
-<!ENTITY first_run.itunes.description "Wygląda na to, że masz zainstalowanego iTunes. &brandShortName; może zostać skonfigurowany tak, by importować i eksportować utwory pomiędzy &brandShortName;em, a iTunes. Dzięki temu twoje biblioteki są zsynchronizowane.">
+<!ENTITY first_run.itunes.description "Wygląda na to, że masz zainstalowany iTunes. &brandShortName; może zostać skonfigurowany tak, by importować i eksportować utwory pomiędzy &brandShortName;em, a iTunes. Dzięki temu twoje biblioteki są zsynchronizowane.">
 <!ENTITY first_run.itunes.checkbox.import.label "Importuj utwory i listy odtwarzania z iTunes.">
-<!ENTITY first_run.itunes.checkbox.import.description "Podcasty i muzyka zakupiona przez iTunes może być zaimportowana do &brandShortName;. Ta funkcja działa znakomicie jeżeli &brandShortName; jest używany jako główny odtwarzacz muzyki.">
+<!ENTITY first_run.itunes.checkbox.import.description "Podcasty i muzyka zakupiona przez iTunes może być zaimportowana do &brandShortName;. Ta funkcja działa znakomicie, jeżeli &brandShortName; jest używany jako główny odtwarzacz muzyki.">
 <!ENTITY first_run.itunes.checkbox.export.label "Eksportuj nowe utwory i listy odtwarzania do iTunes">
-<!ENTITY first_run.itunes.checkbox.export.description "Muzyka uzyskana poprzez &brandShortName; może zostać wyeksportowana do iTunes, w celu wgrania jej na iPod&apos;a, albo iPhone&apos;a.">
+<!ENTITY first_run.itunes.checkbox.export.description "Muzykę uzyskaną poprzez &brandShortName; można wyeksportować do iTunes, by wgrać ją na iPoda, albo iPhone&apos;a.">
 <!-- First-run import media entities. -->
 <!ENTITY first_run.import_media.header.label "Importowanie multimediów">
-<!ENTITY first_run.import_media.description "Wybierz jakie multimedia chcesz zaimportować do programu &brandShortName;. Po otwarciu programu &brandShortName; możesz, korzystając z różnych sposobów, dodać inne multimedia.">
+<!ENTITY first_run.import_media.description "Wybierz,jakie multimedia chcesz zaimportować do programu &brandShortName;. Po otwarciu programu &brandShortName; możesz, korzystając z różnych sposobów dodać inne multimedia.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Przeszukaj zasoby mojego komputera">
 <!ENTITY first_run.import_media.radio.dont_import.label "Nie importuj multimediów">
 <!ENTITY first_run.import_media.scan_directories.description "Czy chcesz aby &brandShortName; spróbował wyszukać pliki multimedialne na tym komputerze i je zaimportował?">
-<!ENTITY first_run.import_media.scan_directories.watch.label "Monitoruj zawartość tego folderu">
+<!ENTITY first_run.import_media.scan_directories.watch.label "Monitoruj zawartość tego katalogu">
 <!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Pobieranie dodatków">
 <!-- First-run welcome entities. -->
@@ -598,10 +598,10 @@
 <!ENTITY import_library.dirty_playlist_dialog.keep "Zatrzymaj aktualną listę odtwarzania programu &brandShortName; (Nie importuj tej listy odtwarzania)">
 <!ENTITY import_library.dirty_playlist_dialog.merge "Połącz bieżącą listę odtwarzania programu &brandShortName; z listą odtwarzania iTunes">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Zamień tę listę odtwarzania programu &brandShortName; z bieżącą listą odtwarzania iTunes">
-<!ENTITY import_library.dirty_playlist_dialog.note "Uwaga: Operacji tej nie można odtworzyć!">
+<!ENTITY import_library.dirty_playlist_dialog.note "Uwaga! Operacji tej nie można odtworzyć!">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Zastosuj zaznaczenie we wszystkich listach odtwarzania">
 <!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Nie włączaj folderów śledzenia w tym samym katalogu, w którym używasz folderu zarządzania utworami. Wykonanie tej operacji spowoduje utworzenie w twojej bibliotece duplikatów.">
+<!ENTITY watch_folder.prefs.general_description "Nie włączaj obserwowanych folderów w tym samym katalogu, w którym używasz folderu zarządzania muzyką. Wykonanie tej operacji spowoduje utworzenie w twojej bibliotece duplikatów.">
 <!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "Śledź zmiany w folderach">
 <!ENTITY watch_folder.prefs.settings_group_caption "Ustawienia śledzenia zmian w folderach">
