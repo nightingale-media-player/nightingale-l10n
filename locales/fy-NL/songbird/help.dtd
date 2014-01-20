@@ -14,6 +14,8 @@
 <!ENTITY help.keyboard.section.browser "Browser">
 <!ENTITY help.keyboard.section.windows "Skermen en Ljepblêden">
 <!ENTITY help.keyboard.section.search "Sykje">
+<!ENTITY help.keyboard.section.video "Fideo">
+<!ENTITY help.keyboard.section.cdrip "CD Rip">
 <!ENTITY help.keyboard.section.misc "Oers">
 <!ENTITY help.keyboard.key.left "Linker pylk">
 <!ENTITY help.keyboard.key.right "Rjochter pylk">
@@ -58,6 +60,7 @@
 <!ENTITY help.keyboard.name.volume.mute "Folume stil">
 <!ENTITY help.keyboard.name.volume.max "Maks folume">
 <!ENTITY help.keyboard.name.jumpto "Ljep nei skerm">
+<!ENTITY help.keyboard.name.equalizer "Iepenje de equalizer">
 <!ENTITY help.keyboard.name.new.playlist "Nije Ofspyllist">
 <!ENTITY help.keyboard.name.new.smartplaylist "Nije tûke ôfspyllist">
 <!ENTITY help.keyboard.name.import "Ymportearje media">
@@ -112,6 +115,11 @@
 <!ENTITY help.keyboard.name.find.text "Fyn as jo type tekst">
 <!ENTITY help.keyboard.name.find.link "Fyn as jo type keppeling">
 <!ENTITY help.keyboard.name.search.focus "Ljep nei sykfek">
+<!ENTITY help.keyboard.name.video.fullscreen "Folslein skerm">
+<!ENTITY help.keyboard.name.video.bringtofront "Fideo boppeoan">
+<!ENTITY help.keyboard.name.video.escape "Folslein skerm slute">
+<!ENTITY help.keyboard.name.cdrip.start "Rip CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Stop Rip CD">
 <!ENTITY help.keyboard.name.quit "Ofslute">
 <!ENTITY help.keyboard.name.preferences "Foarkarren">
 <!ENTITY help.keyboard.name.help "Helpûnderwerpen">
