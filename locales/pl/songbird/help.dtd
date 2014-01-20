@@ -15,7 +15,7 @@
 <!ENTITY help.keyboard.section.windows "Okna i karty">
 <!ENTITY help.keyboard.section.search "Szukaj">
 <!ENTITY help.keyboard.section.video "Wideo">
-<!ENTITY help.keyboard.section.cdrip "Rippowanie CD">
+<!ENTITY help.keyboard.section.cdrip "Zgrywanie CD">
 <!ENTITY help.keyboard.section.misc "Różne">
 <!ENTITY help.keyboard.key.left "Strzałka w lewo">
 <!ENTITY help.keyboard.key.right "Strzałka w prawo">
@@ -118,8 +118,8 @@
 <!ENTITY help.keyboard.name.video.fullscreen "Pełny ekran">
 <!ENTITY help.keyboard.name.video.bringtofront "Wideo na wierzchu">
 <!ENTITY help.keyboard.name.video.escape "Opuść pełny ekran">
-<!ENTITY help.keyboard.name.cdrip.start "Rippuj CD">
-<!ENTITY help.keyboard.name.cdrip.stop "Zatrzymaj rippowanie CD">
+<!ENTITY help.keyboard.name.cdrip.start "Zgraj CD">
+<!ENTITY help.keyboard.name.cdrip.stop "Zatrzymaj zgrywanie CD">
 <!ENTITY help.keyboard.name.cdrip.eject "Wysuń płytę">
 <!ENTITY help.keyboard.name.quit "Zamknij">
 <!ENTITY help.keyboard.name.preferences "Ustawienia">
