@@ -601,7 +601,7 @@
 <!ENTITY import_library.dirty_playlist_dialog.note "Uwaga! Operacji tej nie można odtworzyć!">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Zastosuj zaznaczenie we wszystkich listach odtwarzania">
 <!-- Watch folder general description. -->
-<!ENTITY watch_folder.prefs.general_description "Nie włączaj obserwowanych folderów w tym samym katalogu, w którym używasz folderu zarządzania muzyką. Wykonanie tej operacji spowoduje utworzenie w twojej bibliotece duplikatów.">
+<!ENTITY watch_folder.prefs.general_description "Nie włączaj folderów śledzenia w tym samym katalogu, w którym używasz folderu zarządzania muzyką. Wykonanie tej operacji spowoduje utworzenie w twojej bibliotece duplikatów.">
 <!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "Śledź zmiany w folderach">
 <!ENTITY watch_folder.prefs.settings_group_caption "Ustawienia śledzenia zmian w folderach">
@@ -619,8 +619,8 @@
 <!ENTITY albumart.displaypane.not_playing_message "Nic nie jest odtwarzane">
 <!ENTITY albumart.displaypane.not_selected_message "Nic nie wybrano">
 <!ENTITY albumart.displaypane.drag_and_drop "Przeciągnij tutaj okładkę albumu">
-<!ENTITY albumart.displaypane.contextmenu.showselected "Pokaż Zaznaczone">
-<!ENTITY albumart.displaypane.contextmenu.showplaying "Pokaż Odtwarzane">
+<!ENTITY albumart.displaypane.contextmenu.showselected "Pokaż zaznaczone">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "Pokaż o">
 <!ENTITY albumart.displaypane.selected.menu.cut "Wytnij">
 <!ENTITY albumart.displaypane.selected.menu.copy "Kopiuj">
 <!ENTITY albumart.displaypane.selected.menu.paste "Wklej">
@@ -628,19 +628,19 @@
 <!ENTITY albumart.coverpreview.title "Okładka albumu">
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Okładka albumu">
-<!ENTITY albumartpreferences.prefpane.enablewrite.label "Zapisz okładkę albumu w metadanych">
-<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Pozwoli to &brandShortName; na dołączanie okładek płyt do plików mediów jako odpowiednie etykietki.">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "Zapisz okładkę albumu w metadanych każdego pliku">
+<!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Umożliwi to &brandShortName; dołączanie okładek albumów do plików multimediów w odpowiednich etykietach.">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Szukaj nazw plików:">
-<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Wprowadź tutaj listę nazw plików oddzielonych przecinkami">
+<!ENTITY albumartpreferences.prefpane.search_file_names.empty "Wprowadź tutaj listę nazw plików, oddzielając je przecinkami">
 <!ENTITY albumartpreferences.prefpane.search_file_ext.label "Szukaj rozszerzeń plików:">
-<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Wprowadź tutaj listę rozszerzeń oddzielonych przecinkami">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.empty "Wprowadź tutaj listę rozszerzeń plików, oddzielając je przecinkami">
 <!ENTITY albumartpreferences.prefpane.priorities.label "Priorytety pobieracza">
 <!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "Uporządkuj listę tak, aby na górze znajdowały się miejsca, z których chcesz pobierać w pierwszej kolejności.">
 <!ENTITY albumartpreferences.prefpane.priorities.up "W górę">
 <!ENTITY albumartpreferences.prefpane.priorities.down "W dół">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Resetuj">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Załaduj okładkę automatycznie">
-<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Zależnie od trybu wyświetlania na panelu Okładki Albumu, załaduj Okładkę podczas odtwarzania albumu lub gdy album jest zaznaczony. Włączenie tej funkcji może wpłynąć na wydajność programu.">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "Zależnie od trybu wyświetlania panelu okładek albumu, automatycznie załaduj okładkę podczas odtwarzania albumu, lub gdy album jest zaznaczony. Włączenie tej funkcji może wpłynąć na wydajność programu.">
 <!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "Wróć">
 <!ENTITY wizard.button.back.accesskey "W">
@@ -649,17 +649,17 @@
 <!ENTITY wizard.button.next.accesskey "K">
 <!ENTITY wizard.button.finish.label "Zakończ">
 <!-- Mediacore entities. -->
-<!ENTITY mediacore.error.title "Błąd pliku źródłowego.">
-<!ENTITY mediacore.error.preface "&brandShortName; napotkał następujące błędy źródła medium:">
+<!ENTITY mediacore.error.title "Błąd odtwarzania">
+<!ENTITY mediacore.error.preface "&brandShortName; napotkał następujące błędy odtwarzania:">
 <!ENTITY mediacore.error.continue "Kontynuuj">
 <!ENTITY mediacore.error.stop "Zatrzymaj odtwarzanie.">
-<!ENTITY mediacore.error.dontshowme "Nie wyświetlaj w przyszłości błędów źródła medium.">
+<!ENTITY mediacore.error.dontshowme "Nie wyświetlaj w przyszłości błędów odtwarzania">
 <!ENTITY mediacore.error.codec_not_found.text.pre "Aby znaleźć więcej informacji na temat brakujących kodeków, przejdź do">
 <!ENTITY mediacore.error.codec_not_found.text.post "">
 <!-- Media importer filtered extensions warning -->
-<!ENTITY mediaimporter.filtered_extensions.title "Informacja dotycząca importowania mediów">
+<!ENTITY mediaimporter.filtered_extensions.title "Informacja dotycząca importowania multimediów">
 <!ENTITY mediaimporter.filtered_extensions.bottomdesc "Więcej informacji o brakujących kodekach możesz znaleźć w:">
-<!ENTITY mediaimporter.filtered_extensions.dontshowme "Nie informuj mnie więcej o nieobsługiwanych plikach wideo podczas importowania">
+<!ENTITY mediaimporter.filtered_extensions.dontshowme "Nie informuj mnie podczas importowania o nieobsługiwanych plikach wideo">
 <!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "Odtwarzanie">
 <!ENTITY playback.prefpane.audio_output.label "Wyjście audio">
@@ -681,9 +681,9 @@
 <!ENTITY cdrip.lookup.info_not_found.artist "Wykonawca">
 <!ENTITY cdrip.lookup.info_not_found.album "Album">
 <!ENTITY cdrip.lookup.info_not_found.title "Brak informacji o dysku CD">
-<!ENTITY cdrip.lookup.info_not_found.descr "Tutaj można dodać wykonawcę i tytuł albumu. Można także zmieniać informacje na liście odtwarzania CD Rip">
-<!ENTITY cdrip.lookup.ordinal "">
-<!ENTITY cdrip.lookup.track_name "">
+<!ENTITY cdrip.lookup.info_not_found.descr "Tutaj można dodać wykonawcę i tytuł albumu.  Można także zmieniać informacje na liście odtwarzania zgrywanego CD.">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "Tytuł">
 <!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Zgrywanie CD">
 <!ENTITY cdrip.prefpane.format "Format">
@@ -692,7 +692,7 @@
 <!ENTITY cdrip.prefpane.eject_after_rip "Po zakończeniu zgrywania wysuń dysk CD">
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Po zakończeniu zgrywania odtwarzaj powiadomienie dźwiękowe">
 <!ENTITY cdrip.prefpane.providers.title "Wyszukiwanie informacji o CD">
-<!ENTITY cdrip.prefpane.quality_desc "Ustawienie wysokiej wartości kbps będzie skutkowało wyższą jakością audio i większym rozmiarem pliku.">
+<!ENTITY cdrip.prefpane.quality_desc "Ustawienie wysokiej wartości kbps wpłynie na wyższą jakością audio i zwiększy rozmiar pliku.">
 <!-- CD Rip Media View entities -->
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "Ustawienia zgrywania dysku CD">
 <!ENTITY cdrip.mediaview.format_label "Format:">
@@ -711,26 +711,26 @@
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
 <!-- Video Window entities -->
 <!ENTITY videowindow.title "Okno wideo">
-<!ENTITY videowindow.actualsize "Aktualny Rozmiar">
-<!ENTITY videowindow.fullscreen "Pełny Ekran">
+<!ENTITY videowindow.actualsize "Aktualny rozmiar">
+<!ENTITY videowindow.fullscreen "Pełny ekran">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
 <!-- about:credits entities. -->
-<!ENTITY about.credits.intro "Chcielibyśmy podziękować wszystkim współtwórcom, których wysiłek przyczynił się do powstania Songbirda w obecnej postaci. Osoby te pomogły w pisaniu kodu i dokumentacji oraz w przeprowadzeniu testów. Stworzyły i utrzymywały ten projekt, powiązane z nim narzędzia deweloperskie oraz nasze strony internetowe. Imiona poprzedzone są nickami z IRC-a. Wejdź na kanał #songbird na serwerze irc.mozilla.org i przywitaj się z nimi!">
+<!ENTITY about.credits.intro "Chcielibyśmy podziękować wszystkim współtwórcom, których wysiłek przyczynił się do powstania programu &brandShortName; w obecnej postaci. Osoby te pomogły w pisaniu kodu i dokumentacji oraz w przeprowadzeniu testów. Stworzyły i utrzymywały ten projekt, powiązane z nim narzędzia deweloperskie oraz nasze strony internetowe.  Imiona poprzedzone są nickami z IRC-a. Wejdź na kanał #songbird na serwerze irc.mozilla.org i przywitaj się z nimi!">
 <!ENTITY about.credits.footer.beforeLink "Oczywiście nic nie byłoby możliwe bez ciężkiej pracy i wkładu">
 <!ENTITY about.credits.footer.linkText "współtwórców">
 <!ENTITY about.credits.footer.afterLink "projektu Mozilla.">
 <!ENTITY about.credits.heading.translators "Tłumacze">
 <!ENTITY about.credits.heading.champs "Orędownicy">
-<!ENTITY about.credits.description.champs.link.pre "Orędownicy Songbirda to zagorzali użytkownicy i fani, którzy wykazali się ponadprzeciętnym zaangażowaniem w niesieniu pomocy innym użytkownikom Songbirda.">
-<!ENTITY about.credits.description.champs.link.text "Forum Songbird&apos;a GetSatisfaction">
-<!ENTITY about.credits.description.champs.link.post "Są to najbardziej aktywni bywalcy naszego forum, którzy starają się jak mogą, aby każdy użytkownik Songbird&apos;a był usatysfakcjonowany. ">
+<!ENTITY about.credits.description.champs.link.pre "Orędownicy Nightingale to zagorzali użytkownicy i fani, którzy wykazali się ponadprzeciętnym zaangażowaniem w niesieniu pomocy innym użytkownikom Nightingale.">
+<!ENTITY about.credits.description.champs.link.text "Forum Nightingale GetSatisfaction">
+<!ENTITY about.credits.description.champs.link.post "Są to najbardziej aktywni bywalcy naszego forum, którzy starają się jak mogą, aby każdy użytkownik Nightingale  był usatysfakcjonowany. ">
 <!ENTITY cdrip.lookup.multiple.title "Znaleziono wiele nagrywarek CD">
 <!ENTITY cdrip.lookup.multiple.description "Wybierz jedną z istniejących lub dodaj swoją.">
 <!ENTITY cdinfo.other.label "Dodaj swojego wykonawcę i info o albumie">
-<!ENTITY playqueue.label "Odtwórz Kolejkę">
-<!ENTITY playqueue.instructions "Przeciągnij i Upuść pliki tutaj aby szybko stworzyć kolejkę odtwarzania.">
+<!ENTITY playqueue.label "Odtwórz kolejkę">
+<!ENTITY playqueue.instructions "Przeciągnij i upuść pliki tutaj, aby szybko stworzyć kolejkę odtwarzania.">
 <!ENTITY playqueue.inprogress "Dodawanie utworów">
-<!ENTITY mediamanagement.removed.dialog.title "Informacja o Zarządzaniu mediami">
+<!ENTITY mediamanagement.removed.dialog.title "Informacja o zarządzaniumultimediami">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Począwszy od wersji 1.10 zarządzanie mediami zostało usunięte.">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "Zmiana ta upraszcza obsługę odtwarzacza.">
