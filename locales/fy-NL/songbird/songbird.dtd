@@ -1,6 +1,7 @@
 <!ENTITY songbird "&brandShortName;">
 <!ENTITY window.ok "OK">
 <!ENTITY window.cancel "Ofbrekke">
+<!ENTITY window.apply "Tapasse">
 <!ENTITY window.browse "Blêdzje…">
 <!ENTITY window.save "Bewarje">
 <!ENTITY window.yes "Ja">
@@ -25,6 +26,7 @@
 <!ENTITY menu.file.new "Nije ôfspyllist…">
 <!ENTITY menu.file.smart "Nije tûke ôfspyllist…">
 <!ENTITY menu.file.remote "Nij abbonnemint…">
+<!ENTITY menu.file.podcast "Nije Podcast…">
 <!ENTITY menu.file.open "Iepenje in bestân…">
 <!ENTITY menu.file.url "Iepenje lokaasje…">
 <!ENTITY menu.file.playlist "Ymportearje in ôfspyllist…">
@@ -60,6 +62,7 @@
 <!ENTITY menu.control.play.button "Spylje">
 <!ENTITY menu.control.pause.button "Pauze">
 <!ENTITY menu.control.stop.button "Stop">
+<!ENTITY displaypane.default.image.pre "Selektearje in add-on út de">
 <!ENTITY displaypane.name.servicepane "Tsjinstskerm Underoan">
 <!ENTITY displaypane.name.browser "Ynhâldskerm ûnderoan">
 <!ENTITY displaypane.name.sidebar "Rjochter sydbalke">
