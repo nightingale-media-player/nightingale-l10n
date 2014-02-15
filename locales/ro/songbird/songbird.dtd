@@ -716,7 +716,6 @@
 <!ENTITY videowindow.fullscreen "Pe tot ecranul">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Am dori să mulțumim colaboratorilor noștri, ale căror eforturi au dezvoltat Songbird în ceea ce este azi. Acești oameni au ajutat atât la crearea codului şi a documentației, cât și la testarea aplicației. Ei au creat şi au dezvoltat acest produs, trusele și uneltele de dezvoltare, precum și site-urile web. Numele lor sunt urmate de poreclele de IRC, puteți accesa #songbird pe irc.mozilla.org pentru a-i saluta!">
 <!ENTITY about.credits.footer.beforeLink "Desigur, nimic nu ar fi posibil fără munca și efortul depuse de">
 <!ENTITY about.credits.footer.linkText "colaboratorii">
