@@ -520,7 +520,6 @@
 <!ENTITY videowindow.title "Video logs">
 <!ENTITY videowindow.actualsize "Patiesais izmērs">
 <!ENTITY videowindow.fullscreen "Pa visu ekrānu">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Mēs gribam pateikties mūsu kontributoriem, kuru pūles padara Songbird par to, kas tas ir. Šie cilvēki ir palīdzējuši, rakstot kodu un dokumentāciju, un veicot testēšanu. Viņi ir radījuši un uzturējuši šo produktu, ar to saistītos izveides piederumus, mūsu veidošanas instrumentus un mūsu tīmekļa vietnes. Vārdiem seko IRC niki, nāciet caur #songbird uz irc.mozilla.org un apsveicinieties!">
 <!ENTITY about.credits.footer.beforeLink "Protams, nekas no tā nebūtu iespējams bez smagā darba un pūlēm no">
 <!ENTITY about.credits.footer.linkText "kontributoriem">
