@@ -717,7 +717,6 @@
 <!ENTITY videowindow.fullscreen "Tam Ekran">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Kod yazma, dokümantasyon ve test süreçlerinde emeklerini esirgemeyen tüm katılımcılara teşekkürü bir borç biliriz. Songbird ürünümüzü geliştiren ve yöneten sizler sayesinde, üretim ve geliştirme araçlarımız ile web sitemiz meydana geldi.">
 <!ENTITY about.credits.footer.beforeLink "Mozilla projesine">
 <!ENTITY about.credits.footer.linkText "katkıda bulunanlar">
