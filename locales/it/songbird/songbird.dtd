@@ -287,7 +287,7 @@
 <!ENTITY hotkeys.set "Imposta">
 <!ENTITY hotkeys.remove "Rimuovi">
 <!ENTITY hotkeys.prefpane "Tasti chiave">
-<!ENTITY hotkeys.info "I tasti chiave permettono l'accesso alle funzionalità di &brandShortName; anche se questo non è l'applicazione attiva.&#10;&#10;Alcune combinazioni di tasti devono includere delle modifiche per evitare interferenze indesiderate con altre applicazioni.">
+<!ENTITY hotkeys.info "I tasti chiave consentono di attivare funzioni di &brandShortName; anche se questo non è l'applicazione in primo piano.&#10;&#10;Alcune combinazioni di tasti scelte potrebbero interferire con altri programmi; in questo caso, modificale.">
 <!ENTITY rapi.prefpane.title "Integrazione web">
 <!ENTITY rapi.prefpane.access.caption "Permessi integrazione web">
 <!ENTITY rapi.prefpane.access.text "Puoi permettere ai siti di integrarsi con &brandShortName; per creare un rapporto più stretto tra il web e i tuoi file multimediali. Configura &brandShortName; per permettere o bloccare i seguenti punti di integrazione.">
@@ -586,7 +586,7 @@
 <!ENTITY import_library.library_file_label "File del catalogo:">
 <!ENTITY import_library.unsupported_media_alert_checkbox "Avvisami quando brani o playlist non supportati non vengono importati">
 <!ENTITY import_library.prefs.path_group_caption "Percorso catalogo di iTunes">
-<!ENTITY import_library.prefs.options_group_caption "Importa/Esporta opzioni">
+<!ENTITY import_library.prefs.options_group_caption "Opzioni importazione/esportazione">
 <!ENTITY import_library.import_command "Importa catalogo">
 <!ENTITY import_tracks_itunes_checkbox "Importa tracce da iTunes">
 <!ENTITY import_playlists_itunes_checkbox "Importa playlist">
@@ -717,7 +717,6 @@
 <!ENTITY videowindow.fullscreen "Schermo Intero">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Vorremmo ringraziare tutti i collaboratori, i cui sforzi hanno reso Songbird; quello che è. Queste persone hanno aiutato scrivendo codice, documentazione e eseguendo test. Hanno creato e sostenuto con i loro mezzi questo prodotto, e aiutato lo sviluppo delle varie versioni e i nostri siti web. I nomi sono di seguito riportati seguiti dal nick IRC, venite su #songbird su irc.mozilla.org e salutateli!">
 <!ENTITY about.credits.footer.beforeLink "Ovviamente, nulla di tutto ciò sarebbe stato possibile senza il duro lavoro e gli sforzi">
 <!ENTITY about.credits.footer.linkText "dei collaboratori">
