@@ -716,7 +716,6 @@
 <!ENTITY videowindow.fullscreen "全螢幕">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "我們要感謝我們的貢獻者，是他們的努力讓Songbird得以成為今日的模樣。這些人幫助了我們撰寫程式碼、文件和測試程式。他們建立並管理這個產品、相關的開發工具、我們的建置工具以及我們的網站。名字的後面標示著他們的IRC暱稱，你可以到irc.mozilla.org的#songbird聊天室來打聲招呼！">
 <!ENTITY about.credits.footer.beforeLink "當然，這一切如果少了 Mozilla 專案的">
 <!ENTITY about.credits.footer.linkText "貢獻者">
