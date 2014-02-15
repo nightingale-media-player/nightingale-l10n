@@ -717,7 +717,6 @@
 <!ENTITY videowindow.fullscreen "全画面表示">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "貢献者の方々に感謝いたします。Songbird は、彼らがコードやドキュメントを書いたり、製品をテストしたり、貢献者の様々な努力によって作り上げられています。彼らが作り上げ、管理するものは、この製品の他に、関連する開発キット、ビルドツール、ウェブサイトにも及びます。名前の隣は IRC のニックネームです。irc.mozilla.org 上の #songbird チャンネルで声をかけてください！">
 <!ENTITY about.credits.footer.beforeLink "そして、Mozilla プロジェクトの">
 <!ENTITY about.credits.footer.linkText "貢献者">
