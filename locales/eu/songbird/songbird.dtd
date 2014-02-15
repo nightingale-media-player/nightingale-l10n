@@ -715,7 +715,6 @@
 <!ENTITY videowindow.fullscreen "Pantaila osoan">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Gustatuko litzaiguke eskerrak ematea gure emaileei, Songbird den bezalakoa egiten lagundu baitute. Pertsona hauek iturburu kodea eta dokumentazioa idazten lagundu dute, baita probak egiten ere. Produktu hau,  dagozkion garapen paketeak, konpilazio tresnak eta webgunea sortu eta mantendu dituzte. Izenen ondoan IRC ezizenak aurkitzen dira, hurbildu #songbird-era irc.mozilla.org-an eta agurtu!">
 <!ENTITY about.credits.footer.beforeLink "Eta noski, guzti hau ezinezkoa litzateke Mozilla proiektuko">
 <!ENTITY about.credits.footer.linkText "emaileen">
