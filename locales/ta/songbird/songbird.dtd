@@ -465,7 +465,6 @@
 <!ENTITY videowindow.title "வீடியோ சாளரம்">
 <!ENTITY videowindow.actualsize "உண்மையான அளவு ">
 <!ENTITY videowindow.fullscreen "முழுத்திரையில் ">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "">
 <!ENTITY about.credits.footer.beforeLink "இவ்வற்றில் எதுவுமே முடிந்திருக்காது, கடின உழைப்பினை மேற்கொண்ட">
 <!ENTITY about.credits.footer.linkText "பங்களிப்பாளர்களின்றி">
