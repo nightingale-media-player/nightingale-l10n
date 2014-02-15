@@ -717,7 +717,6 @@
 <!ENTITY videowindow.fullscreen "Celozaslonsko">
 <!ENTITY videowindow.fullscreen.key "C">
 <!ENTITY videowindow.bringtofront.key "o">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Radi bi se zahvalili vsem, ki so prispevali svoj trud, da je Songbird postal to, kar je. Ti ljudje so pomagali s pisanjem kode in dokumentacije ter s preizkušanjem. Ustvarili so in vzdrževali ta izdelek, njegova razvojna orodja, naša gradbena orodja in naše spletne strani. Imenom sledijo IRC-vzdevki, obiščite #songbird na irc.mozilla.org in nas pozdravite!">
 <!ENTITY about.credits.footer.beforeLink "Nič od tega seveda ne bi bilo mogoče brez trdega dela in naporov">
 <!ENTITY about.credits.footer.linkText "naših sodelavcev">
