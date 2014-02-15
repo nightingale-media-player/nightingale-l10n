@@ -694,7 +694,6 @@
 <!ENTITY videowindow.fullscreen "تمام صفحه">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "بسیار خورسندیم تا از عزیزانی تشکر کنیم که در برنامه نویسی و مستند سازی و همچنین تست این برنامه مارا یاری دادند . نام آنها با IRC  و همراه با #song bird در بخش irc.mozila.org موجود است">
 <!ENTITY about.credits.footer.beforeLink "بی شک هیچ کدام از این دستاوردها بدون سعی و تلاش زیاد میسر نبود. ">
 <!ENTITY about.credits.footer.linkText "شرکت کنندگان">
