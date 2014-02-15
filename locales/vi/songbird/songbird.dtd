@@ -709,7 +709,6 @@
 <!ENTITY videowindow.fullscreen "Toàn Màn Hình">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Chúng tôi muốn gửi lời cảm ơn đến các cộng tác viên, những người đã nỗ lực đóng góp cho Songbird. Họ đã giúp viết mã, tài liệu và chạy thử chương trình. Họ đã tạo ra và duy trì sản phẩm này, những bộ phát triển đi kèm với nó, cùng các công cụ xây dựng và trang web của chúng tôi. Danh sách tên đi kèm với nick IRC, hãy tạt qua #songbird trên irc.mozilla.org và gửi lời chào làm quen!">
 <!ENTITY about.credits.footer.beforeLink "Tất nhiên sẽ không thể có được thành quả này nếu thiếu sự nỗ lực chăm chỉ của">
 <!ENTITY about.credits.footer.linkText "những cộng tác viên">
