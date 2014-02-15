@@ -659,7 +659,6 @@
 <!ENTITY videowindow.title "חלון וידאו">
 <!ENTITY videowindow.actualsize "גודל אמיתי">
 <!ENTITY videowindow.fullscreen "מסך מלא">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "אנו רוצים להודות לתורמינו, שמתאמצים על מנת להביא את סונגבירד למה שהיא. אנשים אלו עזרו לכתוב את הקוד והתיעוד, ועזרו לבחון את התוכנה לפני ששוחררה. הם יצרו וטיפלו במוצר, בחבילות הפיתוח שקשורות אליו, בכלי הבנייה שלנו ובאתרינו. שמותיהם מלווים בכינויהם ברשת האיי.אר.סי. בואו להגיד שלום בשרת מוזילה, בחדר סונגבירד!">
 <!ENTITY about.credits.footer.beforeLink "כמובן, שום דבר לא היה מתקיים ללא העבודה הקשה והשקעתם של">
 <!ENTITY about.credits.footer.linkText "התורמים">
