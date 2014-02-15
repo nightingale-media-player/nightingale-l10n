@@ -696,7 +696,6 @@
 <!ENTITY videowindow.fullscreen "Plná obrazovka">
 <!ENTITY videowindow.fullscreen.key "P">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Chtěli bychom poděkovat našim spolupracovníkům a přispěvovatelům, díky jejichž úsilím se stal Sonbgird tím, čím je. Tito lidé pomohli psaním kódu a dokumentace a testováním. Vytvořili a udržují tento produkt, jemu přidružené vývojářské kity, naše sestavovací nástroje a naše webové stránky. Jména jsou seřazena podle přezdívek na IRC, přijďte do kanálu #songbird na irc.mozilla.org a pozdravte je!">
 <!ENTITY about.credits.footer.beforeLink "Samozřejmě by nic z toho nebylo možné bez náročné práce a úsilí našich">
 <!ENTITY about.credits.footer.linkText "přispěvovatelů">
