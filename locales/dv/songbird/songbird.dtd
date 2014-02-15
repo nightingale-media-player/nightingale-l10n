@@ -5,6 +5,7 @@
 <!ENTITY window.save "ސޭވް">
 <!ENTITY window.yes "އާނ">
 <!ENTITY window.no "ނޫން">
+<!-- Mac system menu -->
 <!ENTITY menu.mac.exit "ނިންމާލާ">
 <!ENTITY menu.mac.exit.key "ކިޔު">
 <!ENTITY menu.mac.preferences "އިޙްތިޔާރު ކުރާގޮތް">
@@ -38,6 +39,7 @@
 <!ENTITY menu.edit.selall "ހުރިހާއެއްޗެއް ސެލެކްޓްކުރޭ">
 <!ENTITY menu.edit.find "ހޯދާ">
 <!ENTITY menu.edit.findagain "އަދި ހޯދާ">
+<!-- Linux edit menu -->
 <!ENTITY menu.linux.preferences "އިޙްތިޔާރު ކުރާގޮތް">
 <!ENTITY menu.linux.preferences.accesskey "އެން">
 <!ENTITY menu.controls "ކޮންޓްރޯލްތައް">
@@ -198,6 +200,7 @@
 <!ENTITY menu.help.help.accesskey "ޔޫ">
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.help.about.accesskey "އޭ">
+<!-- Track Editor (Metadata Editor) -->
 <!ENTITY trackeditor.title "މެޓަޑޭޓާ އެޑިޓަރ">
 <!ENTITY trackeditor.tab.summary.title "ކުރު ތައާރަފް">
 <!ENTITY trackeditor.tab.edit.title "ޕްރޮޕަރޓީސް">
@@ -208,6 +211,7 @@
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY trackeditor.prev.key "P">
 <!ENTITY trackeditor.next.key "N">
+<!-- The following strings are from the old track editor, and can be remove one day -->
 <!ENTITY trackeditor.addtag.title "ޓެގެއް އެޑްކުރޭ">
 <!ENTITY trackeditor.addtag.tag "ޓެގް">
 <!ENTITY jumptofile.title "ފުންމާ">
@@ -287,9 +291,11 @@
 <!ENTITY tabs.listAllTabs "ހުރިހާ ޓެބްތައް ލިސްޓްކުރޭ">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY window.browser.titlemenuseparator "-">
+<!-- Preferences dialogs (strings that would have been in browser/) -->
 <!ENTITY prefs.homepage.label "ހޯމްޕޭޖް">
 <!ENTITY prefs.homepage.url.label "ޔޫއާރުއެލް">
 <!ENTITY prefs.security.addons.label "އެޑްއޮން އެޅުން">
+<!-- Device entities -->
 <!ENTITY command.device.cancel "ކެންސަލް">
 <!ENTITY command.device.cancel.accesskey "ޝ">
 <!ENTITY command.device.canceldevicecopy "ކޮޕީކުރުން ކެންސަލްކުރައްވާ">
@@ -361,36 +367,48 @@
 <!ENTITY feedback.dialog.sentence2 "މިކަމަށް ޝައުގުވެރިކަމެއް ނެތްނަމަ ދެންނާހާނަން. އަޅުގަނޑުމެންގެ އުފެއްދުން ހިޔާރުކުރެއްވީތީ ޝުކުރިއްޔާ. ތިޔަބޭފުޅާ  &brandShortName;ބޭނުން ކުރެއްވުމަކީ އަޅުގަނޑުމެން އުފަލާއެކު ފާހަގަކުރާކަމެއް..">
 <!ENTITY feedback.dialog.sentence3 "ސަލާމް">
 <!ENTITY feedback.dialog.sentence4 "ލަވަދޫނި އުފެއްދި ޓީމް">
+<!-- title for the blank firstrun mediapage -->
 <!ENTITY mediapages.firstrun.title "މަރުހަބާ އަދި ބޭންޑުގެ ކުރުނަން">
+<!-- First-run wizard entities. -->
 <!ENTITY first_run.title "ލަވަދޫނި">
+<!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "ރިކޮމެންޑެޑް އެޑް-އޯންސްތައް">
 <!ENTITY first_run.add_ons.description.line1 "loabi">
 <!ENTITY first_run.add_ons.description.line2 "އެޑް - އޮންސް ބޭނުންކޮށްގެން އިތުރު ކަންތައްތައް ސޯންގް ބަރޑް އަށް ކުރެވޭނެ ، އަދި އިތުރު ޕްރޮގްރާމްތަކާއި އައު އާލާތްތަކާއި ސޯންގް ބަރޑް ގުޅުވައި ލެވޭނެ. އެޑް-އޮން ބޭނުން ކޮށްގެން މީގެ އިތުރަށް ސޯންގް ބަރޑްގެ ސޫރަ އަދި މިފަދަ އެތަށްކަމެށް ކުރެވޭނެ. އިތުރު އެޑް-އޮން ހޯދުމަށް &brandShortName; އަށްވަޑައިންނަވާ.">
 <!ENTITY first_run.add_ons.loading.label "ރިކޮމެންޑެޑް އެޑް-އޯންސްތައް ޑައުންލޯޑްކުރަނީ">
 <!ENTITY first_run.add_ons.load_failed.label "ރިކޮމެންޑެޑް އެޑް-އޯންސްތައް ޑައުންލޯޑްކުރެވޭ ގޮތެއްނުވި">
+<!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "ލަވަދޫންޏަށް އިންޓަރނެޓާ ގުޅާލެވޭގޮތެއްނުވި">
 <!ENTITY first_run.connection.description "ތިބޭފުޅާގެ ކަނެކްޝަން ސެޓިންގްސް ރަނގަޅުތޯ ބައްލަވާ. ނޫނީ ސެޓްއަޕް އެސިސްޓެންޓާއެކު ކުރިއަށް ވަޑައިގަންނަވާ">
 <!ENTITY first_run.connection.settings.button "ކަނެކްޝަން ސެޓިންތައް">
 <!ENTITY first_run.connection.settings.description "ތިޔަ ކޮމްޕިއުޓަރ ވަނީ ފަޔަރ ވޯލެއް ނުވަތަ ޕްރޮކްސީއެއްގެ ފަހަތުގަތޯ؟ ބައެއްފަހަރު ކަނެކްޝަން ސެޓިންގ ރަގަޅުކޮށްލުމުން އާދައިގެ މިފަދަ ނެޓްވާރކް މައްސަލަތައް ރަގަޅުވޭ">
+<!-- First-run eula entities. -->
 <!ENTITY first_run.eula.header.label "ލައިސަންސްގެ އެއްބަސްވުން">
 <!ENTITY first_run.eula.accept_checkbox.label "އަހަރެން މިލައިސަންސްގަިއވާ ނުކުތާތައް ކިޔައި އޭގައިވާ ކަންތައްތަކަށް އެއްބަސްވަމެވެ.">
 <!ENTITY first_run.eula.language.label "ބަސް">
+<!-- First-run feedback entities. -->
 <!ENTITY first_run.feedback.header.label "ލަވަދޫނި އިތުރަށް ތަރައްގީކުރުމަށް އެހީވެލައްވާ">
 <!ENTITY first_run.feedback.metrics.description "މެޓްރިކް ތަކުން އެއްވެސް މީހެއްގެ އަމިއްލަ/ޕާރސަނަލް މައުލޫމާތެއް އެއްނުކުރާނެ">
 <!ENTITY first_run.feedback.email.header.label "މަށަށް މެއިލް ފޮނުވުންއެދެން">
 <!ENTITY first_run.feedback.email.description "އަޅުގަނޑުމެންގެ އެއްމެފަހުގެ ޚަބަރުތައް ހޯއްދެވުމަށް ނިއުސްލެޓާއަށް އެދިލައްވާ">
 <!ENTITY first_run.feedback.email.textbox.emptytext "އީމެއިލް އެޑްރެސް ލިޔޭ">
+<!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "އައިޓިއުންސް އިން ލަވަ ނެގުން/ދިނުން">
 <!ENTITY first_run.itunes.checkbox.import.label "ލަވައާއި ލަވަ ލިސްޓް އައިޓިއުންސް އިން ސޯންގް ބަރޑް އަށް އެތެރެކުރޭ">
 <!ENTITY first_run.itunes.checkbox.export.label "އައު ލަވަތަކާއި ލަވަ ލިސްޓްތަށް އައިޓިއުންސްއަށް ފޮނުވާ">
 <!ENTITY first_run.itunes.checkbox.export.description "ސޯންގް ބަރޑް މެދުވެރިކޮށް ހޯދާ ލަވަ މިހާރު އައިޓިއުންސް އަށް ފޮނުވާލެވޭ، އޭރުން އައިޕޮޑް ނުވަތަ އައިފޯނަށްވެސް އެލަވަތަށް އެޅޭނެ">
+<!-- First-run import media entities. -->
 <!ENTITY first_run.import_media.header.label "މީޑިޔާ އިންޕޯޓު ކުރައްވާ">
 <!ENTITY first_run.import_media.radio.scan_directories.label "ކޮންޕިއުޓަރ ގެ ޑިރެކްޓަރީތައް ސްކޭންކުރޭ">
 <!ENTITY first_run.import_media.radio.dont_import.label "މީޑިއާ އިމްޕޯރޓް ނުކުރޭ">
 <!ENTITY first_run.import_media.scan_directories.watch.label "މިފޯލްޑަރަށް އަންނަ ބަދަލުތައް ބަލާ">
+<!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "އެޑްއޮންތައް ޑައުންލޯޑުވަނީ">
+<!-- First-run welcome entities. -->
 <!ENTITY first_run.welcome.header.label "ލަވަދޫނި (ސޯންގްބަރޑް) އަށް މަރުހަބާ">
+<!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "މީޑިޔާ އިންޕޯޓަރ">
+<!-- Import library dialog and preference entities. -->
 <!ENTITY import_library.dialog.title "ލައިބުރަރީ އިންޕޯޓު ކުރުން">
 <!ENTITY import_library.prefs.title "އައިޓިއުންސް އިމްޕޯރޓަރ">
 <!ENTITY import_library.library_file_label "ލައިބްރަރީ ފައިލް">
@@ -400,19 +418,25 @@
 <!ENTITY import_library.import_command "ލައިބުރަރީ އިންޕޯޓު ކުރޭ">
 <!ENTITY export_playlists_itunes_checkbox "ލަވަ ލިސްޓު ބޭރުކުރޭ">
 <!ENTITY export_smartplaylists_itunes_checkbox "ސްމާޓް ލަވަ ލިސްޓ ބޭރުކުރޭ">
+<!-- Import library dirty playlist dialog entities. -->
 <!ENTITY import_library.dirty_playlist_dialog.title "ޕްލޭލިސްޓަށް ބަދަލުގެނެވިފައި">
 <!ENTITY import_library.dirty_playlist_dialog.keep "މިހާރުވެ ބޭނުންކުރާ &brandShortName; ޕްލޭލިސްޓް ބައިންދާ. (މިޕްލޭލިސްޓް އިމްޕޯޓް ނުކުރާތި) ">
 <!ENTITY import_library.dirty_playlist_dialog.merge "އައިޓިޔުންސް ޕްލޭލިސްޓާއި &brandShortName; ގުޅުވާލާ">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "މި ސެލެކްސަން ހުރިހާ ޕްލޭލިސްޓެއްގައި ބޭނުންކުރޭ">
+<!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "ފޯލްޑަރ ބަލާ">
 <!ENTITY watch_folder.prefs.settings_group_caption "ފޯލްޑަރގެ ސެޓިންގް ބަލާ">
 <!ENTITY watch_folder.prefs.description "&brandShortName; އަށް ފޯލްޑަރ ގައިވާ ތަކެތި އޮޓޮމެޓިކަލީ އިތުރުކުރުމާއި ކެނޑޭނެ">
 <!ENTITY watch_folder.prefs.enable_checkbox "ފޯލްޑަރ އަށް އަންނަ ބަދަލުތައް އޯޓޮމެޓިކަލީ ބަލަމުން ގެންދިއުން">
 <!ENTITY watch_folder.prefs.watch_folder_label "ފޯލްޑަރ: ">
+<!-- Advanced preference pane update tab entities. -->
 <!ENTITY enable_recommended_addons_update.label "އަޅުގަނޑުމެން ރަނގަޅުކަމަށް ލަފާދޭ އެޑްއޮންސް">
 <!ENTITY enable_recommended_addons_update.accesskey "އާރް">
+<!-- Recommended add-ons update dialog entities. -->
 <!ENTITY recommended_add_ons.title "ލަވަދޫނި ސެޓްއަޕް">
+<!-- Add-on bundle installer properties. -->
 <!ENTITY add_on_bundle_installer.error_box.label "އިތުރު ތަފްސީލް">
+<!-- Album Art display pane properties. -->
 <!ENTITY albumart.displaypane.not_playing_message "އެއްވެސް އެއްޗެއް ނެތް">
 <!ENTITY albumart.displaypane.not_selected_message "އެއްވެސް އެއްޗެއް އިޙުތިޔާރު ކުރެވިފައެއް ނެތް">
 <!ENTITY albumart.displaypane.drag_and_drop "މިތަނަށް އަލްބަމް އާރޓް ދަމާލާފަ ލާ">
@@ -422,16 +446,19 @@
 <!ENTITY albumart.displaypane.selected.menu.clear "ކްލިއަރ">
 <!ENTITY albumart.coverpreview.title "އަލްބަމް އާރޓް">
 <!ENTITY albumartpreferences.prefpane.priorities.down "ތިރި">
+<!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "ފަހަތަށް ދިއުމަށް">
 <!ENTITY wizard.button.back.accesskey "B">
 <!ENTITY wizard.button.cancel.label "ކެންސަލް">
 <!ENTITY wizard.button.next.label "ކުރިއަށް ގެންދަވާ">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY wizard.button.finish.label "ނިމުނީ">
+<!-- Mediacore entities. -->
 <!ENTITY mediacore.error.title "މީޑިޔާކޯގެ މައްސަލައެއް">
 <!ENTITY mediacore.error.continue "ކުރިއަށް ގެންދަވާ">
 <!ENTITY mediacore.error.stop "ޕްލޭކުރުން ހުއްޓާލާ">
 <!ENTITY mediacore.error.dontshowme "މީޑިޔާގެ އެތެރޭގައި ޖެހޭ މައްސަލަތައް ނުދައްކާ">
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "ޕްލޭބެކް">
 <!ENTITY playback.prefpane.audio_output.label "އަޑު ބޭރުކުރާ">
 <!ENTITY playback.prefpane.audio_output.buffer "އައުޓްޕުޓް ބަފަރ:">
@@ -444,6 +471,7 @@
 <!ENTITY playback.prefpane.units.ms "މިލި ސިކުންތު">
 <!ENTITY fetch_album_art.dialog.title "އަލްބަމް އާޓެއް ނަގާ">
 <!ENTITY fetch_album_art.dialog.message "މިވަގުތު ނެހެދޭ … (14281 ނަންބަރު މައްސަލަ)  ">
+<!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "އާޓިސްޓް">
 <!ENTITY cdrip.lookup.track_name "ލަވައިގެ ނަން">
 <!ENTITY about.credits.intro "ސޯންގް ބާރޑް އޭގެ ގޮތުގައި ވުޖޫދަށް އައުމަށް އެހީތެރިވެދެއްވި އެންމެހާ ފަރާތްތަކަށް އަޅުގަންޑުމެން ޝުކުރު އަދާކުރަމެވެ. ކޯޑް ލިޔުމުގަޔާއި، ލިޔެކިއުންތައް ތައްޔާރުކުރުމުގައި އަދި ޓެސްޓް ކުރުމުގައި އެފަރާތް ތަކުގެ އެހީތެރިކަން ފޯރުކޮށްދީފައި ވެއެވެ. މީގެ އިތުރުން ޕްރޮގްރާމް ދެމެހެއްޓުމަށާއި، މިއާއި ގުޅިގެންވާ ޑެވެލޮޕްމަންޓް ކިޓް ތަކާއި، ބިލްޑިންގް ޓޫލްސް އަދި ވެބްސައިޓް ގެ އެކި އެކި މަސައްކަތް ތަކުގައި އެހީތެރިކަން ފޯރުކޮށްދީފައި ވެއެވެ. ނަންތައް ލިޔެވިފައި އެވަނީ އައި.އާރ.ސީ ގައި ބޭނުން ކުރާ ގޮތަށެވެ.  އަހަރަމެންގެ އައި.އާރ.ސީ ޗެނަލް ގައި ވަގުތު ކޮޅެއް ހެދަކޮށްލައްވަން ހަންދުމަފުޅު ބަހައްޓަވައްޗެވެ. ">
