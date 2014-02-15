@@ -709,7 +709,6 @@
 <!ENTITY videowindow.fullscreen "Πλήρης οθόνη">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "Τ">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Θα θέλαμε να ευχαριστήσουμε τους συντελεστές, των οποίων οι προσπάθειες κάνουν τον Songbird αυτό που είναι. Αυτοί οι άνθρωποι βοήθησαν γράφοντας κώδικα και τεκμηρίωση, και δοκιμάζοντας. Δημιούργησαν και επέβλεψαν αυτό το προϊόν, τα σχετικά εργαλεία ανάπτυξης, τα εργαλεία δημιουργίας και τις ιστοσελίδες. Τα ονόματα που ακολουθούν είναι IRC ψευδώνυμα, ελάτε στο #songbird στο irc.mozilla.org και πείτε ένα γεια!">
 <!ENTITY about.credits.footer.beforeLink "Φυσικά, τίποτα από όλα αυτά δεν θα ήταν δυνατά χωρίς τη σκληρή προσπάθεια και κόπο των">
 <!ENTITY about.credits.footer.linkText "των συντελεστών">
