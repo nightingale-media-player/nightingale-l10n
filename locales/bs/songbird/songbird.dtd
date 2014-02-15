@@ -249,7 +249,6 @@
 <!ENTITY cdrip.mediaview.rip.modifiers "ubrzanje">
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!ENTITY cdrip.mediaview.stop_rip.modifiers "ubrzanje">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Željeli bi smo se zahvaliti našim prijateljima, čiji su napori napravili Songbird ovakvim kakav je sada. Ovi ljudi su pomogli u pisanju koda i documentacije, i testiranjem. Oni su napravili i održavali ovaj projekat, dodali razvojne alate, nadogradnje, buildove, webstranice. Imena su pridružena po IRC nadimcima, navratite na #songbird na irc.mozilla.org i pozdravite ih.">
 <!ENTITY about.credits.footer.beforeLink "Naravno, ništa od ovoga ne bi bilo moguće bez rada i truda">
 <!ENTITY about.credits.footer.linkText "prijatelja.">
