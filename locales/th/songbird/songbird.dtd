@@ -619,7 +619,6 @@
 <!-- CD Rip Media View keys -->
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY videowindow.fullscreen "เต็มจอ">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "ขอขอบคุณเหล่าผู้มีส่วนร่วมในการสร้าง Songbird ทุกท่าน บุคคลเหล่านี้ช่วยในการเรียบเรียงโคด เขียนเอกสาร และการทดสอบการใช้งานโปรแกรม นอกจากนั้นยังช่วยดูแลผลิตภัณฑ์นี้ รวมถึงชุดการพัฒนา อุปกรณ์ที่ช่วยเหลือในการพัฒนา และเว็บไซต์ของเราด้วย ชื่อเหล่านี้เป็นชื่อเล่นทาง IRC อย่าลืมทักเมื่อแวะเข้าไปที่ #songbird บนเซิร์ฟเวอร์ irc.mozilla.org นะ">
 <!ENTITY about.credits.footer.beforeLink "แน่นอน งานนี้จะไม่สำเร็จหากขาดความทุ่มเทและมีส่วนร่วมจาก">
 <!ENTITY about.credits.footer.linkText "เหล่าผู้มีส่วนร่วม">
