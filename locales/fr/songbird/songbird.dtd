@@ -718,6 +718,7 @@
 <!ENTITY videowindow.fullscreen.key "P">
 <!ENTITY videowindow.bringtofront.key "V">
 <!-- about:credits entities. -->
+<!ENTITY about.credits.ngale "Développeurs et contributeurs de Nightingale :">
 <!ENTITY about.credits.intro "Nous aimerions remercier nos contributeurs, dont les efforts ont fait de Songbird ce qu&apos;il est. Ces personnes ont aidé en écrivant du code et de la documentation, et en testant. Ils ont créé et maintenu ce produit, ses kits de développement associés,  nos outils de construction et nos sites Web. Les noms sont suivis des pseudos IRC, venez faire un tour à #songbird sur irc.mozilla.org et dites bonjour !">
 <!ENTITY about.credits.footer.beforeLink "Bien sûr, tout cela n&apos;aurait pu être possible sans le dur travail et les efforts">
 <!ENTITY about.credits.footer.linkText "des contributeurs">
