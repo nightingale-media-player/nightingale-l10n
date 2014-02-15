@@ -417,7 +417,6 @@
 <!ENTITY cdrip.mediaview.rip_cd_button "সিডি থেকে গান কপি করুন">
 <!ENTITY cdrip.mediaview.stop_rip_button "সিডি থেকে গান কপি থামান">
 <!ENTITY cdrip.mediaview.eject_cd_button "সিডি বার করুন">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "আমরা ধন্যবাদ জানাই আমাদের অবদানকারিদের, যাদের প্রচেষ্টার ফসল আজকের সংবার্ড। এঁরা কোড আর ডকুমেন্টেশন লিখে এবং পরিক্ষা নিরিক্ষা করে সাহায্য করেছেন। তাঁরা এই পন্যটি, এর সাথে সংশ্লিষ্ট উন্নয়ন পন্থা গুলো, আমাদের উন্নয়ন কৌশল এবং আমাদের ওয়েবসাইট তৈরি এবং রক্ষনাবেক্ষন করেছেন। নামগুলো IRC নাম অনুযায়ি দেয়া হল, চলে আসুননা #songbird, irc.mozilla.or এ!">
 <!ENTITY about.credits.footer.beforeLink "অবশ্যই, যাদের কঠোর পরিশ্রম ছাড়া এসবের কোনকিছুই সম্ভব হত না তাঁরা হলেন">
 <!ENTITY about.credits.footer.linkText "অবদানকারিরা">
