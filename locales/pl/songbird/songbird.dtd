@@ -10,7 +10,7 @@
 <!ENTITY menu.mac.exit "Zamknij &brandShortName;">
 <!ENTITY menu.mac.exit.key "Z">
 <!ENTITY menu.mac.exit.modifiers "accel">
-<!ENTITY menu.mac.preferences "Ustawienia">
+<!ENTITY menu.mac.preferences "Preferencje">
 <!ENTITY menu.mac.preferences.key ",">
 <!ENTITY menu.mac.preferences.modifiers "accel">
 <!ENTITY menu.mac.services "Usługi">
@@ -358,12 +358,14 @@
 <!ENTITY menu.control.playpause.spacebar "Spacja">
 <!ENTITY tabs.closeTab "Zamknij kartę">
 <!ENTITY tabs.listAllTabs "Wyświetl wszystkie karty">
+<!ENTITY window.browser.titledefault " ">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY window.browser.titlemenuseparator " - ">
+<!ENTITY window.browser.titlepreface " ">
 <!-- Preferences dialogs (strings that would have been in browser/) -->
 <!ENTITY prefs.homepage.label "Strona startowa">
 <!ENTITY prefs.homepage.url.label "Adres URL:">
-<!ENTITY prefs.homepage.url.accesskey "">
+<!ENTITY prefs.homepage.url.accesskey " ">
 <!ENTITY prefs.security.addons.label "Instalacja dodatku">
 <!-- Device entities -->
 <!ENTITY command.device.cancel "Anuluj">
@@ -715,7 +717,6 @@
 <!ENTITY videowindow.fullscreen "Pełny ekran">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Chcielibyśmy podziękować wszystkim współtwórcom, których wysiłek przyczynił się do powstania programu &brandShortName; w obecnej postaci. Osoby te pomogły w pisaniu kodu i dokumentacji oraz w przeprowadzeniu testów. Stworzyły i utrzymywały ten projekt, powiązane z nim narzędzia deweloperskie oraz nasze strony internetowe.  Imiona poprzedzone są nickami z IRC-a. Wejdź na kanał #songbird na serwerze irc.mozilla.org i przywitaj się z nimi!">
 <!ENTITY about.credits.footer.beforeLink "Oczywiście nic nie byłoby możliwe bez ciężkiej pracy i wkładu">
 <!ENTITY about.credits.footer.linkText "współtwórców">
