@@ -475,7 +475,6 @@
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY cdrip.mediaview.rip.key "C">
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Сакаме да ги благодариме нашите придонесувачи, кои со нивниот труд го прават Songbird тоа што е. Овие луѓе имаат помогнато со пишување код и документација, и со проверување. Тие го имаат создадено и издржувано овој производ, придружените пазвивачки предмети, нашите алати за подобрување и нашите веб страници. Имињата се следени со IRC прекари, дојдете до #songbird на irc.mozilla.org и поздравувате се!">
 <!ENTITY about.credits.footer.beforeLink "Секако, ништо не би било можно без работата и трудноста на">
 <!ENTITY about.credits.footer.linkText "придонесувачите">
