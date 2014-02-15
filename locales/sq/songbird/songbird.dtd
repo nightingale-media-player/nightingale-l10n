@@ -495,7 +495,6 @@
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Duam të falenderojmë kontributuesit, puna e të cilëve e bëri Songbird-in siç është. Këta persona ndihmuan duke shkruajtur kodin dhe dokumentacionin, dhe duke bërë provat. Ata kanë krijuar dhe mirëmbajtur këtë program, paketat e zhvillimit të tij, veglat tona të zhvillimit dhe faqet tona të internetit. Emrat ndiqen nga pseudonimet IRC. Eja tek #songbird në irc.mozilla.org dhe na përshëndet!">
 <!ENTITY about.credits.footer.beforeLink "Sigurisht që kjo gjë s&apos;do të kishte qenë e mundur pa punën dhe mundimet e">
 <!ENTITY about.credits.footer.linkText "kontribuesit">
