@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "Benutzerdefiniert">
+<!ENTITY equalizer.preset.flat "Linear">
 <!ENTITY equalizer.preset.rock "Rock">
 <!ENTITY equalizer.preset.soft_rock "Soft Rock">
 <!ENTITY equalizer.preset.techno "Techno">
@@ -717,6 +718,7 @@
 <!ENTITY videowindow.fullscreen.key "V">
 <!ENTITY videowindow.bringtofront.key "T">
 <!-- about:credits entities. -->
+<!ENTITY about.credits.ngale "Nightingale Entwickler und Mitwirkende">
 <!ENTITY about.credits.intro "Wir wollen unseren Mitwirkenden danken, deren Bemühungen Songbird zu dem machen, was es ist. Diese Leute haben geholfen, indem sie Quellcode und Dokumentationen geschrieben oder Songbird getestet haben. Sie haben dieses Produkt, die dazugehörigen Development-Kits, die Build-Tools und unsere Website geschaffen und unterhalten. Hinter den Namen stehen ihre IRC-Nicknames. Schauen Sie doch im Channel #songbird auf irc.mozilla.org vorbei!">
 <!ENTITY about.credits.footer.beforeLink "Nichts von dem wäre möglich ohne die harte Arbeit und den Aufwand">
 <!ENTITY about.credits.footer.linkText "der Mitwirkenden">
