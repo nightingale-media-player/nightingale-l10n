@@ -5,6 +5,7 @@
 <!ENTITY window.save "Gwitha">
 <!ENTITY window.yes "Mynnav">
 <!ENTITY window.no "Na Vynnav">
+<!-- Mac system menu -->
 <!ENTITY menu.mac.exit "Kwitya &brandShortName;">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY menu.mac.exit.modifiers "accel">
@@ -44,6 +45,7 @@
 <!ENTITY menu.edit.selall "Dewis Puptra">
 <!ENTITY menu.edit.find "Kavos">
 <!ENTITY menu.edit.findagain "Kavos Arta">
+<!-- Linux edit menu -->
 <!ENTITY menu.linux.preferences "Dewisyansow">
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.controls "Kontrolyow">
@@ -243,6 +245,7 @@
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY menu.help.keyboard.accesskey "S">
 <!ENTITY menu.help.about.accesskey "A">
+<!-- Track Editor (Metadata Editor) -->
 <!ENTITY trackeditor.title "Chanjyel Vetadata">
 <!ENTITY trackeditor.tab.summary.title "Berrskrif">
 <!ENTITY trackeditor.tab.edit.title "Gnasow">
@@ -253,6 +256,7 @@
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY trackeditor.prev.key "P">
 <!ENTITY trackeditor.next.key "N">
+<!-- The following strings are from the old track editor, and can be remove one day -->
 <!ENTITY trackeditor.addtag.title "Keworra Tag">
 <!ENTITY trackeditor.addtag.tag "Tag:">
 <!ENTITY jumptofile.title "Lamma dhe">
@@ -338,9 +342,11 @@
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY window.browser.titlemenuseparator "-">
 <!ENTITY window.browser.titlepreface " ">
+<!-- Preferences dialogs (strings that would have been in browser/) -->
 <!ENTITY prefs.homepage.label "Pennfolen">
 <!ENTITY prefs.homepage.url.label "URL:">
 <!ENTITY prefs.security.addons.label "Ynstallyans Keworrans">
+<!-- Device entities -->
 <!ENTITY command.device.cancel "Hedhi">
 <!ENTITY command.device.cancel.accesskey "H">
 <!ENTITY command.device.canceldevicecopy "Hedhi Dasskrifa">
@@ -455,20 +461,26 @@
 <!ENTITY feedback.dialog.sentence2 "Mar nyns yw dhe les dhis, ny wren govyn orthis arta. Meur ras a brederi a-dro dhe hemma hag a dhevnydhya &brandShortName;!">
 <!ENTITY feedback.dialog.sentence3 "Gorhemynadow,">
 <!ENTITY feedback.dialog.sentence4 "An Bagas &brandShortName;">
+<!-- title for the blank firstrun mediapage -->
 <!ENTITY mediapages.firstrun.title "Dynnargh dhe &brandShortName;">
+<!-- First-run wizard entities. -->
 <!ENTITY first_run.title "Restra &brandShortName;">
+<!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "Keworansow Profys">
 <!ENTITY first_run.add_ons.description.line1 "Keworansow a ystyn oberadewder &brandShortName; ha ri spas dhis dhe bersonelhe dha berthyans a&apos;n senel vedia. An dewisyansow a-woles yw profys yn fen.">
 <!ENTITY first_run.add_ons.description.line2 "Keworansow a yll kesjunya gans towlennow ha gonisow erel, skoodhya kevrenna gans devisow a-ves, chanjya mien an dowlen ha moy! Y hyllir iskarga moy anedha yn wiasva Geworansow  &brandShortName;.">
 <!ENTITY first_run.add_ons.loading.label "Ow kyrhes keworansow profys.">
 <!ENTITY first_run.add_ons.load_failed.label "Ny yllir kyrhes keworansow profys.">
+<!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "Ny yll &brandShortName; omjunya dhe&apos;n Gesrosweyth">
 <!ENTITY first_run.connection.description "Chekkya Settyansow Omjunya po Pesya gans an Weresel Settyansow.">
 <!ENTITY first_run.connection.settings.button "Settyansow Omjunya…">
 <!ENTITY first_run.connection.settings.description "Yw dha jynn-amontya po rosweyth gwithys gans fos-tan po proksi? Ewnhe Settyansow Omjunya kamm a yll digelmi nebes problemow rosweyth kemmyn.">
+<!-- First-run eula entities. -->
 <!ENTITY first_run.eula.header.label "Unverheans Leshyans">
 <!ENTITY first_run.eula.accept_checkbox.label "My re redyas ha degemeres termow an leshyans ma.">
 <!ENTITY first_run.eula.language.label "Yeth:">
+<!-- First-run feedback entities. -->
 <!ENTITY first_run.feedback.header.label "Gweres Dhyn dhe Wellhe &brandShortName; ">
 <!ENTITY first_run.feedback.description "A vynnydh agan gweres dhe wellhe &brandShortName; ow tanvon dhyn dha worvreus y&apos;n furv a vusurow dihanow a-dro dhe fatel dhevnydhydh an dowlen?">
 <!ENTITY first_run.feedback.metrics.label "Kuntel ha danvon ow musurow dhe&apos;n bagas &brandShortName; ">
@@ -476,20 +488,26 @@
 <!ENTITY first_run.feedback.email.header.label "Danvon Derivadow Dhymm">
 <!ENTITY first_run.feedback.email.description "Ragbrena agan lyther-nowodhow rag klewes a-dro dhe dhylansow nowyth ha nowedhansow dhe les.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "Ro dha e-bost rag omwitha a-lemmyn">
+<!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "Ymporth/Eksporth iTunes">
 <!ENTITY first_run.itunes.checkbox.import.label "Ymperthi hynsow ha kanrolyow dhyworth iTunes">
 <!ENTITY first_run.itunes.checkbox.export.label "Eksperthi hynsow ha kanrolyow nowyth dhe iTunes">
+<!-- First-run import media entities. -->
 <!ENTITY first_run.import_media.header.label "Ymperthi Media">
 <!ENTITY first_run.import_media.description "Dewis an media a vynnydh aga ymperthi dhe &brandShortName;. Pan lanch &brandShortName; y hyllydh keworra media yn maynow varyes.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Arhwilas menegvaow y&apos;m jynn-amontya">
 <!ENTITY first_run.import_media.radio.dont_import.label "Na ymporth media">
 <!ENTITY first_run.import_media.scan_directories.description "A vynnydh mayth assay &brandShortName; ymperthi media owth arhwilas menegvaow a-dhevis y&apos;th jynn-amontya?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Golyas an blegel ma rag chanjyow">
+<!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Owth iskarga Keworansow">
+<!-- First-run welcome entities. -->
 <!ENTITY first_run.welcome.header.label "&brandShortName; a&apos;th tynnergh">
 <!ENTITY first_run.welcome.description.line1 "Ryb seniel vedia dhesktop hengovek  &brandShortName; yw dewis aral a yllydh y janjya herwydh dha vodh.">
 <!ENTITY first_run.welcome.description.line2 "An weresel ma a brovi fordh snell ha diwysek rag herdhya &brandShortName; yn fyw.">
+<!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "Ymporthel Mediaow">
+<!-- Import library dialog and preference entities. -->
 <!ENTITY import_library.dialog.title "Ymperthi lyverva">
 <!ENTITY import_library.prefs.title "Ymperthi dhyworth iTunes">
 <!ENTITY import_library.library_file_label "Restren lyverva:">
@@ -503,21 +521,27 @@
 <!ENTITY export_playlists_itunes_checkbox "Esperthi kanrolyow">
 <!ENTITY export_subscriptions_itunes_checkbox "Esperthi ragbrenow">
 <!ENTITY export_smartplaylists_itunes_checkbox "Esperthi kanrolyow konnyk">
+<!-- Import library dirty playlist dialog entities. -->
 <!ENTITY import_library.dirty_playlist_dialog.title "Kanrol chenjys">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Gwitha an ganrol &brandShortName; a-lemmyn (na ymporth an kanrol ma)">
 <!ENTITY import_library.dirty_playlist_dialog.merge "Kesunya kanrolyow iTunes gans an ganrol &brandShortName; a-lemmyn">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Aslea an ganrol &brandShortName; ma gans an ganrol iTunes a-lemmyn">
 <!ENTITY import_library.dirty_playlist_dialog.note "Noten: Ny yllir diswul kesunya hag aslea.">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Staga dewis dhe bub kanrol">
+<!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "Plegellow Golyas">
 <!ENTITY watch_folder.prefs.settings_group_caption "Settyansow Plegellow Golyas">
 <!ENTITY watch_folder.prefs.description "&brandShortName; a yll golyas dalghyow neb plegel ha keworra po dilea taklow dalhys ynni yn awtomatek.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Golyas awtomatek rag chanjyow y&apos;n blegel a dheu">
 <!ENTITY watch_folder.prefs.watch_folder_label "Plegel:">
+<!-- Advanced preference pane update tab entities. -->
 <!ENTITY enable_recommended_addons_update.label "Keworansow Profys">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
+<!-- Recommended add-ons update dialog entities. -->
 <!ENTITY recommended_add_ons.title "Restra &brandShortName;">
+<!-- Add-on bundle installer properties. -->
 <!ENTITY add_on_bundle_installer.error_box.label "Manylyon">
+<!-- Album Art display pane properties. -->
 <!ENTITY albumart.displaypane.not_playing_message "Travyth ow seni">
 <!ENTITY albumart.displaypane.not_selected_message "Travyth dewisys">
 <!ENTITY albumart.displaypane.drag_and_drop "Halya art kuntilow omma">
@@ -526,23 +550,27 @@
 <!ENTITY albumart.displaypane.selected.menu.paste "Glusa">
 <!ENTITY albumart.displaypane.selected.menu.clear "Gwakhe">
 <!ENTITY albumart.coverpreview.title "Art Kuntilow">
+<!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Art Kuntilow">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Skrifa Art Kuntilow dhe Vetadata">
 <!ENTITY albumartpreferences.prefpane.search_file_names.label "Hwilas henwyn restren:">
 <!ENTITY albumartpreferences.prefpane.priorities.up "Yn-bann">
 <!ENTITY albumartpreferences.prefpane.priorities.down "War-nans">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Dassetya">
+<!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "Dehweles">
 <!ENTITY wizard.button.back.accesskey "B">
 <!ENTITY wizard.button.cancel.label "Hedhi">
 <!ENTITY wizard.button.next.label "Pesya">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY wizard.button.finish.label "Gorfenna">
+<!-- Mediacore entities. -->
 <!ENTITY mediacore.error.title "Gwall Kresen Vedia">
 <!ENTITY mediacore.error.preface "&brandShortName; a gavas kamm dasseni">
 <!ENTITY mediacore.error.continue "Pesya">
 <!ENTITY mediacore.error.stop "Lettya Dasseni">
 <!ENTITY mediacore.error.dontshowme "Na dhiskwa pella kammow kresen vedia">
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "Dasseni">
 <!ENTITY playback.prefpane.audio_output.label "Mesgwor Awdyo">
 <!ENTITY playback.prefpane.audio_output.buffer "Divommer Mesgwor:">
@@ -557,6 +585,7 @@
 <!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY fetch_album_art.dialog.title "Kavos Art Kuntilow">
 <!ENTITY fetch_album_art.dialog.message "Nyns yw henna gweythresys na hwath. (Mir orth: Pryv 14281)">
+<!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Artydh">
 <!ENTITY cdrip.lookup.info_not_found.album "Kuntilow">
 <!ENTITY cdrip.lookup.ordinal "#">
@@ -570,9 +599,11 @@
 <!ENTITY cdrip.mediaview.rip_cd_button "Ripya Sidi">
 <!ENTITY cdrip.mediaview.view_tracks_button "Diskwedhes Hynsyow">
 <!ENTITY cdrip.mediaview.eject_cd_button "Estewlel Sidi">
+<!-- CD Rip Media View keys -->
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY cdrip.mediaview.rip.key "C">
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!-- Video Window entities -->
 <!ENTITY videowindow.title "Fenester-Gwydhyow">
 <!ENTITY videowindow.fullscreen "Skrin Leun">
 <!ENTITY videowindow.fullscreen.key "F">
