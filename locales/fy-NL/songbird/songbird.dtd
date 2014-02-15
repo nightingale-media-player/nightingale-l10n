@@ -63,6 +63,10 @@
 <!ENTITY menu.control.pause.button "Pauze">
 <!ENTITY menu.control.stop.button "Stop">
 <!ENTITY displaypane.default.image.pre "Selektearje in add-on út de">
+<!ENTITY displaypane.default.image.tooltip "Add-on Picker-ikoan">
+<!ENTITY displaypane.default.image.post "menu of besykje de">
+<!ENTITY displaypane.default.link.text "Add-on-site">
+<!ENTITY displaypane.default.link.post "om troch add-ons te sykjen.">
 <!ENTITY displaypane.name.servicepane "Tsjinstskerm Underoan">
 <!ENTITY displaypane.name.browser "Ynhâldskerm ûnderoan">
 <!ENTITY displaypane.name.sidebar "Rjochter sydbalke">
@@ -533,7 +537,6 @@
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY cdrip.mediaview.rip.key "C">
 <!ENTITY cdrip.mediaview.stop_rip.key "X">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Wy wolle tank sizze oan ús meiwurkers, dy&apos;t Songbird makke hawwe wat it no is. Dizze minsken hawwe holpen troch it skriuwen fan koade en dokumintaasje, en troch te testen. Se hawwe it produkt, it assosjearre ûntwiklersark, ús buildark en ús webstee makke en ûnderhâlden. Nammen wurde folge troch IRC bynammen, sa as sjoen op #songbird op irc.mozilla.org en sizze hallo!">
 <!ENTITY about.credits.footer.beforeLink "Dit wie natuerlik net mooglik sûnder it hurde wurk en ynspanning fan">
 <!ENTITY about.credits.footer.linkText "de meiwurkers">
