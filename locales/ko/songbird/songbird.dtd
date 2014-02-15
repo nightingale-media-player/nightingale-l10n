@@ -716,7 +716,6 @@
 <!ENTITY videowindow.fullscreen "전체 화면">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "여러 기여자와 Songbird를 만드는데 들인 노력을 확인하신 모든 분들에게 감사의 말씀을 드립니다. 아래 사람들은 코드 작성과 문서화, 그리고 테스팅에 도움을 준 분들입니다. 그들은 이 제품과 그 것의 공동 개발키트, 우리의 빌드 툴과 웹사이트를 만들고 지원해주었습니다. 이름 뒤에는 IRC 닉네임이 적혀있으니, irc.mozilla.org의 #songbird 채널로 오셔서 인사해주세요!">
 <!ENTITY about.credits.footer.beforeLink "그리고 Mozilla 프로젝트의">
 <!ENTITY about.credits.footer.linkText "도움을 준 분들">
