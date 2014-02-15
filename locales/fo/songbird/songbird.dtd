@@ -5,6 +5,7 @@
 <!ENTITY window.save "Goym">
 <!ENTITY window.yes "Ja">
 <!ENTITY window.no "Nei">
+<!-- Mac system menu -->
 <!ENTITY menu.mac.exit "Lat &brandShortName; aftur">
 <!ENTITY menu.mac.exit.key "Q">
 <!ENTITY menu.mac.exit.modifiers "accel">
@@ -44,6 +45,7 @@
 <!ENTITY menu.edit.selall "Vel alt">
 <!ENTITY menu.edit.find "Finn">
 <!ENTITY menu.edit.findagain "Finn aftur">
+<!-- Linux edit menu -->
 <!ENTITY menu.linux.preferences "Stillingar">
 <!ENTITY menu.linux.preferences.accesskey "N">
 <!ENTITY menu.controls "Stýring">
@@ -243,6 +245,7 @@
 <!ENTITY menu.help.help.accesskey "H">
 <!ENTITY menu.help.keyboard.accesskey "K">
 <!ENTITY menu.help.about.accesskey "A">
+<!-- Track Editor (Metadata Editor) -->
 <!ENTITY trackeditor.title "Metadátuviðgerð">
 <!ENTITY trackeditor.tab.summary.title "Samandráttur">
 <!ENTITY trackeditor.tab.edit.title "Stillingar">
@@ -253,6 +256,7 @@
 <!ENTITY trackeditor.next.accesskey "N">
 <!ENTITY trackeditor.prev.key "P">
 <!ENTITY trackeditor.next.key "N">
+<!-- The following strings are from the old track editor, and can be remove one day -->
 <!ENTITY trackeditor.addtag.title "Legg eyðkenni afturat">
 <!ENTITY trackeditor.addtag.tag "Eyðkenni:">
 <!ENTITY jumptofile.title "Leyp til">
@@ -334,9 +338,11 @@
 <!ENTITY tabs.listAllTabs "Vís øll spjøldur">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
 <!ENTITY window.browser.titlemenuseparator "-">
+<!-- Preferences dialogs (strings that would have been in browser/) -->
 <!ENTITY prefs.homepage.label "Byrjanarsíða">
 <!ENTITY prefs.homepage.url.label "Url:">
 <!ENTITY prefs.security.addons.label "Innlegging av áløgum">
+<!-- Device entities -->
 <!ENTITY command.device.cancel "Angra">
 <!ENTITY command.device.cancel.accesskey "C">
 <!ENTITY command.device.canceldevicecopy "Angra avritan">
@@ -450,35 +456,46 @@
 <!ENTITY feedback.dialog.sentence2 "Hevur tað ikki áhuga, so spyrja vit ikki aftur. Takk fyri umhugsanina, og vit eru takksom fyri, at tú brúkar &brandShortName;!">
 <!ENTITY feedback.dialog.sentence3 "Vinaliga,">
 <!ENTITY feedback.dialog.sentence4 "Liðið handan &brandShortName;">
+<!-- title for the blank firstrun mediapage -->
 <!ENTITY mediapages.firstrun.title "Vælkomin til &brandShortName;">
+<!-- First-run wizard entities. -->
 <!ENTITY first_run.title "Uppseting av &brandShortName;">
+<!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "Tilmæltar áløgur">
 <!ENTITY first_run.add_ons.description.line1 "Áløgur vaksa um virkisførið hjá &brandShortName; og loyva tær at laga tína uppliving av miðlaavspæling til tín. Valmøguleikarnir niðanfyri eru harðliga tilmæltir.">
 <!ENTITY first_run.add_ons.loading.label "Heintar tilmældar áløgur">
 <!ENTITY first_run.add_ons.load_failed.label "Kundi ikki heinta tilmældar áløgur.">
+<!-- First-run connection entities. -->
 <!ENTITY first_run.connection.header.label "&brandShortName; fekk ikki samband við internetið">
 <!ENTITY first_run.connection.settings.button "Stillingar fyri netsamband…">
 <!ENTITY first_run.eula.accept_checkbox.label "Eg havi lisið og góðtikið treytirnar í hesum loyvi.">
 <!ENTITY first_run.eula.language.label "Tungumál:">
+<!-- First-run feedback entities. -->
 <!ENTITY first_run.feedback.header.label "Hjálp okkum at gera &brandShortName; betri">
 <!ENTITY first_run.feedback.email.header.label "Halt meg upplýstan">
 <!ENTITY first_run.feedback.email.description "Halt okkara tíðindaskriv, um tú vilt hoyra um nýggjar útgávur og týdningarmiklar dagføringar.">
 <!ENTITY first_run.feedback.email.textbox.emptytext "skriva tína teldupostadressu fyri at halda teg dagførdan">
+<!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "Inn-/útflutningur av iTunes">
 <!ENTITY first_run.itunes.description "Tað tykist, sum tú hevur iTunes innlagt. &brandShortName; kann stillast at innflyta og/ella útflyta spor millum &brandShortName; og iTunes, so at søvnini eru samstillað.">
 <!ENTITY first_run.itunes.checkbox.import.label "Innflyt spor og spælilistar frá iTunes">
 <!ENTITY first_run.itunes.checkbox.import.description "Podvørp og tónleikur keypt frá iTunes Store kunnu verða innflutt til &brandShortName;. Hesin hentleiki virkar væl, um &brandShortName; fer at vera høvuðstónleikaspælari hjá tær.">
 <!ENTITY first_run.itunes.checkbox.export.label "Útflyt nýggj spor og spælilistar til iTunes">
 <!ENTITY first_run.itunes.checkbox.export.description "Tónleikur fingin umvegis &brandShortName; kann verða útfluttur til iTunes, so at hann kann verða fluttur til tín iPod ella iPhone.">
+<!-- First-run import media entities. -->
 <!ENTITY first_run.import_media.header.label "Innflyt miðlafílur">
 <!ENTITY first_run.import_media.description "Vel, hvørjar miðlafílur, tú vilt innflyta til &brandShortName;. Tá &brandShortName; byrjar, kanst tú  leggja fleiri miðlafílur afturat upp á ymsar mátar.">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Skanna skjáttur á míni teldu">
 <!ENTITY first_run.import_media.radio.dont_import.label "Ikki innflyt miðlafílur">
 <!ENTITY first_run.import_media.scan_directories.description "Vilt tú hava &brandShortName; at royna at innflyta miðlafílur við at skanna ávísar skjáttur á tíni teldu?">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Ansa eftir broytingum í hesi skjáttu">
+<!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Tekur áløgur niður">
+<!-- First-run welcome entities. -->
 <!ENTITY first_run.welcome.header.label "Vælkomin til &brandShortName;">
+<!-- Import media dialog preference entities. -->
 <!ENTITY import_media.prefs.title "Miðlafíluinnflyting">
+<!-- Import library dialog and preference entities. -->
 <!ENTITY import_library.dialog.title "Innflut savn">
 <!ENTITY import_library.prefs.title "Inn-/útflyt iTunes">
 <!ENTITY import_library.library_file_label "Savnsfíla:">
@@ -493,20 +510,26 @@
 <!ENTITY export_subscriptions_itunes_checkbox "Útflyt høld">
 <!ENTITY export_smartplaylists_itunes_checkbox "Útflyt gløggar spælilistar">
 <!ENTITY importexport_show_notifications_checkbox "Vís fráboðan, tá inn/útflutningur er liðugur">
+<!-- Import library dirty playlist dialog entities. -->
 <!ENTITY import_library.dirty_playlist_dialog.title "Spælilisti broyttur">
 <!ENTITY import_library.dirty_playlist_dialog.keep "Varðveit verandi &brandShortName;-spælilista (ikki innflyt henda spælilistan)">
 <!ENTITY import_library.dirty_playlist_dialog.merge "Legg verandi &brandShortName;- og iTunes-spælilistar saman">
 <!ENTITY import_library.dirty_playlist_dialog.replace "Set &brandShortName;-spælilista í staðin fyri verandi iTunes-spælilista">
 <!ENTITY import_library.dirty_playlist_dialog.apply_all "Set í gildi fyri allar spælilistar">
+<!-- Watch folder preference entities. -->
 <!ENTITY watch_folder.prefs.title "Skjáttur at ansa eftir">
 <!ENTITY watch_folder.prefs.settings_group_caption "Stillingar fyri ansing av skjáttum">
 <!ENTITY watch_folder.prefs.description "&brandShortName; kann ansa eftir innihaldinum í eini skjáttu og sjálvvirkandi leggja lutir afturat ella strika teir.">
 <!ENTITY watch_folder.prefs.enable_checkbox "Sjálvvirkandi ansing eftir broytingum í hesi skjáttu">
 <!ENTITY watch_folder.prefs.watch_folder_label "Skjátta:">
+<!-- Advanced preference pane update tab entities. -->
 <!ENTITY enable_recommended_addons_update.label "Tilmældar áløgur">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
+<!-- Recommended add-ons update dialog entities. -->
 <!ENTITY recommended_add_ons.title "Uppseting av &brandShortName;">
+<!-- Add-on bundle installer properties. -->
 <!ENTITY add_on_bundle_installer.error_box.label "Upplýsingar">
+<!-- Album Art display pane properties. -->
 <!ENTITY albumart.displaypane.not_playing_message "Einki verður spælt">
 <!ENTITY albumart.displaypane.not_selected_message "Einki er valt">
 <!ENTITY albumart.displaypane.drag_and_drop "Drag albummynd higar">
@@ -517,6 +540,7 @@
 <!ENTITY albumart.displaypane.selected.menu.paste "Set inn">
 <!ENTITY albumart.displaypane.selected.menu.clear "Rudda">
 <!ENTITY albumart.coverpreview.title "Albummynd">
+<!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Albummynd">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Skriva albummynd til metadáta">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Hetta loyvir &brandShortName; at innføra myndlist í sambærilig eyðkenni fyri miðlafílur.">
@@ -530,23 +554,27 @@
 <!ENTITY albumartpreferences.prefpane.priorities.down "Niður">
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Nullstilla">
 <!ENTITY albumartpreferences.prefpane.autofetch.label "Auto heinta albummyndir">
+<!-- Wizard entities. -->
 <!ENTITY wizard.button.back.label "Far aftur">
 <!ENTITY wizard.button.back.accesskey "B">
 <!ENTITY wizard.button.cancel.label "Angra">
 <!ENTITY wizard.button.next.label "Halt fram">
 <!ENTITY wizard.button.next.accesskey "C">
 <!ENTITY wizard.button.finish.label "Lat aftur">
+<!-- Mediacore entities. -->
 <!ENTITY mediacore.error.title "Miðlakjarnubrek">
 <!ENTITY mediacore.error.preface "&brandShortName; kom fram á hetta miðlakjarnubrek:">
 <!ENTITY mediacore.error.continue "Halt fram">
 <!ENTITY mediacore.error.stop "Steðga afturspæling">
 <!ENTITY mediacore.error.dontshowme "Vís ikki fleiri miðlakjarnubrek">
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
 <!ENTITY playback.prefpane.label "Avspæling">
 <!ENTITY playback.prefpane.normalization.preferredGain.album "Fløga">
 <!ENTITY playback.prefpane.normalization.preferredGain.track "Spor">
 <!ENTITY playback.prefpane.units.kilobytes "kB">
 <!ENTITY playback.prefpane.units.ms "ms">
 <!ENTITY fetch_album_art.dialog.title "Finn albummynd">
+<!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Listafólk">
 <!ENTITY cdrip.lookup.info_not_found.album "Fløga">
 <!ENTITY cdrip.lookup.track_name "Heiti">
@@ -556,6 +584,7 @@
 <!ENTITY cdrip.mediaview.settings_button "Stillingar">
 <!ENTITY cdrip.mediaview.view_tracks_button "Vís sangir">
 <!ENTITY cdrip.mediaview.eject_cd_button "Trýst út CD">
+<!-- CD Rip Media View keys -->
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
 <!ENTITY cdrip.mediaview.rip.key "C">
