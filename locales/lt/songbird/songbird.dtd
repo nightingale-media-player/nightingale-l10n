@@ -712,7 +712,6 @@
 <!ENTITY videowindow.fullscreen "Pilnas ekranas">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Norėtume padėkoti mūsų kūrybinei komandai, kurios pastangomis &brandShortName; pavirto tuo, kuo yra šiandien. Šie žmonės padėjo kurdami šios programos kodą, dokumentuodami bei testuodami jį. Jų vardai surašyti IRC slapyvardžių pavidalu, tad ateik į irc.mozilla.org #songbird kanalą ir pasakyk LABAS :)">
 <!ENTITY about.credits.footer.beforeLink "Žinoma, nieko nebūtų pavykę jei">
 <!ENTITY about.credits.footer.linkText "pagalbininkai">
