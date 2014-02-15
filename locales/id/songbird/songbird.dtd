@@ -690,7 +690,6 @@
 <!ENTITY videowindow.fullscreen "Layar Penuh">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Kami ingin berterima kasih pada para kontributor kami, yang usahanya telah membuat Songbird seperti ini. Orang-orang tersebut telah membantu kami menulis kode, dokumentasi dan dengan mengetes. Mereka telah membuat dan memelihara produk ini, terasosiasi oleh development kit, build tool, dan website kami. Nama diikuti nick IRC, datang ke #songbird di irc.mozilla.org dan ucapkan halo!">
 <!ENTITY about.credits.footer.beforeLink "Tentu saja semua tidak akan mungkin tanpa kerja keras dan bantuan dari">
 <!ENTITY about.credits.footer.linkText "para kontributor">
