@@ -283,7 +283,6 @@
 <!ENTITY cdrip.mediaview.rip_cd_button "सीडी रिप करो (सीडी  बनाओ)">
 <!ENTITY cdrip.mediaview.stop_rip_button "रिप करना बंद करे.">
 <!ENTITY cdrip.mediaview.eject_cd_button "सीडी बाहर निकालो">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "हम अपने सहायकों को धन्यवाद देना चाहते हैं जिनके प्रयासों के कारण ही सॉंगबर्ड इस स्तर पर पंहुचा है. इन लोगों ने कोड लिखने, पत्राचार और परखने में मदद की है. इन्होंने इस सॉफ्टवेयर  और संबंधित चीज़ों, निर्माण उपकरणों और वेबसाइटओं की रचना की और उन्हें क़ायम रखा है | इनके नाम उनके आई.आर.सी (IRC) उपनामों के साथ दिए गये हैं, irc.mozilla.org में #songbird पर आकर अपना अभिवादन करें.">
 <!ENTITY about.credits.footer.beforeLink "अवश्य ही ,यह सब इनकी कड़ी मेहनत और प्रयासों के बिना सम्भव न था :">
 <!ENTITY about.credits.footer.linkText "सहायक">
