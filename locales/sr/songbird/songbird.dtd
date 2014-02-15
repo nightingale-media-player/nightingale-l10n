@@ -716,7 +716,6 @@
 <!ENTITY videowindow.fullscreen "Цео екран">
 <!ENTITY videowindow.fullscreen.key "Ц">
 <!ENTITY videowindow.bringtofront.key "а">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Желимо да се захвалимо нашим сарадницима, чијим је залагањем сонгберд постао оно што јесте. Они су помогли у програмирању и писању документације, као и тестирањем. Направили су и одржавали овај производ, помоћне алатке и интернет странице. Имена су праћена IRC надимцима. Посетите #songbird на адреси irc.mozilla.org и представите се!">
 <!ENTITY about.credits.footer.beforeLink "Цео пројекат не би био остварен без помоћи">
 <!ENTITY about.credits.footer.linkText "сарадника">
