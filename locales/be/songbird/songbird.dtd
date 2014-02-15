@@ -371,7 +371,6 @@
 <!ENTITY fetch_album_art.dialog.message "У бягучай вэрсіі не існуе. (Глядзіце Bug 14281)">
 <!ENTITY cdrip.lookup.track_name "Назва">
 <!ENTITY cdrip.mediaview.eject_cd_button "Выняць CD">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Мы хочам падзякваць удзельнікам, чые высілкі стварылі Songbird такім, якім ён ёсць. Гэтыя людзі дапамагалі пісаць код, дакумэнтацыю, займаліся тэставаннем. Яны стварылі і падтрымлівалі гэны прадукт, сродкі распрацоўкі, зборкі і наш вэб-сайт. Іх імёны адпавядаюць IRC-мянушкам, зайдзіце на #songbird ды на irc.mozilla.org і павітайцеся!">
 <!ENTITY about.credits.footer.beforeLink "Канечне, усё гэта магчыма дзякуючы высілкам і цяжкай працы">
 <!ENTITY about.credits.footer.linkText "удзельнікаў">
