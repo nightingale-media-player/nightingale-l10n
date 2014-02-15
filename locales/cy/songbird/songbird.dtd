@@ -705,7 +705,6 @@
 <!ENTITY videowindow.fullscreen "Sgrin Lawn">
 <!ENTITY videowindow.fullscreen.key "S">
 <!ENTITY videowindow.bringtofront.key "B">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Hoffwn ddiolch i&apos;n cyfranwyr sydd wedi gwneud Songbird yr hyn ydyw. Mae&apos;r bobl yma wedi cynorthwyo drwy ysgrifennu cod a dogfennaeth, a drwy ei brofi. Mae nhw wedi creu a chynnal y rhaglen, ei offer datblygu yr offer adeiladu a&apos;r wefan. Dyma eu henwau a&apos;u llysenwau IRC, dewch i #songbird ar irc.mozilla.org a dweud helo!">
 <!ENTITY about.credits.footer.beforeLink "Wrth gwrs, byddai dim o hyn yn bosibl heb waith caled ac ymdrechion">
 <!ENTITY about.credits.footer.linkText "y cyfranwyr">
