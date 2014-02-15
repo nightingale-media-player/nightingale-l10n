@@ -1,10 +1,12 @@
 <!ENTITY window.cancel "Futa">
 <!ENTITY window.yes "ndiyo">
 <!ENTITY window.no "siyo">
+<!-- Mac system menu -->
 <!ENTITY menu.mac.exit "Ondoka &brandShortName;">
 <!ENTITY menu.mac.preferences "Unavyopendelea">
 <!ENTITY menu.edit.cut "Kata">
 <!ENTITY menu.edit.copy "Nakili">
+<!-- Linux edit menu -->
 <!ENTITY menu.linux.preferences "Unavyopendelea">
 <!ENTITY menu.control.play "Cheza">
 <!ENTITY menu.control.play.button "Cheza">
@@ -63,6 +65,7 @@
 <!ENTITY getartwork.key "G">
 <!ENTITY downloadmgr.key "J">
 <!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!-- Device entities -->
 <!ENTITY command.device.cancel "Ahirisha">
 <!ENTITY command.device.cancel.accesskey "C">
 <!ENTITY command.device.canceldevicecopy "Ahirisha Kunakili">
@@ -85,6 +88,7 @@
 <!ENTITY command.device.renamedevice.accesskey "R">
 <!ENTITY command.device.devicesync "Sync">
 <!ENTITY command.device.devicesync.accesskey "S">
+<!-- CD Device entities -->
 <!ENTITY command.device.rip "Vuna CD">
 <!ENTITY command.device.rip.accesskey "R">
 <!ENTITY command.device.stoprip "Acha Kuvuna">
@@ -140,16 +144,20 @@
 <!ENTITY feedback.dialog.yes "Ndiyo">
 <!ENTITY feedback.dialog.no "siyo">
 <!ENTITY feedback.dialog.sentence3 "Salamu,">
+<!-- First-run add-ons entities. -->
 <!ENTITY first_run.add_ons.header.label "Viongezo vinavyopendekezwa">
 <!ENTITY first_run.connection.settings.button "Mpangilio wa Kuunganishwa">
+<!-- First-run eula entities. -->
 <!ENTITY first_run.eula.header.label "Mkataba wa Leseni">
 <!ENTITY first_run.eula.accept_checkbox.label "Nimesoma na kukubali masharti ya leseni hii.">
 <!ENTITY first_run.eula.language.label "Lugha:">
 <!ENTITY first_run.feedback.email.header.label "Mnipe Habari">
 <!ENTITY first_run.feedback.email.textbox.emptytext "ingiza anuani ya barua pepe upate taarifa mara kwa mara">
+<!-- First-run iTunes import/export entities. -->
 <!ENTITY first_run.itunes.header.label "iTunes Leta/Peleka">
 <!ENTITY first_run.import_media.radio.scan_directories.label "Tafuta katika kompyuta yangu">
 <!ENTITY first_run.import_media.scan_directories.watch.label "Angalia hapa kwa mabadiliko ">
+<!-- First-run install add-ons entities. -->
 <!ENTITY first_run.install_add_ons.title "Viongezo Vinapakuliwa">
 <!ENTITY import_library.library_file_label "Faili la Maktaba:">
 <!ENTITY import_library.prefs.options_group_caption "Chaguo za Kuleta/Kupeleka">
@@ -157,7 +165,9 @@
 <!ENTITY export_tracks_itunes_checkbox "Peleka nyimbo kwenye iTunes">
 <!ENTITY export_playlists_itunes_checkbox "Peleka orodha ya nyimbo">
 <!ENTITY enable_recommended_addons_update.accesskey "r">
+<!-- Add-on bundle installer properties. -->
 <!ENTITY add_on_bundle_installer.error_box.label "Maelezo ya kina">
+<!-- Album Art display pane properties. -->
 <!ENTITY albumart.displaypane.not_playing_message "Hamna kinachocheza">
 <!ENTITY albumart.displaypane.not_selected_message "Hamna kilichochaguliwa">
 <!ENTITY albumart.displaypane.drag_and_drop "Leta picha ya albamu hapa">
@@ -168,6 +178,7 @@
 <!ENTITY albumart.displaypane.selected.menu.paste "Weka">
 <!ENTITY albumart.displaypane.selected.menu.clear "Safisha">
 <!ENTITY albumart.coverpreview.title "Picha Ya Albamu">
+<!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "Picha Ya Albamu">
 <!ENTITY albumartpreferences.prefpane.enablewrite.label "Andika Picha Ya Albamu Kwenye Meta Data">
 <!ENTITY albumartpreferences.prefpane.enablewrite.tooltip "Hii itaruhusu &brandShortName; kuweka picha kwenye vishikizo vinavyoendana katika mafaili ya nyimbo">
@@ -180,9 +191,11 @@
 <!ENTITY albumartpreferences.prefpane.priorities.reset "Rudisha katika hali ya awali">
 <!ENTITY wizard.button.cancel.label "Futa">
 <!ENTITY fetch_album_art.dialog.title "Pata picha ya Albamu">
+<!-- CD Metadata/info lookup dialogs -->
 <!ENTITY cdrip.lookup.info_not_found.artist "Msanii">
 <!ENTITY cdrip.lookup.info_not_found.album "Albamu">
 <!ENTITY cdrip.lookup.info_not_found.title "Maelezo ya CD Hayajapatikana">
+<!-- CD Rip Pref Pane entities -->
 <!ENTITY cdrip.prefpane.label "Vuna CD">
 <!ENTITY cdrip.prefpane.format "Format">
 <!ENTITY cdrip.prefpane.quality "Bora">
@@ -191,6 +204,7 @@
 <!ENTITY cdrip.prefpane.soundalert_after_rip "Kuvuna CD kukiisha cheza sauti ya tahadhari">
 <!ENTITY cdrip.prefpane.providers.title "Mwezesha Utafutaji wa CD">
 <!ENTITY cdrip.prefpane.quality_desc "Vipimo vya ubora wa juu vya kbps vitapelekea kuwa sauti ya ubora wa juu na faili kubwa.">
+<!-- CD Rip Media View entities -->
 <!ENTITY cdrip.mediaview.cd_rip_settings_label "Vipimo vya Kuvuna CD">
 <!ENTITY cdrip.mediaview.format_label "Format">
 <!ENTITY cdrip.mediaview.quality_label "Bora:">
@@ -199,6 +213,7 @@
 <!ENTITY cdrip.mediaview.stop_rip_button "Acha Kuvuna">
 <!ENTITY cdrip.mediaview.view_tracks_button "Tazama Orodha Ya Nyimbo">
 <!ENTITY cdrip.mediaview.eject_cd_button "Toa CD">
+<!-- CD Rip Media View keys -->
 <!ENTITY cdrip.mediaview.eject.key "E">
 <!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
 <!ENTITY cdrip.mediaview.rip.key "C">
