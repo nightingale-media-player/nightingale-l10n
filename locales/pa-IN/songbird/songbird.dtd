@@ -79,7 +79,6 @@
 <!-- Album Art preferences pane entities. -->
 <!ENTITY albumartpreferences.prefpane.label "ਕਲਾਕਰੀਤੀ">
 <!ENTITY wizard.button.cancel.label "ਰੱਦ ਕਰੋ">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "">
 <!ENTITY about.credits.footer.beforeLink "ਇਹ ਸਬ ਇਹਨਾਂ ਸਬਨਾ ਦੀ ਮਦਦ ਤੋਂ ਬਿਨਾਂ ਸੰਭਵ ਨਹੀ ਹੋ ਸਕਦਾ ਸੀ ">
 <!ENTITY about.credits.footer.linkText "ਯੋਗਦਾਨ ਕਰਤਾ">
