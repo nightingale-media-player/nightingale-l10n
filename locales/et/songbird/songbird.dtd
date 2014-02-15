@@ -689,7 +689,6 @@
 <!ENTITY videowindow.actualsize "Tegelik suurus">
 <!ENTITY videowindow.fullscreen "Täisekraan">
 <!ENTITY videowindow.fullscreen.key "F">
-<!-- about:credits entities. -->
 <!ENTITY about.credits.intro "Tahame tänada kõiki oma toetajaid, kelle jõupingutused teevad Songbirdist selle, mis see on. Need inimesed on aidanud kirjutada koodi ja dokumentatsiooni ning olnud abiks testimisel. Nad on loonud selle ja seda ülal pidanud, koostanud arenduskomplekti ja veebilehed. Nimede järel on toodud IRC jututoa hüüdnimed, astu läbi kanalist #songbird serveris irc.mozilla.org ja ütle tere!">
 <!ENTITY about.credits.footer.beforeLink "Loomulikult ei oleks see olnud võimalik ilma järgnevate isikute tubli töö ja pingutuseta:">
 <!ENTITY about.credits.footer.linkText "toetajad">
