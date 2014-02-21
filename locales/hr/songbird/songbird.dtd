@@ -716,6 +716,8 @@
 <!ENTITY videowindow.fullscreen "Cijeli zaslon">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
+<!-- about:credits entities. -->
+<!ENTITY about.credits.ngale "Nightingale razvijatelji i doprinositelji:">
 <!ENTITY about.credits.intro "Zahvalili bismo našim suradnicima čiji je trud napravio Songbird ovakvog kakav je. Ti ljudi su pomogli u pisanju kôdova, dokumentacije i testiranju. Oni su napravili i održavali ovaj proizvod, pridružili razvojne alate, naše alate izgradnje i naše web stranice. Imena potječu od IRC nadimaka, dođite #songbird na irc.mozilla.org i pozdravite nas.">
 <!ENTITY about.credits.footer.beforeLink "Naravno, ništa od ovog ne bi bilo moguće bez teškog rada i napora">
 <!ENTITY about.credits.footer.linkText "suradnika">
