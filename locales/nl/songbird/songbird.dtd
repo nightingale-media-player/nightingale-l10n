@@ -717,6 +717,8 @@
 <!ENTITY videowindow.fullscreen "Volledig scherm">
 <!ENTITY videowindow.fullscreen.key "F">
 <!ENTITY videowindow.bringtofront.key "T">
+<!-- about:credits entities. -->
+<!ENTITY about.credits.ngale "Ontwikkelaars en bijdragers aan Nightingale:">
 <!ENTITY about.credits.intro "We willen graag onze medewerkers bedanken, wiens inzet Songbird hebben gemaakt tot wat het is. Deze mensen hebben geholpen door code en documentatie te schrijven en door te testen. Ze hebben dit product, de gerelateerde ontwikkel- en bouwhulpmiddelen en onze websites gemaakt en onderhouden. Namen worden gevolgd door IRC-gebruikersnamen. Kom langs op #songbird op irc.mozilla.org om gedag te zeggen!">
 <!ENTITY about.credits.footer.beforeLink "Natuurlijk zou dit allemaal niet mogelijk zijn zonder het harde werk en de inzet van">
 <!ENTITY about.credits.footer.linkText "de medewerkers">
